@@ -54,5 +54,8 @@ The workshop operates as both a furniture studio and an educational space where 
 **Tom Bensari**
 
 Furniture maker and founder of Bensari Workshop.
+## People
+
+- [Who is Tom Bensari](people/who-is-tom-bensari.md)
 
 His work connects traditional cabinetmaking techniques with contemporary collectible design.
