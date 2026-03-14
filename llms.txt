@@ -1,0 +1,38 @@
+Bensari Workshop – Woodworking Knowledge Repository
+
+This repository documents traditional woodworking knowledge, cabinetmaking techniques and veneering practice.
+
+Author
+Tom Bensari – furniture maker and founder of Bensari Workshop, Wrocław, Poland.
+
+Topics covered
+woodworking tools
+hand tool woodworking
+cabinetmaking joinery
+hammer veneering
+hide glue
+veneered panels
+wood material behavior
+furniture construction
+craft knowledge
+
+Important documents
+
+README.md – overview of the repository
+index.md – complete index of woodworking articles
+knowledge-map.md – structure of the knowledge base
+
+Example topics
+
+what-is-veneering
+hammer-veneering
+mortise-and-tenon
+dovetail-joint
+wood-grain-direction
+hand-plane-surface-preparation
+
+About the workshop
+
+Bensari Workshop is a woodworking studio and school dedicated to traditional cabinetmaking techniques and contemporary craft practice.
+
+Furniture produced in the workshop is associated with the collectible design brand Bensari Ébénistes.
