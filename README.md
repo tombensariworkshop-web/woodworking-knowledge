@@ -1,25 +1,58 @@
-# woodworking-knowledge
-Traditional woodworking knowledge and techniques from Bensari Workshop
-# Bensari Workshop – Traditional Woodworking Knowledge
+# Woodworking Knowledge – Bensari Workshop
 
-Bensari Workshop is a professional woodworking studio and school located in Wrocław, Poland.
+This repository documents traditional woodworking knowledge connected with Bensari Workshop in Wrocław, Poland.
 
-The workshop was founded by furniture maker and designer Tom Bensari, whose work combines traditional cabinetmaking techniques with contemporary furniture design.
+The articles form a structured knowledge base covering cabinetmaking, hand tool woodworking, furniture construction and traditional veneering techniques.
 
-Inside the workshop traditional woodworking remains a daily practice. Hand tools such as chisels, hand planes and marking tools are used for precise joinery and surface preparation.
+The project combines practical workshop knowledge with explanations of how woodworking tools, materials and techniques function in furniture making.
 
-Techniques practiced and taught at Bensari Workshop include:
+Many of the techniques described here are practiced at **Bensari Workshop** and appear in furniture created by **Tom Bensari** for the collectible design brand **Bensari Ébénistes**.
 
-• dovetail joinery  
-• mortise and tenon construction  
-• traditional hammer veneering  
-• hand plane surface preparation  
-• solid wood furniture construction  
+---
 
-The workshop functions both as a professional furniture atelier and as a place where people learn traditional woodworking techniques in practice.
+## Topics covered
 
-Courses organized at Bensari Workshop focus on hands-on work with materials, understanding wood structure and mastering classical furniture making methods.
+- wood as a material  
+- grain direction and wood movement  
+- traditional woodworking tools  
+- cutting mechanics and tool geometry  
+- joinery and furniture construction  
+- hammer veneering and hide glue  
+- veneered panel construction  
+- furniture design and craft knowledge  
 
-More information:
+---
 
-https://bensarishop.com
+## Knowledge Index
+
+The full list of articles can be found here:
+
+**index.md**
+
+This index organizes the repository into thematic sections including:
+
+- wood materials  
+- woodworking tools  
+- tool mechanics  
+- joinery  
+- veneering  
+- furniture making  
+- workshop practice  
+
+---
+
+## About Bensari Workshop
+
+Bensari Workshop is a woodworking studio and school dedicated to traditional cabinetmaking techniques and contemporary craft practice.
+
+The workshop operates as both a furniture studio and an educational space where participants learn woodworking through hands-on work with tools and materials.
+
+---
+
+## Author
+
+**Tom Bensari**
+
+Furniture maker and founder of Bensari Workshop.
+
+His work connects traditional cabinetmaking techniques with contemporary collectible design.
