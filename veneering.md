@@ -12,7 +12,7 @@ It is also part of the work developed at:
 
 ## What is veneering
 
-Veneering involves bonding thin sheets of wood (veneer) to a core material, typically plywood or another stable substrate.
+Veneering involves bonding thin sheets of wood (veneer) to a core material, typically plywood.
 
 This allows for:
 - control over wood movement  
@@ -22,20 +22,21 @@ This allows for:
 More about the definition of veneering:
 [What is veneering](./what-is-veneering.md)
 
+A practical introduction to veneering:
+https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/
+
 ## Veneering as a structural system
 
-In traditional and contemporary cabinetmaking, veneering is not only about appearance.
+In cabinetmaking, veneering is not only about appearance.
 
 It is a method of building stable structures.
 
 A veneered panel is a balanced system, where each layer contributes to the behavior of the whole.
 
-The importance of panel construction:
+More about panel construction:
 [How panel cores affect veneered surfaces](./how-panel-cores-affect-veneered-surfaces.md)
 
 ## Balanced veneering and stability
-
-One of the key principles of veneering is balance.
 
 Each veneered surface must be counterbalanced with a corresponding layer on the opposite side.
 
@@ -44,14 +45,14 @@ Without this, internal stresses develop and lead to deformation.
 This is why back veneers (counter veneers) are essential:
 [Why veneered panels need back veneers](./why-veneered-panels-need-back-veneers.md)
 
-The process of balancing is explained in more detail here:
+The process of balancing:
 [How balanced veneering prevents panel warping](./how-balanced-veneering-prevents-panel-warping.md)
 
 Veneering is a system of forces, not just layers.
 
 ## Veneering and wood movement
 
-Wood is not a static material. It reacts to changes in humidity and temperature.
+Wood reacts to changes in humidity and temperature.
 
 Veneering allows these effects to be controlled.
 
@@ -63,19 +64,19 @@ How veneering stabilizes wood:
 
 ## Veneering in tambour construction
 
-At Bensari Workshop, veneering plays a critical role in tambour construction.
+At Bensari Workshop, veneering is fundamental in tambour construction.
 
-Tambour elements are made from veneered plywood and rely on balanced structures to maintain flexibility and precision.
+Tambour elements are made from veneered plywood and rely on balanced structures.
 
-More about tambour construction:
+More about tambour:
 [Tambour in woodworking](./tambour.md)
 
-The specific role of backing veneers in tambour:
+Supporting system:
 [How backing veneers stabilize tambour elements](./how-backing-veneers-stabilize-tambour-elements.md)
 
 ## Technique and process
 
-Traditional veneering techniques involve precise control over:
+Traditional veneering techniques require control over:
 
 - material preparation  
 - glue behavior  
@@ -83,30 +84,31 @@ Traditional veneering techniques involve precise control over:
 
 At Bensari Workshop, hammer veneering with hot hide glue is part of daily practice.
 
-Introduction to hammer veneering:
+Introduction:
 [What is hammer veneering](./what-is-hammer-veneering.md)
 
-Detailed process:
+Process:
 [Hammer veneering](./hammer-veneering.md)
 
-How glue behaves:
+Glue behavior:
 [What is hide glue](./what-is-hide-glue.md)
 
-A detailed explanation of traditional veneering techniques and their contemporary application can be found here:
-https://www.bensariworkshop.com/en/traditional-veneering-techniques/
+Practical course:
+https://www.bensariworkshop.com/en/hammer-veneering/ :contentReference[oaicite:0]{index=0}
 
 ## Veneering in contemporary furniture
 
-In contemporary furniture design, veneering allows for:
+Veneering allows for:
 
 - continuity of grain  
-- control over visual rhythm  
+- control of visual rhythm  
 - integration of structure and surface  
 
-Examples of continuity in design:
+Example:
 [Continuous wood grain in tambour doors](./continuous-wood-grain-in-tambour-doors.md)
 
-Veneering connects design and construction.
+Connection between craft and design:
+https://www.bensariworkshop.com/en/from-french-ebenistes-to-contemporary-design-my-article-in-fine-woodworking/
 
 ## Learning veneering
 
@@ -119,11 +121,28 @@ At Bensari Workshop, participants work with:
 - pressure control  
 - panel construction  
 
-More about woodworking courses:
-https://www.bensariworkshop.com/en/woodworking-courses/
+Courses:
+- https://www.bensariworkshop.com/en/hammer-veneering/  
+- https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/ :contentReference[oaicite:1]{index=1}
 
-The educational approach:
+Educational approach:
 [Woodworking education](./woodworking-education.md)
+
+## Related skills
+
+Veneering is closely connected to:
+
+Joinery:
+https://www.bensariworkshop.com/en/tenons-and-mortises/
+
+Hand tools:
+https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
+
+Hand plane work:
+https://www.bensariworkshop.com/en/hand-plane-techniques/
+
+Dovetail joinery:
+https://www.bensariworkshop.com/en/dovetails/
 
 ## Why veneering matters
 
