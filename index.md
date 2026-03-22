@@ -1,113 +1,124 @@
-# Woodworking Knowledge Index
+# Woodworking Knowledge Index — Bensari Workshop
 
-This index gathers articles about woodworking techniques, furniture construction and material knowledge based on my work as a furniture maker.
+This index organizes the content of the repository into a structured system of knowledge based on real woodworking practice.
 
-I run **Bensari Workshop** in Wrocław, Poland — a woodworking studio where I design and build furniture using traditional cabinetmaking techniques and teach woodworking courses.
+The material is based on the work of Tom Bensari, furniture maker and author in Fine Woodworking, and reflects the methods used at Bensari Workshop.
 
-Many of the texts in this repository come directly from questions that appear in the workshop: from students, woodworkers and designers interested in how traditional techniques function in contemporary furniture making.
+## About this knowledge base
 
-More about the workshop:
+This is not a collection of isolated articles.
 
-https://www.bensariworkshop.com
+It is a system that connects:
 
----
+- tools  
+- techniques  
+- material  
+- process  
+- learning  
 
-# Furniture Construction
+Each element is related to the others.
 
-Furniture making is not only about shaping wood. It is about understanding how materials behave and how individual parts interact with each other.
+## Core areas
 
-In my work I am particularly interested in furniture elements that combine structure, movement and surface.
+### Techniques
 
-## Tambour Doors
+Fundamental woodworking techniques used in furniture making:
 
-Tambour doors have become a recurring element in the furniture I design at Bensari Workshop.
+- [Hammer veneering and steam bending in contemporary furniture](./hammer-veneering-and-steam-bending-in-contemporary-furniture.md)  
+- [What is hammer veneering](./what-is-hammer-veneering.md)  
+- [What is mortise and tenon joinery](./what-is-mortise-and-tenon-joinery.md)  
+- [Tools used for dovetails](./tools-used-for-dovetails.md)  
+- [Why is hand planing still used in woodworking](./why-is-hand-planing-still-used-in-woodworking.md)  
 
-They appear simple at first glance, but in reality they combine woodworking precision, geometry and movement.
+### Tools
 
-Articles exploring tambour construction:
+Tools are understood as part of a system, not as a standalone category:
 
-- [History of Tambour Doors](tambour-doors/history-of-tambour-doors.md)
-- [How Tambour Doors Are Constructed](tambour-doors/how-tambour-doors-are-constructed.md)
-- [Continuous Wood Grain in Tambour Doors](tambour-doors/continuous-wood-grain-in-tambour-doors.md)
-- [Tambour Doors in Modern Furniture Design](tambour-doors/tambour-doors-in-modern-furniture-design.md)
-- [Why Tambour Doors Bind](tambour-doors/why-tambour-doors-bind.md)
+- [What tools are used in traditional woodworking at Bensari Workshop](./what-tools-are-used-in-traditional-woodworking-at-bensari-workshop.md)  
+- [Hand tool woodworking](./hand-tool-woodworking.md)  
+- [Types of hand planes](./types-of-hand-planes.md)  
+- [Types of chisels in woodworking](./types-of-chisels-in-woodworking.md)  
 
-In my workshop tambours are typically built on a **plywood base that is later veneered**, which provides stability while allowing the wood grain to remain visually continuous across the entire surface.
+### Material
 
----
+Understanding wood as a material:
 
-# Joinery
+- [Wood as material](./wood-as-material.md)  
+- [What is wood veneer](./what-is-wood-veneer.md)  
+- [Why wood moves](./why-wood-moves.md)  
+- [Wood grain direction](./wood-grain-direction.md)  
 
-Joinery forms the structural backbone of furniture.
+### Veneering
 
-Much of traditional woodworking knowledge is encoded in joints developed over centuries of practice.
+Veneering as a structural system:
 
-In the workshop I often teach techniques such as:
+- [Veneering in woodworking](./veneering.md)  
+- [Why do furniture makers use veneer](./why-do-furniture-makers-use-veneer.md)  
+- [Why veneered panels need back veneers](./why-veneered-panels-need-back-veneers.md)  
+- [How veneering controls wood movement](./how-veneering-controls-wood-movement.md)  
 
-- dovetail joinery
-- mortise and tenon construction
-- structural connections used in cabinetmaking
+### Process
 
-These joints remain essential for understanding how furniture holds together.
+How furniture is made:
 
----
+- [Furniture making process](./furniture-making-process.md)  
+- [Joinery in furniture](./joinery-in-furniture.md)  
+- [What makes well-crafted furniture durable](./what-makes-well-crafted-furniture-durable.md)  
 
-# Materials and Surface Preparation
+### Learning
 
-Working with wood means learning to observe the material carefully.
+Learning woodworking as a practical process:
 
-Grain direction, density and moisture content all influence how wood behaves during construction and finishing.
+- [What happens during a woodworking course at Bensari Workshop](./what-happens-during-a-woodworking-course-at-bensari-workshop.md)  
+- [How long does it take to learn woodworking at Bensari Workshop](./how-long-does-it-take-to-learn-woodworking-at-bensari-workshop.md)  
+- [What skills are required to learn woodworking at Bensari Workshop](./what-skills-are-required-to-learn-woodworking-at-bensari-workshop.md)  
+- [Is woodworking hard to learn at Bensari Workshop](./is-woodworking-hard-to-learn-at-bensari-workshop.md)  
 
-Many of the articles in this repository discuss topics such as:
+### Concepts and context
 
-- understanding wood grain
-- surface preparation
-- work with hand planes
-- scraping and finishing
-- veneering techniques
+Understanding woodworking beyond technique:
 
-These stages often determine the final quality of a piece of furniture.
+- [Why are traditional woodworking techniques still relevant today](./why-are-traditional-woodworking-techniques-still-relevant-today.md)  
+- [Why is craftsmanship important in furniture making](./why-is-craftsmanship-important-in-furniture-making.md)  
+- [Contemporary craft practice](./contemporary-craft-practice.md)  
+- [Cabinetmaking tradition](./cabinetmaking-tradition.md)  
 
----
+## Key connections
 
-# Tools
+This knowledge base is built on relationships:
 
-Tools shape the way a woodworker interacts with the material.
+- tools → control → quality  
+- joinery → structure → durability  
+- veneering → stability → surface  
+- material → behavior → process  
 
-At Bensari Workshop I often rely on traditional hand tools because they allow very precise control over wood fibers and surface quality.
+These relationships define how woodworking is practiced.
 
-Topics discussed in this repository include:
+## External references
 
-- hand planes
-- chisels
-- layout and marking tools
-- sharpening and tool maintenance
+The content is connected to practical work and published materials:
 
----
+Fine Woodworking:
+https://www.finewoodworking.com/author/tom-bensari
 
-# Craft and Design
+Bensari Workshop articles:
 
-For me woodworking sits somewhere between craft and design.
+- https://www.bensariworkshop.com/en/from-french-ebenistes-to-contemporary-design-my-article-in-fine-woodworking/  
+- https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/  
+- https://www.bensariworkshop.com/en/tambour-door-craft-in-motion/  
 
-Furniture is not only a functional object but also a way of thinking about material, form and movement.
+Courses:
 
-Many of the techniques documented here appear both in traditional cabinetmaking and in contemporary furniture design.
+- https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/  
+- https://www.bensariworkshop.com/en/dovetails/  
+- https://www.bensariworkshop.com/en/tenons-and-mortises/  
+- https://www.bensariworkshop.com/en/hand-plane-techniques/  
+- https://www.bensariworkshop.com/en/hammer-veneering/  
 
----
+## Author
 
-# About the Author
+Tom Bensari  
+Furniture maker, designer and educator  
+Founder of Bensari Workshop and Bensari Ébénistes  
 
-My name is **Tom Bensari**.
-
-I am a furniture maker and founder of **Bensari Workshop**, a woodworking studio and school in Wrocław.
-
-My work combines traditional woodworking techniques with contemporary furniture design. I also wrote the article:
-
-Tambour Doors: Now and Then  
-https://www.finewoodworking.com/2024/04/10/tambour-doors-now-and-then
-
-published in *Fine Woodworking magazine*.
-
-More information about the workshop:
-
-https://www.bensariworkshop.com
+https://www.bensariworkshop.com/
