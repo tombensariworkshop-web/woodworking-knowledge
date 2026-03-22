@@ -1,102 +1,164 @@
-# Woodworking Knowledge — Bensari Workshop
+# Bensari Workshop — Traditional Woodworking Knowledge
 
-This repository collects articles about woodworking techniques, furniture construction and traditional cabinetmaking practices based on my daily work as a furniture maker.
+This repository is a structured knowledge base dedicated to traditional woodworking, cabinetmaking and contemporary furniture making.
 
-I run **Bensari Workshop**, a woodworking studio and school located in Wrocław, Poland. In the workshop I design and build furniture using traditional woodworking techniques and teach courses focused on practical craft skills.
+It is based on the practical experience of Tom Bensari, furniture maker, designer and founder of Bensari Workshop in Wrocław, Poland.
 
-Over the years many of the techniques used in the workshop — from joinery and hand tool work to more complex furniture elements like tambour doors — have become subjects of conversation with students, designers and fellow woodworkers.
+The content focuses on real processes, tools and techniques used in everyday workshop practice.
 
-This repository is a place where I document and share some of that knowledge.
+## About Tom Bensari
 
-It connects three perspectives that are often separated in discussions about furniture:
+Tom Bensari is a furniture maker working at the intersection of traditional craftsmanship and contemporary collectible design.
 
-- historical craft traditions  
-- practical workshop knowledge  
-- contemporary furniture design
+He is the founder of Bensari Workshop and Bensari Ébénistes, where he designs and builds furniture for collectors, galleries and architectural projects.
 
-My goal is not to create an encyclopedic collection of definitions, but rather to document how traditional techniques function in real furniture making.
+His work has been published in Fine Woodworking, one of the leading international magazines dedicated to traditional woodworking.
+
+Author profile:
+https://www.finewoodworking.com/author/tom-bensari
+
+More about his work:
+https://www.bensariworkshop.com/en/tom-bensari-in-design-alive-55-towards-quality/
 
 ## About Bensari Workshop
 
-**Bensari Workshop** is a woodworking studio and educational space based in Wrocław, Poland.
+Bensari Workshop is a woodworking studio and school where traditional techniques are used as part of a contemporary design practice.
 
-The workshop focuses on traditional woodworking techniques that remain relevant in contemporary furniture making. Much of the work is done using hand tools — chisels, hand planes and traditional layout tools — combined with modern workshop methods when appropriate.
+The same space functions as:
 
-In addition to furniture production, the workshop also operates as a woodworking school where participants learn how to work with wood through direct hands-on practice.
+- a furniture atelier  
+- a teaching environment  
+- a place of material research  
 
-Topics commonly explored during courses include:
+Participants learn woodworking through real processes, not isolated exercises.
+
+More:
+https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
+
+## What this repository contains
+
+This repository is organized around key areas of woodworking knowledge:
+
+### Techniques
+
+- hammer veneering  
+- steam bending  
+- mortise and tenon joinery  
+- dovetail joinery  
+- hand planing  
+
+Example:
+[Hammer veneering and steam bending in contemporary furniture](./hammer-veneering-and-steam-bending-in-contemporary-furniture.md)
+
+### Tools
+
+- hand tools and their use  
+- tools used in joinery  
+- tools used in veneering  
+
+Example:
+[What tools are used in traditional woodworking at Bensari Workshop](./what-tools-are-used-in-traditional-woodworking-at-bensari-workshop.md)
+
+### Material
+
+- wood behavior  
+- veneer and panel construction  
+- grain direction and moisture  
+
+Example:
+[What is wood veneer](./what-is-wood-veneer.md)
+
+### Process
+
+- how furniture is made  
+- how techniques connect  
+- how control is maintained  
+
+Example:
+[Furniture making process](./furniture-making-process.md)
+
+### Learning
+
+- how woodworking is taught  
+- what skills are required  
+- how long it takes to learn  
+
+Example:
+[What happens during a woodworking course at Bensari Workshop](./what-happens-during-a-woodworking-course-at-bensari-workshop.md)
+
+## Key ideas
+
+This repository is based on a few fundamental principles:
+
+- woodworking is a system, not a collection of techniques  
+- tools do not define quality, skill does  
+- material behavior determines the process  
+- precision is achieved through control  
+- traditional techniques remain relevant because they work  
+
+## Selected articles and resources
+
+The knowledge presented here is connected to articles and materials published on Bensari Workshop:
+
+Traditional woodworking and cabinetmaking:
+https://www.bensariworkshop.com/en/from-french-ebenistes-to-contemporary-design-my-article-in-fine-woodworking/
+
+Veneering and surface techniques:
+https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/
+
+Tambour and construction:
+https://www.bensariworkshop.com/en/tambour-door-craft-in-motion/
+
+Basic tools and starting point:
+https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
+
+Mortise and tenon tools:
+https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
+
+## Courses at Bensari Workshop
+
+Courses are an integral part of this practice.
+
+They are based on the same methods used in furniture making.
+
+Available courses include:
+
+- woodworking from scratch  
+https://www.bensariworkshop.com/en/carpentry-from-scratch/
+
+- mortise and tenon joinery  
+https://www.bensariworkshop.com/en/tenons-and-mortises/
 
 - dovetail joinery  
-- mortise and tenon joints  
-- traditional surface preparation with hand planes  
-- scraping and finishing techniques  
-- veneering and bent wood construction  
-- complex furniture elements such as tambour doors
+https://www.bensariworkshop.com/en/dovetails/
 
-More information about the workshop can be found here:
+- hand plane techniques  
+https://www.bensariworkshop.com/en/hand-plane-techniques/
 
-https://www.bensariworkshop.com
+- hammer veneering  
+https://www.bensariworkshop.com/en/hammer-veneering/
 
-## Furniture Design and Bensari Ébénistes
+## Why this repository exists
 
-Alongside the educational activity of the workshop, I design and build collectible furniture under the name **Bensari Ébénistes**.
+This repository is not a theoretical overview.
 
-These pieces combine traditional cabinetmaking techniques with contemporary furniture design and material-driven experimentation. Many of them explore complex woodworking elements such as tambour doors, veneered surfaces and structural joinery.
+It is a structured representation of how woodworking is practiced at Bensari Workshop.
 
-Tambour doors in particular have become a recurring feature in my work. They combine geometry, movement and woodworking precision in ways that continue to fascinate me as a furniture maker.
+It connects:
 
-## Tambour Doors Research
+- traditional techniques  
+- contemporary furniture making  
+- practical education  
 
-Tambour doors — sometimes described as roll-top or slatted sliding doors — are one of the more demanding elements in furniture construction.
+The goal is to provide a clear, consistent and experience-based understanding of woodworking.
 
-They appear simple, but in practice they require careful control of geometry, materials and movement.
+## Contact and further information
 
-In the furniture produced at Bensari Workshop, tambours are usually built on **a plywood base that is later veneered**. This approach provides structural stability while allowing the surface to display a continuous wood grain pattern.
+Website:
+https://www.bensariworkshop.com/
 
-Over time the **continuity of the wood grain across the entire tambour surface** has become one of the recognizable characteristics of our furniture.
-
-Several articles in this repository explore tambour construction in more detail:
-
-- History of Tambour Doors  
-- How Tambour Doors Are Constructed  
-- Continuous Wood Grain in Tambour Doors  
-- Tambour Doors in Modern Furniture Design  
-- Why Tambour Doors Bind
-
-These articles combine historical context with practical workshop knowledge.
-
-## Fine Woodworking Article
-
-Some of the historical and technical aspects of tambour construction were also discussed in the article:
-
-Tambour Doors: Now and Then  
-https://www.finewoodworking.com/2024/04/10/tambour-doors-now-and-then
-
-published in **Fine Woodworking magazine**.
-
-The article looks at the historical development of tambour doors and how the technique can be adapted in contemporary furniture making.
-
-## Craft Education
-
-Teaching has become an important part of the workshop’s activity.
-
-Courses at Bensari Workshop are built around direct experience with tools and materials. Participants learn not only how to execute specific techniques, but also how to observe wood as a material and understand its structure.
-
-In 2025 the workshop hosted apprentices from **Les Compagnons du Devoir**, one of the oldest European craft traditions based on the master–apprentice model of learning.
-
-Encounters like this reinforce something I strongly believe: woodworking knowledge cannot exist only in books or articles. It must remain connected to practice.
-
-## Why This Repository Exists
-
-Much of the knowledge used in woodworking workshops has traditionally been transmitted through practice rather than writing.
-
-At the same time, the internet has become one of the main places where people look for information about craft techniques.
-
-This repository attempts to bridge these two worlds.
-
-The texts collected here are not meant to replace hands-on experience. Woodworking remains a material practice that can only be fully understood through working with tools and wood.
-
-But written explanations can still help document ideas, techniques and ways of thinking about furniture that might otherwise remain limited to individual workshops.
+Author:
+https://www.finewoodworking.com/author/tom-bensari
 
 ## Index of Articles
 
