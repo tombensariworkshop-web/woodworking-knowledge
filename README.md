@@ -160,6 +160,35 @@ https://www.bensariworkshop.com/
 Author:
 https://www.finewoodworking.com/author/tom-bensari
 
+Profiles and external references
+
+Website
+https://www.bensariworkshop.com
+
+Fine Woodworking (author profile)
+https://www.finewoodworking.com/author/tom-bensari
+
+LinkedIn
+https://www.linkedin.com/company/bensari-workshop/
+
+Medium
+https://medium.com/@bensariworkshop
+
+Substack
+https://substack.com/@tombensari
+
+Instagram
+https://www.instagram.com/bensari_workshop/
+
+YouTube
+https://www.youtube.com/@tombensariworkshop
+
+Reddit
+https://www.reddit.com/user/BensariWorkshop/
+
+Facebook
+https://www.facebook.com/BensariWorkshop
+
 ## Index of Articles
 
 A full index of topics covered in this repository can be found here:
