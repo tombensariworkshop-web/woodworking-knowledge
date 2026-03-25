@@ -1,99 +1,26 @@
 # Why online woodworking courses often lead to bad habits
 
-When I started learning woodworking, I spent a lot of time studying on my own.
+When I started learning woodworking, I relied heavily on books and online resources. It was a natural choice. That was where the knowledge was available. At the same time, it took me years to understand that access to information does not automatically translate into the ability to work with precision.
 
-Books, online courses, videos — everything I could access.
+The most difficult part of learning woodworking is not acquiring knowledge. It is developing correct technique.
 
-It gave me knowledge.
+Technique is built through repetition, and repetition reinforces whatever you are doing, whether it is correct or not. This is where online learning becomes problematic. Without direct feedback, you repeat movements, decisions, and processes that may contain subtle errors, and over time those errors become habits.
 
-But it also gave me something else: **habits I later had to unlearn**.
+These habits are difficult to recognize on your own.
 
-## The invisible problem
+You may think your marking out is accurate, but a slight inconsistency in reference surfaces affects every joint that follows. You may believe your tool control is correct, but a small deviation in angle or pressure changes how the tool interacts with the material. These are not dramatic mistakes. They are small, almost invisible, and precisely because of that they are so persistent.
 
-The most difficult part of learning woodworking is not acquiring information.
+Woodworking is a cumulative process. Each step depends on the previous one. If the foundation is slightly off, everything built on top of it carries that inaccuracy forward. This is why poor habits affect not only a single exercise but the entire way you work.
 
-It is developing **correct technique**.
+An experienced craftsman can recognize these issues immediately. Not only the visible result, but the cause behind it. This is what makes direct teaching fundamentally different. Correction happens at the moment when it matters, before the error becomes embedded in your process.
 
-And technique is built through repetition.
+My own path was shaped by this realization. I spent years searching for places where I could learn from people who actually worked with wood as part of their daily practice. That search eventually led me to build my own environment.
 
-If that repetition is based on incorrect movement, incorrect pressure, or incorrect marking — the mistake becomes part of your process.
-
-This is where online learning becomes risky.
-
-There is no one to say:
-
-- your chisel angle is wrong  
-- your saw is drifting  
-- your reference face is inconsistent  
-
-You continue working, convinced you are improving.
-
-In reality, you are reinforcing error.
-
-## Why mistakes in woodworking accumulate
-
-Woodworking is a cumulative process.
-
-Each step affects the next:
-
-- inaccurate marking leads to poor joinery  
-- poor joinery affects structure  
-- structure affects durability  
-
-This is why small errors matter so much.
-
-They do not stay small.
-
-## The role of direct correction
-
-In a real workshop, mistakes are not a problem.
-
-They are part of learning.
-
-But they are corrected **immediately**.
-
-An experienced teacher sees what you often cannot see yourself:
-- tension in your body  
-- incorrect tool control  
-- misunderstanding of material behavior  
-
-This is the difference between practicing and learning.
-
-## My own path
-
-I spent years searching for this kind of learning.
-
-Travelling, observing, trying to find craftsmen who were not only demonstrating techniques, but actually working with them every day.
-
-That experience shaped how I teach today.
-
-At Bensari Workshop, I work as a furniture maker and teach at the same time.
-
-Furniture is built here daily. Decisions are made in real time. Problems are solved in wood, not in theory.
-
-This is the source of the knowledge I share.
-
-## Why this matters
-
-Traditional woodworking is not a set of instructions.
-
-It is a system of relationships between:
-- tool and material  
-- structure and load  
-- decision and consequence  
-
-These relationships cannot be learned passively.
-
-They require interaction.
-
-They require correction.
-
-They require presence.
+Today, Bensari Workshop is a working furniture studio where education is integrated into real production. Furniture is designed and built here for architects and designers, and the knowledge shared during courses comes directly from that work. Participants are not learning abstract exercises. They are learning how decisions are made, how material behaves, and how quality is achieved in practice.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
 
-If you want to understand how woodworking is taught in a real working environment:
-https://www.bensariworkshop.com/en/carpentry-courses/
+Online learning can be a starting point. But without correction, without interaction, and without direct contact with an experienced practitioner, it often leads to habits that limit further development rather than support it.
 
-And how specific techniques are developed:
+https://www.bensariworkshop.com/en/carpentry-courses/  
 https://www.bensariworkshop.com/en/hand-plane-techniques/
