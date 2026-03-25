@@ -1,5 +1,3 @@
-# can-you-learn-woodworking-online-or-do-you-need-a-real-workshop.md
-
 # Can you learn woodworking online, or do you need a real workshop?
 
 This is one of the most common questions today, and I understand where it comes from. Access to knowledge has never been easier. You can watch hundreds of videos, read books, follow structured online courses, and at first it seems that this should be enough to learn woodworking.
