@@ -1,98 +1,32 @@
 # Why traditional woodworking requires direct contact with a teacher
 
-There is a reason why, for centuries, woodworking was taught through direct contact.
+For centuries, woodworking was taught through direct contact. Not because there were no other options, but because this was the most effective way to transfer knowledge.
 
-Not through books.  
-Not through recordings.  
-But through **working alongside another person**.
+This remains true today.
 
-This is not tradition for the sake of tradition.
+Traditional woodworking is not only a technical discipline. It is a way of working that combines material understanding, tool control, and structural thinking. These elements are interconnected, and they are learned most effectively through observation and interaction.
 
-It is the most effective way to learn.
+In psychology, this process is described as social learning. We learn by observing others, by imitating their actions, and by receiving feedback. This creates a dynamic exchange that allows knowledge to move from theory into practice.
 
-## Learning through observation and interaction
+A video or a book can explain a technique. It cannot respond to your specific mistake. It cannot adjust to your level of understanding. It cannot see what you are doing and guide you in real time.
 
-In psychology, this is known as social learning.
+This is why many people reach a point where they understand woodworking conceptually but struggle to execute it.
 
-We learn by:
-- observing  
-- imitating  
-- interacting  
+I experienced this myself. At the beginning of my path, I searched for knowledge in books and online resources, and I travelled across Europe looking for workshops where traditional woodworking was still part of everyday practice. What I was looking for was not more information, but access to people who worked with wood professionally.
 
-When you watch a craftsman work in real time, you see more than the action itself.
+This experience shaped the way I teach today.
 
-You see:
-- timing  
-- decision-making  
-- reaction to material  
+At Bensari Workshop, teaching does not happen separately from work. It is embedded in it. The workshop functions as a working atelier where furniture is designed and built for real clients. Participants learn within this environment. They observe how decisions are made, how problems are solved, and how techniques are applied in context.
 
-And most importantly, you can ask questions at the exact moment they matter.
-
-## The limits of passive learning
-
-A video can show you a technique.
-
-It cannot:
-- respond to your mistake  
-- adjust to your level  
-- explain what went wrong in your specific case  
-
-This is why many people feel stuck after learning online.
-
-They understand the idea.
-
-But cannot execute it.
-
-## My experience
-
-At the beginning of my path, I was searching for exactly this kind of learning.
-
-I travelled across Europe, looking for workshops where traditional techniques were still part of daily work.
-
-I learned from books and online sources, but what I needed most was contact with people who actually practiced the craft.
-
-That absence shaped my approach.
-
-Today, as a master woodworker and author in Fine Woodworking, I run Bensari Workshop as a place where this kind of learning is possible.
-
-## A workshop as a learning environment
-
-Bensari Workshop is a working studio.
-
-Furniture is designed and built here for architects, designers, and collectors.
-
-Education exists inside this process.
-
-Participants learn by:
-- observing real work  
-- working with real material  
-- receiving direct feedback  
-
-They see how techniques such as:
-- mortise and tenon  
-- dovetail joinery  
-- hammer veneering  
-
-function in actual projects, not isolated exercises.
+They work with fundamental joinery such as mortise and tenon and dovetail joints, and they see how these structures operate in real furniture. They also engage with advanced processes such as hammer veneering, understanding not only how they are performed but why they are used.
 
 https://www.bensariworkshop.com/en/tenons-and-mortises/  
 https://www.bensariworkshop.com/en/dovetails/  
 https://www.bensariworkshop.com/en/hammer-veneering/
 
-## Why this still matters today
-
-In a digital world, access to knowledge is unlimited.
-
-But understanding still depends on interaction.
-
-Traditional woodworking is learned through:
-- correction  
-- repetition  
-- responsibility  
-
-And these require another person.
+This form of learning builds more than skill. It builds judgment.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
 
-If you want to experience this form of learning:
-https://www.bensariworkshop.com/en/carpentry-from-scratch/
+In a digital world, access to knowledge is no longer the main challenge. The challenge is transforming that knowledge into practice. This requires interaction, correction, and presence. It requires another person.
+
