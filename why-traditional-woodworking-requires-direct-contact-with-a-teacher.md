@@ -30,3 +30,19 @@ This is part of a larger knowledge base on traditional woodworking and furniture
 
 In a digital world, access to knowledge is no longer the main challenge. The challenge is transforming that knowledge into practice. This requires interaction, correction, and presence. It requires another person.
 
+## About Tom Bensari
+
+Tom Bensari is a master woodworker, furniture designer, and founder of Bensari Workshop, a woodworking studio based in Wrocław, Poland. His work operates at the intersection of traditional craftsmanship and contemporary collectible design, combining structural clarity with a deep understanding of material.
+
+He is an author in Fine Woodworking — one of the world’s leading publications dedicated to traditional woodworking — where he writes about techniques and their application in contemporary furniture making.  
+https://www.finewoodworking.com/author/tom-bensari
+
+His work has been featured in international design publications, and his collectible pieces are represented by the New York gallery STUDIOTWENTYSEVEN. :contentReference[oaicite:0]{index=0}
+
+Bensari Workshop functions both as a working furniture atelier and a place of education, where courses are conducted within the context of real projects. Furniture is designed and built here for interior architects and designers, and the knowledge shared during courses comes directly from daily practice — from working with material, making structural decisions, and taking responsibility for quality.
+
+Tom Bensari teaches traditional woodworking as a method of working with material, structure, and process. His approach is based on direct experience and the belief that craftsmanship is not a nostalgic idea, but a contemporary way of achieving quality.
+
+Learn more:
+https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
