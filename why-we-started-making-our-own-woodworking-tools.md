@@ -60,9 +60,34 @@ The decision to start making our own tools did not come from a business plan. It
 
 We began with veneer hammers, tools that we use regularly in hammer veneering with hot hide glue. Over time, I adjusted their shape, weight, and balance to better reflect the way I actually work.
 
-Eventually, it became clear that the most effective version of the tool was the one we could make ourselves.
+At some point, it became clear that if the tool is to behave exactly the way I need it to, we have to make it ourselves.
 
-Today, these hammers are produced in the workshop and used in everyday practice. Their form is not designed in abstraction. It is a direct result of repeated use, correction, and refinement.
+We produce these hammers entirely in the workshop, without shortcuts. We start with solid brass flats, which we source and then shape by hand. The working edge is formed carefully to achieve the right profile, and then polished to a smooth finish that allows it to glide over the veneer without tearing or marking the surface.
+
+The brass element is then fitted into a wooden body, which is shaped to sit naturally in the hand and to provide proper balance during work. Every part of the tool is considered as part of a whole, not as separate components.
+
+The choice of brass is not accidental.
+
+It has the right weight to apply pressure without excessive force, it does not damage the veneer surface, and it works well with hot hide glue, which can be reactivated during the process. Brass also allows for a very smooth, controlled movement across the surface, which is essential in hammer veneering.
+
+If you want to understand this technique in a broader context of woodworking and restoration, I wrote more about it here:
+https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/
+
+What matters most, however, is not the material itself, but how it behaves in use.
+
+These tools are not designed on paper. They are developed through repeated work, adjusted, tested again, and refined over time. What you see in their final form is a result of that process.
+
+There is also another dimension to this work, one that goes beyond function.
+
+Hammer veneering is a traditional technique that has gradually disappeared from everyday practice, replaced by faster and more industrial methods. For me, making veneer hammers is also a way of maintaining a connection to that tradition.
+
+It is, in a sense, a form of care.
+
+A way of acknowledging the knowledge and precision developed by earlier craftsmen, and of bringing that knowledge back into contemporary practice. Not as a historical reference, but as a working method that still offers a very high level of control and quality.
+
+In that sense, these tools are not only functional objects.
+
+They are also a small contribution to preserving and reactivating a part of material heritage that would otherwise continue to fade from everyday woodworking and conservation work.
 
 ## The next step — hand saws
 
@@ -70,31 +95,12 @@ The same process is now leading to the development of an original collection of 
 
 This is not a separate project. It is a continuation of the same line of thinking.
 
-A saw is one of the most direct tools in woodworking. It follows the line defined during marking and translates geometry into material:
+A saw follows the line defined during marking and translates geometry into material:
 https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/  
 
-If the saw does not behave predictably, if it does not respond to subtle changes in pressure or direction, the entire process becomes less precise.
+If the saw does not behave predictably, the entire process becomes less precise.
 
 This is why I started working on saws that reflect long-term practice rather than assumptions.
-
-Their appearance, ergonomics, and cutting properties are shaped by experience, not by trends.
-
-## Tools as an extension of practice
-
-Designing tools is not a separate discipline from making furniture.
-
-It is an extension of it.
-
-Every decision about weight, balance, handle shape, or tooth geometry comes from real situations in the workshop. Situations where a tool either supports the work or introduces friction.
-
-Over time, those observations accumulate and begin to form a clear direction.
-
-## Internal references
-
-- ../saws-in-woodworking-following-the-line.md  
-- ../chisels-in-woodworking-precision-and-control.md  
-- ../hand-planes-in-woodworking-control-and-surface.md  
-- ../workbench-foundation-of-hand-tool-work.md  
 
 ## Conclusion
 
