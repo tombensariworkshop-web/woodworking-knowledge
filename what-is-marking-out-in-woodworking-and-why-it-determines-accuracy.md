@@ -1,110 +1,89 @@
 # What Is Marking Out in Woodworking and Why It Determines Accuracy
 
-Most mistakes in woodworking do not start at the saw.
-
-They start much earlier.
-
-They start at the moment when you define where material ends and waste begins.
-
-This is marking out.
+In woodworking, most mistakes do not begin at the saw or the chisel. They begin much earlier, at the moment when you decide where the material ends and where the waste begins. That moment is marking out, and from my perspective it is one of the most important stages of the entire process.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
 
-## What marking out really is
+## What is marking out in woodworking
 
-Marking out is not just drawing lines on wood.
+Marking out in woodworking is the process of defining geometry, proportions, and relationships between elements before cutting begins. It establishes the boundary between material and waste and determines how accurately a joint can be executed.
 
-It is a decision-making process.
-
-It defines:
-- geometry  
-- proportions  
-- alignment  
-- sequence of work  
-
-In traditional woodworking, marking out determines the final accuracy of the piece long before any cutting begins.
+When I mark out a piece, I am not just drawing lines. I am making decisions about the structure of the object, about how it will behave, and about how each part relates to the others. At this stage, the joint already exists — only in a different form.
 
 ## Why marking out determines accuracy
 
-Every operation that follows depends on layout.
+Accuracy in woodworking is not created during cutting. It is defined earlier.
 
-If your marking out is wrong:
+If the marking out is incorrect:
 - joints will not align  
 - elements will shift during assembly  
 - dimensions will drift  
 
-Even perfectly controlled cutting cannot fix incorrect layout.
+Even perfectly controlled cutting cannot correct a flawed layout.
 
-This is why marking out is treated as a primary operation in traditional woodworking, not a preparatory step.
-
-As many woodworking guides emphasize, layout comes before any cutting process and defines where the tool work will end. :contentReference[oaicite:0]{index=0}
+This is why marking out is treated as a primary operation in traditional woodworking. It defines the result before any visible work begins.
 
 ## Marking out in dovetail joinery
 
-Dovetails are a clear example of this principle.
+Dovetail layout is one of the clearest examples of how marking out determines accuracy.
 
-Their strength comes from geometry, not glue.
+The strength of dovetail joints comes from geometry, not glue. That geometry is established entirely during layout:
+- the baseline defines depth  
+- the spacing defines rhythm and strength  
+- the angle defines mechanical resistance  
 
-And that geometry is established entirely during marking out.
-
-If you want to see how this works in practice, I describe the full process step by step here:  
+I describe this process step by step in detail here:  
 https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
-In that guide, you will see that:
-- the baseline defines depth  
-- spacing defines rhythm and strength  
-- angles define mechanical resistance  
+## What are reference edges and why they matter
 
-All of this happens before cutting.
+In traditional woodworking, marking out always relies on reference edges.
 
-## Reference edges and control
-
-One of the key concepts in marking out is the use of reference edges.
-
-You always work from:
-- one face  
-- one edge  
-
-Everything else is derived from them.
-
-This allows you to:
+A reference face and a reference edge allow you to:
 - control cumulative error  
 - maintain consistency  
-- avoid misalignment during assembly  
+- ensure proper alignment during assembly  
 
-Without reference edges, even correct measurements can produce incorrect results.
+Without reference edges, even correct measurements can produce incorrect results, because each operation starts from a different point.
 
-## Knife vs pencil
+## Marking knife vs pencil
 
-Both tools are used, but for different purposes.
+Both tools are used in marking out, but they serve different purposes.
 
-- Marking knife → precision, baseline, final lines  
-- Pencil → layout, proportions, initial division  
+A marking knife is used where precision is critical, especially for baseline layout and final geometry. It creates a physical incision that guides the tool.
 
-Understanding when precision matters is part of the process.
+A pencil is used where flexibility is more important than absolute precision, for example when dividing dovetails or establishing proportions.
+
+Understanding where precision matters — and where it does not — is part of the process.
 
 ## Marking out as a way of thinking
 
-Marking out is not a technical step.
-
-It is a way of working.
+Over time, marking out becomes more than a technical step. It becomes a way of working.
 
 It forces you to:
-- think before acting  
+- think before cutting  
 - define structure before execution  
-- understand material before cutting  
+- understand the material before removing it  
 
-This is why experienced woodworkers spend more time on layout than beginners expect.
+This is why, when something goes wrong in a joint, I do not start by analysing the cut. I go back to the marking out, because that is where the outcome was already decided.
 
-## Summary
+## FAQ – marking out in woodworking
 
-Accuracy in woodworking does not come from cutting.
+### What is marking out in woodworking?
 
-It comes from marking out.
+Marking out is the process of defining the geometry and boundaries of a joint before cutting. It determines accuracy and fit.
 
-That is where decisions are made, geometry is defined, and errors are prevented.
+### Why is marking out more important than cutting?
 
-Everything that follows is only a consequence.
+Because cutting only follows the lines. If the layout is wrong, cutting cannot fix it.
+
+### What tools are used for marking out?
+
+The most common tools are a marking knife, a pencil, a square, and sometimes a marking gauge.
+
+### How does marking out affect dovetail joints?
+
+In dovetail joinery, marking out defines the baseline, spacing, and angles. These elements determine both strength and fit.
 
 ## Related
 
@@ -113,4 +92,4 @@ Everything that follows is only a consequence.
 
 ## Tags
 
-marking out woodworking, layout woodworking, dovetail layout, woodworking accuracy, traditional woodworking, Bensari Workshop
+marking out woodworking, dovetail layout, woodworking accuracy, traditional woodworking, hand tool woodworking, Bensari Workshop
