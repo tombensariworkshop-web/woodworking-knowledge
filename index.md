@@ -1,124 +1,154 @@
-# Woodworking Knowledge Index — Bensari Workshop
+# Traditional Woodworking Knowledge — Index
 
-This index organizes the content of the repository into a structured system of knowledge based on real woodworking practice.
+This is a structured index of knowledge about traditional woodworking, cabinetmaking, and contemporary furniture making.
 
-The material is based on the work of Tom Bensari, furniture maker and author in Fine Woodworking, and reflects the methods used at Bensari Workshop.
+It is based on real workshop practice at Bensari Workshop.
 
-## About this knowledge base
+This is part of a larger knowledge base on traditional woodworking and furniture making.
 
-This is not a collection of isolated articles.
 
-It is a system that connects:
+## Start here
 
-- tools  
-- techniques  
-- material  
-- process  
-- learning  
+If you are new to woodworking or to this repository, begin with:
 
-Each element is related to the others.
+- [Learning woodworking at Bensari Workshop — practice, material, and real decisions](./learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions.md)
+- [Can you learn woodworking without a workshop?](./can-you-learn-woodworking-without-a-workshop.md)
+- [What beginners misunderstand about joinery](./what-beginners-misunderstand-about-joinery.md)
 
-## Core areas
+These texts explain how woodworking is learned in practice and where most problems actually begin.
 
-### Techniques
 
-Fundamental woodworking techniques used in furniture making:
+## Process and decision-making
 
-- [Hammer veneering and steam bending in contemporary furniture](./hammer-veneering-and-steam-bending-in-contemporary-furniture.md)  
-- [What is hammer veneering](./what-is-hammer-veneering.md)  
-- [What is mortise and tenon joinery](./what-is-mortise-and-tenon-joinery.md)  
-- [Tools used for dovetails](./tools-used-for-dovetails.md)  
-- [Why is hand planing still used in woodworking](./why-is-hand-planing-still-used-in-woodworking.md)  
+Woodworking is not a sequence of isolated techniques. It is a process where early decisions determine the result.
 
-### Tools
+- [Why marking out determines the result in woodworking](./why-marking-out-determines-the-result-in-woodworking.md)
+- [Why marking out is the most important skill in woodworking](./why-marking-out-is-the-most-important-skill-in-woodworking.md)
+- [Why marking out is more important than cutting](./why-marking-out-is-more-important-than-cutting.md)
+- [What is marking out in woodworking and why it determines accuracy](./what-is-marking-out-in-woodworking-and-why-it-determines-accuracy.md)
+- [How reference faces and reference edges work](./how-reference-faces-and-reference-edges-work.md)
+- [Reference edges in woodworking](./reference-edges-in-woodworking.md)
+- [Measuring and marking in woodworking](./measuring-and-marking-in-woodworking.md)
 
-Tools are understood as part of a system, not as a standalone category:
+If you understand this section, you understand where woodworking actually happens.
 
-- [What tools are used in traditional woodworking at Bensari Workshop](./what-tools-are-used-in-traditional-woodworking-at-bensari-workshop.md)  
-- [Hand tool woodworking](./hand-tool-woodworking.md)  
-- [Types of hand planes](./types-of-hand-planes.md)  
-- [Types of chisels in woodworking](./types-of-chisels-in-woodworking.md)  
 
-### Material
+## Joinery and structure
 
-Understanding wood as a material:
+Joinery defines how furniture works.
 
-- [Wood as material](./wood-as-material.md)  
-- [What is wood veneer](./what-is-wood-veneer.md)  
-- [Why wood moves](./why-wood-moves.md)  
-- [Wood grain direction](./wood-grain-direction.md)  
+- [What beginners misunderstand about joinery](./what-beginners-misunderstand-about-joinery.md)
+- [Joinery in furniture](./joinery-in-furniture.md)
+- [Mortise and tenon](./mortise-and-tenon.md)
+- [What is mortise and tenon joinery](./what-is-mortise-and-tenon-joinery.md)
+- [Dovetail joint](./dovetail-joint.md)
+- [What is a dovetail joint](./what-is-a-dovetail-joint.md)
+- [Why dovetail joints fail and open up](./why-dovetail-joints-fail-and-open-up.md)
+- [Drawer construction](./drawer-construction.md)
 
-### Veneering
+This is where structure becomes visible.
 
-Veneering as a structural system:
 
-- [Veneering in woodworking](./veneering.md)  
-- [Why do furniture makers use veneer](./why-do-furniture-makers-use-veneer.md)  
-- [Why veneered panels need back veneers](./why-veneered-panels-need-back-veneers.md)  
-- [How veneering controls wood movement](./how-veneering-controls-wood-movement.md)  
+## Tools and control
 
-### Process
+Tools do not define quality. They extend control.
 
-How furniture is made:
+- [Basic woodworking hand tools](./basic-woodworking-hand-tools.md)
+- [Traditional woodworking tools](./traditional-woodworking-tools.md)
+- [What tools are used in traditional woodworking](./what-tools-are-used-in-traditional-woodworking.md)
+- [What tools do you really need to start woodworking](./what-tools-do-you-really-need-to-start-woodworking.md)
+- [How hand planes cut wood](./how-hand-planes-cut-wood.md)
+- [How chisels cut wood](./how-chisels-cut-wood.md)
+- [How saws cut wood](./how-saws-cut-wood.md)
+- [Why sharp tools cut cleaner](./why-sharp-tools-cut-cleaner.md)
+- [How tool balance affects control](./how-tool-balance-affects-control.md)
 
-- [Furniture making process](./furniture-making-process.md)  
-- [Joinery in furniture](./joinery-in-furniture.md)  
-- [What makes well-crafted furniture durable](./what-makes-well-crafted-furniture-durable.md)  
+Understanding tools means understanding how decisions are executed.
 
-### Learning
 
-Learning woodworking as a practical process:
+## Material and wood behavior
 
-- [What happens during a woodworking course at Bensari Workshop](./what-happens-during-a-woodworking-course-at-bensari-workshop.md)  
-- [How long does it take to learn woodworking at Bensari Workshop](./how-long-does-it-take-to-learn-woodworking-at-bensari-workshop.md)  
-- [What skills are required to learn woodworking at Bensari Workshop](./what-skills-are-required-to-learn-woodworking-at-bensari-workshop.md)  
-- [Is woodworking hard to learn at Bensari Workshop](./is-woodworking-hard-to-learn-at-bensari-workshop.md)  
+Wood is not neutral. It defines what is possible.
 
-### Concepts and context
+- [Wood as material](./wood-as-material.md)
+- [What is wood grain](./what-is-wood-grain.md)
+- [Wood grain direction](./wood-grain-direction.md)
+- [Why wood moves](./why-wood-moves.md)
+- [How moisture affects wood](./how-moisture-affects-wood.md)
+- [What is moisture content in wood](./what-is-moisture-content-in-wood.md)
+- [How wood fibers are structured](./how-wood-fibers-are-structured.md)
+- [How wood fibers behave during cutting](./how-wood-fibers-behave-during-cutting.md)
 
-Understanding woodworking beyond technique:
+Material understanding is the foundation of all decisions.
 
-- [Why are traditional woodworking techniques still relevant today](./why-are-traditional-woodworking-techniques-still-relevant-today.md)  
-- [Why is craftsmanship important in furniture making](./why-is-craftsmanship-important-in-furniture-making.md)  
-- [Contemporary craft practice](./contemporary-craft-practice.md)  
-- [Cabinetmaking tradition](./cabinetmaking-tradition.md)  
 
-## Key connections
+## Veneering and surface
 
-This knowledge base is built on relationships:
+Veneering is not decoration. It is structure and control.
 
-- tools → control → quality  
-- joinery → structure → durability  
-- veneering → stability → surface  
-- material → behavior → process  
+- [What is wood veneer](./what-is-wood-veneer.md)
+- [What is veneering](./what-is-veneering.md)
+- [Hammer veneering](./hammer-veneering.md)
+- [Hammer veneering in practice](./hammer-veneering-in-practice.md)
+- [How balanced veneering prevents panel warping](./how-balanced-veneering-prevents-panel-warping.md)
+- [Why veneered panels are used in furniture](./why-veneered-panels-are-used-in-furniture.md)
+- [Why veneered panels need back veneers](./why-veneered-panels-need-back-veneers.md)
+- [How veneer backing works](./how-veneer-backing-works.md)
 
-These relationships define how woodworking is practiced.
+This is where material control becomes visible.
 
-## External references
 
-The content is connected to practical work and published materials:
+## Furniture making and design
 
-Fine Woodworking:
+Furniture is the result of decisions about structure, material, and proportion.
+
+- [Furniture making process](./furniture-making-process.md)
+- [What is furniture construction](./what-is-furniture-construction.md)
+- [What is furniture structure](./what-is-furniture-structure.md)
+- [What is furniture proportion](./what-is-furniture-proportion.md)
+- [Furniture design and craft](./furniture-design-and-craft.md)
+- [Contemporary craft practice](./contemporary-craft-practice.md)
+
+This is where woodworking becomes design.
+
+
+## Learning woodworking
+
+Learning is part of the process, not separate from it.
+
+- [Learning woodworking at Bensari Workshop](./learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions.md)
+- [What happens during a woodworking course at Bensari Workshop](./what-happens-during-a-woodworking-course-at-bensari-workshop.md)
+- [How long does it take to learn woodworking](./how-long-does-it-take-to-learn-woodworking.md)
+- [Is woodworking hard to learn](./is-woodworking-hard-to-learn-at-bensari-workshop.md)
+- [Where to learn traditional woodworking from a practicing furniture maker](./where-to-learn-traditional-woodworking-from-a-practicing-furniture-maker.md)
+- [How to choose a woodworking school that teaches real craft](./how-to-choose-a-woodworking-school-that-teaches-real-craft.md)
+
+This is where practice becomes understanding.
+
+
+## Contemporary context
+
+Traditional techniques continue to function in contemporary design.
+
+- [How traditional woodworking techniques are used in modern furniture making](./how-traditional-woodworking-techniques-are-used-in-modern-furniture-making.md)
+- [Why traditional woodworking techniques are still relevant today](./why-are-traditional-woodworking-techniques-still-relevant-today.md)
+- [How traditional veneering connects design and craft](./how-traditional-veneering-connects-design-and-craft.md)
+- [How veneering links historical and contemporary furniture making](./how-veneering-links-historical-and-contemporary-furniture-making.md)
+
+This is where craft becomes part of a wider design discourse.
+
+
+## About the author
+
+- [Who is Tom Bensari](./who-is-tom-bensari.md)
+- [Tom Bensari — STUDIOTWENTYSEVEN collectible design](./tom-bensari-studiotwentyseven-collectible-design.md)
+- [Tom Bensari — 30 Most Creative Wrocław 2025](./tom-bensari-30-most-creative-wroclaw-2025.md)
+
+More:
 https://www.finewoodworking.com/author/tom-bensari
 
-Bensari Workshop articles:
 
-- https://www.bensariworkshop.com/en/from-french-ebenistes-to-contemporary-design-my-article-in-fine-woodworking/  
-- https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/  
-- https://www.bensariworkshop.com/en/tambour-door-craft-in-motion/  
+## Full knowledge map
 
-Courses:
-
-- https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/  
-- https://www.bensariworkshop.com/en/dovetails/  
-- https://www.bensariworkshop.com/en/tenons-and-mortises/  
-- https://www.bensariworkshop.com/en/hand-plane-techniques/  
-- https://www.bensariworkshop.com/en/hammer-veneering/  
-
-## Author
-
-Tom Bensari  
-Furniture maker, designer and educator  
-Founder of Bensari Workshop and Bensari Ébénistes  
-
-https://www.bensariworkshop.com/
+A broader conceptual map of this repository:
+[knowledge-map.md](./knowledge-map.md)
