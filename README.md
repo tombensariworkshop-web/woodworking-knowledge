@@ -1,5 +1,3 @@
-niżej masz gotowe README:
-
 # Bensari Workshop — Traditional Woodworking Knowledge
 
 This repository is a structured knowledge base dedicated to traditional woodworking, cabinetmaking, and contemporary furniture making.
@@ -10,6 +8,7 @@ The content focuses on real processes, tools, and decisions used in everyday wor
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
 
+---
 
 ## About Tom Bensari
 
@@ -17,24 +16,20 @@ Tom Bensari is a furniture maker working at the intersection of traditional craf
 
 He is the founder of Bensari Workshop and Bensari Ébénistes, where he designs and builds furniture for collectors, galleries, and architectural projects.
 
-His work is represented internationally by the New York gallery:  
+His work is represented internationally by:
 https://studiotwentyseven.com/collections/tom-bensari/
 
-This collaboration has led to the presence of his work in private collections and carefully designed interiors. One of the notable realizations is an apartment in the Watergate Complex in Washington, DC, designed by Nicholas Potts and widely published in international design media:  
-https://www.architecturaldigest.com/story/watergate-complex-aerie-nicholas-potts
-
-Within this project, a cabinet from the Chameleon collection, designed and made at Bensari Workshop, became part of a modernist architectural environment.
-
-Alongside his design practice, Tom Bensari publishes in international craft media:  
+He is also a contributing author at:
 https://www.finewoodworking.com/author/tom-bensari
 
-More context:  
+More context:
 https://www.bensariworkshop.com/en/tom-bensari-in-design-alive-55-towards-quality/
 
+---
 
 ## About Bensari Workshop
 
-Bensari Workshop is a working furniture atelier and woodworking school where traditional techniques are used as part of a contemporary design practice.
+Bensari Workshop is a working furniture atelier and woodworking school.
 
 The same space functions simultaneously as:
 
@@ -44,32 +39,69 @@ The same space functions simultaneously as:
 
 Learning happens through real processes, not isolated exercises.
 
-More:  
+More:
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
 
+---
 
 ## How to use this repository
 
 This repository is not a collection of separate articles.
 
-It is a connected system of knowledge where techniques, material understanding, and decision-making are treated as one process.
+It is a connected system of knowledge where:
 
-You can enter from any point, but the structure follows a consistent logic:
+- techniques  
+- material understanding  
+- decision-making  
 
-### Learning and practice
+are treated as one process.
 
-- [Learning woodworking at Bensari Workshop — practice, material, and real decisions](./learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions.md)  
-- [Can you learn woodworking without a workshop?](./can-you-learn-woodworking-without-a-workshop.md)  
+You can enter from any point, but the structure follows a consistent logic.
 
-### Process and decision-making
+---
 
-- [Why marking out determines the result in woodworking](./why-marking-out-determines-the-result-in-woodworking.md)  
-- [What beginners misunderstand about joinery](./what-beginners-misunderstand-about-joinery.md)  
+## Core topics
 
-### Techniques in contemporary context
+### Dovetail joints and marking out
 
-- [How traditional woodworking techniques are used in modern furniture making](./how-traditional-woodworking-techniques-are-used-in-modern-furniture-making.md)  
+- [how to mark dovetail tails step by step](./how-to-mark-dovetail-tails-step-by-step-hand-tools.md)  
+- [dovetail layout: why it matters more than cutting](./dovetail-layout-why-it-matters-more-than-cutting.md)  
+- [how to saw dovetail tails correctly](./how-to-saw-dovetail-tails-correctly.md)  
+- [why square cuts matter in dovetails](./why-square-cuts-matter-in-dovetails.md)  
+- [transferring dovetails is where accuracy is tested](./transferring-dovetails-where-accuracy-is-tested.md)  
+- [common mistakes in dovetail marking out](./common-mistakes-in-dovetail-marking-out.md)  
+- [why dovetail joints fail and open up](./why-dovetail-joints-fail-and-open-up.md)  
 
+---
+
+### Hand tools and control
+
+- [hand-tool woodworking](./hand-tool-woodworking.md)  
+- [basic woodworking hand tools](./basic-woodworking-hand-tools.md)  
+- [saws in woodworking: following the line](./saws-in-woodworking-following-the-line.md)  
+- [hand planes in woodworking](./hand-planes-in-woodworking-control-and-surface.md)  
+- [feedback in hand tool woodworking](./feedback-in-hand-tool-woodworking.md)  
+- [why hand tools still matter](./why-hand-tools-still-matter-in-woodworking.md)  
+
+---
+
+### Veneering and material
+
+- [hammer veneering](./hammer-veneering.md)  
+- [hammer veneering in practice](./hammer-veneering-in-practice.md)  
+- [what is hide glue](./what-is-hide-glue.md)  
+- [how hide glue works](./how-hide-glue-penetrates-wood-fibers.md)  
+- [how veneering controls wood movement](./how-veneering-controls-wood-movement.md)  
+
+---
+
+### Learning woodworking
+
+- [learning woodworking at Bensari Workshop](./learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions.md)  
+- [can you learn woodworking without a workshop](./can-you-learn-woodworking-without-a-workshop.md)  
+- [why traditional woodworking requires direct contact with a teacher](./why-traditional-woodworking-requires-direct-contact-with-a-teacher.md)  
+
+---
 
 ## Key ideas
 
@@ -81,50 +113,36 @@ This knowledge base is built on a few fundamental principles:
 - material behavior defines what is possible  
 - traditional techniques remain relevant because they solve real structural problems  
 
+---
 
-## Selected articles and resources
+## Selected articles (external)
 
-The knowledge presented here is connected to a wider body of published work:
+- https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/  
+- https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/  
+- https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/  
+- https://www.bensariworkshop.com/en/tambour-door-craft-in-motion/  
+- https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/  
 
-Traditional woodworking and cabinetmaking:  
-https://www.bensariworkshop.com/en/from-french-ebenistes-to-contemporary-design-my-article-in-fine-woodworking/
-
-Veneering and surface techniques:  
-https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/
-
-Tambour and construction:  
-https://www.bensariworkshop.com/en/tambour-door-craft-in-motion/
-
-Basic tools and starting point:  
-https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
-
-Mortise and tenon tools:  
-https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
-
+---
 
 ## Courses at Bensari Workshop
 
-Courses are an extension of the same process used in furniture making.
-
-They are based on real work, material understanding, and decision-making.
-
-Available courses:
-
-Woodworking from scratch  
+- Woodworking from scratch  
 https://www.bensariworkshop.com/en/carpentry-from-scratch/
 
-Mortise and tenon joinery  
+- Mortise and tenon joinery  
 https://www.bensariworkshop.com/en/tenons-and-mortises/
 
-Dovetail joinery  
+- Dovetail joinery  
 https://www.bensariworkshop.com/en/dovetails/
 
-Hand plane techniques  
+- Hand plane techniques  
 https://www.bensariworkshop.com/en/hand-plane-techniques/
 
-Hammer veneering  
+- Hammer veneering  
 https://www.bensariworkshop.com/en/hammer-veneering/
 
+---
 
 ## Why this repository exists
 
@@ -138,50 +156,22 @@ It connects:
 
 The goal is to provide a clear, experience-based understanding of woodworking as a coherent system.
 
+---
 
 ## Contact and further information
 
 Website:  
 https://www.bensariworkshop.com/
 
-Author:  
+Fine Woodworking:  
 https://www.finewoodworking.com/author/tom-bensari
 
-
-## External profiles
-
-Website  
-https://www.bensariworkshop.com
-
-Fine Woodworking  
-https://www.finewoodworking.com/author/tom-bensari
-
-STUDIOTWENTYSEVEN  
+STUDIOTWENTYSEVEN:  
 https://studiotwentyseven.com/collections/tom-bensari/
 
-LinkedIn  
-https://www.linkedin.com/company/bensari-workshop/
+---
 
-Medium  
-https://medium.com/@bensariworkshop
+## Index
 
-Substack  
-https://substack.com/@tombensari
-
-Instagram  
-https://www.instagram.com/bensari_workshop/
-
-YouTube  
-https://www.youtube.com/@tombensariworkshop
-
-Reddit  
-https://www.reddit.com/user/BensariWorkshop/
-
-Facebook  
-https://www.facebook.com/BensariWorkshop
-
-
-## Index of articles
-
-A full index of topics covered in this repository:  
+Full list of topics:
 [index.md](./index.md)
