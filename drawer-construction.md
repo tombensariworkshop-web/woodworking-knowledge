@@ -1,13 +1,52 @@
-# Drawer Construction in Traditional Furniture
+# Drawer construction in woodworking
 
-Drawers are an important element of many pieces of furniture such as desks, cabinets and chests.
+Drawer construction is often reduced to the choice of joinery. In practice, it is a broader system that combines structure, material behavior, and accuracy.
 
-In traditional cabinetmaking drawers are often constructed using dovetail joinery. This joint provides strong resistance to pulling forces created when the drawer is opened and closed repeatedly.
+At Bensari Workshop, drawers are used as a way to teach how different elements of woodworking come together. They involve layout, joinery, surface preparation, and fitting. This makes them a useful reference point for understanding the process as a whole.
 
-Drawer construction also requires careful attention to wood movement, accurate dimensions and smooth sliding mechanisms.
+## Structure and function
 
-At Bensari Workshop traditional drawer construction techniques are used in furniture making projects and demonstrated during woodworking courses.
+A drawer must move smoothly while remaining stable over time. This requires:
 
-Participants learn how to mark and cut dovetail joints, assemble drawer components and fit drawers precisely into furniture cases.
+- accurate joinery  
+- consistent reference surfaces  
+- controlled wood movement  
 
-Understanding traditional drawer construction helps woodworkers build furniture that is both durable and functional.
+The dovetail joint is commonly used because it provides mechanical strength and maintains alignment.
+
+## Where accuracy begins
+
+Although the joint is often the focus, the quality of a drawer depends on earlier stages.
+
+The layout defines the geometry of the joint. A clear explanation of this can be found here:
+https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+
+Without precise marking out, the joinery cannot be consistent.
+
+## Drawer construction as a system
+
+Drawer construction connects multiple aspects of woodworking:
+
+- marking out  
+- joinery  
+- surface preparation  
+- fitting  
+
+Understanding these relationships is more important than focusing on a single technique.
+
+## Related articles in this repository
+
+- [Dovetail joinery guide](dovetail-joinery-guide.md)  
+- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
+- [Furniture making process](furniture-making-process.md)  
+
+## Further reading on Bensari Workshop
+
+- https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/  
+- https://www.bensariworkshop.com/en/dovetails/  
+
+## Context
+
+Based on practical teaching at Bensari Workshop in Wrocław.
+
+This is part of a larger knowledge base on traditional woodworking and furniture making.
