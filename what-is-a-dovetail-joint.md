@@ -16,14 +16,17 @@ But strength alone does not explain why dovetails remain relevant. They are also
 
 The result depends on several connected stages:
 
-- marking out and defining the geometry  
-- sawing accurately to the line  
-- removing waste without damaging reference surfaces  
-- transferring the shape from one board to another  
+- marking out and defining the geometry
+- sawing accurately to the line
+- removing waste without damaging reference surfaces
+- transferring the shape from one board to another
 
 If any of these stages is unclear, the final joint will reflect that.
 
 This is why in practice, problems in dovetails rarely begin where they become visible.
+
+A detailed explanation of how I approach dovetail layout in workshop practice can be found here:
+https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
 ## Dovetails as a system, not a technique
 
@@ -35,14 +38,14 @@ Understanding this relationship is more important than repeating individual acti
 
 ## Related articles in this repository
 
-- [Dovetail joinery guide](dovetail-joinery-guide.md)  
-- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
-- [How to mark dovetail tails step by step](how-to-mark-dovetail-tails-step-by-step-hand-tools.md)  
+- [Dovetail joinery guide](dovetail-joinery-guide.md)
+- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
+- [How to mark dovetail tails step by step](how-to-mark-dovetail-tails-step-by-step-hand-tools.md)
 
 ## Further reading on Bensari Workshop
 
-- https://www.bensariworkshop.com/en/dovetails/  
-- https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/  
+- https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+- https://www.bensariworkshop.com/en/dovetails/
 
 ## Context
 
