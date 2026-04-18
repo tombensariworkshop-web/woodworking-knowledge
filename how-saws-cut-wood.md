@@ -30,3 +30,6 @@ Accurate sawing depends on good layout and careful control of the blade.
 
 Related article  
 measuring-and-marking-in-woodworking.md
+
+Related hub:  
+[Conscious woodworking](conscious-woodworking.md)
