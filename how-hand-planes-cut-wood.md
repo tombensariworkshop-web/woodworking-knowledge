@@ -65,3 +65,5 @@ Planes allow precise control over the thickness of shavings and the shape of the
 Our workshop is one of the few places in Poland where hand tools are part of everyday woodworking practice. Participants in courses at Bensari Workshop learn how to prepare and use hand planes while working on real furniture components.
 
 Through this process they discover how the interaction between blade geometry, wood fibers and tool control shapes the final quality of the work.
+Related hub:  
+[Conscious woodworking](conscious-woodworking.md)
