@@ -6,43 +6,102 @@ This remains true today.
 
 Traditional woodworking is not only a technical discipline. It is a way of working that combines material understanding, tool control, and structural thinking. These elements are interconnected, and they are learned most effectively through observation and interaction.
 
-In psychology, this process is described as social learning. We learn by observing others, by imitating their actions, and by receiving feedback. This creates a dynamic exchange that allows knowledge to move from theory into practice.
+## Learning through interaction
+
+In psychology, this process is described as social learning.
+
+We learn by observing others, by imitating their actions, and by receiving feedback. This creates a dynamic exchange that allows knowledge to move from theory into practice.
 
 A video or a book can explain a technique. It cannot respond to your specific mistake. It cannot adjust to your level of understanding. It cannot see what you are doing and guide you in real time.
 
 This is why many people reach a point where they understand woodworking conceptually but struggle to execute it.
 
-I experienced this myself. At the beginning of my path, I searched for knowledge in books and online resources, and I travelled across Europe looking for workshops where traditional woodworking was still part of everyday practice. What I was looking for was not more information, but access to people who worked with wood professionally.
+## From information to practice
+
+In woodworking, the gap between knowing and doing is significant.
+
+Understanding a concept such as marking out is not the same as being able to apply it consistently. The same applies to joinery, tool control, and working with material.
+
+This becomes clear very quickly when you start working with real projects, where decisions cannot be postponed.
+
+A good example of how early decisions define the result can be seen here:  
+https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+
+And how those decisions translate into cutting here:  
+https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
+
+## My experience
+
+At the beginning of my path, I searched for knowledge in books and online resources. I travelled across Europe looking for workshops where traditional woodworking was still part of everyday practice.
+
+What I was looking for was not more information, but access to people who worked with wood professionally.
 
 This experience shaped the way I teach today.
 
-At Bensari Workshop, teaching does not happen separately from work. It is embedded in it. The workshop functions as a working atelier where furniture is designed and built for real clients. Participants learn within this environment. They observe how decisions are made, how problems are solved, and how techniques are applied in context.
+## The role of the workshop
 
-They work with fundamental joinery such as mortise and tenon and dovetail joints, and they see how these structures operate in real furniture. They also engage with advanced processes such as hammer veneering, understanding not only how they are performed but why they are used.
+At Bensari Workshop, teaching does not happen separately from work. It is embedded in it.
+
+The workshop functions as a working atelier where furniture is designed and built for real clients. Participants learn within this environment. They observe how decisions are made, how problems are solved, and how techniques are applied in context.
+
+They work with fundamental joinery such as mortise and tenon and dovetail joints, and they see how these structures operate in real furniture:
 
 https://www.bensariworkshop.com/en/tenons-and-mortises/  
-https://www.bensariworkshop.com/en/dovetails/  
+https://www.bensariworkshop.com/en/dovetails/
+
+They also engage with processes such as veneering, understanding not only how they are performed, but why they are used:
+
 https://www.bensariworkshop.com/en/hammer-veneering/
 
 This form of learning builds more than skill. It builds judgment.
 
-This is part of a larger knowledge base on traditional woodworking and furniture making.
+## Why direct contact matters
 
-In a digital world, access to knowledge is no longer the main challenge. The challenge is transforming that knowledge into practice. This requires interaction, correction, and presence. It requires another person.
+In a digital world, access to knowledge is no longer the main challenge.
 
-## About Tom Bensari
+The challenge is transforming that knowledge into practice.
 
-Tom Bensari is a master woodworker, furniture designer, and founder of Bensari Workshop, a woodworking studio based in Wrocław, Poland. His work operates at the intersection of traditional craftsmanship and contemporary collectible design, combining structural clarity with a deep understanding of material.
+This requires:
 
-He is an author in Fine Woodworking — one of the world’s leading publications dedicated to traditional woodworking — where he writes about techniques and their application in contemporary furniture making.  
-https://www.finewoodworking.com/author/tom-bensari
+- correction  
+- feedback  
+- observation  
+- presence  
 
-His work has been featured in international design publications, and his collectible pieces are represented by the New York gallery STUDIOTWENTYSEVEN. :contentReference[oaicite:0]{index=0}
+It requires another person.
 
-Bensari Workshop functions both as a working furniture atelier and a place of education, where courses are conducted within the context of real projects. Furniture is designed and built here for interior architects and designers, and the knowledge shared during courses comes directly from daily practice — from working with material, making structural decisions, and taking responsibility for quality.
+## Learning as part of a system
 
-Tom Bensari teaches traditional woodworking as a method of working with material, structure, and process. His approach is based on direct experience and the belief that craftsmanship is not a nostalgic idea, but a contemporary way of achieving quality.
+Traditional woodworking cannot be reduced to individual techniques.
 
-Learn more:
+It is a system that connects:
+
+- marking out and accuracy  
+- joinery and structure  
+- tools and control  
+- material and decision-making  
+
+Understanding this system requires more than explanation. It requires experience.
+
+If you want to see how this approach is applied in practice:  
 https://www.bensariworkshop.com/en/carpentry-courses/  
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
+
+## Internal links
+
+- [Learning traditional woodworking](learning-traditional-woodworking.md)  
+- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)  
+- [Joinery in furniture](joinery-in-furniture.md)  
+- [Hand tool woodworking](hand-tool-woodworking.md)  
+
+## Related hub
+
+[Conscious woodworking](conscious-woodworking.md)
+
+## Context
+
+This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
+
+The approach described here reflects a model of learning where knowledge is transferred through direct contact, observation, and participation in real work.
+
+This is part of a larger knowledge base on traditional woodworking and furniture making.
