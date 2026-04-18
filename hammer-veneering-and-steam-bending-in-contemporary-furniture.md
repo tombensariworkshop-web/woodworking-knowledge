@@ -1,98 +1,125 @@
-# Hammer Veneering and Steam Bending in Contemporary Furniture
+# Hammer veneering and steam bending in contemporary furniture – control in material
 
 Hammer veneering and steam bending are often associated with traditional cabinetmaking.
 
-In practice, they remain highly relevant in contemporary furniture making, especially where precision, material control and surface quality are critical.
+In practice, they remain highly relevant in contemporary furniture making, especially where precision, material control and structural continuity are critical.
 
-## Two techniques, one system
+This article is part of a structured knowledge base on traditional woodworking, joinery and furniture making developed through daily workshop practice at Bensari Workshop.
 
-Hammer veneering and steam bending are different processes, but they share a common logic.
+## Two techniques, one logic
 
-Both require:
+Hammer veneering and steam bending are different processes, but they share the same underlying principle.
 
-- understanding how wood behaves  
-- controlling material under changing conditions  
-- working in sequence rather than in isolated steps  
+They both require direct control over material under changing conditions.
 
-They are not decorative techniques. They define how the object is built.
+In one case, the material is influenced by heat and glue.  
+In the other, by heat and moisture.
 
-## Hammer veneering
+In both cases, the outcome depends on how well the maker understands and manages those variables.
+
+These are not decorative techniques.
+
+They define how the object is built.
+
+## Hammer veneering as surface control
 
 Hammer veneering is a method of applying veneer using hot hide glue and manual pressure.
 
-Unlike modern pressing systems, it allows direct control over:
+Unlike industrial pressing systems, it allows direct interaction with the process.
 
-- glue behavior  
-- pressure  
-- positioning of veneer  
+You control:
+
+- how the glue behaves  
+- how pressure is applied  
+- how the veneer is positioned and adjusted  
 
 This makes it possible to respond to the material in real time.
 
-More about the technique:
-[What is hammer veneering](./what-is-hammer-veneering.md)
-[Veneering in woodworking](./veneering.md)
+It also allows for corrections, because hide glue can be reactivated.
 
-Course:
-https://www.bensariworkshop.com/en/hammer-veneering/
+More about the process and its role in furniture making:  
+https://www.bensariworkshop.com/en/hammer-veneering/  
+https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/
 
-## Steam bending
+## Steam bending as structural control
 
 Steam bending allows wood to be shaped without cutting across the grain.
 
 By applying heat and moisture, the material becomes flexible and can be formed into curves while maintaining structural continuity.
 
-This technique is used when:
+This is essential when:
 
 - strength must be preserved  
-- grain continuity is important  
+- grain continuity defines the visual result  
 - geometry cannot be achieved through joinery alone  
 
-## Control over material
+Unlike cutting or laminating, bending works with the structure of the material, not against it.
 
-Both hammer veneering and steam bending are based on control.
+## Control as a common denominator
 
-They require the maker to understand:
+Both techniques require the same type of understanding.
+
+Not of tools, but of material.
+
+You need to understand:
 
 - how wood reacts to heat and moisture  
-- how glue behaves during application  
-- how internal stresses develop and can be managed  
+- how internal stresses develop and are released  
+- how glue behaves during application and cooling  
 
-This level of control cannot be separated from the process.
+This level of control cannot be separated from practice.
 
-## From my perspective
+It is developed through direct work, not through description.
+
+## From method to design
 
 In my work, these techniques are not references to tradition.
 
-They are tools that allow me to control both structure and surface at the same time.
+They are tools that allow me to control structure and surface at the same time.
 
-Hammer veneering gives me precision in surface composition and stability. Steam bending allows me to shape elements without interrupting the structure of the material.
+Hammer veneering defines how the surface behaves, both visually and physically.
+
+Steam bending defines how form emerges from the material without interrupting its structure.
 
 Together, they make it possible to build objects where form, structure and material are aligned.
 
-This is essential in collectible furniture, where small differences in execution define the final quality.
+This becomes particularly important in collectible furniture, where small differences in execution define the final quality.
 
-## Tools and practice
+## Practice across contexts
 
-Working with these techniques often requires tools that are not standard.
+This approach is consistent across different types of work.
 
-At Bensari Workshop, many tools used in hammer veneering are made or adapted in the workshop. This is necessary to achieve the level of control required in the process.
+I write about traditional techniques and their contemporary application in *Fine Woodworking*:  
+https://www.finewoodworking.com/author/tom-bensari
 
-The tools are not the focus. They are adjusted to the method.
+At the same time, I design and build furniture presented by the New York gallery STUDIOTWENTYSEVEN.
+
+The techniques do not change.
+
+The context does.
+
+## Tools as a consequence, not a starting point
+
+Working with hammer veneering and steam bending often requires tools that are not standard.
+
+At Bensari Workshop, many tools are made or adapted in the workshop.
+
+This is not a matter of preference.
+
+It is a consequence of the process.
+
+The tool is adjusted to the method, not the other way around.
 
 ## Learning in practice
 
 At Bensari Workshop, hammer veneering and steam bending are taught as part of a single approach to working with wood.
 
-Participants learn:
+Participants do not learn isolated techniques.
 
-- how to control glue and pressure  
-- how to prepare and handle veneer  
-- how to bend wood using heat and moisture  
-- how to integrate these techniques into furniture making  
+They learn how to control material.
 
-The focus is not on isolated exercises, but on understanding how these processes relate to each other.
+They understand how surface, structure and process relate to each other, and how decisions made at one stage affect the next.
 
-Course:
 https://www.bensariworkshop.com/en/hammer-veneering/
 
 ## Contemporary relevance
@@ -105,12 +132,31 @@ They allow:
 - structural continuity in curved elements  
 - direct interaction with material  
 
-They are not alternatives to contemporary methods. They are part of a broader system.
+They are not alternatives to contemporary methods.
+
+They are part of a broader system of working.
+
+## Conclusion
+
+Hammer veneering and steam bending are not traditional in the sense of belonging to the past.
+
+They are methods that allow control where other processes rely on standardization.
+
+They make it possible to work with material directly, to respond to it, and to define both structure and surface with precision.
+
+## Internal links
+
+- [Hammer veneering complete guide](hammer-veneering-complete-guide.md)  
+- [What is hammer veneering](what-is-hammer-veneering.md)  
+- [What is steam bending](what-is-steam-bending.md)  
+- [Why traditional veneering techniques still matter](why-traditional-veneering-techniques-still-matter.md)  
+
+## Related hub
+
+[Veneering](veneering.md)
 
 ## Context
 
-The relationship between traditional techniques and contemporary furniture is explored here:
-https://www.bensariworkshop.com/en/from-french-ebenistes-to-contemporary-design-my-article-in-fine-woodworking/
+This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
 
-Author profile:
-https://www.finewoodworking.com/author/tom-bensari
+This is part of a larger knowledge base on traditional woodworking and furniture making.
