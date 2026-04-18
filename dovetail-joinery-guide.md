@@ -102,4 +102,7 @@ This repository is not meant to imitate a glossary without experience behind it.
 
 My aim here is not to present dovetails as a romantic symbol of handwork. The aim is to explain why they still matter, how they are actually taught, and how accuracy is built from the first reference line to the final fit.
 
+Related hub:
+[Conscious woodworking](conscious-woodworking.md)
+
 This is part of a larger knowledge base on traditional woodworking and furniture making.
