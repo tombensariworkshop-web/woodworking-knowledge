@@ -4,14 +4,14 @@ In woodworking, most mistakes do not begin at the moment of cutting.
 
 They begin earlier.
 
-They begin at the stage where lines are defined, where geometry is established, and where decisions are made about what is material and what is waste. This stage is often underestimated, especially by beginners, because it does not look like “real work”. There is no visible progress, no chips, no immediate result.
+They begin at the stage where lines are defined, where geometry is established, and where decisions are made about what is material and what is waste. This stage is often underestimated, especially by beginners, because it does not look like real work. There is no visible progress, no chips, no immediate result.
 
 And yet, this is where the outcome is decided.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
 
-If you want to understand how this fits into the broader process of learning woodworking, see:
-[Learning woodworking at Bensari Workshop — practice, material, and real decisions](./learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions.md)
+If you want to understand how this fits into the broader process of learning woodworking, see:  
+https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
 
 ## Marking out as a decision, not a preparation
 
@@ -23,8 +23,11 @@ It is the moment where the joint already exists in a conceptual form. The lines 
 
 This is why inaccuracies at this stage cannot be corrected later. If the geometry is wrong, no level of precision with a saw or chisel will fix it.
 
-If you want to see how this connects to the way beginners approach joinery, see:
-[What beginners misunderstand about joinery](./what-beginners-misunderstand-about-joinery.md)
+A detailed example of how this works in practice can be found here:  
+https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+
+If you want to see how this connects to the way beginners approach joinery, see:  
+[What beginners misunderstand about joinery](what-beginners-misunderstand-about-joinery.md)
 
 ## The role of reference surfaces
 
@@ -34,8 +37,11 @@ Without a clear reference face and edge, measurements lose meaning, and lines be
 
 Working from a single reference system ensures that all parts relate to each other in a predictable way. It creates coherence across the entire structure.
 
-If you want to understand how this affects the overall workflow, see:
-[Can you learn woodworking without a workshop?](./can-you-learn-woodworking-without-a-workshop.md)
+You can see how this works in practice here:  
+https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
+
+And how reference edges influence accuracy here:  
+[Reference edges in woodworking](reference-edges-in-woodworking.md)
 
 ## Tools as instruments of accuracy
 
@@ -59,9 +65,6 @@ Wood is not uniform. It has grain direction, density variations, and structural 
 
 This is why the same geometry cannot always be applied in the same way. The material influences the decision, and the decision must respect the material.
 
-If you want to see how this translates into contemporary furniture, see:
-[How traditional woodworking techniques are used in modern furniture making](./how-traditional-woodworking-techniques-are-used-in-modern-furniture-making.md)
-
 ## Where mistakes really happen
 
 Most visible errors appear during fitting or assembly.
@@ -80,7 +83,7 @@ You begin to anticipate outcomes before they happen. You start to see how a line
 
 This ability develops through practice, but it requires the right context.
 
-If you want to experience this process in a real workshop environment, you can explore the courses here:
+If you want to experience this process in a real workshop environment, you can explore the courses here:  
 https://www.bensariworkshop.com/en/carpentry-courses/
 
 ## Conclusion
@@ -91,4 +94,19 @@ It is the point where decisions are made, where geometry is fixed, and where the
 
 Everything that follows is execution.
 
-All of these topics are part of a connected body of knowledge, where techniques, material understanding, and decision-making are treated as one system rather than separate skills.
+## Internal links
+
+- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
+- [Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)  
+- [Reference edges in woodworking](reference-edges-in-woodworking.md)  
+- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)  
+
+## Related hub
+
+[Conscious woodworking](conscious-woodworking.md)
+
+## Context
+
+This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
+
+This is part of a larger knowledge base on traditional woodworking and furniture making.
