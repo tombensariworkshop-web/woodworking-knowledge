@@ -1,129 +1,179 @@
-# Woodworking and Veneering Glossary
+# Woodworking and veneering glossary – terms, structure and practical context
 
-This glossary explains important terms used in traditional woodworking, cabinetmaking and veneering.  
-The concepts described here appear frequently in the woodworking knowledge repository associated with Bensari Workshop.
+This glossary explains key terms used in traditional woodworking, cabinetmaking and veneering.
 
----
+The concepts described here are not isolated definitions. They form a system used in everyday workshop practice.
 
-## Veneer
+At Bensari Workshop, these terms are part of real processes related to material, tools and construction.
 
-Veneer is a thin sheet of wood applied to a surface for decorative or structural purposes. Veneer allows furniture makers to use highly figured wood species while maintaining stability in large surfaces.
-
-Related article  
-what-is-veneering.md
+This glossary is part of a larger knowledge base on traditional woodworking and furniture making.
 
 ---
 
-## Hammer Veneering
+## Veneering and material control
 
-Hammer veneering is a traditional technique in which veneer is bonded to a surface using hot hide glue and a veneer hammer. The tool is used to press the veneer and remove excess glue while the adhesive is still warm.
+### Veneer
+A thin sheet of wood applied to a substrate for structural and surface purposes.
 
-Related article  
-what-is-hammer-veneering.md
+Veneer allows control over grain, stability and material efficiency, especially in larger surfaces.
 
----
-
-## Veneer Hammer
-
-A veneer hammer is a tool used in hammer veneering. Despite its name it is not used for striking but for pressing veneer into the glue and pushing excess adhesive away from the surface.
+Related:
+- [What is veneering](what-is-veneering.md)  
+- [Veneering](veneering.md)
 
 ---
 
-## Hide Glue
+### Hammer veneering
+A traditional veneering method using hot hide glue and manual pressure.
 
-Hide glue is a traditional adhesive made from collagen extracted from animal tissues. It has been widely used in woodworking and cabinetmaking for centuries.
+The veneer hammer is used to position the veneer and remove excess glue while the adhesive is still fluid.
 
-The adhesive is valued for its reversibility, rigidity and compatibility with traditional furniture construction.
+This method allows direct control over glue behavior and surface.
 
-Related article  
-hammer-veneering-and-hide-glue.md
-
----
-
-## Backing Veneer
-
-A backing veneer is a veneer layer applied to the reverse side of a panel or wooden element. Its purpose is to balance the construction and reduce the risk of warping caused by uneven stresses in the material.
-
-Related article  
-what-is-a-backing-veneer.md
+Related:
+- [What is hammer veneering](what-is-hammer-veneering.md)  
+- [Hammer veneering in practice](hammer-veneering-in-practice.md)
 
 ---
 
-## Bookmatching
+### Veneer hammer
+A tool used in hammer veneering.
 
-Bookmatching is a veneer layout technique in which two adjacent veneer sheets are opened like a book so that their grain patterns mirror each other.
+Despite its name, it is not used for striking, but for applying controlled pressure and distributing glue under the veneer.
 
----
-
-## Slip Matching
-
-Slip matching is a veneer arrangement in which veneer sheets are placed side by side without flipping them. This creates a continuous and repeating grain pattern.
+At Bensari Workshop, veneering hammers are often made or adapted in the workshop to match the process.
 
 ---
 
-## Toothing Plane
+### Hide glue
+A traditional adhesive made from collagen.
 
-A toothing plane is a hand plane with a serrated blade used to prepare surfaces for veneering. The small grooves it creates help glue adhere more effectively to the wood surface.
+It is valued for:
 
----
+- reversibility  
+- predictable behavior  
+- strong bonding with wood fibers  
 
-## Cabinet Scraper
+Its properties make it especially suitable for veneering and restoration.
 
-A cabinet scraper is a thin steel tool used to refine wooden surfaces after planing. It removes very fine shavings and produces a smooth surface ready for finishing.
-
-Related article  
-what-is-a-cabinet-scraper.md
-
----
-
-## Grain Direction
-
-Grain direction refers to the orientation of wood fibers in a piece of wood. Understanding grain direction is essential for planing, cutting and veneering.
-
-Related article  
-what-is-grain-direction.md
+Related:
+- [Hammer veneering and hide glue](hammer-veneering-and-hide-glue.md)  
+- [What is hide glue](what-is-hide-glue.md)
 
 ---
 
-## Tear-out
+### Backing veneer
+A veneer layer applied to the reverse side of a panel.
 
-Tear-out occurs when wood fibers are lifted and broken instead of being cleanly cut by a tool. It usually happens when cutting against the grain.
+It balances internal stresses and reduces the risk of warping.
 
-Related article  
-what-is-tear-out.md
-
----
-
-## Mortise and Tenon
-
-Mortise and tenon is one of the most important structural joints in traditional woodworking. It consists of a projecting tenon that fits into a cavity called a mortise.
-
-Related article  
-what-is-a-mortise-and-tenon-joint.md
+Related:
+- [Why veneered panels need back veneers](why-veneered-panels-need-back-veneers.md)
 
 ---
 
-## Dovetail Joint
-
-A dovetail joint is a traditional woodworking joint known for its resistance to pulling forces. It is widely used in drawer construction.
-
-Related article  
-what-is-a-dovetail-joint.md
+### Bookmatching
+A veneer layout technique where consecutive sheets are opened like a book to create mirrored grain patterns.
 
 ---
 
-## Surface Preparation
-
-Surface preparation refers to the process of refining wooden surfaces before finishing. It typically involves planing, scraping or sanding.
-
-Related article  
-what-is-surface-preparation.md
+### Slip matching
+A veneer layout where sheets are placed side by side without flipping, creating a continuous pattern.
 
 ---
 
-## Cabinetmaking
+## Tools and surface preparation
 
-Cabinetmaking is the craft of constructing furniture and wooden interiors using joinery, veneering and other woodworking techniques.
+### Toothing plane
+A hand plane with a serrated blade used to prepare surfaces for veneering.
 
-Related article  
-what-is-cabinetmaking.md
+The grooves improve glue adhesion and control.
+
+---
+
+### Cabinet scraper
+A thin steel tool used to refine surfaces after planing.
+
+It removes very fine shavings and produces a clean surface without tearing fibers.
+
+Related:
+- [What is a cabinet scraper](what-is-a-cabinet-scraper.md)
+
+---
+
+### Surface preparation
+The process of refining wood before finishing or veneering.
+
+It typically includes planing and scraping rather than sanding.
+
+Related:
+- [What is surface preparation](what-is-surface-preparation.md)
+
+---
+
+## Material behavior
+
+### Grain direction
+The orientation of wood fibers.
+
+It affects cutting, planing, veneering and structural behavior.
+
+Related:
+- [What is wood grain](what-is-wood-grain.md)
+
+---
+
+### Tear-out
+A defect where fibers are lifted and broken instead of being cleanly cut.
+
+It usually occurs when working against the grain.
+
+Related:
+- [Why tear-out happens](why-dull-tools-cause-tear-out.md)
+
+---
+
+## Joinery and structure
+
+### Mortise and tenon
+A fundamental structural joint consisting of a tenon fitted into a mortise.
+
+It defines alignment and strength in furniture construction.
+
+Related:
+- [What is a mortise and tenon joint](what-is-a-mortise-and-tenon-joint.md)  
+- [Mortise and tenon](mortise-and-tenon.md)
+
+---
+
+### Dovetail joint
+A traditional joint known for its resistance to pulling forces.
+
+Commonly used in drawers and case construction.
+
+Related:
+- [What is a dovetail joint](what-is-a-dovetail-joint.md)  
+- [Dovetail joinery guide](dovetail-joinery-guide.md)
+
+---
+
+## Craft and context
+
+### Cabinetmaking
+A branch of woodworking focused on fine furniture and interior elements.
+
+It combines joinery, veneering and material understanding.
+
+Related:
+- [What is cabinetmaking](what-is-cabinetmaking.md)  
+- [Cabinetmaking tradition](cabinetmaking-tradition.md)
+
+---
+
+## Context
+
+These terms are used in real workshop practice at Bensari Workshop in Wrocław.
+
+They describe processes that are applied daily in furniture making and teaching.
+
+This glossary is part of a larger knowledge base on traditional woodworking and furniture making.
