@@ -1,69 +1,116 @@
-# Why is dovetail layout more important than cutting?
+# Why dovetail layout is more important than cutting
 
-Dovetail layout determines the geometry, fit, and final appearance of the joint. Cutting only follows the lines established during layout. If the layout is accurate, the joint will fit. If it is not, even precise cutting will not fix the problem.
+Dovetail layout determines the geometry, fit and final appearance of the joint.
 
-Dovetail layout is the process of marking out the geometry of a dovetail joint before cutting. It includes defining the baseline, spacing the tails, and marking the waste areas.
+Cutting only follows the lines established during layout.
+
+If the layout is accurate, the joint will fit. If it is not, even precise cutting will not fix the problem.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
 
-## What is dovetail layout in woodworking?
+## Where the joint actually begins
 
-Dovetail layout is the stage where the structure of the joint is defined. It establishes:
+In woodworking, it is easy to assume that accuracy comes from cutting.
 
-- the baseline (depth of the joint)  
-- reference faces and edges  
+In practice, it begins earlier.
+
+Dovetail layout is the stage where the structure of the joint is defined. This is where the baseline is established, reference faces and edges are chosen, and the proportions of the tails are decided.
+
+At this point, nothing has been removed from the material, but the result is already determined.
+
+This is why layout is not preparation. It is definition:
+https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+
+## Geometry before execution
+
+Layout defines:
+
+- the depth of the joint through the baseline  
+- the reference system that keeps all elements aligned  
 - the spacing and proportions of the tails  
 - the boundary between material and waste  
 
-This stage determines whether the joint will fit before any cutting begins.
+Each of these decisions affects how the joint will behave during assembly.
 
-## Why does dovetail layout determine accuracy?
+If they are inconsistent, the joint will not fit, regardless of how well it is cut.
 
-Accuracy in dovetail joints is created during layout, not during cutting.
+## Why cutting cannot correct layout
 
-Layout defines the geometry of the joint and ensures that all elements relate correctly to one another. Cutting only reveals how precise that layout was.
+Cutting is often treated as the decisive stage because it is visible.
 
-In practical woodworking, most fitting problems come from layout errors, not sawing mistakes.
+A clean saw cut gives immediate feedback.
 
-## How do you lay out dovetails step by step?
+But cutting does not create accuracy. It reveals it.
 
-A simple and reliable approach to dovetail layout:
+The saw follows the line. The chisel respects it. If the geometry defined during layout is unclear or inconsistent, the tools will only repeat that error:
 
-1. Mark the parts using a cabinetmaker’s triangle  
-2. Establish the baseline using a marking gauge  
-3. Define reference faces and edges  
-4. Divide the spacing of the tails (by eye, ruler, or dividers)  
-5. Mark the tails clearly  
-6. Identify and mark the waste areas  
+https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 
-Each of these steps directly affects the final fit of the joint.
+This is why many joints fail even when they are cut carefully:
+[Why dovetail joints fail and open up](why-dovetail-joints-fail-and-open-up.md)
 
-## What makes a good dovetail layout?
+## The role of reference
 
-A good layout is:
+One of the most common reasons layout fails is losing the reference system.
 
-- consistent (based on reference surfaces)  
-- clear (lines are visible and precise)  
-- proportional (balanced tail spacing)  
-- controlled (all elements relate to each other)  
+Without consistent reference faces and edges, measurements lose meaning and lines stop relating to each other.
 
-The goal is not perfection in drawing lines, but control over the geometry of the joint.
+At that point, even accurate marking becomes unreliable.
 
-## Is there one correct way to lay out dovetails?
+Working from one face and one edge is not a rule. It is a way of maintaining control across the entire process:
 
-There is no single correct method.
+[Reference edges in woodworking](reference-edges-in-woodworking.md)
 
-In practice, every woodworker develops their own approach. The objective is not to follow a fixed system, but to understand the structure of the joint and reduce the risk of error.
+## Layout as a thinking process
 
-That is why layout is treated as a process, not a rule.
+Over time, layout stops being a technical step.
 
-## Key takeaway
+It becomes a way of thinking about the joint.
 
-In dovetail joinery, layout defines the result.
+You begin to understand how each line defines a decision, how each decision affects the structure, and how the structure determines the final result.
+
+This is also why layout cannot be reduced to a fixed sequence of steps.
+
+Different methods exist, but they all serve the same purpose: to define geometry clearly and consistently.
+
+## What actually makes a good layout
+
+A good dovetail layout is not defined by how precise the lines look.
+
+It is defined by how well they relate to each other.
+
+Consistency matters more than visual perfection. Clarity matters more than speed. Control matters more than technique.
+
+When these conditions are met, cutting becomes predictable.
+
+When they are not, correction becomes unavoidable.
+
+## Conclusion
+
+Dovetail layout is more important than cutting because it defines the joint before it exists physically.
 
 Cutting is execution.
 
----
+Layout is decision.
 
-Learn the full process, including marking and cutting with hand tools:  
+## Learn the full process
+
+If you want to see how layout and cutting work together in practice, the full process is described here:
+
 https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+
+## Internal links
+
+- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)  
+- [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)  
+- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)  
+
+## Related hub
+
+[Dovetail joinery guide](dovetail-joinery-guide.md)
+
+## Context
+
+This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
+
+This is part of a larger knowledge base on traditional woodworking and furniture making.
