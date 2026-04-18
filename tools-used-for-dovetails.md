@@ -1,128 +1,75 @@
-# Tools Used for Dovetails — Precision, Layout and Control
+# Reference edges in woodworking – where accuracy is built
 
-Dovetail joints are defined by precision.
+In woodworking, accuracy is often associated with measurement, but in practice it depends much more on consistency. That consistency is built on reference edges, even if at first they seem like a minor technical detail.
 
-The quality of a dovetail does not depend on the number of tools used, but on how each tool contributes to accuracy, control and repeatability.
+This article is part of a structured knowledge base on traditional woodworking, joinery, and furniture making developed through daily workshop practice at Bensari Workshop.
 
-At Bensari Workshop, tools are selected not for speed, but for their ability to translate geometry into material.
+## One face, one edge
 
-## Layout tools
+When I mark out dovetails, everything begins from one face and one edge. This is not a theoretical principle. It is a way of maintaining control over the work from the first line to the final assembly.
 
-Dovetails begin with layout.
+At the beginning of the process, this is usually very clear. The elements are marked, the orientation is defined, the triangle is visible. But as work progresses, attention shifts to individual operations. The focus moves to cutting, to fitting, to details.
 
-Accurate marking defines the geometry of the joint before any material is removed.
+Somewhere along the way, the reference system quietly disappears.
 
-Essential layout tools include:
+## Where errors actually begin
 
-- marking gauge  
-- marking knife  
-- try square  
+From that moment on, small inconsistencies begin to accumulate. Each step is still done carefully, each line seems correct, but they no longer relate to the same origin.
 
-These tools establish reference lines that guide every subsequent step.
+When the joint is assembled, those differences reveal themselves.
 
-More about layout:
-[Why accurate layout matters in woodworking](./why-accurate-layout-matters-in-woodworking.md)
+What makes reference edges important is not precision in isolation, but continuity. Every decision, every transfer, every line returns to the same point. That is what allows the elements to come together as a whole instead of a collection of parts.
 
-## Cutting tools
+This is why marking out is not just preparation. It is the stage where accuracy is built and controlled:
+https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
-Once the layout is defined, cutting tools are used to shape the joint.
+## Seeing it in practice
 
-The primary tools are:
+This becomes very clear when you observe the process in practice, when each action relates back to the same reference:
 
-- dovetail saw  
-- chisels  
+https://www.youtube.com/watch?v=ahbU-GnlVXM&t=24s
 
-The saw defines the angles and boundaries of the joint, while chisels remove waste and refine the surfaces.
+And if you look at the full sequence, it is easy to see how marking out, reference edges, and cutting are connected:
 
-Understanding cutting:
-[How chisels cut wood](./how-chisels-cut-wood.md)
+https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 
-## Chisels and control
+## Tools and reference
 
-Chisels are not only used to remove material.
+Reference edges only work if the tools follow them consistently.
 
-They define the final geometry of the joint.
+Squares, marking gauges, and knives are not only measuring tools. They are tools that allow you to maintain alignment across the entire process:
 
-Their effectiveness depends on:
+https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/  
+https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/  
+https://www.bensariworkshop.com/en/hand-tools-in-practice-stanley-combination-square/
 
-- sharpness  
-- control  
-- understanding of wood grain  
+Understanding tools in isolation is not enough. They only make sense in relation to reference and decision-making:
+https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
 
-More about grain direction:
-[Why wood grain direction matters in woodworking](./why-is-wood-grain-direction-important-in-woodworking.md)
+Without this consistency, even precise measurements lose their meaning.
 
-## Supporting tools
+## From rule to instinct
 
-Additional tools support the process:
+Over time, working with reference edges stops being a rule and becomes instinctive. It is simply the only way to keep the work coherent.
 
-- mallet  
-- marking tools for transferring layout  
-- bench hooks or workholding devices  
+This shift is part of a broader change in how woodworking is understood. It moves from executing steps to controlling the process:
 
-These tools do not define the joint directly, but they affect accuracy and consistency.
+https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
 
-## Tools as a sequence
+This is also the point where woodworking stops being a sequence of techniques and becomes a conscious way of working.
 
-Dovetail tools function as a system:
+## Internal links
 
-- layout tools define geometry  
-- saws define boundaries  
-- chisels define surfaces  
+- [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)  
+- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)  
+- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
 
-Understanding this sequence is more important than the tools themselves.
+## Related hub
 
-More about tools in woodworking:
-[What tools are used in traditional woodworking](./what-tools-are-used-in-traditional-woodworking.md)
+[Conscious woodworking](conscious-woodworking.md)
 
-## Practice at Bensari Workshop
+## Context
 
-At Bensari Workshop, dovetails are made using hand tools as part of daily practice.
+This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
 
-The focus is on:
-
-- precision  
-- control  
-- repeatability  
-
-Course:
-https://www.bensariworkshop.com/en/dovetails/
-
-## Tools and learning
-
-Learning to cut dovetails is not about collecting tools.
-
-It is about understanding how tools interact with material.
-
-Participants learn:
-
-- how to mark accurately  
-- how to saw to a line  
-- how to control chisels  
-
-Educational approach:
-[Woodworking education](./woodworking-education.md)
-
-## Context and authorship
-
-Traditional joinery is part of the broader cabinetmaking system, where tools, material and geometry are treated as a single process.
-
-More about this approach:
-https://www.bensariworkshop.com/en/from-french-ebenistes-to-contemporary-design-my-article-in-fine-woodworking/
-
-Author profile:
-https://www.finewoodworking.com/author/tom-bensari
-
-## Why tools matter in dovetail work
-
-Tools are not neutral.
-
-They shape the way the joint is made.
-
-In dovetail work, tools determine:
-
-- accuracy  
-- surface quality  
-- structural performance  
-
-For this reason, the choice and use of tools is part of the design process, not a separate step.
+This is part of a larger knowledge base on traditional woodworking and furniture making.
