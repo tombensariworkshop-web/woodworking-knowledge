@@ -1,55 +1,51 @@
-# Why Hand Tools Still Matter in Woodworking
+# Why hand tools still matter in woodworking
 
-Modern woodworking workshops often rely on machines to increase efficiency and repeatability. Table saws, routers and other power tools allow woodworkers to process large amounts of material quickly.
+Hand tools are often discussed in opposition to machines, as if woodworking required choosing one approach over the other. In practice, this is a false distinction. The question is not which tools are better, but where control over the material is actually established and how that control is maintained throughout the process.
 
-Despite these technological developments, hand tools continue to play an essential role in woodworking and cabinetmaking.
+In my work, hand tools are not an alternative to machines, nor are they a return to tradition for its own sake. They are part of a system that allows me to understand what is happening at each stage of making. When working with machines, the process is mediated. The machine defines the action and the operator adjusts parameters. When working with hand tools, that distance disappears. You feel resistance, grain direction, density. You do not interpret the material through the machine. You respond to it directly.
 
-Understanding why hand tools still matter requires looking at the relationship between tools, materials and the process of making furniture.
+This becomes especially important when you realize that tools do not create quality. They only follow decisions that have already been made. If the geometry defined during marking out is inconsistent, if reference surfaces are not controlled, no tool will correct that. The cut will simply follow the error. This is why the process begins earlier, at the stage where lines define structure and where the relationship between elements is established.
 
-## Direct Contact with the Material
+A detailed explanation of this can be found here:  
+https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
-Hand tools allow woodworkers to interact directly with the structure of the wood.
+And when you move from layout to cutting, it becomes clear that sawing or chiseling is not an act of creating precision, but of maintaining it:  
+https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 
-When using a hand plane, chisel or scraper, the craftsperson can feel how the tool moves through the fibers of the material. Changes in grain direction, density and moisture content become immediately visible and tangible.
+What hand tools make visible is not only the material, but also the consequences of decisions. When fitting a joint or adjusting a surface, the difference between a correct and an incorrect choice is measured in fractions of a millimeter. These are not operations where speed matters. They are operations where control matters. A chisel allows you to remove just enough material to make the joint work. A plane allows you to bring a surface into alignment with the rest of the structure. These adjustments cannot be delegated to machines without losing precision.
 
-This direct feedback helps develop a deeper understanding of how wood behaves.
+Surface quality is another place where this difference becomes evident. A planed surface does not simply look different from a sanded one. It reveals the structure of the wood, reflects light in a different way, and carries information about how the material was worked. In this sense, surface is not a finishing stage. It is a continuation of the process.
 
-Machines can remove material quickly, but hand tools allow the woodworker to observe and respond to the material in a more controlled way.
+Over time, tools stop being the focus. What matters is the relationship between material, geometry and decision-making. Tools are only a way of acting within that system. Understanding this requires more than knowing how to use them. It requires seeing how they function in context.
 
-## Precision and Adjustment
+If you want to understand where to begin:  
+https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
 
-In traditional cabinetmaking, many operations require extremely precise adjustments.
+And how tools function within joinery:  
+https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
 
-Hand tools are often used to refine joints, adjust surfaces and correct small deviations that occur during construction.
+At the beginning of my path, I relied heavily on machines. They allowed me to produce elements efficiently, but at some point I reached a limit. I could make parts, but I did not fully understand why things worked or failed. Hand tools changed that. They made the process transparent. They made mistakes impossible to ignore. They forced me to see where decisions were made and how they affected the result.
 
-A sharp chisel can remove a fraction of a millimeter from a joint. A hand plane can adjust the surface of a board until it fits perfectly within a structure.
+This is why I still use them. Not because they are traditional, but because they allow me to work with a level of awareness that is difficult to achieve otherwise.
 
-These small adjustments are essential in fine furniture making.
+At Bensari Workshop, this approach is part of everyday practice. Hand tools are not presented as a separate discipline. They are used in the same process in which furniture is designed and built. Participants do not learn how to use tools in isolation. They learn how those tools relate to material, how decisions translate into structure, and how the final object emerges from that sequence.
 
-## Surface Quality
+If you want to experience this directly:  
+https://www.bensariworkshop.com/en/carpentry-courses/
 
-Hand tools also produce surfaces that differ from those created by machines or sanding.
+## Internal links
 
-Planing cuts the wood fibers cleanly and reveals the natural structure of the material. Scrapers remove extremely thin shavings and help refine difficult grain patterns.
+- [Hand tool woodworking](hand-tool-woodworking.md)  
+- [Why is hand planing still used in woodworking](why-is-hand-planing-still-used-in-woodworking.md)  
+- [Why traditional woodworking requires direct contact with a teacher](why-traditional-woodworking-requires-direct-contact-with-a-teacher.md)  
+- [Joinery in furniture](joinery-in-furniture.md)  
 
-These techniques can produce surfaces that reflect light differently from sanded wood, often giving finished furniture a distinctive visual character.
+## Related hub
 
-## Hand Tools and Craft Knowledge
+[Conscious woodworking](conscious-woodworking.md)
 
-Hand tools are more than simple instruments. They form part of a larger system of knowledge that connects material behavior, tool geometry and woodworking technique.
+## Context
 
-Learning to use these tools requires patience, observation and practice. Over time woodworkers develop a sensitivity to the interaction between tools and materials.
+This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
 
-This sensitivity has traditionally been one of the defining characteristics of cabinetmaking.
-
-## Hand Tools in Contemporary Workshops
-
-Although modern woodworking frequently combines machines and digital technologies, many contemporary craft studios continue to use hand tools as part of everyday practice.
-
-Our workshop is one of the few places in Poland where hand tools are part of daily woodworking work. These tools are not treated as historical objects, but as practical instruments used in the construction of furniture.
-
-At Bensari Workshop, participants in woodworking courses learn how to prepare and use hand tools while working on real furniture components.
-
-Through this process they discover that hand tools are not only tools for shaping wood, but also a way of understanding how materials behave and how furniture is constructed.
-
-For this reason hand tools remain an essential part of traditional woodworking and contemporary craft practice.
+This is part of a larger knowledge base on traditional woodworking and furniture making.
