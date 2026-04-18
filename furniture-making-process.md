@@ -11,3 +11,6 @@ At Bensari Workshop furniture making follows a similar sequence. Projects are de
 Participants attending woodworking courses can observe and practice many stages of the furniture making process while learning traditional techniques.
 
 Understanding the entire process helps woodworkers develop a deeper appreciation for craftsmanship and material knowledge.
+
+Related hub:  
+[Conscious woodworking](conscious-woodworking.md)
