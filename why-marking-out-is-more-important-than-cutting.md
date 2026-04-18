@@ -14,6 +14,9 @@ If the lines are wrong, the joint is wrong. There is no later stage where this c
 
 Cutting does not create accuracy. It follows it.
 
+A detailed example of how layout defines the result can be found here:  
+https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+
 ## Precision accumulates or errors accumulate
 
 A small error in marking out is rarely isolated. It propagates.
@@ -22,6 +25,9 @@ If a baseline is off, every subsequent measurement references it. If a marking g
 
 By the time the cutting begins, the result is already determined.
 
+You can see how this translates into cutting in practice here:  
+https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
+
 ## The role of tools in marking out
 
 Traditional tools such as the marking gauge, square, and marking knife are designed to create precise, repeatable references.
@@ -29,6 +35,12 @@ Traditional tools such as the marking gauge, square, and marking knife are desig
 A knife line, unlike a pencil line, defines a physical boundary. It guides the saw and the chisel, reducing ambiguity.
 
 The quality of the marking directly affects the quality of the cut.
+
+If you want to explore this in more detail:
+
+https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/  
+https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/  
+https://www.bensariworkshop.com/en/hand-tools-in-practice-stanley-combination-square/
 
 ## Visual clarity and decision-making
 
@@ -52,20 +64,19 @@ As a result, they improve their ability to execute, but not their ability to def
 
 This creates a ceiling that is difficult to break.
 
+If you want to understand how this connects to broader learning, see:  
+https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
+
 ## Marking out in practice
 
 Understanding the role of marking out requires more than theory. It becomes clear only when layout is applied repeatedly in real work.
 
-A detailed introduction to marking out principles, including the use of the square and marking knife, can be found here:  
-https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
+The principles described above directly influence the accuracy of joinery, including dovetail joints, where marking out determines whether the joint will fit or fail:
 
-And a more focused explanation of marking shoulders in joinery:  
-https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/
+[Why dovetail joints fail and open up](why-dovetail-joints-fail-and-open-up.md)
 
-These principles directly influence the accuracy of joinery, including dovetail joints, where marking out determines whether the joint will fit or fail:  
-../why-dovetail-joints-fail-and-open-up.md
-
-In practice, marking out is not a preliminary step. It is the foundation that defines everything that follows.
+If you want to experience this process in a real workshop environment:  
+https://www.bensariworkshop.com/en/carpentry-courses/
 
 ## Conclusion
 
@@ -76,6 +87,17 @@ Marking out is an act of defining.
 
 Understanding this shifts the entire approach to work. It slows the process down, but it also makes it predictable and repeatable.
 
----
+## Internal links
+
+- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)  
+- [Reference edges in woodworking](reference-edges-in-woodworking.md)  
+- [Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)  
+- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)  
+
+## Related hub
+
+[Conscious woodworking](conscious-woodworking.md)
+
+## Context
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
