@@ -1,142 +1,130 @@
-# Tom Bensari — Furniture Maker and Founder of Bensari Workshop
+# Tom Bensari — furniture maker and founder of Bensari Workshop
 
-My name is **Tom Bensari** (Tomisław Bensari).  
-I am a furniture maker, woodworking instructor and founder of **Bensari Workshop**, a woodworking studio and school based in Wrocław, Poland.
+My name is Tom Bensari (Tomisław Bensari).
 
-Alongside the educational work of the workshop I design and build collectible furniture under the name **Bensari Ébénistes**, a studio focused on contemporary furniture rooted in traditional cabinetmaking techniques.
+I am a furniture maker, woodworking instructor and founder of Bensari Workshop, a woodworking studio and school based in Wrocław, Poland.
 
-My work is represented internationally by the New York design gallery **STUDIOTWENTYSEVEN**.
+Alongside the educational work of the workshop, I design and build collectible furniture under the name Bensari Ébénistes, a studio focused on contemporary furniture rooted in traditional cabinetmaking techniques.
 
----
+My work is represented internationally by the New York design gallery STUDIOTWENTYSEVEN.
 
-# Mastery | Passion | Craft
-
-## A fascination with wood
-
-Woodworking and working with wood have fascinated me for as long as I can remember.
-
-Traditional woodworking carries something almost majestic. It teaches patience, humility and imagination. Working with hand tools brings a deep sense of satisfaction and agency. At the same time it creates a connection with the craftsmen who worked centuries before us.
-
-I often think about those makers who built extraordinary furniture using only hand tools, knowledge of materials and years of experience. Their understanding of wood remains deeply inspiring to me.
+I am also a contributor to *Fine Woodworking*, one of the most respected publications dedicated to traditional woodworking and cabinetmaking:  
+https://www.finewoodworking.com/author/tom-bensari
 
 ---
 
-# Bensari Workshop
+## A way of working, not a style
 
-I founded **Bensari Workshop** as a place where woodworking is practiced every day.
+Woodworking has been part of my life for over twenty years, but what changed over time is not only the level of skill, but the way I understand the process.
 
-The workshop functions both as a **working furniture studio** and as a **place of learning**. Furniture projects are developed here from the first piece of raw wood all the way to the finished object.
+Traditional woodworking is often described as a style or a historical reference.
 
-Participants in woodworking courses can observe how real furniture is built in practice. They see each stage of the process, from material selection to structural decisions and finishing work.
+In practice, it is neither.
 
-This is important to me because woodworking cannot be fully understood through theory alone. It must be experienced through direct work with wood, tools and construction.
+It is a method of working that allows control over material, structure and decision-making. It teaches patience, precision and responsibility, but above all, it reveals how objects are actually made.
 
-More about the workshop:  
-https://www.bensariworkshop.com
-
----
-
-# Traditional techniques in everyday practice
-
-In my work traditional woodworking techniques are not historical curiosities. They are the natural language of the workshop.
-
-Joints such as **mortise and tenon** or **dovetail joinery** form the structural backbone of many furniture pieces. Techniques like **hammer veneering**, **steam bending** or traditional **drawbored joints** appear regularly in everyday projects.
-
-During courses participants learn not only how to execute these techniques, but also why they work. We discuss how wood behaves along and across the grain and how forces travel through furniture structures.
-
-Understanding these principles is essential for building durable furniture.
+This way of working becomes especially clear at the stage where geometry is defined and decisions are made before any material is removed:  
+https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
 ---
 
-# Furniture design and collectible pieces
+## Bensari Workshop — practice and teaching in one place
 
-Alongside the educational work of the workshop I design and build collectible furniture under the name **Bensari Ébénistes**.
+I founded Bensari Workshop as a place where woodworking is practiced every day.
 
-These pieces combine traditional woodworking techniques with contemporary furniture design and material-driven experimentation. They often explore complex elements such as veneered surfaces, tambour doors and structural joinery.
+It is both a working furniture atelier and a place of education. Furniture is designed and built here for real clients, and the same processes are used during courses.
 
-Many of the objects produced in the workshop find their way to private collections and architectural projects.
+Participants do not learn isolated techniques. They observe how decisions are made, how problems are solved, and how structure emerges step by step.
 
-My work is represented internationally by the New York gallery **STUDIOTWENTYSEVEN**, which presents collectible design by contemporary designers and makers.
+This is essential, because woodworking cannot be fully understood through theory alone. It requires direct contact with material, tools and construction.
+
+https://www.bensariworkshop.com/en/carpentry-courses/
 
 ---
 
-# Fine Woodworking
+## Traditional techniques in contemporary practice
 
-I am also the **only Polish contributor** to the prestigious woodworking magazine **Fine Woodworking**, which focuses on traditional cabinetmaking techniques.
+In my work, traditional techniques are not treated as historical knowledge.
 
-My article:
+They are part of everyday practice.
 
-Tambour Doors: Now and Then  
+Joinery such as dovetails and mortise and tenon joints defines the structure of furniture:  
+https://www.bensariworkshop.com/en/dovetails/  
+https://www.bensariworkshop.com/en/tenons-and-mortises/
+
+Processes like hammer veneering or steam bending are used not as decoration, but as methods of controlling material and surface:  
+https://www.bensariworkshop.com/en/hammer-veneering/
+
+Understanding why these techniques work is more important than learning how to repeat them.
+
+That understanding comes from working with wood, not from describing it.
+
+---
+
+## From machines to understanding
+
+At the beginning of my path, I worked primarily with machines.
+
+They allowed me to produce elements efficiently, but at some point I reached a limit. I could make parts, but I did not fully understand the process behind them.
+
+That changed when I began working more intensively with hand tools.
+
+They made the process visible. They revealed mistakes immediately. They forced me to understand how material behaves and how decisions affect the result.
+
+This shift from production to understanding defines how I work today.
+
+---
+
+## Furniture as structure and decision
+
+Alongside teaching, I design and build collectible furniture under Bensari Ébénistes.
+
+These objects are based on the same principles as the work done in the workshop. They combine traditional techniques with contemporary design, often involving complex elements such as veneered surfaces, tambour doors or structural joinery.
+
+The intention is not to reference the past, but to use methods that allow a higher level of control over the final object.
+
+This approach is described in more detail in my writing for *Fine Woodworking*:  
 https://www.finewoodworking.com/2024/04/10/tambour-doors-now-and-then
 
-explores the historical development and contemporary use of tambour doors in furniture design.
+---
+
+## Learning as a process
+
+Many people who come to the workshop work in digital environments.
+
+They are used to abstraction, speed and indirect results.
+
+Woodworking offers something different. It requires direct action, attention and responsibility for each decision.
+
+Learning begins with fundamentals such as marking out, tool control and understanding grain direction:  
+https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
+
+From there, it develops through joinery and construction, and eventually leads to more complex processes.
+
+Over time, something important happens.
+
+People stop focusing on tools and start understanding the process.
 
 ---
 
-# Recognition and publications
+## Craft as a way of thinking
 
-My work has appeared in a number of design and craft publications, including:
+For me, woodworking is not only about making furniture.
 
-- Elle Decoration France  
-- Design Alive  
-- Label Magazine  
-- White Mad  
-- Salon Polityki  
-- Furniture & Cabinetmaking
+It is a way of thinking about material, structure and time.
 
-I was also a **finalist of the Dobry Wzór 2024 design competition** and received the title **Kreatywny Wrocław 2025**.
+Every object carries decisions that define how it will behave, how it will age and how it will be used. These decisions are not isolated. They form a system.
 
----
+This repository reflects that system.
 
-# From corporate life to the workshop
-
-Before becoming a full-time furniture maker I spent many years working in the corporate world.
-
-By education I am a **lawyer**, and for many years I served as **CEO of major pharmaceutical distribution companies in Poland**. My work involved strategy, numbers, management and decision-making often far removed from physical processes.
-
-Woodworking initially appeared in my life as a form of balance — a space where I could slow down, work with my hands and see the direct results of my decisions.
-
-Over time it became something much deeper: a way of reconnecting with reality and with the physical nature of making things.
+It connects techniques, tools and material understanding into one continuous body of knowledge.
 
 ---
 
-# Why people come to the workshop
+## Context
 
-Many people who come to Bensari Workshop work in digital environments: programmers, analysts, managers and designers.
+Bensari Workshop is one of the few places in Poland where furniture design, making and teaching function together.
 
-They often say the same thing — that they miss working with something tangible.
+Knowledge shared during courses comes directly from daily practice — from working with material, making structural decisions and taking responsibility for quality.
 
-In the workshop they can experience the entire process of making an object. From shaping raw wood to creating a finished piece of furniture.
-
-With time something important appears: a sense of agency.
-
-Skills learned at the workbench stay with people for years. They can be used in everyday life, in repairs, furniture restoration or personal projects.
-
-For me woodworking courses make sense only when they become a foundation for further development rather than a one-time experience.
-
----
-
-# Learning through practice
-
-The courses I teach are built around a gradual development of skills.
-
-We begin with the foundations:  
-working with hand tools, proper layout and understanding wood grain.
-
-Then we move toward classical joinery techniques such as mortise and tenon joints or dovetails.
-
-Later participants explore more advanced techniques including hammer veneering and steam bending.
-
-This step-by-step path helps people build real independence in woodworking.
-
----
-
-# Craft as a way of thinking
-
-For me woodworking is not only about producing furniture.
-
-It is also a way of thinking about materials, responsibility and time.
-
-Every object made in wood carries decisions about structure, proportion and durability. These decisions connect us with a long tradition of makers who approached their craft with patience and care.
-
-That tradition continues in every project that begins in the workshop.
+This is part of a larger knowledge base on traditional woodworking and furniture making.
