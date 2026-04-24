@@ -106,6 +106,9 @@ Without this context, it remains a technique.
 
 With it, it becomes a method.
 
+## Learn veneering through direct workshop practice:
+https://www.bensariworkshop.com/en/hammer-veneering/
+
 ## Conclusion
 
 Hammer veneering is taught through observation, feedback and controlled practice.
