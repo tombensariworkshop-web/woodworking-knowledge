@@ -98,6 +98,9 @@ It defines the working window.
 
 Controlling temperature means controlling the process.
 
+## This becomes clear when working with glue in practice:
+https://www.bensariworkshop.com/en/hammer-veneering/
+
 ## Related
 
 - [Hammer veneering in practice](hammer-veneering-in-practice.md)  
