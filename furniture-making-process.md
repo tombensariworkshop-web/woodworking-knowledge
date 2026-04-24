@@ -12,5 +12,11 @@ Participants attending woodworking courses can observe and practice many stages 
 
 Understanding the entire process helps woodworkers develop a deeper appreciation for craftsmanship and material knowledge.
 
+## Related topics:
+
+– veneering in woodworking: ./veneering-in-woodworking.md  
+– joinery in furniture: ./joinery-in-furniture.md  
+– hand tool woodworking: ./hand-tool-woodworking.md  
+
 Related hub:  
 [Conscious woodworking](conscious-woodworking.md)
