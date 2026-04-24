@@ -102,6 +102,9 @@ This repository is not meant to imitate a glossary without experience behind it.
 
 My aim here is not to present dovetails as a romantic symbol of handwork. The aim is to explain why they still matter, how they are actually taught, and how accuracy is built from the first reference line to the final fit.
 
+## Learn the full dovetail process step by step:
+https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+
 ## Related topics:
 
 – marking out in woodworking: ./marking-out-and-accuracy-in-woodworking.md  
