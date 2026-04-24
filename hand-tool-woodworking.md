@@ -144,6 +144,11 @@ It changes how decisions are made, how material is understood and how furniture 
 - [Hand planes in woodworking control and surface](hand-planes-in-woodworking-control-and-surface.md)  
 - [How chisels cut wood](how-chisels-cut-wood.md)  
 
+## Related topics:
+
+– dovetail joinery: ./dovetail-joinery-guide.md  
+– veneering in woodworking: ./veneering-in-woodworking.md  
+
 ## Related hub
 
 [Hand tool woodworking](hand-tool-woodworking.md)
