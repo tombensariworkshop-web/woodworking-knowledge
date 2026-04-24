@@ -123,6 +123,9 @@ It connects material, glue and structure into a single process where decisions a
 
 This is why it remains one of the most precise methods in cabinetmaking.
 
+## See how this process is taught in a real workshop:
+https://www.bensariworkshop.com/en/hammer-veneering/
+
 ## Internal links
 
 - [How glue is forced out during hammer veneering](how-glue-is-forced-out-during-hammer-veneering.md)  
