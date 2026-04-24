@@ -122,7 +122,12 @@ Treating glue as part of the structure changes how woodworking is approached.
 
 ## Related
 
-- [Choosing glue for veneering and lamination](choosing-glue-for-veneering-and-lamination.md)  
+- [Choosing glue for veneering and lamination](choosing-glue-for-veneering-and-lamination.md)
+
+## Related topics:
+
+– veneering in woodworking: ./veneering-in-woodworking.md  
+– hand tool woodworking: ./hand-tool-woodworking.md  
 
 ## Context
 
