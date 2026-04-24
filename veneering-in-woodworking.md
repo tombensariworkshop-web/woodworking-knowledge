@@ -155,6 +155,12 @@ It connects material, structure and surface into a single process.
 
 Understanding this changes how furniture is made.
 
+## Related topics
+
+– adhesives in woodworking: ./adhesives-in-woodworking.md  
+– hand tool control: ./hand-tools-and-control-in-woodworking.md  
+– furniture making process: ./furniture-making-process.md  
+
 ## Further context
 
 The relationship between traditional veneering techniques and contemporary furniture making is also explored in:
