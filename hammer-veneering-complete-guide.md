@@ -67,6 +67,9 @@ This approach comes from using hammer veneering in contemporary furniture making
 
 The method remains relevant because it allows precise control that is difficult to achieve otherwise.
 
+## Full process explained step by step:
+https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/
+
 ## Conclusion
 
 Hammer veneering is not a historical technique.
