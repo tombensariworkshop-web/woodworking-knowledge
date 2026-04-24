@@ -49,13 +49,14 @@ If these variables are not understood, the result becomes unpredictable.
 Understanding glue behavior is essential:  
 [What is hide glue](what-is-hide-glue.md)
 
+## See how this process works in practice:
+https://www.bensariworkshop.com/en/hammer-veneering/
+
 ## Control instead of force
 
 One of the most common misunderstandings is that hammer veneering is based on pressure.
 
-It is not.
-
-It is based on control.
+It is not, it is based on control.
 
 Pressure is applied in a directed way, not uniformly.
 
@@ -94,9 +95,7 @@ We use it in contemporary projects where control over surface and structure is c
 
 We also build our own veneering hammers in the workshop.
 
-This is not a stylistic decision.
-
-It is a consequence of the process, where standard tools are often not sufficient to achieve the required level of control.
+This is not a stylistic decision, it is a consequence of the process, where standard tools are often not sufficient to achieve the required level of control.
 
 I also write about traditional woodworking techniques and their application in contemporary furniture for *Fine Woodworking*:  
 https://www.finewoodworking.com/author/tom-bensari
