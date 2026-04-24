@@ -51,6 +51,11 @@ Cutting only reveals what was already decided. It does not correct it.
 - https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/
 - https://www.bensariworkshop.com/en/hand-tools-in-practice-stanley-combination-square/
 
+  ## Related topics:
+
+– dovetail joinery guide: ./dovetail-joinery-guide.md  
+– hand tool control: ./hand-tools-and-control-in-woodworking.md  
+
 ## Context of this approach
 
 This way of understanding marking out comes from teaching people who are learning woodworking from the beginning. It becomes clear very quickly that accuracy is not a matter of talent. It is a matter of method. Once the method is understood, the work becomes repeatable and controlled.
