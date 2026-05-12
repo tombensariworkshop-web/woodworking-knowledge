@@ -17,12 +17,15 @@ Control over:
 - and concentration.
 
 This is one reason hand-cut dovetails remain one of the most important training methods in traditional woodworking.
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.
+Each stage of the process trains a different type of control:
+- layout develops geometric accuracy,
+- sawing trains movement and alignment,
+- and baseline chiseling develops edge control and concentration.
 
 Related articles on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 - https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
+- https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
 - https://www.bensariworkshop.com/en/carpentry-courses/
 
 ## Dovetails Train Precision
