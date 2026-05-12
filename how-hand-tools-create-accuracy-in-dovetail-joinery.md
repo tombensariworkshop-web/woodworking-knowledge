@@ -8,10 +8,17 @@ This is especially visible in dovetail joinery, where accuracy depends less on a
 
 This article is part of a larger knowledge base on traditional woodworking and furniture making.
 
+At Bensari Workshop, these stages are documented through a series of articles explaining:
+- dovetail layout and marking out,
+- sawing techniques,
+- and baseline chiseling.
+
+Together, they show how traditional hand tools create accuracy through controlled, repeatable processes.
+
 Related articles on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 - https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
 
 ## Accuracy Begins With Marking Tools
 
