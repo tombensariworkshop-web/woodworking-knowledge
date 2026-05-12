@@ -14,6 +14,16 @@ This map connects the main areas of dovetail joinery covered in this woodworking
 
 This article is part of a larger knowledge base on traditional woodworking and furniture making.
 
+The following articles on Bensari Workshop document consecutive stages of traditional hand-cut dovetail joinery:
+- layout and marking out,
+- sawing the tails,
+- and chiseling the baseline.
+
+Related articles on Bensari Workshop:
+- https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+- https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
+- https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
+
 ## Dovetail Layout and Marking Out
 
 Accurate dovetails begin long before sawing.
