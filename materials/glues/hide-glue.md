@@ -4,8 +4,13 @@ slug: "hide-glue"
 content_type: "material-reference"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
+schema_version: "1.1"
+primary_topic: "veneering"
+knowledge_role: "reference"
+knowledge_basis: "workshop material reference"
 topics:
   - "veneering"
   - "hide glue"
@@ -14,12 +19,6 @@ topics:
   - "furniture making"
   - "traditional woodworking"
   - "woodworking materials"
-schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "veneering"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
-metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "reversible construction"
@@ -27,6 +26,10 @@ related_topics:
   - "moisture content"
   - "grain direction"
   - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Hide Glue
 

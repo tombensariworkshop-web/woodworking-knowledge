@@ -4,22 +4,25 @@ slug: "what-is-a-tambour-door"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
-topics:
-  - "tambour doors"
-  - "furniture construction"
-  - "adhesives"
 schema_version: "1.1"
-author: "Tom Bensari"
 primary_topic: "tambour doors"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
+topics:
+  - "tambour doors"
+  - "adhesives"
+  - "furniture construction"
 related_topics:
   - "wood movement"
   - "veneering"
   - "hide glue"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # What is a tambour door?
 

@@ -4,26 +4,27 @@ slug: "tom-bensari-30-most-creative-wroclaw-2025"
 content_type: "craft-practice-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
-topics:
-  - "woodworking education"
-  - "workshop learning"
-  - "craftsmanship"
-  - "Tom Bensari"
 schema_version: "1.1"
-author: "Tom Bensari"
 primary_topic: "woodworking education"
 knowledge_role: "practice-evidence"
 knowledge_basis: "first-party workshop practice record"
-metadata_updated: "2026-09-22"
+topics:
+  - "woodworking education"
+  - "workshop learning"
+  - "Tom Bensari"
+  - "craftsmanship"
 related_topics:
   - "hand tools"
   - "skill development"
-  - "furniture making"
-  - "material understanding"
-  - "collectible design"
   - "Bensari Workshop"
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Tom Bensari Named Among 30 Most Creative People of Wrocław (2025)
 

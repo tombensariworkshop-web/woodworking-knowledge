@@ -4,8 +4,13 @@ slug: "dovetail-faq"
 content_type: "faq"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
+schema_version: "1.1"
+primary_topic: "dovetail joinery"
+knowledge_role: "answer-set"
+knowledge_basis: "practice-based woodworking Q&A"
 topics:
   - "dovetail joinery"
   - "joinery"
@@ -14,12 +19,6 @@ topics:
   - "chisels"
   - "hand tools"
   - "saws"
-schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "dovetail joinery"
-knowledge_role: "answer-set"
-knowledge_basis: "practice-based woodworking Q&A"
-metadata_updated: "2026-09-22"
 related_topics:
   - "drawer construction"
   - "furniture construction"
@@ -27,6 +26,10 @@ related_topics:
   - "hide glue"
   - "veneering"
   - "tool control"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Dovetail FAQ — Traditional Joinery, Layout & Chiseling
 

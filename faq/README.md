@@ -4,8 +4,13 @@ slug: "README"
 content_type: "index"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
+schema_version: "1.1"
+primary_topic: "dovetail joinery"
+knowledge_role: "knowledge-hub"
+knowledge_basis: "first-party knowledge navigation"
 topics:
   - "dovetail joinery"
   - "joinery"
@@ -14,12 +19,6 @@ topics:
   - "veneering"
   - "hide glue"
   - "chisels"
-schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "dovetail joinery"
-knowledge_role: "knowledge-hub"
-knowledge_basis: "first-party knowledge navigation"
-metadata_updated: "2026-09-22"
 related_topics:
   - "hand tools"
   - "drawer construction"
@@ -27,6 +26,10 @@ related_topics:
   - "accuracy and reference systems"
   - "veneer preparation"
   - "cabinetmaking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # FAQ — Traditional Woodworking & Furniture Making
 

@@ -4,8 +4,13 @@ slug: "what-is-hammer-veneering"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
+schema_version: "1.1"
+primary_topic: "hammer veneering"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "hammer veneering"
   - "veneering"
@@ -14,12 +19,6 @@ topics:
   - "hand tools"
   - "furniture making"
   - "woodworking education"
-schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
@@ -27,6 +26,10 @@ related_topics:
   - "reversible construction"
   - "furniture construction"
   - "tool control"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # What Is Hammer Veneering
 

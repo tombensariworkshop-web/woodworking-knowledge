@@ -4,21 +4,20 @@ slug: "tambour-doors-bensari-workshop"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
-topics:
-  - "tambour doors"
-  - "furniture construction"
-  - "wood as material"
-  - "furniture making"
-  - "craftsmanship"
-  - "Bensari Workshop"
 schema_version: "1.1"
-author: "Tom Bensari"
 primary_topic: "tambour doors"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
+topics:
+  - "tambour doors"
+  - "wood as material"
+  - "furniture making"
+  - "Bensari Workshop"
+  - "furniture construction"
+  - "craftsmanship"
 related_topics:
   - "wood movement"
   - "veneering"
@@ -26,6 +25,10 @@ related_topics:
   - "grain direction"
   - "joinery"
   - "material selection"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Tambour Doors – Craft in Motion at Bensari Workshop
 

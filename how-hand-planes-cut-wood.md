@@ -4,21 +4,20 @@ slug: "how-hand-planes-cut-wood"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
-topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "wood as material"
-  - "furniture making"
-  - "traditional woodworking"
 schema_version: "1.1"
-author: "Tom Bensari"
 primary_topic: "hand planes"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
+topics:
+  - "hand planes"
+  - "hand tools"
+  - "wood as material"
+  - "furniture making"
+  - "surface preparation"
+  - "traditional woodworking"
 related_topics:
   - "wood grain direction"
   - "tool control"
@@ -26,6 +25,10 @@ related_topics:
   - "wood movement"
   - "moisture content"
   - "grain direction"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # How Hand Planes Cut Wood
 

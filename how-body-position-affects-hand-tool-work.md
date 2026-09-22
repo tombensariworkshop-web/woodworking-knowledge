@@ -4,25 +4,27 @@ slug: "how-body-position-affects-hand-tool-work"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
-topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "saws"
 schema_version: "1.1"
-author: "Tom Bensari"
 primary_topic: "hand planes"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
+topics:
+  - "hand planes"
+  - "hand tools"
+  - "saws"
+  - "surface preparation"
 related_topics:
   - "wood grain direction"
   - "tool control"
   - "marking out"
   - "traditional woodworking"
-  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # How Body Position Affects Hand Tool Work
 

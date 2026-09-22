@@ -4,20 +4,19 @@ slug: "why-hammer-veneering-remains-relevant-today"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
+schema_version: "1.1"
+primary_topic: "hammer veneering"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "hammer veneering"
   - "veneering"
   - "hide glue"
   - "adhesives"
   - "furniture making"
-schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
@@ -25,6 +24,10 @@ related_topics:
   - "reversible construction"
   - "furniture construction"
   - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Why Hammer Veneering Remains Relevant Today
 

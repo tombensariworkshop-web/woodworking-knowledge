@@ -4,8 +4,13 @@ slug: "hammer-veneering-complete-guide"
 content_type: "guide"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
+schema_version: "1.1"
+primary_topic: "hammer veneering"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based woodworking guide"
 topics:
   - "hammer veneering"
   - "veneering"
@@ -13,12 +18,6 @@ topics:
   - "adhesives"
   - "wood as material"
   - "traditional woodworking"
-schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "hammer veneering"
-knowledge_role: "pillar-guide"
-knowledge_basis: "practice-based woodworking guide"
-metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
@@ -26,6 +25,10 @@ related_topics:
   - "furniture making"
   - "reversible construction"
   - "furniture construction"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Hammer veneering: material control, glue behavior, and surface stability
 

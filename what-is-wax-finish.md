@@ -4,18 +4,17 @@ slug: "what-is-wax-finish"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
+schema_version: "1.1"
+primary_topic: "wood as material"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "wood as material"
   - "furniture making"
   - "surface finishing"
-schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "wood as material"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "moisture content"
@@ -23,6 +22,10 @@ related_topics:
   - "joinery"
   - "material selection"
   - "craftsmanship"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # What is a Wax Finish
 

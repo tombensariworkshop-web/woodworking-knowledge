@@ -4,26 +4,29 @@ slug: "conscious-woodworking-traditional-techniques-modern-context"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
-topics:
-  - "hand tools"
-  - "traditional woodworking"
-  - "craftsmanship"
-  - "Bensari Workshop"
 schema_version: "1.1"
-author: "Tom Bensari"
 primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
+topics:
+  - "hand tools"
+  - "traditional woodworking"
+  - "Bensari Workshop"
+  - "craftsmanship"
 related_topics:
   - "tool control"
   - "marking out"
   - "joinery"
   - "craft education"
-  - "furniture making"
-  - "material understanding"
+  - "Tom Bensari"
+  - "workshop learning"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Conscious Craft. Is Traditional Woodworking Outdated and Does It Need Saving?
 

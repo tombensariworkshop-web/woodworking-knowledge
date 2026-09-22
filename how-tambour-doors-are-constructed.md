@@ -4,21 +4,20 @@ slug: "how-tambour-doors-are-constructed"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
-topics:
-  - "veneering"
-  - "tambour doors"
-  - "furniture construction"
-  - "wood as material"
-  - "furniture making"
-  - "Bensari Workshop"
 schema_version: "1.1"
-author: "Tom Bensari"
 primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
+topics:
+  - "veneering"
+  - "tambour doors"
+  - "wood as material"
+  - "furniture making"
+  - "Bensari Workshop"
+  - "furniture construction"
 related_topics:
   - "hide glue"
   - "wood movement"
@@ -26,6 +25,10 @@ related_topics:
   - "grain direction"
   - "joinery"
   - "material selection"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # How Tambour Doors Are Constructed
 

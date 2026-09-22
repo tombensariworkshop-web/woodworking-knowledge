@@ -4,23 +4,26 @@ slug: "what-is-bookmatching-in-veneering"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
-topics:
-  - "veneering"
-  - "furniture making"
 schema_version: "1.1"
-author: "Tom Bensari"
 primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
+topics:
+  - "veneering"
+  - "furniture making"
 related_topics:
   - "hide glue"
   - "wood movement"
   - "joinery"
   - "material selection"
   - "craftsmanship"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # What is Bookmatching in Veneering
 

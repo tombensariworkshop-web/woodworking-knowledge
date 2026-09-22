@@ -4,20 +4,19 @@ slug: "rabbit-skin-glue"
 content_type: "material-reference"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
+schema_version: "1.1"
+primary_topic: "veneering"
+knowledge_role: "reference"
+knowledge_basis: "workshop material reference"
 topics:
   - "veneering"
   - "hide glue"
   - "adhesives"
   - "wood as material"
   - "woodworking materials"
-schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "veneering"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
-metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "furniture making"
@@ -25,6 +24,10 @@ related_topics:
   - "furniture construction"
   - "moisture content"
   - "grain direction"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Rabbit Skin Glue
 

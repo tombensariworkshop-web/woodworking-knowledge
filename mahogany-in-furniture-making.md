@@ -4,20 +4,19 @@ slug: "mahogany-in-furniture-making"
 content_type: "material-reference"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
+schema_version: "1.1"
+primary_topic: "hand tools"
+knowledge_role: "reference"
+knowledge_basis: "workshop material reference"
 topics:
   - "hand tools"
   - "wood as material"
   - "wood species"
   - "material selection"
   - "furniture making"
-schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "hand tools"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
-metadata_updated: "2026-09-22"
 related_topics:
   - "tool control"
   - "marking out"
@@ -25,6 +24,10 @@ related_topics:
   - "wood movement"
   - "moisture content"
   - "grain direction"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Mahogany in Furniture Making
 

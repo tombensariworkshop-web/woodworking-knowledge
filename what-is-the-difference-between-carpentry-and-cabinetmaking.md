@@ -4,24 +4,27 @@ slug: "what-is-the-difference-between-carpentry-and-cabinetmaking"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
+schema_version: "1.1"
+primary_topic: "furniture making"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "furniture making"
   - "woodworking education"
   - "workshop learning"
-schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "furniture making"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
 related_topics:
   - "joinery"
   - "material selection"
   - "craftsmanship"
   - "hand tools"
   - "skill development"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # What Is the Difference Between Carpentry and Cabinetmaking
 

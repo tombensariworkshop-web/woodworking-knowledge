@@ -4,22 +4,24 @@ slug: "push-stroke-vs-pull-stroke-tools"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
-topics:
-  - "saws"
-  - "hand tools"
 schema_version: "1.1"
-author: "Tom Bensari"
 primary_topic: "saws"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
+topics:
+  - "saws"
+  - "hand tools"
 related_topics:
-  - "joinery"
-  - "marking out"
   - "tool control"
+  - "marking out"
   - "traditional woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Push Stroke vs Pull Stroke Tools
 

@@ -4,8 +4,13 @@ slug: "woodworking-learning-faq"
 content_type: "faq"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
+schema_version: "1.1"
+primary_topic: "hand tools"
+knowledge_role: "answer-set"
+knowledge_basis: "practice-based woodworking Q&A"
 topics:
   - "hand tools"
   - "marking out"
@@ -14,18 +19,16 @@ topics:
   - "workshop learning"
   - "traditional woodworking"
   - "Bensari Workshop"
-schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "hand tools"
-knowledge_role: "answer-set"
-knowledge_basis: "practice-based woodworking Q&A"
-metadata_updated: "2026-09-22"
 related_topics:
   - "tool control"
   - "joinery"
   - "skill development"
   - "craft education"
-  - "furniture making"
+  - "Tom Bensari"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Woodworking Learning FAQ — Learning Traditional Woodworking in Practice
 

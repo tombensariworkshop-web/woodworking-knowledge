@@ -4,8 +4,13 @@ slug: "hide-glue-vs-pva-glue"
 content_type: "material-reference"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
+schema_version: "1.1"
+primary_topic: "hide glue"
+knowledge_role: "reference"
+knowledge_basis: "workshop material reference"
 topics:
   - "hide glue"
   - "adhesives"
@@ -13,12 +18,6 @@ topics:
   - "furniture making"
   - "traditional woodworking"
   - "woodworking materials"
-schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "hide glue"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
-metadata_updated: "2026-09-22"
 related_topics:
   - "veneering"
   - "reversible construction"
@@ -26,6 +25,10 @@ related_topics:
   - "wood movement"
   - "moisture content"
   - "grain direction"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Hide Glue vs PVA Glue
 

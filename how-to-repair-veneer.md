@@ -4,19 +4,18 @@ slug: "how-to-repair-veneer"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
+schema_version: "1.1"
+primary_topic: "veneering"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "veneering"
   - "hide glue"
   - "adhesives"
   - "wood as material"
-schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "furniture making"
@@ -24,6 +23,10 @@ related_topics:
   - "furniture construction"
   - "moisture content"
   - "grain direction"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # How to Repair Veneer
 

@@ -4,24 +4,28 @@ slug: "why-wood-moves"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
-topics:
-  - "wood as material"
-  - "furniture making"
 schema_version: "1.1"
-author: "Tom Bensari"
-primary_topic: "wood as material"
+primary_topic: "adhesives"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
+topics:
+  - "adhesives"
+  - "wood as material"
+  - "furniture making"
 related_topics:
+  - "hide glue"
+  - "veneering"
+  - "furniture construction"
   - "wood movement"
   - "moisture content"
   - "grain direction"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Why Wood Moves
 

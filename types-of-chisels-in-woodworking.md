@@ -4,24 +4,28 @@ slug: "types-of-chisels-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
+author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
-topics:
-  - "mortise and tenon"
-  - "joinery"
-  - "furniture construction"
-  - "chisels"
-  - "hand tools"
 schema_version: "1.1"
-author: "Tom Bensari"
 primary_topic: "mortise and tenon"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
-metadata_updated: "2026-09-22"
+topics:
+  - "mortise and tenon"
+  - "joinery"
+  - "chisels"
+  - "hand tools"
+  - "furniture construction"
 related_topics:
   - "marking out"
+  - "accuracy and reference systems"
   - "tool control"
   - "traditional woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
 ---
 # Types of Chisels in Woodworking
 
