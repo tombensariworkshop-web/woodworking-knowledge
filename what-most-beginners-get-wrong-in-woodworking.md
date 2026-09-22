@@ -9,28 +9,23 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "woodworking education"
+primary_topic: "hand planes"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "hand planes"
   - "hand tools"
+  - "surface preparation"
   - "chisels"
   - "saws"
   - "marking out"
   - "accuracy and reference systems"
-  - "woodworking education"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood grain direction"
-  - "surface preparation"
   - "tool control"
   - "traditional woodworking"
   - "joinery"
-  - "workshop learning"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # What most beginners get wrong in woodworking
 

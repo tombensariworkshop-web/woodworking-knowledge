@@ -16,15 +16,12 @@ topics:
   - "woodworking education"
   - "workshop learning"
   - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
   - "hand tools"
   - "skill development"
-  - "Tom Bensari"
   - "traditional woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "furniture making"
 ---
 # Is Woodworking Hard to Learn at Bensari Workshop
 

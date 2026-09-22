@@ -9,26 +9,22 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "furniture making"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
-  - "furniture making"
   - "hand tools"
   - "traditional woodworking"
-  - "Bensari Workshop"
   - "craftsmanship"
+  - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
   - "tool control"
   - "marking out"
   - "joinery"
   - "craft education"
-  - "Tom Bensari"
-  - "workshop learning"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "furniture making"
+  - "material understanding"
 ---
 # Conscious Craft. Is Traditional Woodworking Outdated and Does It Need Saving?
 

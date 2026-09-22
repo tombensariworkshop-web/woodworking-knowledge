@@ -15,7 +15,7 @@ knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "wood as material"
   - "furniture making"
-  - "traditional woodworking"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "moisture content"
@@ -23,10 +23,6 @@ related_topics:
   - "joinery"
   - "material selection"
   - "craftsmanship"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # How Moisture Affects Wood
 

@@ -16,19 +16,18 @@ topics:
   - "dovetail joinery"
   - "joinery"
   - "marking out"
-  - "chisels"
-  - "hand tools"
   - "saws"
+  - "hand tools"
   - "accuracy and reference systems"
+  - "furniture making"
+metadata_updated: "2026-09-22"
 related_topics:
   - "drawer construction"
   - "furniture construction"
   - "tool control"
   - "traditional woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "material selection"
+  - "craftsmanship"
 ---
 # Why dovetail layout is more important than cutting
 

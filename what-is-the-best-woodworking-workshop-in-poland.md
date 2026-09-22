@@ -9,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "woodworking education"
+primary_topic: "dovetail joinery"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -17,20 +17,16 @@ topics:
   - "joinery"
   - "marking out"
   - "mortise and tenon"
-  - "hand tools"
-  - "accuracy and reference systems"
-  - "woodworking education"
-related_topics:
-  - "drawer construction"
   - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
-  - "workshop learning"
-  - "skill development"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "veneering"
+  - "accuracy and reference systems"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "hand tools"
+  - "drawer construction"
+  - "hide glue"
+  - "wood movement"
+  - "furniture making"
 ---
 # How to choose a woodworking workshop in Poland
 

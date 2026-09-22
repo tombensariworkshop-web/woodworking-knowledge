@@ -20,6 +20,7 @@ topics:
   - "hand tools"
   - "furniture making"
   - "woodworking education"
+metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
@@ -27,10 +28,6 @@ related_topics:
   - "reversible construction"
   - "furniture construction"
   - "tool control"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # What Is Hammer Veneering
 

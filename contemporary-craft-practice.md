@@ -9,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "furniture making"
+primary_topic: "dovetail joinery"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -19,18 +19,15 @@ topics:
   - "accuracy and reference systems"
   - "furniture making"
   - "traditional woodworking"
-  - "Bensari Workshop"
+  - "craftsmanship"
+metadata_updated: "2026-09-22"
 related_topics:
   - "hand tools"
   - "drawer construction"
   - "furniture construction"
   - "material selection"
-  - "craftsmanship"
   - "craft education"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "material understanding"
 ---
 # Contemporary craft practice – between method and decision
 

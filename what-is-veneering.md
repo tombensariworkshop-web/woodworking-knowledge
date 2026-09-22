@@ -13,24 +13,20 @@ primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
-  - "hammer veneering"
   - "veneering"
-  - "hide glue"
   - "tambour doors"
+  - "furniture construction"
   - "wood as material"
   - "furniture making"
-  - "woodworking education"
-related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "adhesives"
-  - "reversible construction"
-  - "furniture construction"
-entities:
   - "Bensari Workshop"
-  - "Tom Bensari"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "hide glue"
+  - "wood movement"
+  - "moisture content"
+  - "grain direction"
+  - "joinery"
+  - "material selection"
 ---
 # What Is Veneering in Woodworking
 

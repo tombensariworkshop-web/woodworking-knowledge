@@ -15,20 +15,17 @@ knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "mortise and tenon"
   - "joinery"
+  - "furniture construction"
   - "hand tools"
   - "marking out"
   - "accuracy and reference systems"
   - "woodworking education"
-  - "workshop learning"
+metadata_updated: "2026-09-22"
 related_topics:
-  - "furniture construction"
   - "tool control"
   - "traditional woodworking"
+  - "workshop learning"
   - "skill development"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # What Is Mortise and Tenon Joinery
 

@@ -9,27 +9,23 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "adhesives"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "veneering"
-  - "hide glue"
   - "adhesives"
   - "furniture making"
   - "traditional woodworking"
   - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
+  - "hide glue"
   - "wood movement"
-  - "reversible construction"
   - "furniture construction"
   - "joinery"
   - "material selection"
   - "craftsmanship"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # What is cold creep in woodworking – long-term movement in adhesive joints
 

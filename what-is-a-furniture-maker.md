@@ -16,6 +16,7 @@ topics:
   - "furniture making"
   - "surface finishing"
   - "traditional woodworking"
+metadata_updated: "2026-09-22"
 related_topics:
   - "joinery"
   - "material selection"
@@ -23,10 +24,6 @@ related_topics:
   - "hand planes"
   - "scraping"
   - "hand tools"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # What is a Furniture Maker
 

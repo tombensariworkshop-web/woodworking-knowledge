@@ -9,28 +9,19 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "woodworking training funding"
+primary_topic: "woodworking education"
 knowledge_role: "answer-set"
 knowledge_basis: "practice-based woodworking Q&A"
 topics:
-  - "woodworking training funding"
-  - "hand tools"
-  - "furniture making"
   - "woodworking education"
   - "workshop learning"
-  - "traditional woodworking"
   - "Bensari Workshop"
-related_topics:
-  - "tool control"
-  - "marking out"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
-  - "skill development"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "hand tools"
+  - "skill development"
+  - "traditional woodworking"
+  - "furniture making"
 ---
 # Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ
 

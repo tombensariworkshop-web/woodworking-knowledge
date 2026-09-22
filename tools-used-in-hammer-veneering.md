@@ -17,20 +17,17 @@ topics:
   - "veneering"
   - "hide glue"
   - "adhesives"
-  - "hand planes"
-  - "hand tools"
   - "furniture making"
+  - "woodworking education"
+  - "workshop learning"
+metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
   - "wood movement"
   - "reversible construction"
   - "furniture construction"
-  - "wood grain direction"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "joinery"
 ---
 # Tools Used in Hammer Veneering
 

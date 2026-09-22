@@ -14,18 +14,15 @@ knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "tambour doors"
-  - "Bensari Workshop"
   - "furniture construction"
+  - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "veneering"
-  - "Tom Bensari"
-  - "workshop learning"
+  - "woodworking education"
   - "traditional woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "furniture making"
 ---
 # Tambour Doors in Contemporary Furniture Design
 

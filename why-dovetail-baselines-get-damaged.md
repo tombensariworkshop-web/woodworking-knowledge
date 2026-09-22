@@ -20,6 +20,7 @@ topics:
   - "hand tools"
   - "saws"
   - "furniture making"
+metadata_updated: "2026-09-22"
 related_topics:
   - "drawer construction"
   - "furniture construction"
@@ -27,10 +28,6 @@ related_topics:
   - "tool control"
   - "traditional woodworking"
   - "material selection"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Why Dovetail Baselines Get Damaged
 

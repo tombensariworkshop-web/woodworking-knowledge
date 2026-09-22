@@ -9,21 +9,19 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand tools"
+primary_topic: "craftsmanship"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
-  - "hand tools"
-  - "Bensari Workshop"
   - "craftsmanship"
-related_topics:
-  - "Tom Bensari"
-  - "workshop learning"
-  - "traditional woodworking"
-entities:
   - "Bensari Workshop"
-  - "Tom Bensari"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "furniture making"
+  - "material understanding"
+  - "collectible design"
+  - "woodworking education"
+  - "traditional woodworking"
 ---
 # What tools do you really need to start woodworking?
 

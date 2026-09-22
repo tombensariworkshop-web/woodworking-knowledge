@@ -15,21 +15,16 @@ knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "hand planes"
   - "hand tools"
-  - "wood as material"
-  - "furniture making"
   - "surface preparation"
-  - "traditional woodworking"
+  - "wood as material"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood grain direction"
   - "tool control"
   - "marking out"
+  - "traditional woodworking"
   - "wood movement"
   - "moisture content"
-  - "grain direction"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # How hand planes cut wood
 

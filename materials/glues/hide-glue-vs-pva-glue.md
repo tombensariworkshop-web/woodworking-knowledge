@@ -19,6 +19,7 @@ topics:
   - "furniture making"
   - "traditional woodworking"
   - "woodworking materials"
+metadata_updated: "2026-09-22"
 related_topics:
   - "veneering"
   - "reversible construction"
@@ -26,10 +27,6 @@ related_topics:
   - "wood movement"
   - "moisture content"
   - "grain direction"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Hide Glue vs PVA Glue
 

@@ -14,23 +14,18 @@ knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "veneering"
-  - "marking out"
-  - "accuracy and reference systems"
   - "wood as material"
   - "furniture making"
   - "traditional woodworking"
   - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
   - "hide glue"
   - "wood movement"
-  - "joinery"
-  - "hand tools"
   - "moisture content"
   - "grain direction"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "joinery"
+  - "material selection"
 ---
 # Why veneered panels are used in furniture – stability, composition and structural control
 

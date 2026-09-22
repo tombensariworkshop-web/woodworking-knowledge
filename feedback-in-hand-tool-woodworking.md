@@ -17,16 +17,13 @@ topics:
   - "woodworking education"
   - "workshop learning"
   - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
   - "tool control"
   - "marking out"
   - "traditional woodworking"
   - "skill development"
-  - "Tom Bensari"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "furniture making"
 ---
 # Feedback in Hand Tool Woodworking — Understanding Material Through Tools
 

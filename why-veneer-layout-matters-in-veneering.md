@@ -20,6 +20,7 @@ topics:
   - "furniture making"
   - "traditional woodworking"
   - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
   - "hide glue"
   - "wood movement"
@@ -27,10 +28,6 @@ related_topics:
   - "joinery"
   - "hand tools"
   - "material selection"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Why veneer layout matters in veneering – composition, structure and control
 

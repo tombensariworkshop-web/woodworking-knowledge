@@ -9,24 +9,20 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "chisels"
+primary_topic: "mortise and tenon"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "mortise and tenon"
   - "joinery"
+  - "furniture construction"
   - "chisels"
   - "hand tools"
-  - "furniture construction"
+metadata_updated: "2026-09-22"
 related_topics:
   - "marking out"
-  - "accuracy and reference systems"
   - "tool control"
   - "traditional woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Types of Chisels in Woodworking
 

@@ -16,17 +16,14 @@ topics:
   - "rasps and files"
   - "hand tools"
   - "furniture making"
+metadata_updated: "2026-09-22"
 related_topics:
+  - "shaping"
+  - "surface preparation"
   - "tool control"
   - "marking out"
   - "traditional woodworking"
   - "joinery"
-  - "material selection"
-  - "craftsmanship"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Choosing a Rasp for Woodworking
 

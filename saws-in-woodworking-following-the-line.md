@@ -13,23 +13,15 @@ primary_topic: "saws"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
-  - "veneering"
   - "saws"
   - "hand tools"
   - "marking out"
   - "accuracy and reference systems"
-  - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "furniture making"
+  - "joinery"
   - "tool control"
   - "traditional woodworking"
-  - "joinery"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Saws in Woodworking — Following the Line
 

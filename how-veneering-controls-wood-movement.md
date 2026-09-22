@@ -18,6 +18,7 @@ topics:
   - "adhesives"
   - "wood as material"
   - "furniture making"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "reversible construction"
@@ -25,10 +26,6 @@ related_topics:
   - "moisture content"
   - "grain direction"
   - "joinery"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # How Veneering Controls Wood Movement
 

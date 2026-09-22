@@ -18,16 +18,13 @@ topics:
   - "traditional woodworking"
   - "Tom Bensari"
   - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
   - "hand tools"
   - "skill development"
   - "joinery"
   - "craft education"
   - "furniture making"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Learning traditional woodworking: where it begins, how it develops, and why the environment matters
 

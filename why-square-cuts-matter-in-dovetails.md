@@ -20,6 +20,7 @@ topics:
   - "hand tools"
   - "accuracy and reference systems"
   - "furniture making"
+metadata_updated: "2026-09-22"
 related_topics:
   - "drawer construction"
   - "furniture construction"
@@ -27,10 +28,6 @@ related_topics:
   - "traditional woodworking"
   - "material selection"
   - "craftsmanship"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Why square cuts matter in dovetails
 

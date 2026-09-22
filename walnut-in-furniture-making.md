@@ -9,17 +9,18 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "wood as material"
+primary_topic: "hand planes"
 knowledge_role: "reference"
 knowledge_basis: "workshop material reference"
 topics:
   - "hand planes"
   - "hand tools"
+  - "surface preparation"
   - "wood as material"
   - "wood species"
   - "material selection"
   - "furniture making"
-  - "surface preparation"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood grain direction"
   - "tool control"
@@ -27,10 +28,6 @@ related_topics:
   - "traditional woodworking"
   - "wood movement"
   - "moisture content"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Walnut in Furniture Making
 

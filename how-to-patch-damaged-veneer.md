@@ -15,15 +15,12 @@ knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "veneering"
   - "adhesives"
+metadata_updated: "2026-09-22"
 related_topics:
   - "hide glue"
   - "wood movement"
   - "furniture making"
   - "furniture construction"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # How to Patch Damaged Veneer
 

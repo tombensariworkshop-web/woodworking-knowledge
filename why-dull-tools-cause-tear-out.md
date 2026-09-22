@@ -15,9 +15,10 @@ knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "hand planes"
   - "hand tools"
+  - "surface preparation"
   - "wood as material"
   - "traditional woodworking"
-  - "surface preparation"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood grain direction"
   - "tool control"
@@ -25,10 +26,6 @@ related_topics:
   - "wood movement"
   - "moisture content"
   - "grain direction"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Why Dull Tools Cause Tear-Out
 

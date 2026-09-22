@@ -16,14 +16,14 @@ topics:
   - "rasps and files"
   - "hand tools"
   - "craftsmanship"
+metadata_updated: "2026-09-22"
 related_topics:
+  - "shaping"
+  - "surface preparation"
   - "tool control"
   - "marking out"
   - "traditional woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "furniture making"
 ---
 # Hand-Stitched vs Machine-Cut Rasps
 

@@ -20,6 +20,7 @@ topics:
   - "furniture making"
   - "traditional woodworking"
   - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
   - "hand tools"
   - "drawer construction"
@@ -27,10 +28,6 @@ related_topics:
   - "material selection"
   - "craftsmanship"
   - "craft education"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # How to Divide Dovetails by Eye – Working with Proportion Instead of Formula
 

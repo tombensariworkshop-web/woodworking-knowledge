@@ -13,23 +13,18 @@ primary_topic: "furniture making"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
-  - "veneering"
-  - "wood species"
-  - "material selection"
   - "furniture making"
   - "woodworking education"
   - "workshop learning"
   - "craftsmanship"
+metadata_updated: "2026-09-22"
 related_topics:
-  - "hide glue"
-  - "wood movement"
   - "joinery"
+  - "material selection"
   - "hand tools"
   - "skill development"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "material understanding"
+  - "collectible design"
 ---
 # Why Is Craftsmanship Important in Furniture Making
 

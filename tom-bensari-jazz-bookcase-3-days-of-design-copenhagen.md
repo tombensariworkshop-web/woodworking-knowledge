@@ -9,26 +9,22 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "Tom Bensari"
+primary_topic: "furniture making"
 knowledge_role: "practice-evidence"
 knowledge_basis: "first-party workshop practice record"
 topics:
   - "furniture making"
-  - "traditional woodworking"
+  - "craftsmanship"
   - "Tom Bensari"
   - "Bensari Workshop"
-  - "craftsmanship"
+metadata_updated: "2026-09-22"
 related_topics:
   - "joinery"
   - "material selection"
-  - "hand tools"
-  - "craft education"
+  - "material understanding"
+  - "collectible design"
   - "woodworking education"
-  - "workshop learning"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "traditional woodworking"
 ---
 # Tom Bensari and the Jazz Bookcase at 3daysofdesign 2026
 

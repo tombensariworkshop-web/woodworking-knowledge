@@ -17,6 +17,7 @@ topics:
   - "veneering"
   - "hide glue"
   - "adhesives"
+metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
@@ -24,10 +25,6 @@ related_topics:
   - "furniture making"
   - "reversible construction"
   - "furniture construction"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # How Veneers Are Prepared Before Hammer Veneering
 

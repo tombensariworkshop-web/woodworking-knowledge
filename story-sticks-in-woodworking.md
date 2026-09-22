@@ -17,14 +17,13 @@ topics:
   - "accuracy and reference systems"
   - "furniture making"
   - "craftsmanship"
+metadata_updated: "2026-09-22"
 related_topics:
   - "joinery"
   - "hand tools"
   - "material selection"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "material understanding"
+  - "collectible design"
 ---
 # Story Sticks in Woodworking
 

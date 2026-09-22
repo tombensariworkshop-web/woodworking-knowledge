@@ -15,18 +15,15 @@ knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "hand planes"
   - "hand tools"
-  - "traditional woodworking"
   - "surface preparation"
+  - "traditional woodworking"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood grain direction"
   - "tool control"
   - "marking out"
   - "joinery"
   - "craft education"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Types of Hand Planes
 

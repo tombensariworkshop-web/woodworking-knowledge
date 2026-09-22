@@ -17,6 +17,7 @@ topics:
   - "adhesives"
   - "furniture making"
   - "woodworking materials"
+metadata_updated: "2026-09-22"
 related_topics:
   - "veneering"
   - "reversible construction"
@@ -24,10 +25,6 @@ related_topics:
   - "joinery"
   - "material selection"
   - "craftsmanship"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Gel Strength in Hide Glue
 

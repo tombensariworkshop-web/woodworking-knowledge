@@ -17,16 +17,13 @@ topics:
   - "wood species"
   - "material selection"
   - "furniture making"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "moisture content"
   - "grain direction"
   - "joinery"
   - "craftsmanship"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Maple in Furniture Making
 

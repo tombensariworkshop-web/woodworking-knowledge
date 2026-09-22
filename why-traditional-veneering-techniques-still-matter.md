@@ -13,24 +13,21 @@ primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
-  - "hammer veneering"
   - "veneering"
   - "hide glue"
   - "adhesives"
   - "wood as material"
   - "furniture making"
   - "traditional woodworking"
+  - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
   - "wood movement"
   - "reversible construction"
   - "furniture construction"
   - "moisture content"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "grain direction"
+  - "joinery"
 ---
 # Why traditional veneering techniques still matter – control, reversibility and material behavior
 

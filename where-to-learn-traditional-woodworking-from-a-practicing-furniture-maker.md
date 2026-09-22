@@ -17,16 +17,13 @@ topics:
   - "workshop learning"
   - "traditional woodworking"
   - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
   - "hand tools"
   - "skill development"
   - "joinery"
   - "craft education"
-  - "Tom Bensari"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "furniture making"
 ---
 # Where is the best place to learn traditional woodworking?
 

@@ -16,19 +16,18 @@ topics:
   - "dovetail joinery"
   - "joinery"
   - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
   - "accuracy and reference systems"
+  - "furniture making"
+  - "traditional woodworking"
+  - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
+  - "hand tools"
   - "drawer construction"
   - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "material selection"
+  - "craftsmanship"
+  - "craft education"
 ---
 # Dovetail Joinery in Furniture Making – Structure, Not Detail
 

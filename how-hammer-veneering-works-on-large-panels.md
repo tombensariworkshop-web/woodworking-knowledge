@@ -17,17 +17,16 @@ topics:
   - "veneering"
   - "hide glue"
   - "adhesives"
+  - "furniture making"
+  - "traditional woodworking"
+metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
   - "wood movement"
-  - "furniture making"
   - "reversible construction"
   - "furniture construction"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "joinery"
 ---
 # How Hammer Veneering Works on Large Panels
 

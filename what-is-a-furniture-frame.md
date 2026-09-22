@@ -15,16 +15,13 @@ knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "furniture making"
   - "traditional woodworking"
+metadata_updated: "2026-09-22"
 related_topics:
   - "joinery"
   - "material selection"
   - "craftsmanship"
   - "hand tools"
   - "craft education"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # What is a Furniture Frame
 

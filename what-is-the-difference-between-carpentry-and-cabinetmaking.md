@@ -16,16 +16,13 @@ topics:
   - "furniture making"
   - "woodworking education"
   - "workshop learning"
+metadata_updated: "2026-09-22"
 related_topics:
   - "joinery"
   - "material selection"
   - "craftsmanship"
   - "hand tools"
   - "skill development"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # What Is the Difference Between Carpentry and Cabinetmaking
 

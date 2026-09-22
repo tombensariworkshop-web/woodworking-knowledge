@@ -18,6 +18,7 @@ topics:
   - "hide glue"
   - "adhesives"
   - "furniture making"
+metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
@@ -25,10 +26,6 @@ related_topics:
   - "reversible construction"
   - "furniture construction"
   - "joinery"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Why Hammer Veneering Remains Relevant Today
 

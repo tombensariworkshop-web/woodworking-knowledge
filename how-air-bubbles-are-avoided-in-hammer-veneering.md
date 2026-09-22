@@ -20,6 +20,7 @@ topics:
   - "furniture making"
   - "traditional woodworking"
   - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
@@ -27,10 +28,6 @@ related_topics:
   - "reversible construction"
   - "furniture construction"
   - "joinery"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # How air bubbles are avoided in hammer veneering – pressure, glue and sequence
 

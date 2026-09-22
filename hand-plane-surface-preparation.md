@@ -15,22 +15,19 @@ knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "hand planes"
   - "hand tools"
+  - "surface preparation"
   - "wood as material"
   - "furniture making"
   - "woodworking education"
   - "workshop learning"
-  - "surface finishing"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood grain direction"
-  - "surface preparation"
   - "tool control"
   - "marking out"
   - "traditional woodworking"
   - "wood movement"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "moisture content"
 ---
 # Surface Preparation with Hand Planes
 

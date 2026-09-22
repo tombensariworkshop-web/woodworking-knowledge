@@ -15,6 +15,7 @@ knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "wood as material"
   - "traditional woodworking"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "moisture content"
@@ -22,10 +23,6 @@ related_topics:
   - "hand tools"
   - "joinery"
   - "craft education"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # What is Material Understanding in Woodworking
 

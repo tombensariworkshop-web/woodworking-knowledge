@@ -9,17 +9,18 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "tambour doors"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "veneering"
   - "tambour doors"
+  - "furniture construction"
   - "marking out"
   - "accuracy and reference systems"
   - "wood as material"
   - "Bensari Workshop"
-  - "furniture construction"
+metadata_updated: "2026-09-22"
 related_topics:
   - "hide glue"
   - "wood movement"
@@ -27,10 +28,6 @@ related_topics:
   - "joinery"
   - "hand tools"
   - "moisture content"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Continuous Wood Grain in Tambour Doors
 

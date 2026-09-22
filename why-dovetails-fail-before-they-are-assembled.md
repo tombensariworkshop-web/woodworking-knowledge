@@ -20,6 +20,7 @@ topics:
   - "chisels"
   - "hand tools"
   - "saws"
+metadata_updated: "2026-09-22"
 related_topics:
   - "drawer construction"
   - "furniture construction"
@@ -27,10 +28,6 @@ related_topics:
   - "hide glue"
   - "veneering"
   - "tool control"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Why Dovetails Fail Before They Are Assembled
 

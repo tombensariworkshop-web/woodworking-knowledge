@@ -9,29 +9,25 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand tools"
+primary_topic: "dovetail joinery"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
-  - "furniture making"
   - "dovetail joinery"
   - "joinery"
   - "marking out"
   - "hand planes"
   - "hand tools"
+  - "surface preparation"
   - "chisels"
-  - "saws"
+metadata_updated: "2026-09-22"
 related_topics:
   - "drawer construction"
   - "furniture construction"
   - "accuracy and reference systems"
   - "wood grain direction"
-  - "surface preparation"
   - "tool control"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "traditional woodworking"
 ---
 # Traditional Woodworking Tools
 

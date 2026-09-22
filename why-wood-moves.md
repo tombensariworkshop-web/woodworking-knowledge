@@ -13,20 +13,16 @@ primary_topic: "wood as material"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
-  - "adhesives"
   - "wood as material"
   - "furniture making"
+metadata_updated: "2026-09-22"
 related_topics:
-  - "hide glue"
-  - "veneering"
-  - "furniture construction"
   - "wood movement"
   - "moisture content"
   - "grain direction"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "joinery"
+  - "material selection"
+  - "craftsmanship"
 ---
 # Why Wood Moves
 

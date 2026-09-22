@@ -15,19 +15,16 @@ knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "hand planes"
   - "hand tools"
+  - "surface preparation"
   - "woodworking education"
   - "workshop learning"
-  - "surface preparation"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood grain direction"
   - "tool control"
   - "marking out"
   - "traditional woodworking"
   - "skill development"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # How Hand Pressure Affects Planing
 

@@ -20,17 +20,14 @@ topics:
   - "hand tools"
   - "accuracy and reference systems"
   - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
   - "drawer construction"
   - "furniture construction"
   - "tool control"
   - "traditional woodworking"
-  - "Tom Bensari"
-  - "workshop learning"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "woodworking education"
+  - "furniture making"
 ---
 # Dovetail joinery: a practical guide to layout, sawing, waste removal, and fit
 

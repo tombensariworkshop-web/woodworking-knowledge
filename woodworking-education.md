@@ -9,28 +9,21 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "pillar-guide"
-knowledge_basis: "practice-based pillar guide"
+primary_topic: "marking out"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 topics:
-  - "dovetail joinery"
-  - "joinery"
   - "marking out"
-  - "mortise and tenon"
-  - "hand tools"
   - "accuracy and reference systems"
   - "woodworking education"
-related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
   - "workshop learning"
-  - "skill development"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "traditional woodworking"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "joinery"
+  - "hand tools"
+  - "skill development"
+  - "craft education"
 ---
 # Learning traditional woodworking
 

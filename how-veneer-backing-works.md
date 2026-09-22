@@ -17,6 +17,7 @@ topics:
   - "wood as material"
   - "furniture making"
   - "traditional woodworking"
+metadata_updated: "2026-09-22"
 related_topics:
   - "hide glue"
   - "wood movement"
@@ -24,10 +25,6 @@ related_topics:
   - "grain direction"
   - "joinery"
   - "material selection"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # How Veneer Backing Works
 

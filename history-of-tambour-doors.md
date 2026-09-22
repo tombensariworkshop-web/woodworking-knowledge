@@ -14,20 +14,17 @@ knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "tambour doors"
+  - "furniture construction"
   - "furniture making"
   - "Bensari Workshop"
-  - "furniture construction"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "veneering"
   - "joinery"
   - "material selection"
   - "craftsmanship"
-  - "Tom Bensari"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "woodworking education"
 ---
 # The History of Tambour Doors
 

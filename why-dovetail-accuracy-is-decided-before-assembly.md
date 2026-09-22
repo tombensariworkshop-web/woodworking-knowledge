@@ -20,15 +20,12 @@ topics:
   - "hand tools"
   - "saws"
   - "accuracy and reference systems"
+metadata_updated: "2026-09-22"
 related_topics:
   - "drawer construction"
   - "furniture construction"
   - "tool control"
   - "traditional woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Why Dovetail Accuracy Is Decided Before Assembly
 

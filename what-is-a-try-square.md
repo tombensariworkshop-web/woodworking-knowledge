@@ -16,15 +16,12 @@ topics:
   - "marking out"
   - "accuracy and reference systems"
   - "furniture making"
+metadata_updated: "2026-09-22"
 related_topics:
   - "joinery"
   - "hand tools"
   - "material selection"
   - "craftsmanship"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # What Is a Try Square
 

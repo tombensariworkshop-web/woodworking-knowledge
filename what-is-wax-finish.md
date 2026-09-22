@@ -9,24 +9,22 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "surface finishing"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "hand tools"
   - "wood as material"
   - "furniture making"
   - "surface finishing"
+metadata_updated: "2026-09-22"
 related_topics:
+  - "tool control"
+  - "marking out"
+  - "traditional woodworking"
   - "wood movement"
   - "moisture content"
   - "grain direction"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # What is a Wax Finish
 

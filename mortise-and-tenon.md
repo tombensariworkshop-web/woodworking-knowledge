@@ -9,26 +9,23 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "mortise and tenon"
-knowledge_role: "pillar-guide"
-knowledge_basis: "practice-based pillar guide"
+primary_topic: "dovetail joinery"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "dovetail joinery"
   - "joinery"
   - "marking out"
   - "mortise and tenon"
-  - "chisels"
-  - "hand tools"
-  - "accuracy and reference systems"
-related_topics:
-  - "drawer construction"
   - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "accuracy and reference systems"
+  - "furniture making"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "hand tools"
+  - "drawer construction"
+  - "material selection"
+  - "craftsmanship"
 ---
 # Mortise and tenon joinery
 

@@ -16,8 +16,9 @@ topics:
   - "veneering"
   - "furniture making"
   - "traditional woodworking"
-  - "Bensari Workshop"
   - "craftsmanship"
+  - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
   - "hide glue"
   - "wood movement"
@@ -25,10 +26,6 @@ related_topics:
   - "material selection"
   - "hand tools"
   - "craft education"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # How does veneering connect historical and contemporary furniture making?
 

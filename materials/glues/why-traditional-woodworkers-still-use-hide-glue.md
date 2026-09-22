@@ -9,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hide glue"
+primary_topic: "hammer veneering"
 knowledge_role: "reference"
 knowledge_basis: "workshop material reference"
 topics:
@@ -20,6 +20,7 @@ topics:
   - "wood as material"
   - "furniture making"
   - "traditional woodworking"
+metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
@@ -27,10 +28,6 @@ related_topics:
   - "reversible construction"
   - "furniture construction"
   - "moisture content"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Why Traditional Woodworkers Still Use Hide Glue
 

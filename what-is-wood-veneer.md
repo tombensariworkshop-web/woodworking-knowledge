@@ -14,22 +14,17 @@ knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "veneering"
-  - "tambour doors"
   - "saws"
   - "hand tools"
   - "wood as material"
-  - "furniture making"
+metadata_updated: "2026-09-22"
 related_topics:
   - "hide glue"
   - "wood movement"
-  - "furniture construction"
-  - "tool control"
+  - "furniture making"
+  - "joinery"
   - "marking out"
-  - "traditional woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "tool control"
 ---
 # What Is Wood Veneer
 

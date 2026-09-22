@@ -16,19 +16,16 @@ topics:
   - "furniture making"
   - "woodworking education"
   - "workshop learning"
-  - "Bensari Workshop"
   - "craftsmanship"
+  - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
   - "joinery"
   - "material selection"
   - "hand tools"
   - "skill development"
-  - "Tom Bensari"
-  - "traditional woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "material understanding"
+  - "collectible design"
 ---
 # European Furniture Making Traditions
 

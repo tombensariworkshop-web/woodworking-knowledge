@@ -14,16 +14,13 @@ knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "tambour doors"
-  - "adhesives"
   - "furniture construction"
+  - "adhesives"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "veneering"
   - "hide glue"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # What is a tambour door?
 

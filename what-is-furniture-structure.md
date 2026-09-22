@@ -9,24 +9,23 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "joinery"
+primary_topic: "mortise and tenon"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "mortise and tenon"
   - "joinery"
+  - "furniture construction"
   - "wood as material"
   - "furniture making"
+metadata_updated: "2026-09-22"
 related_topics:
+  - "marking out"
+  - "hand tools"
   - "wood movement"
   - "moisture content"
   - "grain direction"
-  - "joinery"
   - "material selection"
-  - "craftsmanship"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # What is Furniture Structure
 

@@ -9,29 +9,25 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "Tom Bensari"
+primary_topic: "dovetail joinery"
 knowledge_role: "practice-evidence"
 knowledge_basis: "first-party workshop practice record"
 topics:
-  - "Tom Bensari"
   - "dovetail joinery"
   - "joinery"
   - "marking out"
   - "mortise and tenon"
+  - "furniture construction"
   - "hammer veneering"
   - "veneering"
-  - "hide glue"
+metadata_updated: "2026-09-22"
 related_topics:
   - "hand tools"
   - "drawer construction"
-  - "furniture construction"
   - "accuracy and reference systems"
+  - "hide glue"
   - "veneer preparation"
   - "cabinetmaking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Tom Bensari in the Homo Faber Guide. Traditional Woodworking, Craftsmanship and the Michelangelo Foundation
 

@@ -13,23 +13,19 @@ primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
-  - "hammer veneering"
   - "veneering"
   - "hide glue"
   - "adhesives"
   - "wood as material"
   - "surface finishing"
+metadata_updated: "2026-09-22"
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
   - "wood movement"
   - "furniture making"
   - "reversible construction"
   - "furniture construction"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "moisture content"
+  - "grain direction"
 ---
 # How to Fix Veneer Bubbles
 

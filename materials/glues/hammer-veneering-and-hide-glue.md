@@ -20,6 +20,7 @@ topics:
   - "wood as material"
   - "furniture making"
   - "traditional woodworking"
+metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
@@ -27,10 +28,6 @@ related_topics:
   - "reversible construction"
   - "furniture construction"
   - "moisture content"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Hammer Veneering and Hide Glue
 

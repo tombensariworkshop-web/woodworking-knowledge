@@ -17,20 +17,17 @@ topics:
   - "veneering"
   - "hide glue"
   - "steam bending"
+  - "wood movement"
   - "adhesives"
   - "furniture making"
-  - "woodworking education"
+metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
-  - "wood movement"
   - "reversible construction"
-  - "material selection"
   - "furniture design"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "material selection"
+  - "furniture construction"
 ---
 # Hammer veneering in contemporary cabinetmaking – control, tradition, and real workshop practice
 

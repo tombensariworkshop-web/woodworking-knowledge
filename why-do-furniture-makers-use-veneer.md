@@ -13,24 +13,19 @@ primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
-  - "hammer veneering"
   - "veneering"
-  - "hide glue"
-  - "adhesives"
   - "wood as material"
   - "furniture making"
   - "woodworking education"
-related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "moisture content"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "workshop learning"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "hide glue"
+  - "wood movement"
+  - "moisture content"
+  - "grain direction"
+  - "joinery"
+  - "material selection"
 ---
 # Why Do Furniture Makers Use Veneer
 

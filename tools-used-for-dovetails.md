@@ -16,21 +16,18 @@ topics:
   - "dovetail joinery"
   - "joinery"
   - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-related_topics:
+  - "hand planes"
   - "hand tools"
+  - "surface preparation"
+  - "chisels"
+metadata_updated: "2026-09-22"
+related_topics:
   - "drawer construction"
   - "furniture construction"
-  - "material selection"
-  - "craftsmanship"
-  - "craft education"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "accuracy and reference systems"
+  - "wood grain direction"
+  - "tool control"
+  - "traditional woodworking"
 ---
 # Tools used for hand-cut dovetails
 

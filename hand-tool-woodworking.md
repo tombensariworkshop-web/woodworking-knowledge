@@ -9,28 +9,23 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand tools"
-knowledge_role: "pillar-guide"
-knowledge_basis: "practice-based pillar guide"
+primary_topic: "hand planes"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "hand planes"
   - "hand tools"
+  - "surface preparation"
   - "chisels"
   - "saws"
   - "marking out"
   - "accuracy and reference systems"
-  - "furniture making"
+metadata_updated: "2026-09-22"
 related_topics:
   - "wood grain direction"
-  - "surface preparation"
   - "tool control"
   - "traditional woodworking"
   - "joinery"
-  - "material selection"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
 ---
 # Hand tool woodworking – control, feedback and material understanding
 

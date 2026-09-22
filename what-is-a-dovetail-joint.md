@@ -17,20 +17,17 @@ topics:
   - "joinery"
   - "marking out"
   - "adhesives"
-  - "saws"
-  - "hand tools"
   - "accuracy and reference systems"
+  - "furniture making"
+  - "Bensari Workshop"
+metadata_updated: "2026-09-22"
 related_topics:
+  - "hand tools"
   - "drawer construction"
   - "furniture construction"
   - "hide glue"
   - "veneering"
-  - "tool control"
-  - "traditional woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "material selection"
 ---
 # What is a dovetail joint
 

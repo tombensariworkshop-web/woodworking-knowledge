@@ -9,23 +9,22 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "woodworking knowledge architecture"
+primary_topic: "veneering"
 knowledge_role: "knowledge-hub"
 knowledge_basis: "first-party knowledge navigation"
 topics:
-  - "woodworking knowledge architecture"
-  - "traditional woodworking"
-  - "furniture making"
-  - "woodworking education"
-related_topics:
-  - "joinery"
-  - "hand tools"
   - "veneering"
-  - "wood as material"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "hide glue"
+  - "adhesives"
+  - "traditional woodworking"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "wood movement"
+  - "furniture making"
+  - "reversible construction"
+  - "furniture construction"
+  - "hand tools"
+  - "joinery"
 ---
 # Complete Woodworking Knowledge Catalog
 
