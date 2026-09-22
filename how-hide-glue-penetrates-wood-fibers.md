@@ -25,5 +25,5 @@ This interaction between hide glue and wood fibers is one reason why traditional
 The thin glue line formed during hammer veneering allows the adhesive to penetrate the surface while still maintaining a rigid bond between veneer and substrate.
 
 Related articles  
-- hammer-veneering-and-hide-glue.md  
-- how-hot-hide-glue-behaves-in-hammer-veneering.md
+- [Hammer veneering and hide glue](materials/glues/hammer-veneering-and-hide-glue.md)
+- materials/glues/hide-glue-in-veneering.md

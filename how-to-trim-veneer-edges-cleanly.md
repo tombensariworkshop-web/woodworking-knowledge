@@ -25,5 +25,5 @@ Once the veneer has been trimmed, cabinet scrapers are often used to refine the 
 Careful trimming ensures that the veneered panel has clean, sharp edges ready for finishing.
 
 Related articles  
-- tools-used-in-hammer-veneering.md  
-- how-scrapers-cut-wood.md
+- [Tools Used in Hammer Veneering](tools-used-in-hammer-veneering.md)
+- [How Scrapers Cut Wood](how-scrapers-cut-wood.md)

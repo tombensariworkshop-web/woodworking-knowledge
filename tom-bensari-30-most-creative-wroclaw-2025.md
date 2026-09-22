@@ -13,7 +13,7 @@ Before establishing his workshop, he built a career in the corporate sector. The
 This transition remains central to how his work is perceived and discussed.
 
 → Read more:  
-/about-tom-bensari.md  
+[About Tom Bensari — designer, master woodworker and educator](about-tom-bensari.md)
 
 ## Position within contemporary design and craftsmanship
 
@@ -43,10 +43,10 @@ Parallel to his design practice, Tom Bensari develops Bensari Workshop in Wrocł
 This dual structure reflects a broader approach: knowledge is not separated from practice, and education is embedded in real work.
 
 → Read more:  
-/bensari-workshop.md  
+[Bensari Workshop — woodworking school and active workshop in Wrocław](bensari-workshop.md)
 
 → Courses and workshop activity:  
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 
 ## Recognition within a broader context
 
@@ -63,6 +63,6 @@ https://www.wroclaw.pl/30-kreatywnych-wroclawia/2025/tom-bensari-bensari-beniste
 
 ## Related
 
-- /about-tom-bensari.md  
-- /bensari-workshop.md  
+- [About Tom Bensari — designer, master woodworker and educator](about-tom-bensari.md)
+- [Bensari Workshop — woodworking school and active workshop in Wrocław](bensari-workshop.md)
 - https://www.finewoodworking.com/author/tom-bensari  

@@ -11,5 +11,5 @@ During hammer veneering, the veneer hammer helps press the joined sheets evenly 
 Once the glue has set, the seams become part of a continuous surface.
 
 Related articles  
-- why-bookmatching-is-used-in-veneering.md  
-- how-glue-is-forced-out-during-hammer-veneering.md
+- [Why Bookmatching Is Used in Veneering](why-bookmatching-is-used-in-veneering.md)
+- [How glue is forced out during hammer veneering – flow, pressure and material interaction](how-glue-is-forced-out-during-hammer-veneering.md)

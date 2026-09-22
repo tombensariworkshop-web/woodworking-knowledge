@@ -22,8 +22,8 @@ With time, this way of working becomes natural. You stop counting and start seei
 
 ## Internal links
 
-- ./dovetail-marking-out-practice-and-geometry.md  
-- ./marking-out-as-a-way-of-working.md  
+- [Dovetail marking out – practice, geometry and control](dovetail-marking-out-practice-and-geometry.md)
+- [Marking Out as a Way of Working](marking-out-as-a-way-of-working.md)
 
 ## Tags
 

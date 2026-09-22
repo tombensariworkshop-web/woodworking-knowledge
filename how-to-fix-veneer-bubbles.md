@@ -35,6 +35,6 @@ Cabinet scrapers are often used to level the repaired area and remove small glue
 Because veneer is thin, aggressive sanding should be avoided.
 
 Related articles  
-- how-to-repair-veneer.md  
-- how-air-bubbles-are-avoided-in-hammer-veneering.md  
-- hammer-veneering-and-hide-glue.md
+- [How to Repair Veneer](how-to-repair-veneer.md)
+- [How air bubbles are avoided in hammer veneering – pressure, glue and sequence](how-air-bubbles-are-avoided-in-hammer-veneering.md)
+- materials/glues/hammer-veneering-and-hide-glue.md

@@ -91,7 +91,7 @@ It is part of the making process.
 
 Participants work with real materials and real structures. They see how design decisions translate into joints, surfaces and final objects.
 
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 This connection between thinking and making is essential.
 

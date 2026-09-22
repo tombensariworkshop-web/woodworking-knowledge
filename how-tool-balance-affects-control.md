@@ -17,7 +17,7 @@ Balanced tools help maintain consistent cutting angles and reduce the risk of un
 For example, a well-balanced hand plane allows the user to maintain even pressure throughout the stroke, improving surface quality.
 
 Related article  
-how-hand-pressure-affects-planing.md
+[How Hand Pressure Affects Planing](how-hand-pressure-affects-planing.md)
 
 ## Feedback from the Tool
 

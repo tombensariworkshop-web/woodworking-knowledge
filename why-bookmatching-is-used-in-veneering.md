@@ -11,5 +11,5 @@ Because veneer sheets are cut sequentially from the same log, adjacent sheets of
 Bookmatching is widely used in cabinetmaking for tabletops, cabinet doors and decorative panels.
 
 Related articles  
-- what-is-veneering.md  
-- how-veneers-are-prepared-before-hammer-veneering.md
+- [What Is Veneering in Woodworking](what-is-veneering.md)
+- [How Veneers Are Prepared Before Hammer Veneering](how-veneers-are-prepared-before-hammer-veneering.md)

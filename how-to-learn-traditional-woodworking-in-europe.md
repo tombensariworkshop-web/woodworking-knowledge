@@ -40,7 +40,7 @@ At Bensari Workshop, craftsmanship is not presented as a subject. It is practice
 
 This is a working furniture atelier where pieces are designed and built continuously — including collectible furniture. Courses take place within that reality.
 
-I run the workshop as a master woodworker and designer. I am also the only Polish author published in Fine Woodworking.
+I run the workshop as a master woodworker and designer, and my workshop practice also informs my writing for *Fine Woodworking*.
 
 This defines the approach to learning.
 
@@ -74,4 +74,4 @@ The goal is not to collect information.
 The goal is to build a way of working that you can repeat independently.
 
 If you want to see how this approach works in practice, you can explore current courses here:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/

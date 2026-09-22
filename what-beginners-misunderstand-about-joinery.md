@@ -71,7 +71,7 @@ Joinery always exists in relation to material, and wood does not behave as a neu
 When a joint is assembled, the material compresses in some areas and resists in others, and these small reactions affect how tightly the parts close and how stable the structure remains. Without taking this into account, it is easy to create joints that appear correct when dry-fitted but begin to behave differently under pressure or after some time.
 
 If you want to see how these principles are used in contemporary work, see:
-[How traditional woodworking techniques are used in modern furniture making](./how-traditional-woodworking-techniques-are-used-in-modern-furniture-making.md)
+[How traditional woodworking techniques are used in modern furniture making](./why-are-traditional-woodworking-techniques-still-relevant-today.md)
 
 ## A change in perspective
 

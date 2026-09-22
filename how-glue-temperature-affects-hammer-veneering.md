@@ -76,7 +76,7 @@ It is about maintaining control over:
 
 Learn more:
 
-- [How hot hide glue behaves in hammer veneering](how-hot-hide-glue-behaves-in-hammer-veneering.md)
+- [How hot hide glue behaves in hammer veneering](materials/glues/hide-glue-in-veneering.md)
 
 ## Temperature as a decision
 

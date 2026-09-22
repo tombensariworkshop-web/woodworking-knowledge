@@ -52,6 +52,6 @@ This staged approach reflects a broader principle in traditional woodworking: sh
 
 Although modern workshops frequently use machines for shaping operations, rasps and files remain important tools in many craft environments.
 
-Our workshop is one of the few places in Poland where hand tools are part of everyday woodworking practice. Rasps, files, planes and chisels are used daily when shaping furniture components and refining details.
+At Bensari Workshop, hand tools are part of everyday woodworking practice. Rasps, files, planes and chisels are used when shaping furniture components and refining details.
 
 At Bensari Workshop, participants in woodworking courses learn how these tools work while building real furniture elements. Through this process they discover how simple hand tools can provide precise control over the form of a wooden object.

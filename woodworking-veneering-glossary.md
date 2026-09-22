@@ -57,7 +57,7 @@ It is valued for:
 Its properties make it especially suitable for veneering and restoration.
 
 Related:
-- [Hammer veneering and hide glue](hammer-veneering-and-hide-glue.md)  
+- [Hammer veneering and hide glue](materials/glues/hammer-veneering-and-hide-glue.md)
 - [What is hide glue](what-is-hide-glue.md)
 
 ---
@@ -107,7 +107,7 @@ The process of refining wood before finishing or veneering.
 It typically includes planing and scraping rather than sanding.
 
 Related:
-- [What is surface preparation](what-is-surface-preparation.md)
+- [What is surface preparation](hand-plane-surface-preparation.md)
 
 ---
 

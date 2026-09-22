@@ -73,13 +73,13 @@ This is as true for workshop work as it is for collectible design pieces.
 
 ## Bensari Workshop as a working environment
 
-Bensari Workshop is one of the few places in Poland where furniture design, making and teaching function together.
+At Bensari Workshop, furniture making and teaching function in the same working environment.
 
 Furniture is built here for real projects, and the same processes are used during courses.
 
 Participants do not learn techniques in isolation. They see how those techniques function in context, how decisions are made, and how problems are solved.
 
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 This connection between practice and teaching is essential.
 
@@ -108,7 +108,7 @@ The same methods can operate in different contexts, from workshop practice to co
 - [Traditional woodworking](traditional-woodworking.md)  
 - [Furniture design and craft](furniture-design-and-craft.md)  
 - [Craftsmanship and knowledge](craftsmanship-and-knowledge.md)  
-- [Why traditional woodworking techniques still matter](why-traditional-woodworking-techniques-still-matter.md)  
+- [Why traditional woodworking techniques are still relevant](why-are-traditional-woodworking-techniques-still-relevant-today.md)
 
 ## Related hub
 

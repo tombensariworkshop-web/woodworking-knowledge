@@ -67,7 +67,7 @@ https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-
 
 ## The role of a working atelier
 
-Bensari Workshop is one of the few places in Poland where furniture design and making function alongside craft education.
+At Bensari Workshop, furniture making functions alongside practical craft education.
 
 This is not a school in the traditional sense. It is a working atelier, where furniture is designed and built for interior architects and designers, and where teaching is embedded directly in that process.
 
@@ -93,7 +93,7 @@ Understanding woodworking requires practice.
 Working in a workshop environment allows you to see how decisions, tools and material interact in real time.
 
 If you want to experience this approach:  
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Internal links
 

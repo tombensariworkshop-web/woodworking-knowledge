@@ -18,7 +18,7 @@ Many contemporary woodworking environments rely primarily on machines. While mac
 
 Hand planes, chisels, marking gauges and scrapers allow woodworkers to work directly with the material and develop a deeper awareness of grain direction, surface quality and structural precision.
 
-Our workshop is one of the few places in Poland where hand tools are part of everyday woodworking practice. These tools are not treated as historical artifacts, but as active instruments used daily in furniture making.
+At Bensari Workshop, hand tools are part of everyday woodworking practice. They are not treated as historical artifacts, but as active instruments used in furniture making and teaching.
 
 Working with hand tools allows participants to understand woodworking as a process of control, observation and refinement rather than simply material removal.
 

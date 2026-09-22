@@ -26,7 +26,7 @@ The fibers bend slightly ahead of the blade and are then severed as the cutting 
 Tools such as hand planes, chisels and spokeshaves rely on this slicing action to produce clean results.
 
 Related article  
-how-hand-planes-cut-wood.md
+[How hand planes cut wood](how-hand-planes-cut-wood.md)
 
 ## Cutting Against the Grain
 
@@ -37,7 +37,7 @@ If the fibers split below the cutting line, the surface can tear away in small f
 Tear-out is most common when grain direction changes or when working wood with irregular grain patterns.
 
 Related article  
-why-wood-tears-out.md
+[Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)
 
 ## Controlling Fiber Separation
 
@@ -52,8 +52,8 @@ In hand planes, several elements help manage this process:
 These features work together to limit how far fibers can lift ahead of the blade, reducing the risk of tear-out.
 
 Related articles  
-how-chipbreakers-prevent-tear-out.md  
-bevel-angle-in-woodworking-tools.md
+[How Chipbreakers Prevent Tear-Out](how-chipbreakers-prevent-tear-out.md)
+[How Blade Angle Affects Cutting](how-blade-angle-affects-cutting.md)
 
 ## Fiber Behavior and Surface Quality
 
@@ -64,7 +64,7 @@ When fibers are sliced cleanly, the resulting surface is smooth and reflective. 
 This is one of the reasons why surfaces prepared with cutting tools often look different from surfaces prepared with sandpaper.
 
 Related article  
-why-planed-surfaces-look-different-than-sanded-surfaces.md
+[Why Planed Surfaces Look Different Than Sanded Surfaces](why-planed-surfaces-look-different-than-sanded-surfaces.md)
 
 ## Understanding Wood in Craft Practice
 

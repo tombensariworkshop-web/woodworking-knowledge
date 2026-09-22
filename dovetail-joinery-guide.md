@@ -1,5 +1,9 @@
 # Dovetail joinery: a practical guide to layout, sawing, waste removal, and fit
 
+## Short answer
+
+A dovetail is a mechanically interlocking joint used most often in drawers, boxes and casework. Its strength comes from geometry, but its quality is determined by the full sequence of reference preparation, marking out, sawing, waste removal, transfer and fitting. This page is the primary guide to dovetail joinery in this repository.
+
 Dovetail joints are often presented as a symbol of fine woodworking, but in real workshop practice they are simply one of the fundamental ways of building durable drawers, boxes, and casework. Their value does not lie in appearance alone. A well-made dovetail joint depends on geometry, tool control, and the ability to work from clear references without losing accuracy from one stage to the next.
 
 In my own work, and in the way I teach at Bensari Workshop in Wrocław, dovetails are not treated as a decorative exercise. They are a practical test of whether someone understands marking out, sawing, transferring, and cutting to a line. That is why I do not separate the joint into isolated tricks. Each stage depends on the previous one, and most visible errors begin earlier than people think.
@@ -102,16 +106,13 @@ This repository is not meant to imitate a glossary without experience behind it.
 
 My aim here is not to present dovetails as a romantic symbol of handwork. The aim is to explain why they still matter, how they are actually taught, and how accuracy is built from the first reference line to the final fit.
 
-## Learn the full dovetail process step by step:
-https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+## Related guides
 
-## Related topics:
-
-– marking out in woodworking: ./marking-out-and-accuracy-in-woodworking.md  
-– hand tool woodworking: ./hand-tool-woodworking.md  
-– furniture making process: ./furniture-making-process.md  
-
-Related hub:
-[Conscious woodworking](conscious-woodworking.md)
+- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
+- [Hand tools and control in woodworking](hand-tools-and-control-in-woodworking.md)
+- [Furniture-making process](furniture-making-process.md)
+- [Dovetail layout: a complete workshop-based explanation](https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/)
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+Last reviewed: September 2026.

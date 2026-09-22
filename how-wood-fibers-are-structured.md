@@ -13,4 +13,4 @@ Wood fibers are arranged in bundles that give wood its strength.
 The orientation of these fibers determines how wood behaves when cut.
 
 Related article  
-how-wood-fibers-behave-during-cutting.md
+[How Wood Fibers Behave During Cutting](how-wood-fibers-behave-during-cutting.md)

@@ -17,8 +17,8 @@ Despite its name, it is not used for striking. The wide metal blade acts more li
 This pressure ensures that air pockets are removed and that the veneer lies flat against the substrate.
 
 Related articles  
-- what-is-hammer-veneering.md  
-- how-the-veneer-hammer-actually-works.md
+- [What Is Hammer Veneering](what-is-hammer-veneering.md)
+- [Veneer Hammer in Traditional Cabinetmaking](veneer-hammer-in-traditional-cabinetmaking.md)
 
 ## Toothing Plane
 
@@ -31,7 +31,7 @@ These grooves help hide glue adhere more effectively and reduce the risk of vene
 Preparing the surface with a toothing plane is a common step in traditional cabinetmaking when using hot hide glue.
 
 Related articles  
-- how-veneering-controls-wood-movement.md
+- [How Veneering Controls Wood Movement](how-veneering-controls-wood-movement.md)
 
 ## Glue Pot
 
@@ -42,7 +42,7 @@ A glue pot keeps the adhesive at a stable temperature so that it remains fluid d
 Because the glue begins to gel quickly, the process of gluing and pressing veneer must be performed efficiently.
 
 Related articles  
-- how-hot-hide-glue-behaves-in-hammer-veneering.md
+- materials/glues/hide-glue-in-veneering.md
 
 ## Glue Brush
 
@@ -61,7 +61,7 @@ Thin veneer can split easily along the grain, so veneer saws or sharp knives are
 Accurate cutting is particularly important when multiple sheets will be arranged in decorative patterns.
 
 Related articles  
-- how-veneers-are-prepared-before-hammer-veneering.md
+- [How Veneers Are Prepared Before Hammer Veneering](how-veneers-are-prepared-before-hammer-veneering.md)
 
 ## Veneer Tape
 
@@ -74,8 +74,8 @@ During hammer veneering the joined sheets are placed onto the glued surface as a
 After the glue has set, the tape can be removed by lightly moistening it.
 
 Related articles  
-- why-bookmatching-is-used-in-veneering.md  
-- how-veneer-seams-are-aligned.md
+- [Why Bookmatching Is Used in Veneering](why-bookmatching-is-used-in-veneering.md)
+- [How Veneer Seams Are Aligned](how-veneer-seams-are-aligned.md)
 
 ## Scrapers
 
@@ -84,7 +84,7 @@ Cabinet scrapers are used after veneering to refine the surface.
 Because veneer is thin, scrapers allow controlled material removal without damaging the decorative layer. They are often used to remove small irregularities or glue residues.
 
 Related articles  
-- how-scrapers-cut-wood.md
+- [How Scrapers Cut Wood](how-scrapers-cut-wood.md)
 
 ## Hand Planes
 
@@ -101,5 +101,5 @@ Understanding how hide glue behaves, how pressure should be applied with the ven
 For this reason the technique remains part of traditional cabinetmaking practice and is still taught in workshops where historical woodworking skills are applied in contemporary furniture making.
 
 Related articles  
-- what-is-veneering.md  
-- hammer-veneering-and-hide-glue.md
+- [What Is Veneering in Woodworking](what-is-veneering.md)
+- materials/glues/hammer-veneering-and-hide-glue.md

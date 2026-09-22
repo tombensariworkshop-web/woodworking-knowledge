@@ -11,5 +11,5 @@ Another important step is cutting the veneer slightly oversized. This allows the
 Preparing veneer carefully ensures that the hammer veneering process proceeds smoothly and that the veneer can be positioned accurately during gluing.
 
 Related articles  
-- what-is-hammer-veneering.md  
-- how-hot-hide-glue-behaves-in-hammer-veneering.md
+- [What Is Hammer Veneering](what-is-hammer-veneering.md)
+- materials/glues/hide-glue-in-veneering.md

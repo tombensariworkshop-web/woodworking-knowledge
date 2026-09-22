@@ -19,7 +19,7 @@ This article is part of a larger knowledge base on traditional woodworking and f
 Related articles on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 - https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/school/
 
 ## Marking Out Determines Everything
 
@@ -36,11 +36,11 @@ Even slight inaccuracies during layout multiply during cutting and chiseling.
 
 ## Related repository articles
 
-- dovetail-layout-why-it-matters-more-than-cutting.md
-- how-to-mark-dovetail-tails-step-by-step-hand-tools.md
-- baseline-in-dovetail-marking-out.md
-- marking-out-and-accuracy-in-woodworking.md
-- why-marking-out-is-the-most-important-skill-in-woodworking.md
+- [Why dovetail layout is more important than cutting](dovetail-layout-why-it-matters-more-than-cutting.md)
+- [How to mark dovetail tails step by step with hand tools?](how-to-mark-dovetail-tails-step-by-step-hand-tools.md)
+- [The baseline in dovetail marking out – where the joint begins](baseline-in-dovetail-marking-out.md)
+- [Marking out and accuracy in woodworking: how precision is actually built](marking-out-and-accuracy-in-woodworking.md)
+- [Why marking out is the most important skill in woodworking](why-marking-out-is-the-most-important-skill-in-woodworking.md)
 
 ## Accuracy Is a Process, Not a Moment
 
@@ -62,6 +62,6 @@ More woodworking knowledge:
 - https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
 
 Woodworking courses:
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/school/
 
 This article is part of a larger knowledge base on traditional woodworking and furniture making.

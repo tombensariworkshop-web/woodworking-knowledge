@@ -22,5 +22,5 @@ This is part of a larger knowledge base on traditional woodworking and furniture
 
 Online learning can be a starting point. But without correction, without interaction, and without direct contact with an experienced practitioner, it often leads to habits that limit further development rather than support it.
 
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/hand-plane-techniques/

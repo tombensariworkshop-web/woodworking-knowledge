@@ -9,4 +9,4 @@ This pattern can make planing difficult because cutting direction changes consta
 Interlocked grain increases the risk of tear-out.
 
 Related article  
-why-wood-tears-out.md
+[Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)

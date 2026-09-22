@@ -29,5 +29,5 @@ In tambour doors produced in the workshop of Bensari Workshop for the brand Bens
 This approach helps ensure that the flexible structure of the tambour remains stable while preserving the visual quality of the veneered surface.
 
 Related articles  
-- how-veneer-backing-works.md  
-- why-veneered-surfaces-are-stable.md
+- [How Veneer Backing Works](how-veneer-backing-works.md)
+- [Why veneered surfaces are stable – structure, balance and material control](why-veneered-surfaces-are-stable.md)

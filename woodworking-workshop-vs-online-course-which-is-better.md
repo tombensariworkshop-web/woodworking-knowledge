@@ -27,4 +27,4 @@ That moment is where progress begins.
 If your goal is to understand woodworking, online resources may be enough. If your goal is to develop real, repeatable skill, then at some point you need to work in an environment where feedback is part of the process.
 
 If you want to see how this works in practice, you can explore current courses here:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/

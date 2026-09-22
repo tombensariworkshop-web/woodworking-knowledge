@@ -56,7 +56,7 @@ This reduces internal stress and stabilizes the element.
 
 Learn more:
 
-- [What is a backing veneer](what-is-a-backing-veneer.md)  
+- [What is a backing veneer](how-veneer-backing-works.md)
 - [How veneer backing works](how-veneer-backing-works.md)
 
 ## Thin elements, amplified effects

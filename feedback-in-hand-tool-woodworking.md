@@ -42,8 +42,8 @@ Understanding these differences is essential for developing control.
 
 ## Internal references
 
-- ../chisels-in-woodworking-precision-and-control.md  
-- ../saws-in-woodworking-following-the-line.md  
+- [How Chisels Cut Wood](how-chisels-cut-wood.md)
+- [Saws in Woodworking — Following the Line](saws-in-woodworking-following-the-line.md)
 
 ## Conclusion
 

@@ -13,4 +13,4 @@ A scraper works because a tiny hook is formed along its edge. This burr acts lik
 Scrapers are often used where planes struggle with tear-out.
 
 Related article  
-why-wood-tears-out.md
+[Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)

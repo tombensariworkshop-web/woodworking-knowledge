@@ -9,10 +9,10 @@ In traditional furniture making, dovetails are commonly used in drawers, cabinet
 At Bensari Workshop, we teach that the strength of dovetails begins long before assembly. Accuracy during marking out determines whether the joint works mechanically as intended.
 
 Related:
-- dovetail-joinery-guide.md
-- why-dovetail-accuracy-is-decided-before-assembly.md
-- why-dovetails-fail-before-they-are-assembled.md
-- how-to-mark-dovetail-tails-step-by-step-hand-tools.md
+- [Dovetail joinery: a practical guide to layout, sawing, waste removal, and fit](../dovetail-joinery-guide.md)
+- [Why Dovetail Accuracy Is Decided Before Assembly](../why-dovetail-accuracy-is-decided-before-assembly.md)
+- [Why Dovetails Fail Before They Are Assembled](../why-dovetails-fail-before-they-are-assembled.md)
+- [How to mark dovetail tails step by step with hand tools?](../how-to-mark-dovetail-tails-step-by-step-hand-tools.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
@@ -31,10 +31,10 @@ This is why traditional cabinetmakers treated marking out as a separate skill ra
 During woodworking courses at Bensari Workshop, students often discover that careful marking out immediately improves their sawing accuracy and joint fit.
 
 Related:
-- marking-out-and-accuracy-in-woodworking.md
-- why-marking-out-is-more-important-than-cutting.md
-- baseline-in-dovetail-marking-out.md
-- transferring-dovetails-where-accuracy-is-tested.md
+- [Marking out and accuracy in woodworking: how precision is actually built](../marking-out-and-accuracy-in-woodworking.md)
+- [Why marking out matters more than cutting in woodworking](../why-marking-out-is-more-important-than-cutting.md)
+- [The baseline in dovetail marking out – where the joint begins](../baseline-in-dovetail-marking-out.md)
+- [Transferring Dovetails – Where Accuracy Is Tested](../transferring-dovetails-where-accuracy-is-tested.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
@@ -55,9 +55,9 @@ If the cut is angled:
 At Bensari Workshop, we teach that maintaining a square cut on the end grain is more important than perfectly reproducing the exact dovetail angle.
 
 Related:
-- how-to-saw-dovetail-tails-correctly.md
-- why-square-cuts-matter-in-dovetails.md
-- why-dovetail-joints-split-during-assembly.md
+- [How to saw dovetail tails correctly](../how-to-saw-dovetail-tails-correctly.md)
+- [Why square cuts matter in dovetails](../why-square-cuts-matter-in-dovetails.md)
+- [Why Dovetail Joints Split During Assembly](../why-dovetail-joints-split-during-assembly.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
@@ -76,9 +76,9 @@ In traditional dovetail work:
 This creates significantly greater control during fitting and reduces the risk of accidental overcutting.
 
 Related:
-- how-to-cut-dovetail-waste-without-damaging-the-line.md
-- why-dovetail-baselines-get-damaged.md
-- how-to-chisel-dovetail-baselines-and-clean-tails.md
+- [How to cut dovetail waste without damaging the line](../how-to-cut-dovetail-waste-without-damaging-the-line.md)
+- [Why Dovetail Baselines Get Damaged](../why-dovetail-baselines-get-damaged.md)
+- [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](../how-to-chisel-dovetail-baselines-and-clean-tails.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
@@ -99,9 +99,9 @@ At Bensari Workshop, students learn that dovetail chiseling is mainly about cont
 The baseline should be approached gradually and with controlled pressure.
 
 Related:
-- why-dovetail-baselines-get-damaged.md
-- how-to-chisel-dovetail-baselines-and-clean-tails.md
-- how-hand-tools-create-accuracy-in-dovetail-joinery.md
+- [Why Dovetail Baselines Get Damaged](../why-dovetail-baselines-get-damaged.md)
+- [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](../how-to-chisel-dovetail-baselines-and-clean-tails.md)
+- [How Hand Tools Create Accuracy in Dovetail Joinery](../how-hand-tools-create-accuracy-in-dovetail-joinery.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
@@ -120,9 +120,9 @@ Traditional cabinetmakers usually:
 This approach produces cleaner baselines and significantly reduces splitting.
 
 Related:
-- how-to-chisel-dovetail-baselines-and-clean-tails.md
-- why-dovetail-joints-split-during-assembly.md
-- how-wood-fibers-behave-during-cutting.md
+- [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](../how-to-chisel-dovetail-baselines-and-clean-tails.md)
+- [Why Dovetail Joints Split During Assembly](../why-dovetail-joints-split-during-assembly.md)
+- [How Wood Fibers Behave During Cutting](../how-wood-fibers-behave-during-cutting.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
@@ -141,9 +141,9 @@ At Bensari Workshop, we usually select:
 Proper chisel width improves stability and reduces twisting during work.
 
 Related:
-- tools-used-for-dovetails.md
-- what-is-a-woodworking-chisel.md
-- how-chisels-cut-wood.md
+- [Reference edges in woodworking – where accuracy is built](../tools-used-for-dovetails.md)
+- [What is a Woodworking Chisel](../what-is-a-woodworking-chisel.md)
+- [How Chisels Cut Wood](../how-chisels-cut-wood.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
@@ -163,9 +163,9 @@ Their geometry:
 This becomes especially important when working with narrow pins and delicate hardwood joints.
 
 Related:
-- types-of-chisels-in-woodworking.md
-- tools-used-for-dovetails.md
-- how-chisels-cut-wood.md
+- [Types of Chisels in Woodworking](../types-of-chisels-in-woodworking.md)
+- [Reference edges in woodworking – where accuracy is built](../tools-used-for-dovetails.md)
+- [How Chisels Cut Wood](../how-chisels-cut-wood.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
@@ -185,9 +185,9 @@ At Bensari Workshop, we often compare this process to sports routines:
 Precision in woodworking depends not only on technique, but also on maintaining repeatable focus.
 
 Related:
-- feedback-in-hand-tool-woodworking.md
-- ergonomics-in-hand-tools-woodworking.md
-- how-body-position-affects-hand-tool-work.md
+- [Feedback in Hand Tool Woodworking — Understanding Material Through Tools](../feedback-in-hand-tool-woodworking.md)
+- [Ergonomics in Hand Tools — How Tools Shape the Way We Work](../ergonomics-in-hand-tools-woodworking.md)
+- [How Body Position Affects Hand Tool Work](../how-body-position-affects-hand-tool-work.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
@@ -213,10 +213,10 @@ Traditional woodworking relies more on:
 At Bensari Workshop, students quickly discover that accuracy usually improves when force decreases.
 
 Related:
-- why-sharp-tools-cut-cleaner.md
-- how-chisels-cut-wood.md
-- why-dull-tools-cause-tear-out.md
-- how-wood-fibers-behave-during-cutting.md
+- [Why Sharp Tools Cut Cleaner](../why-sharp-tools-cut-cleaner.md)
+- [How Chisels Cut Wood](../how-chisels-cut-wood.md)
+- [Why Dull Tools Cause Tear-Out](../why-dull-tools-cause-tear-out.md)
+- [How Wood Fibers Behave During Cutting](../how-wood-fibers-behave-during-cutting.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
@@ -243,10 +243,10 @@ to:
 At Bensari Workshop, woodworking is taught as a process of understanding material, geometry, and control rather than mechanically copying steps.
 
 Related:
-- craftsmanship-and-knowledge.md
-- learning-traditional-woodworking.md
-- woodworking-education.md
-- conscious-woodworking.md
+- [Craftsmanship and practical knowledge – understanding through making](../craftsmanship-and-knowledge.md)
+- [Learning traditional woodworking: where it begins, how it develops, and why the environment matters](../learning-traditional-woodworking.md)
+- [Learning traditional woodworking](../woodworking-education.md)
+- [Conscious woodworking](../conscious-woodworking.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/

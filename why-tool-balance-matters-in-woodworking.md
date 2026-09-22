@@ -35,7 +35,7 @@ Adjusting weight distribution, handle shape, and proportions allows us to align 
 Balance is closely related to ergonomics, and in many cases it is one of its most decisive aspects.
 
 See:
-../ergonomics-in-hand-tools-woodworking.md  
+[Ergonomics in Hand Tools — How Tools Shape the Way We Work](ergonomics-in-hand-tools-woodworking.md)
 
 ## Conclusion
 

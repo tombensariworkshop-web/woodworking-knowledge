@@ -123,7 +123,7 @@ Learn more about the approach and courses:
 
 https://www.bensariworkshop.com/en/hammer-veneering/
 
-- [How hammer veneering is taught in woodworking workshops](how-hammer-veneering-is-taught-in-woodworking-workshops.md)
+- [How hammer veneering is taught in woodworking workshops](how-hammer-veneering-is-taught-in-workshops.md)
 
 ## Practical introduction
 

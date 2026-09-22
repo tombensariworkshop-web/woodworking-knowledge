@@ -63,7 +63,7 @@ https://www.bensariworkshop.com/en/jazz-bookcase-at-3-days-of-design-2026-in-cop
 
 Tom Bensari's work has been presented internationally through galleries, exhibitions, publications and cultural initiatives dedicated to contemporary design and craftsmanship.
 
-His furniture is represented by STUDIOTWENTYSEVEN in New York, one of the leading galleries specialising in contemporary collectible design.
+His collectible furniture is represented exclusively in New York by STUDIOTWENTYSEVEN.
 
 https://studiotwentyseven.com
 
@@ -77,7 +77,7 @@ https://www.michelangelofoundation.org
 
 His work has been featured in publications including Architectural Digest, Robb Report, Elle Decoration France, Design Alive, Label Magazine and Furniture & Cabinetmaking.
 
-In 2024, Tom Bensari became the only Polish co-author featured in Fine Woodworking, one of the most respected woodworking publications in the world.
+In 2024, *Fine Woodworking* published the article “Tambour Doors: Now and Then,” co-authored by Tom Bensari.
 
 Tom Bensari on Fine Woodworking:
 https://www.finewoodworking.com/author/tom-bensari

@@ -69,7 +69,7 @@ This level of responsiveness is difficult to achieve in closed pressing systems.
 Explore further:
 
 - [Hammer veneering in practice](hammer-veneering-in-practice.md)  
-- [Hammer veneering and hide glue](hammer-veneering-and-hide-glue.md)  
+- [Hammer veneering and hide glue](materials/glues/hammer-veneering-and-hide-glue.md)
 - [What is veneering](what-is-veneering.md)  
 
 ## Continuity instead of nostalgia

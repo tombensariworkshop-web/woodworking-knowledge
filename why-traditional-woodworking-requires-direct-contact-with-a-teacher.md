@@ -84,7 +84,7 @@ It is a system that connects:
 Understanding this system requires more than explanation. It requires experience.
 
 If you want to see how this approach is applied in practice:  
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
 
 ## Internal links

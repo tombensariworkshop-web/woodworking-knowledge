@@ -24,9 +24,9 @@ This edge allows:
 In traditional woodworking, this physical reference becomes part of the construction process itself.
 
 Related articles:
-- marking-out-and-accuracy-in-woodworking.md
-- why-marking-out-determines-the-result-in-woodworking.md
-- baseline-in-dovetail-marking-out.md
+- [Marking out and accuracy in woodworking: how precision is actually built](marking-out-and-accuracy-in-woodworking.md)
+- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)
+- [The baseline in dovetail marking out – where the joint begins](baseline-in-dovetail-marking-out.md)
 
 ## Saws Track Knife Lines Differently Than Pencil Marks
 
@@ -37,9 +37,9 @@ This helps stabilize the beginning of the cut and improves tracking accuracy.
 The effect becomes especially important during fine joinery where even small deviations affect assembly.
 
 Related articles:
-- how-to-saw-dovetail-tails-correctly.md
-- what-is-a-dovetail-saw.md
-- how-saws-cut-wood.md
+- [How to saw dovetail tails correctly](how-to-saw-dovetail-tails-correctly.md)
+- [What Is a Dovetail Saw](what-is-a-dovetail-saw.md)
+- [How Saws Cut Wood](how-saws-cut-wood.md)
 
 ## Knife Lines Improve Baseline Chiseling
 
@@ -50,9 +50,9 @@ When the chisel reaches a properly cut baseline, the severed fibers reduce the r
 This is one reason marking knives remain standard tools in traditional cabinetmaking.
 
 Related articles:
-- how-to-chisel-dovetail-baselines-and-clean-tails.md
-- how-chisels-cut-wood.md
-- why-sharp-tools-cut-cleaner.md
+- [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](how-to-chisel-dovetail-baselines-and-clean-tails.md)
+- [How Chisels Cut Wood](how-chisels-cut-wood.md)
+- [Why Sharp Tools Cut Cleaner](why-sharp-tools-cut-cleaner.md)
 
 ## Marking Out Is Part of Craftsmanship
 
@@ -63,20 +63,20 @@ Traditionally, however, it was understood as part of the making process itself.
 The quality of the layout often determines the quality of the finished joint.
 
 Related articles:
-- conscious-woodworking.md
-- craftsmanship-and-knowledge.md
-- traditional-woodworking.md
+- [Conscious woodworking](conscious-woodworking.md)
+- [Craftsmanship and practical knowledge – understanding through making](craftsmanship-and-knowledge.md)
+- [Traditional Woodworking](traditional-woodworking.md)
 
 ## Continue Exploring Traditional Woodworking
 
 Related articles:
-- what-is-a-marking-knife.md
-- how-to-mark-dovetail-tails-step-by-step-hand-tools.md
-- dovetail-layout-why-it-matters-more-than-cutting.md
+- [What Is a Marking Knife](what-is-a-marking-knife.md)
+- [How to mark dovetail tails step by step with hand tools?](how-to-mark-dovetail-tails-step-by-step-hand-tools.md)
+- [Why dovetail layout is more important than cutting](dovetail-layout-why-it-matters-more-than-cutting.md)
 
 Related articles on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 - https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/school/
 
 This article is part of a larger knowledge base on traditional woodworking and furniture making.

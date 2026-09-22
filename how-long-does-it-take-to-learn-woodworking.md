@@ -8,7 +8,7 @@ At Bensari Workshop, this process is structured deliberately — from the first 
 
 Craftsmanship here is not a topic. It is a daily practice.
 
-I run the workshop as a master woodworker and designer. I am also the only Polish author published in Fine Woodworking, and my work exists within the context of collectible design.
+I run the workshop as a master woodworker and designer. My workshop practice also informs my writing for *Fine Woodworking* and my work in collectible design.
 
 This is the framework behind how the learning path is designed.
 
@@ -113,4 +113,4 @@ It is a method of working.
 And that method can only be learned step by step.
 
 If you want to follow this structured path in practice, you can explore all courses here:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/

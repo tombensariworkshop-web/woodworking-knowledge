@@ -74,7 +74,7 @@ If you want to understand how this fits into the broader process of learning woo
 https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
 
 And if you want to experience this in practice:  
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Conclusion
 
@@ -85,7 +85,7 @@ In practice, it is defined by how precisely you place it.
 ## Internal links
 
 - [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)  
-- [Why marking out matters more than cutting in woodworking](why-marking-out-matters-more-than-cutting-in-woodworking.md)  
+- [Why marking out is more important than cutting](why-marking-out-is-more-important-than-cutting.md)
 - [Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)  
 - [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
 

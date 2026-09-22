@@ -63,9 +63,9 @@ The workbench absorbs force, stabilises the material, and allows tools to work a
 
 ## Internal references
 
-- ../workbench-foundation-of-hand-tool-work.md  
-- ../ergonomics-in-hand-tools-woodworking.md  
-- ../why-we-started-making-our-own-woodworking-tools.md  
+- [Inside a traditional woodworking workshop](woodworking-workshop.md)
+- [Ergonomics in Hand Tools — How Tools Shape the Way We Work](ergonomics-in-hand-tools-woodworking.md)
+- [Why We Started Making Our Own Woodworking Tools](why-we-started-making-our-own-woodworking-tools.md)
 
 ## Conclusion
 

@@ -68,7 +68,7 @@ https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-
 Understanding layout requires practice.
 
 Working in a real workshop environment allows you to see how decisions made at this stage influence every step of the process:  
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Internal links
 

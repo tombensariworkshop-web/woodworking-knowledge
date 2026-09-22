@@ -17,4 +17,4 @@ Lower cutting angles slice fibers more easily and are often used when cutting en
 Higher cutting angles resist tear-out when working with difficult grain.
 
 Related article  
-what-is-effective-cutting-angle.md
+[What Is Effective Cutting Angle](what-is-effective-cutting-angle.md)

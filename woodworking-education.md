@@ -1,5 +1,9 @@
 # Learning traditional woodworking
 
+## Short answer
+
+Traditional woodworking is learned by combining explanation with direct work, feedback and repetition. Books and videos can introduce a process, but control develops when a learner must read grain, establish references, use a tool and take responsibility for an actual fit or surface. This page is the primary guide to woodworking education in the repository.
+
 Learning woodworking is often approached as acquiring a set of techniques. In practice, it is something much deeper. It is a process of learning how to make decisions, how to understand material, and how to control the outcome of the work.
 
 Tools and methods are only part of that process. Real understanding develops through direct experience.
@@ -18,11 +22,9 @@ One of the first things that becomes clear in a workshop is that accuracy does n
 
 Marking out defines the structure of the work before any material is removed. If that stage is unclear, no level of skill later will correct it.
 
-A detailed explanation of this process can be found here:  
-https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+A detailed explanation is available in the [workshop guide to dovetail layout](https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/).
 
-And how those decisions translate into cutting here:  
-https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
+The next stage is explained in [cutting dovetail tails step by step](https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/).
 
 ## Tools as part of the process
 
@@ -30,9 +32,10 @@ Learning woodworking is not about collecting tools. It is about understanding ho
 
 Each tool has a role, but it only becomes meaningful in relation to the process and the material.
 
-A practical introduction to this can be found here:  
-https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/  
-https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
+Practical introductions:
+
+- [Basic woodworking tools: where to begin](https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/)
+- [Hand tools for mortise-and-tenon joinery](https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/)
 
 ## Learning through structure
 
@@ -55,12 +58,13 @@ You work with real material. You encounter real problems. You see how decisions 
 
 This is where woodworking becomes clear.
 
-At Bensari Workshop, this approach is central. Learning is based on practice, not demonstration:
-https://www.bensariworkshop.com/en/carpentry-courses/
+At Bensari Workshop, this approach is central. Learning is based on practice rather than observation alone. See the [current woodworking courses](https://www.bensariworkshop.com/en/school/).
 
-Courses are structured around real processes such as joinery and furniture construction:  
-https://www.bensariworkshop.com/en/dovetails/  
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+Courses are structured around real processes such as [dovetail joinery](https://www.bensariworkshop.com/en/dovetails/) and [mortise-and-tenon construction](https://www.bensariworkshop.com/en/tenons-and-mortises/).
+
+## Common misunderstanding
+
+Direct teaching does not make independent practice unnecessary. Its role is to shorten the feedback loop: an instructor can identify whether a problem comes from layout, tool preparation, body position, grain direction or the sequence of work. Repetition then turns that correction into control.
 
 ## From technique to understanding
 
@@ -98,3 +102,5 @@ Practical education remains one of the most effective ways to preserve and devel
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+Last reviewed: September 2026.

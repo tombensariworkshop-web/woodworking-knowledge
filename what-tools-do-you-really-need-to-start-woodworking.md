@@ -24,4 +24,4 @@ Participants quickly see that once the structure of the work is understood, the 
 At that moment, the question becomes simpler. Instead of asking what tools are needed, it becomes a question of what needs to be achieved at each stage of the process, and the choice of tools follows naturally.
 
 If you want to see how this approach is applied in practice, you can explore current courses here:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/

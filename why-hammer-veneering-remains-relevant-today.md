@@ -11,5 +11,5 @@ Hammer veneering also requires relatively simple equipment, which makes it acces
 For these reasons the method remains part of contemporary cabinetmaking practice.
 
 Related articles  
-- hammer-veneering-in-contemporary-cabinetmaking.md  
-- tools-used-in-hammer-veneering.md
+- [Hammer veneering in contemporary cabinetmaking – control, tradition, and real workshop practice](hammer-veneering-in-contemporary-cabinetmaking.md)
+- [Tools Used in Hammer Veneering](tools-used-in-hammer-veneering.md)

@@ -74,7 +74,7 @@ It is practiced daily.
 
 Furniture is designed and built for real projects, and the same methods are used during courses. Participants do not learn isolated techniques. They see how decisions are made, how elements are connected, and how structure emerges from the process.
 
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 This connection between making and teaching is essential.
 

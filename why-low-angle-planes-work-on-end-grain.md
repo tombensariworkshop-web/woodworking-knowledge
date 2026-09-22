@@ -11,7 +11,7 @@ In end grain, the blade encounters the ends of wood fibers.
 Cutting across these fibers requires a slicing action similar to cutting a bundle of straws.
 
 Related article  
-how-wood-fibers-behave-during-cutting.md
+[How Wood Fibers Behave During Cutting](how-wood-fibers-behave-during-cutting.md)
 
 ## The Role of Cutting Angle
 
@@ -20,7 +20,7 @@ Lower cutting angles allow the blade to enter the fibers more easily.
 This reduces resistance and makes the tool easier to push across the surface.
 
 Related article  
-what-is-effective-cutting-angle.md
+[What Is Effective Cutting Angle](what-is-effective-cutting-angle.md)
 
 ## Applications in Woodworking
 
@@ -29,4 +29,4 @@ Low-angle planes are commonly used when trimming end grain on boards or fitting 
 Because they cut fibers efficiently, they can produce clean surfaces even across difficult grain.
 
 Related article  
-how-hand-planes-cut-wood.md
+[How hand planes cut wood](how-hand-planes-cut-wood.md)

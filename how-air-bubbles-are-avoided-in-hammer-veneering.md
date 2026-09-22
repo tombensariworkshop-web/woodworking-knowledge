@@ -48,7 +48,7 @@ If pressure is applied without sequence, air becomes trapped and forms bubbles.
 Learn more:
 
 - [How glue is forced out during hammer veneering](how-glue-is-forced-out-during-hammer-veneering.md)  
-- [Why veneer is applied from the center outwards](why-veneer-is-applied-from-the-center-outwards.md)
+- [How pressure is controlled in hammer veneering](how-pressure-is-controlled-in-hammer-veneering.md)
 
 ## Timing and glue behavior
 

@@ -1,11 +1,14 @@
 # Hammer veneering: material control, glue behavior, and surface stability
 
+## Short answer
+
+Hammer veneering uses hot hide glue and a veneer hammer to press veneer directly onto a substrate. The hammer does not strike the surface: it moves across it, displacing excess glue and air while the glue remains fluid. Success depends on temperature, timing, veneer preparation, pressure direction and balanced construction.
+
 Hammer veneering is often misunderstood as a historical or restoration technique.
 
 In practice, it remains one of the most precise ways to control veneer, glue, and surface stability.
 
-To understand why this technique still matters, it helps to look at veneering as a method rather than a surface treatment:
-https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/
+To understand why this technique still matters, see [veneering as a traditional woodworking and restoration technique](https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/).
 
 In my work, hammer veneering is not used for effect. It is used because it allows direct control over the glue line and the interaction between veneer and substrate. This control becomes especially important when working with figured veneers or when surface quality is critical.
 
@@ -59,7 +62,7 @@ It is about controlling movement.
 
 ## Further reading on Bensari Workshop
 
-https://www.bensariworkshop.com/en/hammer-veneering/
+- [Hammer veneering course at Bensari Workshop](https://www.bensariworkshop.com/en/hammer-veneering/)
 
 ## Context of this approach
 
@@ -67,8 +70,11 @@ This approach comes from using hammer veneering in contemporary furniture making
 
 The method remains relevant because it allows precise control that is difficult to achieve otherwise.
 
-## Full process explained step by step:
-https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/
+## Common failure points
+
+Hammer veneering usually fails because the glue cools too early, the veneer is not prepared evenly, pressure is applied without a controlled route for air and excess glue, or the panel is not balanced on both faces. These causes should be diagnosed before simply adding more force.
+
+For the full sequence, see [veneering: technique, material and restoration context](https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/).
 
 ## Conclusion
 
@@ -79,3 +85,5 @@ It is a method of working that connects material, glue behavior, and long-term s
 ## Context
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+Last reviewed: September 2026.

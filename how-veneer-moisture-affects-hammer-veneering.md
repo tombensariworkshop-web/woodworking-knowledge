@@ -11,5 +11,5 @@ Moisture also influences how veneer reacts to hot hide glue. When veneer absorbs
 Understanding how veneer responds to moisture is therefore an important part of successful veneering practice.
 
 Related articles  
-- how-hot-hide-glue-behaves-in-hammer-veneering.md  
-- how-veneers-are-prepared-before-hammer-veneering.md
+- [Hide glue in veneering](materials/glues/hide-glue-in-veneering.md)
+- [How Veneers Are Prepared Before Hammer Veneering](how-veneers-are-prepared-before-hammer-veneering.md)

@@ -25,5 +25,5 @@ Once the veneer lies flat, it can be cut, joined and prepared for the veneering 
 Proper preparation of veneer sheets makes hammer veneering easier and reduces the risk of bubbles or uneven bonding.
 
 Related articles  
-- how-veneers-are-prepared-before-hammer-veneering.md  
-- why-veneer-layout-matters-in-veneering.md
+- [How Veneers Are Prepared Before Hammer Veneering](how-veneers-are-prepared-before-hammer-veneering.md)
+- [Why veneer layout matters in veneering – composition, structure and control](why-veneer-layout-matters-in-veneering.md)

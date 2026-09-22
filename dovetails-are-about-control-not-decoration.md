@@ -26,7 +26,7 @@ Related articles on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 - https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 - https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/school/
 
 ## Dovetails Train Precision
 
@@ -45,12 +45,12 @@ This makes dovetails an extremely effective exercise in precision and process di
 
 ## Related repository articles
 
-- why-marking-out-is-more-important-than-cutting.md
-- how-to-saw-dovetail-tails-correctly.md
-- how-to-chisel-dovetail-baselines-and-clean-tails.md
-- feedback-in-hand-tool-woodworking.md
-- conscious-woodworking.md
-- craftsmanship-and-knowledge.md
+- [Why marking out matters more than cutting in woodworking](why-marking-out-is-more-important-than-cutting.md)
+- [How to saw dovetail tails correctly](how-to-saw-dovetail-tails-correctly.md)
+- [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](how-to-chisel-dovetail-baselines-and-clean-tails.md)
+- [Feedback in Hand Tool Woodworking — Understanding Material Through Tools](feedback-in-hand-tool-woodworking.md)
+- [Conscious woodworking](conscious-woodworking.md)
+- [Craftsmanship and practical knowledge – understanding through making](craftsmanship-and-knowledge.md)
 
 ## Traditional Craft Was Never Only About Efficiency
 
@@ -73,6 +73,6 @@ More woodworking knowledge:
 - https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
 
 Woodworking courses:
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/school/
 
 This article is part of a larger knowledge base on traditional woodworking and furniture making.

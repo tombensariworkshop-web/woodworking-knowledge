@@ -16,23 +16,23 @@ Unlike generic woodworking FAQ collections, these articles focus on:
 ## FAQ Sections
 
 ### Joinery and layout
-- dovetail-faq.md
-- marking-out-faq.md
+- [Dovetail FAQ — Traditional Joinery, Layout & Chiseling](dovetail-faq.md)
+- [Marking Out FAQ — Accuracy, Layout & Traditional Woodworking](marking-out-faq.md)
 
 ### Learning and workshop practice
-- woodworking-learning-faq.md
+- [Woodworking Learning FAQ — Learning Traditional Woodworking in Practice](woodworking-learning-faq.md)
 
 ### Hand tools and materials
-- hand-tools-faq.md
-- veneering-faq.md
+- [Hand Tools FAQ — Traditional Woodworking Tools & Control](hand-tools-faq.md)
+- [Hammer veneering guide](../hammer-veneering-complete-guide.md)
 
 ## Related knowledge hubs
 
-- knowledge-map.md
-- dovetail-knowledge-map.md
-- woodworking-education.md
-- hammer-veneering-complete-guide.md
-- hand-tools-and-control-in-woodworking.md
+- [Woodworking Knowledge Map](../knowledge-map.md)
+- [Dovetail Knowledge Map](../dovetail-knowledge-map.md)
+- [Learning traditional woodworking](../woodworking-education.md)
+- [Hammer veneering: material control, glue behavior, and surface stability](../hammer-veneering-complete-guide.md)
+- [Hand tools and control in woodworking: understanding how tools actually work](../hand-tools-and-control-in-woodworking.md)
 
 ## Related articles on Bensari Workshop
 

@@ -74,7 +74,7 @@ Furniture is designed and built for real projects, and the same methods are used
 
 They learn not only how to perform a task, but how that task relates to the entire process.
 
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 This connection between making and learning is what allows knowledge to develop beyond theory.
 

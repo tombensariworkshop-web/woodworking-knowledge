@@ -31,7 +31,7 @@ This is why I still use them. Not because they are traditional, but because they
 At Bensari Workshop, this approach is part of everyday practice. Hand tools are not presented as a separate discipline. They are used in the same process in which furniture is designed and built. Participants do not learn how to use tools in isolation. They learn how those tools relate to material, how decisions translate into structure, and how the final object emerges from that sequence.
 
 If you want to experience this directly:  
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Internal links
 

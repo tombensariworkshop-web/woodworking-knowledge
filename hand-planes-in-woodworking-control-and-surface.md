@@ -34,10 +34,10 @@ https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/
 For a broader understanding of how tools work together:
 
 - chisels and precision  
-../chisels-in-woodworking-precision-and-control.md  
+[How Chisels Cut Wood](how-chisels-cut-wood.md)
 
 - workbench and stability  
-../workbench-foundation-of-hand-tool-work.md  
+[Building a Workbench as a Way of Learning Woodworking](woodworking-workbench-building-as-learning.md)
 
 ## Conclusion
 

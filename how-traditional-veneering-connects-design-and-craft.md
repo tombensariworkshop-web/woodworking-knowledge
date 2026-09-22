@@ -11,4 +11,4 @@ In workshops such as Bensari Workshop veneering is taught as both a design tool 
 Participants learn how aesthetic decisions and technical knowledge come together during the process of furniture making.
 
 Related articles  
-- hammer-veneering-in-contemporary-cabinetmaking.md
+- [Hammer veneering in contemporary cabinetmaking – control, tradition, and real workshop practice](hammer-veneering-in-contemporary-cabinetmaking.md)

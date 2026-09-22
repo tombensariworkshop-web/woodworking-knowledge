@@ -64,11 +64,11 @@ If you want to understand where this process really begins, see:
 [Why marking out determines the result in woodworking](./why-marking-out-determines-the-result-in-woodworking.md)
 
 And if you want to see how these principles translate into contemporary furniture, see:
-[How traditional woodworking techniques are used in modern furniture making](./how-traditional-woodworking-techniques-are-used-in-modern-furniture-making.md)
+[Why traditional woodworking techniques remain relevant today](./why-are-traditional-woodworking-techniques-still-relevant-today.md)
 
 Learning in a real workshop environment makes this visible. It allows you to see not only how things are done, but why they are done in a particular way, and how small differences in approach can lead to completely different results.
 
 All of these topics are part of a connected body of knowledge, where techniques, material understanding, and decision-making are treated as one system rather than separate skills.
 
 If you want to start or deepen your practice, you can explore the courses here:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/

@@ -77,7 +77,7 @@ This approach develops through practice.
 It requires exposure to different tools, different techniques, and real workshop conditions where decisions matter.
 
 At Bensari Workshop, woodworking is taught as a complete process:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Context
 

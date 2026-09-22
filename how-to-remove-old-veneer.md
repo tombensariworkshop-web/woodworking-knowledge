@@ -27,5 +27,5 @@ Old glue residues are usually scraped away and the surface is leveled before new
 Proper preparation of the substrate is essential for achieving a strong bond when the new veneer is glued.
 
 Related articles  
-- how-to-repair-veneer.md  
-- hammer-veneering-and-hide-glue.md
+- [How to Repair Veneer](how-to-repair-veneer.md)
+- materials/glues/hammer-veneering-and-hide-glue.md

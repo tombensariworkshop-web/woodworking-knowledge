@@ -82,4 +82,4 @@ Starting in the wrong place. Focusing on the wrong element. Skipping the stage w
 Once that is understood, the process becomes more consistent, and the results become repeatable.
 
 If you want to see how this approach is applied in a working atelier, you can explore current courses here:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/

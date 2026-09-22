@@ -50,8 +50,8 @@ If pressure is applied without direction, glue becomes trapped.
 
 Learn more:
 
-- how-pressure-is-controlled-in-hammer-veneering.md  
-- how-air-bubbles-are-avoided-in-hammer-veneering.md  
+- [How pressure is controlled in hammer veneering – direction, contact and process control](how-pressure-is-controlled-in-hammer-veneering.md)
+- [How air bubbles are avoided in hammer veneering – pressure, glue and sequence](how-air-bubbles-are-avoided-in-hammer-veneering.md)
 
 ## Interaction with veneer and substrate
 
@@ -134,8 +134,8 @@ Without controlled flow, the process cannot succeed.
 
 ## Related
 
-- hammer-veneering-in-practice.md  
-- how-glue-temperature-affects-hammer-veneering.md  
+- [Hammer veneering in practice – control, glue behavior and real work](hammer-veneering-in-practice.md)
+- [How glue temperature affects hammer veneering – working time, flow and control](how-glue-temperature-affects-hammer-veneering.md)
 
 ## Context
 

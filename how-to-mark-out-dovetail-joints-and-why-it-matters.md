@@ -78,7 +78,7 @@ Inaccurate marking can lead to:
 - joints that were never truly aligned  
 
 For a deeper explanation of why dovetail joints open over time:  
-../why-dovetail-joints-fail-and-open-up.md
+[Why dovetail joints fail and open up over time](why-dovetail-joints-fail-and-open-up.md)
 
 ## Marking out in practice
 

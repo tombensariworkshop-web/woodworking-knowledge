@@ -65,7 +65,7 @@ https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-
 The joint becomes clear only through practice.
 
 Working in a real workshop environment allows you to understand how decisions, tools, and material interact:  
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/tenons-and-mortises/
 
 ## Related articles in this repository

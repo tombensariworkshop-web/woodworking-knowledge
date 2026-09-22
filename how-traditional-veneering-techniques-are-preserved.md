@@ -11,4 +11,4 @@ By learning how to work with natural adhesives, veneer sheets and traditional to
 This knowledge allows traditional craft techniques to remain part of contemporary woodworking culture.
 
 Related articles  
-- how-hammer-veneering-is-taught-in-workshops.md
+- [How hammer veneering is taught in woodworking workshops – observation, feedback and control](how-hammer-veneering-is-taught-in-workshops.md)

@@ -22,7 +22,7 @@ This is part of a larger knowledge base on traditional woodworking and furniture
 
 If you feel that your progress has slowed, that your understanding is ahead of your execution, or that your results lack consistency, it is time to move from online learning into a real workshop environment.
 
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/carpentry-from-scratch/
 
 ## About Tom Bensari
@@ -39,5 +39,5 @@ Bensari Workshop functions both as a working furniture atelier and a place of ed
 Tom Bensari teaches traditional woodworking as a method of working with material, structure, and process. His approach is based on direct experience and the belief that craftsmanship is not a nostalgic idea, but a contemporary way of achieving quality.
 
 Learn more:
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/

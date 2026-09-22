@@ -30,7 +30,7 @@ Avoid it by:
 
 Learn more:
 
-- how-glue-temperature-affects-hammer-veneering.md  
+- [How glue temperature affects hammer veneering – working time, flow and control](how-glue-temperature-affects-hammer-veneering.md)
 
 ## Mistake 2: treating pressure as force instead of direction
 
@@ -87,7 +87,7 @@ Avoid it by:
 
 Learn more:
 
-- how-veneers-are-prepared-before-hammer-veneering.md  
+- [How Veneers Are Prepared Before Hammer Veneering](how-veneers-are-prepared-before-hammer-veneering.md)
 
 ## Mistake 5: losing control of timing
 
@@ -165,9 +165,9 @@ Avoiding mistakes means understanding:
 
 ## Related
 
-- hammer-veneering-in-practice.md  
-- how-air-bubbles-are-avoided-in-hammer-veneering.md  
-- how-glue-temperature-affects-hammer-veneering.md  
+- [Hammer veneering in practice – control, glue behavior and real work](hammer-veneering-in-practice.md)
+- [How air bubbles are avoided in hammer veneering – pressure, glue and sequence](how-air-bubbles-are-avoided-in-hammer-veneering.md)
+- [How glue temperature affects hammer veneering – working time, flow and control](how-glue-temperature-affects-hammer-veneering.md)
 
 ## Context
 

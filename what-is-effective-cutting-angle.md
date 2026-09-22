@@ -15,7 +15,7 @@ Most bench planes have a cutting angle around 45 degrees.
 This angle provides a balance between easy cutting and resistance to tear-out.
 
 Related article  
-how-hand-planes-cut-wood.md
+[How hand planes cut wood](how-hand-planes-cut-wood.md)
 
 ## Cutting Angle in Bevel-Up Planes
 
@@ -24,7 +24,7 @@ In bevel-up planes, the cutting angle depends on both the bed angle and the beve
 Because of this geometry, changing the sharpening angle changes the effective cutting angle.
 
 Related article  
-bevel-angle-in-woodworking-tools.md
+[How Blade Angle Affects Cutting](how-blade-angle-affects-cutting.md)
 
 ## Why Cutting Angle Matters
 
@@ -35,4 +35,4 @@ Higher cutting angles can help reduce tear-out in difficult grain.
 Woodworkers adjust cutting angles depending on the material and the task.
 
 Related article  
-why-wood-tears-out.md
+[Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)

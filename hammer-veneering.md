@@ -1,5 +1,9 @@
 # Hammer veneering – control, glue behavior and material understanding
 
+## Scope
+
+This article explains the operating principle of hammer veneering. For the canonical route through glue behaviour, preparation, pressure and balanced construction, use the [hammer veneering complete guide](hammer-veneering-complete-guide.md).
+
 Hammer veneering is often described as a traditional technique used to apply veneer with hot hide glue.
 
 This description is technically correct, but incomplete.

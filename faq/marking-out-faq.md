@@ -9,10 +9,10 @@ In fine joinery, this difference matters because saws and chisels can register d
 At Bensari Workshop, students usually notice very quickly that knife lines improve both confidence and control during joinery work.
 
 Related:
-- what-is-a-marking-knife.md
-- marking-out-and-accuracy-in-woodworking.md
-- why-marking-knives-matter-in-dovetail-layout.md
-- how-hand-tools-create-accuracy-in-dovetail-joinery.md
+- [What Is a Marking Knife](../what-is-a-marking-knife.md)
+- [Marking out and accuracy in woodworking: how precision is actually built](../marking-out-and-accuracy-in-woodworking.md)
+- [Why Marking Knives Matter in Dovetail Layout](../why-marking-knives-matter-in-dovetail-layout.md)
+- [How Hand Tools Create Accuracy in Dovetail Joinery](../how-hand-tools-create-accuracy-in-dovetail-joinery.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
@@ -34,9 +34,9 @@ Traditional woodworking depends on reducing variables before cutting begins.
 At Bensari Workshop, students learn that accurate furniture making is often less about correction and more about establishing reliable reference systems early in the process.
 
 Related:
-- how-reference-faces-and-reference-edges-work.md
-- reference-edges-in-woodworking.md
-- measuring-and-marking-in-woodworking.md
+- [How Reference Faces and Reference Edges Work](../how-reference-faces-and-reference-edges-work.md)
+- [Reference edges in woodworking – where accuracy is built](../reference-edges-in-woodworking.md)
+- [Measuring and marking in woodworking](../measuring-and-marking-in-woodworking.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/
@@ -56,9 +56,9 @@ If the first reference line is inaccurate:
 This is why traditional woodworking places so much emphasis on layout discipline and process order.
 
 Related:
-- why-accurate-layout-matters-in-woodworking.md
-- why-marking-out-determines-the-result-in-woodworking.md
-- story-sticks-in-woodworking.md
+- [Why accurate layout matters in woodworking](../why-accurate-layout-matters-in-woodworking.md)
+- [Why marking out determines the result in woodworking](../why-marking-out-determines-the-result-in-woodworking.md)
+- [Story Sticks in Woodworking](../story-sticks-in-woodworking.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
@@ -79,9 +79,9 @@ Layout determines:
 At Bensari Workshop, students often discover that improving layout skills changes the quality of their entire workflow, even before improving their cutting technique.
 
 Related:
-- why-marking-out-is-more-important-than-cutting.md
-- measuring-and-marking-in-woodworking.md
-- how-hand-tools-create-accuracy-in-dovetail-joinery.md
+- [Why marking out matters more than cutting in woodworking](../why-marking-out-is-more-important-than-cutting.md)
+- [Measuring and marking in woodworking](../measuring-and-marking-in-woodworking.md)
+- [How Hand Tools Create Accuracy in Dovetail Joinery](../how-hand-tools-create-accuracy-in-dovetail-joinery.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
@@ -101,9 +101,9 @@ Without a knife wall:
 This becomes especially important in dovetail joinery and shoulder layout.
 
 Related:
-- what-is-a-marking-knife.md
-- knife-wall-in-woodworking.md
-- how-saws-follow-layout-lines.md
+- [What Is a Marking Knife](../what-is-a-marking-knife.md)
+- [Marking Out as a Way of Working](../marking-out-as-a-way-of-working.md)
+- [Saws in Woodworking — Following the Line](../saws-in-woodworking-following-the-line.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/

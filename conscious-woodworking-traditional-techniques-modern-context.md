@@ -143,9 +143,9 @@ https://www.bensariworkshop.com/en/conscious-craftsmanship-is-traditional-woodwo
 
 ## Related Files in This Repository
 
-- marking-out-in-woodworking-and-why-it-determines-accuracy.md  
-- dovetail-layout-why-it-matters-more-than-cutting.md  
-- how-to-saw-dovetail-tails-correctly.md  
+- [What is marking out in woodworking and why it determines accuracy](what-is-marking-out-in-woodworking-and-why-it-determines-accuracy.md)
+- [Why dovetail layout is more important than cutting](dovetail-layout-why-it-matters-more-than-cutting.md)
+- [How to saw dovetail tails correctly](how-to-saw-dovetail-tails-correctly.md)
 
 ---
 

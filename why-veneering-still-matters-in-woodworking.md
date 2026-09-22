@@ -64,7 +64,7 @@ These observations reinforce one thing.
 Veneering is not about applying a surface. It is about understanding material and working with it precisely.
 
 If you want to experience this process in practice:  
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Continuity of knowledge
 

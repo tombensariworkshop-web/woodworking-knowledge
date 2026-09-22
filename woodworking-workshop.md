@@ -80,11 +80,11 @@ You see the sequence of decisions. You understand the relationships between step
 This is where woodworking becomes clear.
 
 If you want to experience this process in practice:  
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Internal links
 
-- [Learning through workshop practice](learning-through-workshop-practice.md)  
+- [Workshop learning](workshop-learning.md)
 - [Why traditional woodworking requires direct contact with a teacher](why-traditional-woodworking-requires-direct-contact-with-a-teacher.md)  
 - [Joinery in furniture](joinery-in-furniture.md)  
 - [Hand tool woodworking](hand-tool-woodworking.md)  

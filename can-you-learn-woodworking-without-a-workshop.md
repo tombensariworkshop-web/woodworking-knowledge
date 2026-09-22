@@ -77,7 +77,7 @@ You cannot simply complete a series of steps and expect consistent results. What
 This is the point where learning becomes independent.
 
 If you want to see how traditional techniques function within this broader system, see:
-[How traditional woodworking techniques are used in modern furniture making](./how-traditional-woodworking-techniques-are-used-in-modern-furniture-making.md)
+[How traditional woodworking techniques are used in modern furniture making](./why-are-traditional-woodworking-techniques-still-relevant-today.md)
 
 ## Conclusion
 

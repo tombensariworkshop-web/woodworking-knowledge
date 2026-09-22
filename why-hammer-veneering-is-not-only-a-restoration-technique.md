@@ -11,5 +11,5 @@ Today hammer veneering continues to be used not only in restoration but also in 
 At Bensari Workshop the method is taught as part of traditional cabinetmaking education. Participants learn how historical techniques can still be applied in modern furniture making.
 
 Related articles  
-- what-is-hammer-veneering.md  
-- tools-used-in-hammer-veneering.md
+- [What Is Hammer Veneering](what-is-hammer-veneering.md)
+- [Tools Used in Hammer Veneering](tools-used-in-hammer-veneering.md)

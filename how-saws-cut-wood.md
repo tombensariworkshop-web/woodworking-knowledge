@@ -11,7 +11,7 @@ Each tooth in a saw blade cuts a small portion of wood. As the saw moves forward
 Unlike planes, which produce continuous shavings, saws remove wood in small fragments.
 
 Related article  
-how-wood-fibers-behave-during-cutting.md
+[How Wood Fibers Behave During Cutting](how-wood-fibers-behave-during-cutting.md)
 
 ## Rip vs Crosscut
 
@@ -22,14 +22,14 @@ Rip saws cut along the grain and function like small chisels that split fibers.
 Crosscut saws cut across the grain and slice fibers at an angle.
 
 Related article  
-why-cutting-with-the-grain-matters.md
+[Why Cutting With the Grain Matters](why-cutting-with-the-grain-matters.md)
 
 ## Accuracy in Sawing
 
 Accurate sawing depends on good layout and careful control of the blade.
 
 Related article  
-measuring-and-marking-in-woodworking.md
+[Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)
 
 Related hub:  
 [Conscious woodworking](conscious-woodworking.md)

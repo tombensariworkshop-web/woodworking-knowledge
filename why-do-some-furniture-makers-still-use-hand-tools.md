@@ -77,7 +77,7 @@ Working with hand tools is not about tradition for its own sake.
 It is about developing control, understanding and the ability to make decisions.
 
 This becomes clear only in practice, in a real workshop environment:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 And in the context of learning from someone who works this way every day:
 https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/

@@ -1,5 +1,9 @@
 # Marking out and accuracy in woodworking: how precision is actually built
 
+## Short answer
+
+Marking out is the process of translating dimensions, geometry and reference relationships onto the material before cutting. Accuracy is cumulative: stable reference faces, consistent measurements and clear lines make later operations repeatable, while small layout errors become larger during cutting, transfer and assembly. This page is the primary guide to marking out in this repository.
+
 In woodworking, accuracy is often associated with cutting. People focus on saws, chisels, and the visible execution of a joint. In practice, accuracy is established much earlier. It begins at the moment when the first reference line is defined.
 
 In my work, and in the way I teach at Bensari Workshop in Wrocław, marking out is not treated as preparation. It is already part of the making process. It is the stage where decisions are made about proportion, alignment, and how the material will be approached. If those decisions are unclear, no level of skill with tools will fully correct the result.
@@ -47,17 +51,19 @@ Cutting only reveals what was already decided. It does not correct it.
 
 ## Further reading on Bensari Workshop
 
-- https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
-- https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/
-- https://www.bensariworkshop.com/en/hand-tools-in-practice-stanley-combination-square/
+- [Marking out: basic principles, square and knife](https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/)
+- [Square marking of shoulders in woodworking](https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/)
+- [A combination square in workshop practice](https://www.bensariworkshop.com/en/hand-tools-in-practice-stanley-combination-square/)
 
-  ## Related topics:
+## Related guides
 
-– dovetail joinery guide: ./dovetail-joinery-guide.md  
-– hand tool control: ./hand-tools-and-control-in-woodworking.md  
+- [Dovetail joinery guide](dovetail-joinery-guide.md)
+- [Hand tools and control](hand-tools-and-control-in-woodworking.md)
 
 ## Context of this approach
 
 This way of understanding marking out comes from teaching people who are learning woodworking from the beginning. It becomes clear very quickly that accuracy is not a matter of talent. It is a matter of method. Once the method is understood, the work becomes repeatable and controlled.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+Last reviewed: September 2026.

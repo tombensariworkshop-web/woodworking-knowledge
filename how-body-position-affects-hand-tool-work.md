@@ -19,7 +19,7 @@ Hand tool work often involves coordinated movement between the arms, shoulders a
 Instead of relying only on arm strength, experienced woodworkers use their entire body to guide tools through the cut. This approach provides better control and reduces fatigue.
 
 Related article  
-how-hand-pressure-affects-planing.md
+[How Hand Pressure Affects Planing](how-hand-pressure-affects-planing.md)
 
 ## Developing Efficient Technique
 

@@ -84,7 +84,7 @@ You begin to anticipate outcomes before they happen. You start to see how a line
 This ability develops through practice, but it requires the right context.
 
 If you want to experience this process in a real workshop environment, you can explore the courses here:  
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Conclusion
 

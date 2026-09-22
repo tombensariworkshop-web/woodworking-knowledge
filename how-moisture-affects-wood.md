@@ -21,7 +21,7 @@ This happens because wood fibers are arranged primarily along the length of the 
 For this reason, boards typically expand and contract in width much more than in length.
 
 Related article  
-why-wood-moves.md
+[Why Wood Moves](why-wood-moves.md)
 
 ## Moisture and Furniture Construction
 
@@ -36,7 +36,7 @@ Traditional woodworking techniques often allow parts of a piece to move slightly
 These approaches allow wooden components to expand and contract without causing cracks, warping or joint failure.
 
 Related article  
-how-wood-movement-affects-furniture.md
+[Why Wood Moves](why-wood-moves.md)
 
 ## Moisture Awareness in Workshop Practice
 

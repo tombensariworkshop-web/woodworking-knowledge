@@ -10,7 +10,7 @@ A broader context for this approach can be found here:
 https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/
 
 Related topics:
-contemporary-craft-practice.md
-furniture-design-and-craft.md
+[Contemporary craft practice – between method and decision](contemporary-craft-practice.md)
+[Furniture design and craftsmanship – where decisions become structure](furniture-design-and-craft.md)
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.

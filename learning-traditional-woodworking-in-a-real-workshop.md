@@ -45,7 +45,7 @@ Learning woodworking is not only about making objects. It is about developing ju
 ## Further reading on Bensari Workshop
 
 - https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/school/
 - https://www.bensariworkshop.com/en/tenons-and-mortises/
 - https://www.bensariworkshop.com/en/dovetails/
 - https://www.bensariworkshop.com/en/hammer-veneering/

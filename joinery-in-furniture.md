@@ -78,7 +78,7 @@ https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-
 Joinery only becomes clear in practice.
 
 Working in a real workshop environment allows you to understand how material, tools, and decisions come together:  
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/dovetails/  
 https://www.bensariworkshop.com/en/tenons-and-mortises/
 

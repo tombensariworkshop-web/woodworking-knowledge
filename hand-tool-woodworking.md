@@ -111,7 +111,7 @@ At Bensari Workshop, participants learn:
 
 https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
 
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 This process builds independence.
 
@@ -146,12 +146,12 @@ It changes how decisions are made, how material is understood and how furniture 
 
 ## Related topics:
 
-– dovetail joinery: ./dovetail-joinery-guide.md  
-– veneering in woodworking: ./veneering-in-woodworking.md  
+- [Dovetail joinery](dovetail-joinery-guide.md)
+- [Veneering in woodworking](veneering-in-woodworking.md)
 
 ## Related hub
 
-[Hand tool woodworking](hand-tool-woodworking.md)
+[Hand tools and control in woodworking](hand-tools-and-control-in-woodworking.md)
 
 ## Context
 

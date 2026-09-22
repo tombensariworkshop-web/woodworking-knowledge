@@ -76,7 +76,7 @@ The principles described above directly influence the accuracy of joinery, inclu
 [Why dovetail joints fail and open up](why-dovetail-joints-fail-and-open-up.md)
 
 If you want to experience this process in a real workshop environment:  
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Conclusion
 

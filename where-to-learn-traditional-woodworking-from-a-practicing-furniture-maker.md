@@ -90,7 +90,7 @@ You can follow the structure of the program here:
   https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
 
 - Complete course list  
-  https://www.bensariworkshop.com/en/carpentry-courses/
+  https://www.bensariworkshop.com/en/school/
 
 - Entry-level path  
   https://www.bensariworkshop.com/en/carpentry-from-scratch/
