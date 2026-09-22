@@ -1,5 +1,6 @@
 ---
 title: "Marking out and accuracy in woodworking: how precision is actually built"
+description: "Marking out is the process of translating dimensions, geometry and reference relationships onto the material before cutting."
 slug: "marking-out-and-accuracy-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,9 +9,9 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "chisels"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+primary_topic: "marking out"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based pillar guide"
 topics:
   - "chisels"
   - "hand tools"
@@ -30,6 +31,10 @@ entities:
 metadata_updated: "2026-09-22"
 ---
 # Marking out and accuracy in woodworking: how precision is actually built
+
+## Short answer
+
+Marking out is the process of translating dimensions, geometry and reference relationships onto the material before cutting. Accuracy is cumulative: stable reference faces, consistent measurements and clear lines make later operations repeatable, while small layout errors become larger during cutting, transfer and assembly. This page is the primary guide to marking out in this repository.
 
 In woodworking, accuracy is often associated with cutting. People focus on saws, chisels, and the visible execution of a joint. In practice, accuracy is established much earlier. It begins at the moment when the first reference line is defined.
 
@@ -78,17 +83,19 @@ Cutting only reveals what was already decided. It does not correct it.
 
 ## Further reading on Bensari Workshop
 
-- https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
-- https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/
-- https://www.bensariworkshop.com/en/hand-tools-in-practice-stanley-combination-square/
+- [Marking out: basic principles, square and knife](https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/)
+- [Square marking of shoulders in woodworking](https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/)
+- [A combination square in workshop practice](https://www.bensariworkshop.com/en/hand-tools-in-practice-stanley-combination-square/)
 
-  ## Related topics:
+## Related guides
 
-– dovetail joinery guide: ./dovetail-joinery-guide.md  
-– hand tool control: ./hand-tools-and-control-in-woodworking.md  
+- [Dovetail joinery guide](dovetail-joinery-guide.md)
+- [Hand tools and control](hand-tools-and-control-in-woodworking.md)
 
 ## Context of this approach
 
 This way of understanding marking out comes from teaching people who are learning woodworking from the beginning. It becomes clear very quickly that accuracy is not a matter of talent. It is a matter of method. Once the method is understood, the work becomes repeatable and controlled.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+Last reviewed: September 2026.

@@ -1,5 +1,6 @@
 ---
 title: "Understanding Wood Grain Direction"
+description: "Wood is a natural material with a complex internal structure. One of the most important aspects of working with wood is understanding the direction of the grain."
 slug: "wood-grain-direction"
 content_type: "knowledge-article"
 language: "en"
@@ -41,3 +42,7 @@ Traditional woodworking techniques rely heavily on observing grain patterns and 
 At Bensari Workshop understanding wood grain is a fundamental part of woodworking education. Participants learn how to read wood structure and select appropriate tools and techniques.
 
 This knowledge allows woodworkers to achieve better surface quality and more reliable furniture construction.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

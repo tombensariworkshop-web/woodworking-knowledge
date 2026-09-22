@@ -1,5 +1,6 @@
 ---
 title: "Types of Chisels in Woodworking"
+description: "Woodworking uses several types of chisels designed for different tasks."
 slug: "types-of-chisels-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "mortise and tenon"
+primary_topic: "chisels"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -44,3 +45,7 @@ Mortise chisels are thicker and stronger, designed specifically for cutting deep
 Paring chisels have long blades and are used for fine, controlled cuts when adjusting joinery.
 
 Each type of chisel is designed to balance strength, precision and control depending on the task.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

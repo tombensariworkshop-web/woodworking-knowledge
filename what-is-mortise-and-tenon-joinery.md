@@ -1,5 +1,6 @@
 ---
 title: "What Is Mortise and Tenon Joinery"
+description: "Mortise and tenon joinery is a method of connecting two pieces of wood by fitting a projecting tenon into a corresponding mortise."
 slug: "what-is-mortise-and-tenon-joinery"
 content_type: "knowledge-article"
 language: "en"

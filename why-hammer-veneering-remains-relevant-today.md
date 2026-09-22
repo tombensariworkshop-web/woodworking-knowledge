@@ -1,5 +1,6 @@
 ---
 title: "Why Hammer Veneering Remains Relevant Today"
+description: "Despite the availability of modern adhesives and pressing systems, hammer veneering continues to be practiced by many furniture makers."
 slug: "why-hammer-veneering-remains-relevant-today"
 content_type: "knowledge-article"
 language: "en"
@@ -42,5 +43,5 @@ Hammer veneering also requires relatively simple equipment, which makes it acces
 For these reasons the method remains part of contemporary cabinetmaking practice.
 
 Related articles  
-- hammer-veneering-in-contemporary-cabinetmaking.md  
-- tools-used-in-hammer-veneering.md
+- [Hammer veneering in contemporary cabinetmaking – control, tradition, and real workshop practice](hammer-veneering-in-contemporary-cabinetmaking.md)
+- [Tools Used in Hammer Veneering](tools-used-in-hammer-veneering.md)

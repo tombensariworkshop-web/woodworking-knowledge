@@ -1,5 +1,6 @@
 ---
 title: "How Chipbreakers Prevent Tear-Out"
+description: "A chipbreaker is a small metal component mounted on the back of a plane iron in traditional bench planes."
 slug: "how-chipbreakers-prevent-tear-out"
 content_type: "knowledge-article"
 language: "en"
@@ -41,7 +42,7 @@ In a bevel-down hand plane, the cutting iron is paired with a secondary piece of
 This bending action changes the way the shaving forms and helps control how wood fibers lift ahead of the blade.
 
 Related article  
-what-is-a-hand-plane.md
+[What is a Hand Plane](what-is-a-hand-plane.md)
 
 ## What Causes Tear-Out
 
@@ -57,7 +58,7 @@ Several factors influence tear-out:
 - plane setup  
 
 Related article  
-why-wood-tears-out.md
+[Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)
 
 ## How the Chipbreaker Changes the Cut
 
@@ -68,7 +69,7 @@ This bending action prevents the shaving from lifting fibers too far ahead of th
 A properly set chipbreaker therefore changes the mechanics of the cut. Instead of allowing fibers to split ahead of the blade, it forces the wood to shear at the cutting edge.
 
 Related article  
-how-hand-planes-cut-wood.md
+[How hand planes cut wood](how-hand-planes-cut-wood.md)
 
 ## Chipbreaker Position
 
@@ -89,7 +90,7 @@ A tight mouth supports the fibers directly ahead of the blade, while the chipbre
 Together these elements allow traditional bench planes to work effectively even in challenging grain conditions.
 
 Related article  
-bevel-angle-in-woodworking-tools.md
+[How Blade Angle Affects Cutting](how-blade-angle-affects-cutting.md)
 
 ## Chipbreakers in Workshop Practice
 

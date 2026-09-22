@@ -1,5 +1,6 @@
 ---
 title: "Veneering in woodworking – structure, stability and control"
+description: "Veneering is often reduced to a decorative layer applied to the surface of furniture."
 slug: "veneering"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

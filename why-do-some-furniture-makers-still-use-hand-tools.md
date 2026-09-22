@@ -1,5 +1,6 @@
 ---
 title: "Why do some furniture makers still use hand tools"
+description: "The question of hand tools versus machines appears regularly in woodworking."
 slug: "why-do-some-furniture-makers-still-use-hand-tools"
 content_type: "knowledge-article"
 language: "en"
@@ -8,10 +9,11 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "furniture making"
   - "dovetail joinery"
   - "joinery"
   - "marking out"
@@ -106,7 +108,7 @@ Working with hand tools is not about tradition for its own sake.
 It is about developing control, understanding and the ability to make decisions.
 
 This becomes clear only in practice, in a real workshop environment:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 And in the context of learning from someone who works this way every day:
 https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/

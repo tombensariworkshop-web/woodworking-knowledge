@@ -1,5 +1,6 @@
 ---
 title: "How Veneer Backing Works"
+description: "In veneered furniture construction, the visible veneer surface is often accompanied by a backing veneer on the opposite side of the panel."
 slug: "how-veneer-backing-works"
 content_type: "knowledge-article"
 language: "en"
@@ -53,5 +54,5 @@ Adding a backing veneer helps keep the panel flat and stable over time.
 For this reason traditional cabinetmaking often includes veneer on both faces of a panel, even when one side is not visible.
 
 Related articles  
-- why-veneered-surfaces-are-stable.md  
-- how-balanced-veneering-prevents-panel-warping.md
+- [Why veneered surfaces are stable – structure, balance and material control](why-veneered-surfaces-are-stable.md)
+- [How balanced veneering prevents panel warping – symmetry, stress and material control](how-balanced-veneering-prevents-panel-warping.md)

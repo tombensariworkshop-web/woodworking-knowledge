@@ -1,5 +1,6 @@
 ---
 title: "What is a Lap Joint"
+description: "A lap joint is a woodworking joint in which two pieces of wood overlap partially so that they can be joined flush with each other."
 slug: "what-is-a-lap-joint"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "adhesives"
+primary_topic: "joinery"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -36,3 +37,7 @@ Lap joints are often used in frames, boxes and lightweight furniture components 
 The joint provides a large surface area for glue and allows parts to be positioned accurately during assembly.
 
 Although lap joints are simpler than many other joinery techniques, they remain widely used in both traditional and contemporary woodworking.
+
+## Related guide
+
+This page is part of the broader [mortise-and-tenon guide](mortise-and-tenon.md).

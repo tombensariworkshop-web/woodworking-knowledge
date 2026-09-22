@@ -1,5 +1,6 @@
 ---
 title: "What is a Furniture Maker"
+description: "A furniture maker is a craftsperson who designs and builds furniture from wood and other materials."
 slug: "what-is-a-furniture-maker"
 content_type: "knowledge-article"
 language: "en"
@@ -41,3 +42,7 @@ Furniture makers combine several areas of knowledge, including:
 Some furniture makers specialize in traditional cabinetmaking, while others focus on contemporary furniture design.
 
 The craft requires both technical skill and an understanding of materials.
+
+## Related guide
+
+This page is part of the broader [furniture design and craft guide](furniture-design-and-craft.md).

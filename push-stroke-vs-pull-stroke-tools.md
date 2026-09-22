@@ -1,5 +1,6 @@
 ---
 title: "Push Stroke vs Pull Stroke Tools"
+description: "Woodworking tools can be designed to cut either on the push stroke or on the pull stroke."
 slug: "push-stroke-vs-pull-stroke-tools"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "saws"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -52,3 +53,7 @@ Both systems are effective and capable of producing precise work.
 The choice between push stroke and pull stroke tools often depends on tradition, tool design and the preferences of the woodworker.
 
 Regardless of the cutting direction, both approaches rely on sharp tools and a clear understanding of wood behavior.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

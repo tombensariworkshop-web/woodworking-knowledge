@@ -1,5 +1,6 @@
 ---
 title: "Hand Tools FAQ — Traditional Woodworking Tools & Control"
+description: "Hand tools provide direct feedback from the material."
 slug: "hand-tools-faq"
 content_type: "faq"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "hand tools"
 knowledge_role: "answer-set"
 knowledge_basis: "practice-based woodworking Q&A"
 topics:
@@ -45,9 +46,9 @@ This allows the woodworker to:
 In traditional woodworking, hand tools are not used out of nostalgia. They are used because they provide a level of control that is difficult to achieve in certain operations with machines.
 
 Related:
-- hand-tools-and-control-in-woodworking.md
-- feedback-in-hand-tool-woodworking.md
-- ergonomics-in-hand-tools-woodworking.md
+- [Hand tools and control in woodworking: understanding how tools actually work](../hand-tools-and-control-in-woodworking.md)
+- [Feedback in Hand Tool Woodworking — Understanding Material Through Tools](../feedback-in-hand-tool-woodworking.md)
+- [Ergonomics in Hand Tools — How Tools Shape the Way We Work](../ergonomics-in-hand-tools-woodworking.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
@@ -68,9 +69,9 @@ Dull tools:
 At Bensari Workshop, sharpening is treated as part of woodworking itself rather than tool maintenance.
 
 Related:
-- why-sharp-tools-cut-cleaner.md
-- how-chisels-cut-wood.md
-- why-dull-tools-cause-tear-out.md
+- [Why Sharp Tools Cut Cleaner](../why-sharp-tools-cut-cleaner.md)
+- [How Chisels Cut Wood](../how-chisels-cut-wood.md)
+- [Why Dull Tools Cause Tear-Out](../why-dull-tools-cause-tear-out.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/how-to-sharpen-a-card-scraper-a-step-by-step-guide/
@@ -93,9 +94,9 @@ Tool geometry changes:
 - cutting behavior.
 
 Related:
-- types-of-chisels-in-woodworking.md
-- tools-used-for-dovetails.md
-- how-chisels-cut-wood.md
+- [Types of Chisels in Woodworking](../types-of-chisels-in-woodworking.md)
+- [Reference edges in woodworking – where accuracy is built](../tools-used-for-dovetails.md)
+- [How Chisels Cut Wood](../how-chisels-cut-wood.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
@@ -115,9 +116,9 @@ Traditional benches stabilize:
 At Bensari Workshop, students quickly discover that many woodworking problems come from unstable work-holding rather than lack of skill.
 
 Related:
-- woodworking-bench-design.md
-- workholding-in-traditional-woodworking.md
-- ergonomics-in-hand-tools-woodworking.md
+- [Building a Workbench as a Way of Learning Woodworking](../woodworking-workbench-building-as-learning.md)
+- [Building a Workbench as a Way of Learning Woodworking](../woodworking-workbench-building-as-learning.md)
+- [Ergonomics in Hand Tools — How Tools Shape the Way We Work](../ergonomics-in-hand-tools-woodworking.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/

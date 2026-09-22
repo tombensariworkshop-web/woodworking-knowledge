@@ -1,5 +1,6 @@
 ---
 title: "What is Steam Bending"
+description: "Steam bending is a woodworking technique used to shape wood by exposing it to steam."
 slug: "what-is-steam-bending"
 content_type: "knowledge-article"
 language: "en"
@@ -41,3 +42,7 @@ Steam bending has been used historically in furniture making, boat building and 
 Because the fibers remain continuous, steam-bent elements often have greater structural integrity than parts that are cut from curved stock.
 
 At Bensari Workshop traditional woodworking techniques such as steam bending are explored as part of a broader understanding of furniture construction and material behaviour.
+
+## Related guide
+
+This page is part of the broader [hammer veneering guide](hammer-veneering-complete-guide.md).

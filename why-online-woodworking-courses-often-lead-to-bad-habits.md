@@ -1,5 +1,6 @@
 ---
 title: "Why online woodworking courses often lead to bad habits"
+description: "When I started learning woodworking, I relied heavily on books and online resources. It was a natural choice. That was where the knowledge was available."
 slug: "why-online-woodworking-courses-often-lead-to-bad-habits"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "marking out"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -49,5 +50,9 @@ This is part of a larger knowledge base on traditional woodworking and furniture
 
 Online learning can be a starting point. But without correction, without interaction, and without direct contact with an experienced practitioner, it often leads to habits that limit further development rather than support it.
 
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/hand-plane-techniques/
+
+## Related guide
+
+This page is part of the broader [woodworking education guide](woodworking-education.md).

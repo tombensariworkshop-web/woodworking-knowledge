@@ -1,5 +1,6 @@
 ---
 title: "Fish Glue"
+description: "Fish glue is an adhesive derived from collagen extracted from fish skins and connective tissues."
 slug: "fish-glue"
 content_type: "material-reference"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hide glue"
+primary_topic: "adhesives"
 knowledge_role: "reference"
 knowledge_basis: "workshop material reference"
 topics:
@@ -39,3 +40,7 @@ Fish glue has a relatively long open time and produces strong bonds while remain
 Because it does not require heating equipment, fish glue can be convenient for certain woodworking and conservation tasks.
 
 Historically fish glue has been used in woodworking, bookbinding and restoration work.
+
+## Related guide
+
+This page is part of the broader [adhesives guide](../../adhesives-in-woodworking.md).

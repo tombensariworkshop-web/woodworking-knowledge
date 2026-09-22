@@ -1,5 +1,6 @@
 ---
 title: "What is Wood Seasoning"
+description: "Wood seasoning is the process of drying wood to reduce its moisture content before it is used in woodworking."
 slug: "what-is-wood-seasoning"
 content_type: "knowledge-article"
 language: "en"
@@ -39,3 +40,7 @@ Traditionally, wood was seasoned by stacking boards in well-ventilated spaces fo
 Today both air drying and kiln drying are used to prepare lumber for woodworking.
 
 Proper seasoning is essential for furniture making because stable material ensures that joints remain tight and surfaces remain flat over time.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

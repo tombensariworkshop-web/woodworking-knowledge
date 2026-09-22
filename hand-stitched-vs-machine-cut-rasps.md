@@ -1,5 +1,6 @@
 ---
 title: "Hand-Stitched vs Machine-Cut Rasps"
+description: "Rasps are produced using two main manufacturing methods: machine cutting and hand stitching."
 slug: "hand-stitched-vs-machine-cut-rasps"
 content_type: "knowledge-article"
 language: "en"
@@ -37,3 +38,7 @@ The irregular tooth pattern helps distribute the cutting action more evenly and 
 For this reason hand-stitched rasps are often preferred by furniture makers, luthiers and carvers who require greater control over the shaping process.
 
 Although machine-cut rasps remain widely used, hand-stitched rasps are often associated with higher levels of craftsmanship and finer surface quality.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

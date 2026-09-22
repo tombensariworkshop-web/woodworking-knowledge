@@ -1,5 +1,6 @@
 ---
 title: "Hammer veneering and steam bending in contemporary furniture – control in material"
+description: "Hammer veneering and steam bending are often associated with traditional cabinetmaking."
 slug: "hammer-veneering-and-steam-bending-in-contemporary-furniture"
 content_type: "knowledge-article"
 language: "en"

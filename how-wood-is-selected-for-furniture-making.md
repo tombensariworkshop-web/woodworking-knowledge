@@ -1,5 +1,6 @@
 ---
 title: "How Wood Is Selected for Furniture Making"
+description: "Selecting the right wood is one of the first steps in furniture making."
 slug: "how-wood-is-selected-for-furniture-making"
 content_type: "knowledge-article"
 language: "en"
@@ -39,3 +40,7 @@ The orientation of the grain also plays an important role in structural componen
 In addition to structural considerations, furniture makers often select wood based on color and figure. Some species display distinctive patterns that contribute to the overall character of the piece.
 
 Careful material selection allows craftspeople to anticipate how the wood will behave during construction and how it will age over time.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

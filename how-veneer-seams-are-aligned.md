@@ -1,5 +1,6 @@
 ---
 title: "How Veneer Seams Are Aligned"
+description: "When multiple veneer sheets are used on a single panel, the seams between sheets must be aligned carefully."
 slug: "how-veneer-seams-are-aligned"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -43,5 +44,5 @@ During hammer veneering, the veneer hammer helps press the joined sheets evenly 
 Once the glue has set, the seams become part of a continuous surface.
 
 Related articles  
-- why-bookmatching-is-used-in-veneering.md  
-- how-glue-is-forced-out-during-hammer-veneering.md
+- [Why Bookmatching Is Used in Veneering](why-bookmatching-is-used-in-veneering.md)
+- [How glue is forced out during hammer veneering – flow, pressure and material interaction](how-glue-is-forced-out-during-hammer-veneering.md)

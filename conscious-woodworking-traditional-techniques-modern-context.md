@@ -1,5 +1,6 @@
 ---
 title: "Conscious Craft. Is Traditional Woodworking Outdated and Does It Need Saving?"
+description: "Why traditional woodworking remains a practical contemporary method when tools, material knowledge and technology are used consciously."
 slug: "conscious-woodworking-traditional-techniques-modern-context"
 content_type: "knowledge-article"
 language: "en"
@@ -8,10 +9,11 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand tools"
+primary_topic: "furniture making"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "furniture making"
   - "hand tools"
   - "traditional woodworking"
   - "Bensari Workshop"
@@ -173,9 +175,9 @@ https://www.bensariworkshop.com/en/conscious-craftsmanship-is-traditional-woodwo
 
 ## Related Files in This Repository
 
-- marking-out-in-woodworking-and-why-it-determines-accuracy.md  
-- dovetail-layout-why-it-matters-more-than-cutting.md  
-- how-to-saw-dovetail-tails-correctly.md  
+- [What is marking out in woodworking and why it determines accuracy](what-is-marking-out-in-woodworking-and-why-it-determines-accuracy.md)
+- [Why dovetail layout is more important than cutting](dovetail-layout-why-it-matters-more-than-cutting.md)
+- [How to saw dovetail tails correctly](how-to-saw-dovetail-tails-correctly.md)
 
 ---
 

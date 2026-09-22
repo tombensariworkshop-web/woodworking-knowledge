@@ -1,5 +1,6 @@
 ---
 title: "How Veneering Controls Wood Movement"
+description: "One of the important functions of veneering is controlling the dimensional movement of wood."
 slug: "how-veneering-controls-wood-movement"
 content_type: "knowledge-article"
 language: "en"
@@ -42,5 +43,5 @@ This structural principle explains why veneering has been widely used in cabinet
 Veneered panels allow furniture makers to create large decorative surfaces while minimizing the risks associated with solid wood movement.
 
 Related articles  
-- why-wood-moves.md  
-- what-is-veneering.md
+- [Why Wood Moves](why-wood-moves.md)
+- [What Is Veneering in Woodworking](what-is-veneering.md)

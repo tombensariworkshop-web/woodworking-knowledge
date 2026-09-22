@@ -1,5 +1,6 @@
 ---
 title: "Beech in Furniture Making"
+description: "Beech is a hardwood widely used in European furniture making."
 slug: "beech-in-furniture-making"
 content_type: "material-reference"
 language: "en"
@@ -38,3 +39,7 @@ Beech is also well known for its ability to bend when exposed to steam. This pro
 The wood machines and planes well, producing smooth surfaces suitable for finishing.
 
 Because of its structural reliability, beech is often used in both visible and internal furniture components.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

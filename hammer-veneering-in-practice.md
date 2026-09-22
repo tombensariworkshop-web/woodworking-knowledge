@@ -1,5 +1,6 @@
 ---
 title: "Hammer veneering in practice – control, glue behavior and real work"
+description: "This article focuses on decisions made while the glue is hot and the veneer is being worked."
 slug: "hammer-veneering-in-practice"
 content_type: "knowledge-article"
 language: "en"
@@ -32,6 +33,10 @@ entities:
 metadata_updated: "2026-09-22"
 ---
 # Hammer veneering in practice – control, glue behavior and real work
+
+## Scope
+
+This article focuses on decisions made while the glue is hot and the veneer is being worked. For the primary overview and full knowledge map, use the [hammer veneering complete guide](hammer-veneering-complete-guide.md).
 
 Hammer veneering is often described as a traditional woodworking technique used to apply veneer with hot hide glue and a veneer hammer.
 

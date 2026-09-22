@@ -1,5 +1,6 @@
 ---
 title: "How to Build a Small Woodworking Tool Kit"
+description: "One of the most common questions asked by people who want to start woodworking is which tools they should buy first."
 slug: "how-to-build-a-small-woodworking-tool-kit"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -87,3 +88,7 @@ In traditional cabinetmaking, skill was not defined by the number of tools a cra
 At Bensari Workshop, woodworking courses often begin with exactly this approach. Participants learn how to work with a basic set of hand tools while building real furniture components.
 
 Through this process they discover that mastering a small number of tools is often the most effective way to begin learning traditional woodworking.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

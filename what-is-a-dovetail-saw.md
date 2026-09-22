@@ -1,5 +1,6 @@
 ---
 title: "What Is a Dovetail Saw"
+description: "A dovetail saw is a small backsaw designed for fine joinery work."
 slug: "what-is-a-dovetail-saw"
 content_type: "knowledge-article"
 language: "en"
@@ -40,3 +41,7 @@ The saw has a thin blade reinforced by a metal spine that keeps the blade rigid 
 Dovetail saws are typically used when cutting along layout lines marked with a knife or gauge.
 
 Because of their precision, dovetail saws are considered essential tools in traditional cabinetmaking.
+
+## Related guide
+
+This page is part of the broader [dovetail joinery guide](dovetail-joinery-guide.md).

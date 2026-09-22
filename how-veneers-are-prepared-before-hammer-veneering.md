@@ -1,5 +1,6 @@
 ---
 title: "How Veneers Are Prepared Before Hammer Veneering"
+description: "Successful hammer veneering begins long before glue is applied. Proper preparation of veneer sheets is essential for achieving flat surfaces and reliable adhesion."
 slug: "how-veneers-are-prepared-before-hammer-veneering"
 content_type: "knowledge-article"
 language: "en"
@@ -41,5 +42,5 @@ Another important step is cutting the veneer slightly oversized. This allows the
 Preparing veneer carefully ensures that the hammer veneering process proceeds smoothly and that the veneer can be positioned accurately during gluing.
 
 Related articles  
-- what-is-hammer-veneering.md  
-- how-hot-hide-glue-behaves-in-hammer-veneering.md
+- [What Is Hammer Veneering](what-is-hammer-veneering.md)
+- materials/glues/hide-glue-in-veneering.md

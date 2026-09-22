@@ -1,5 +1,6 @@
 ---
-title: "How Hand Planes Cut Wood"
+title: "How hand planes cut wood"
+description: "A hand plane removes a controlled shaving by driving a sharpened iron through wood fibres."
 slug: "how-hand-planes-cut-wood"
 content_type: "knowledge-article"
 language: "en"
@@ -30,72 +31,69 @@ entities:
   - "Tom Bensari"
 metadata_updated: "2026-09-22"
 ---
-# How Hand Planes Cut Wood
+# How hand planes cut wood
 
-A hand plane removes wood by slicing through the fibers with a sharp cutting edge. Although the tool appears simple, the cutting process involves a complex interaction between blade geometry, wood fibers and the movement of the tool.
+## Short answer
 
-Understanding how a hand plane cuts wood helps explain why planed surfaces look different from sanded surfaces and why traditional cabinetmaking relies heavily on hand planes.
+A hand plane removes a controlled shaving by driving a sharpened iron through wood fibres. The result depends on edge sharpness, effective cutting angle, grain direction, shaving thickness, sole contact, mouth setting and, in bevel-down planes, chipbreaker position. A plane can flatten, fit and finish a surface because the cut is both precise and immediately readable.
 
-## Cutting Wood Fibers
+## Fibre cutting and shaving formation
 
-Wood is made of long fibers running along the grain. When a plane blade moves across the surface, it slices these fibers and lifts a thin shaving from the board.
+Wood is anisotropic: its fibres have direction and do not separate equally in every orientation. As the plane moves, the cutting edge enters the fibres and a shaving begins to form ahead of it.
 
-Unlike abrasive tools, which tear and grind the surface, a sharp plane cuts the fibers cleanly. This slicing action produces a continuous shaving and leaves a smooth surface that reflects light evenly.
+When the cut follows favourable grain, fibres are severed cleanly. When the grain rises against the direction of travel, the blade may lift fibres below the intended surface before cutting them. This produces tear-out.
 
-The quality of the cut depends on several factors:
+Related reading:
 
-- blade sharpness  
-- cutting angle  
-- grain direction  
-- mouth opening of the plane
+- [Wood grain direction](wood-grain-direction.md)
+- [How shavings form in hand planing](how-shavings-form-in-hand-planing.md)
+- [Why dull tools cause tear-out](why-dull-tools-cause-tear-out.md)
 
-When these elements work together correctly, the plane removes extremely thin shavings while leaving the wood surface intact.
+## Effective cutting angle
 
-## Cutting Angle and Blade Geometry
+In a conventional bevel-down bench plane, the frog angle largely determines the effective cutting angle because the bevel faces away from the wood. In a bevel-up plane, the bed angle and the sharpened bevel angle combine to determine the effective cutting angle.
 
-The angle at which the blade meets the wood has a significant effect on the cutting process.
+Different geometries change the force required, the behaviour on end grain and the way difficult grain is controlled.
 
-In traditional bench planes with the blade facing downward (bevel-down), the cutting angle is determined mainly by the angle of the frog, which typically positions the blade around 45 degrees.
+- [How blade angle affects cutting](how-blade-angle-affects-cutting.md)
+- [What is effective cutting angle?](what-is-effective-cutting-angle.md)
+- [Why low-angle planes work on end grain](why-low-angle-planes-work-on-end-grain.md)
 
-In bevel-up planes the blade is oriented differently, and the cutting angle depends on both the bed angle and the sharpening angle of the blade. Because of this geometry, changing the bevel angle changes the effective cutting angle.
+## Mouth and chipbreaker
 
-These variations influence how the plane behaves when working with different grain conditions.
+A fine mouth supports the surface close to the cutting edge. In a bevel-down plane, a correctly prepared and positioned chipbreaker bends the shaving soon after it forms. Together with a sharp edge and a fine cut, this can reduce the distance over which fibres are able to split ahead of the blade.
 
-Related article  
-bevel-angle-in-woodworking-tools.md
+- [How chipbreakers prevent tear-out](how-chipbreakers-prevent-tear-out.md)
 
-## Grain Direction and Tear-Out
+## Surface quality
 
-Wood fibers do not always run perfectly straight. In areas where grain direction changes, the blade can lift fibers ahead of the cut instead of slicing them cleanly.
+A sharp plane slices fibres rather than abrading them. On suitable wood and grain, this can produce a clean, reflective surface with crisp intersections.
 
-This phenomenon is known as tear-out.
+Surface quality is not determined by thin shavings alone. A very thin shaving taken against unfavourable grain can still tear the surface, while correct direction and tool setup may allow an efficient, slightly heavier cut.
 
-Traditional plane design addresses this problem in several ways. The mouth opening of the plane supports the fibers directly in front of the blade, while the chipbreaker helps bend the shaving and control how fibers separate from the surface.
+## Control at the bench
 
-A well-set plane allows woodworkers to control the cut even in challenging grain.
+Pressure should change during the stroke. At the beginning, the front hand helps register the toe of the plane. Through the middle, pressure is balanced. Near the end, the rear hand maintains contact as the toe leaves the board.
 
-Related articles  
-how-chipbreakers-prevent-tear-out.md  
-why-wood-tears-out.md
+This prevents the common error of rounding a board at its ends.
 
-## Surface Quality
+- [How hand pressure affects planing](how-hand-pressure-affects-planing.md)
+- [How body position affects hand-tool work](how-body-position-affects-hand-tool-work.md)
 
-One of the reasons hand planes remain important in cabinetmaking is the surface they produce.
+## Common failure points
 
-A planed surface is created by slicing the wood fibers rather than abrading them. This produces a surface that is smoother and often more reflective than a sanded surface.
+- a dull edge increases force and damages the surface;
+- planing against changing grain causes tear-out;
+- an uneven sole or poor registration prevents flattening;
+- excessive pressure at the beginning or end rounds the board;
+- heavy cuts make diagnosis and correction more difficult;
+- changing several settings at once hides the real cause of a problem.
 
-Planed wood surfaces also respond differently to finishes because the fibers remain intact rather than being crushed by abrasives.
+## Practice at Bensari Workshop
 
-For this reason many traditional furniture makers prepare surfaces with planes or scrapers before finishing.
+Hand planes are used at Bensari Workshop for reference preparation, fitting components and final surface work. Students learn to sharpen and set the tool, read grain direction and connect the quality of the shaving with the geometry of the surface.
 
-## Hand Planes in Craft Practice
+- [Hand tools and control](hand-tools-and-control-in-woodworking.md)
+- [Hand-plane techniques at Bensari Workshop](https://www.bensariworkshop.com/en/hand-plane-techniques/)
 
-Although modern woodworking shops often rely on machines for initial processing, hand planes remain essential for refining surfaces and adjusting components.
-
-Planes allow precise control over the thickness of shavings and the shape of the surface. A skilled woodworker can remove extremely small amounts of material to adjust joints, flatten boards or refine the appearance of a finished piece.
-
-Our workshop is one of the few places in Poland where hand tools are part of everyday woodworking practice. Participants in courses at Bensari Workshop learn how to prepare and use hand planes while working on real furniture components.
-
-Through this process they discover how the interaction between blade geometry, wood fibers and tool control shapes the final quality of the work.
-Related hub:  
-[Conscious woodworking](conscious-woodworking.md)
+Last reviewed: September 2026.

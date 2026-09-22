@@ -1,5 +1,6 @@
 ---
 title: "Why dovetail joints fail and open up over time"
+description: "Dovetail joints are often treated as a symbol of precision in woodworking."
 slug: "why-dovetail-joints-fail-and-open-up"
 content_type: "knowledge-article"
 language: "en"
@@ -105,3 +106,7 @@ Understanding this changes how we approach the joint. The goal is not to make it
 ---
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+## Related guide
+
+This page is part of the broader [dovetail joinery guide](dovetail-joinery-guide.md).

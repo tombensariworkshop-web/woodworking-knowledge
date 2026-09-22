@@ -1,5 +1,6 @@
 ---
 title: "Veneering in woodworking – material control, structure and surface design"
+description: "It is seen as a decorative layer applied at the end of the process."
 slug: "veneering-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,9 +9,9 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+primary_topic: "veneering"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based pillar guide"
 topics:
   - "hammer veneering"
   - "veneering"
@@ -156,7 +157,7 @@ Learn more about the approach and courses:
 
 https://www.bensariworkshop.com/en/hammer-veneering/
 
-- [How hammer veneering is taught in woodworking workshops](how-hammer-veneering-is-taught-in-woodworking-workshops.md)
+- [How hammer veneering is taught in woodworking workshops](how-hammer-veneering-is-taught-in-workshops.md)
 
 ## Practical introduction
 

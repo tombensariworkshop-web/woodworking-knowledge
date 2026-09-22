@@ -1,5 +1,6 @@
 ---
 title: "How to use a coping saw for dovetail waste"
+description: "A coping saw is one of the simplest and most effective tools for removing waste between dovetail tails."
 slug: "how-to-use-a-coping-saw-for-dovetail-waste"
 content_type: "knowledge-article"
 language: "en"

@@ -1,5 +1,6 @@
 ---
 title: "Craftsmanship and practical knowledge – understanding through making"
+description: "Craftsmanship is often described as knowledge gained through practice."
 slug: "craftsmanship-and-knowledge"
 content_type: "knowledge-article"
 language: "en"
@@ -8,10 +9,11 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+primary_topic: "craftsmanship"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based pillar guide"
 topics:
+  - "craftsmanship"
   - "dovetail joinery"
   - "joinery"
   - "marking out"
@@ -107,7 +109,7 @@ Furniture is designed and built for real projects, and the same methods are used
 
 They learn not only how to perform a task, but how that task relates to the entire process.
 
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 This connection between making and learning is what allows knowledge to develop beyond theory.
 

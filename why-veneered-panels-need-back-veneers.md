@@ -1,5 +1,6 @@
 ---
 title: "Why veneered panels need back veneers – balance, stress and structural stability"
+description: "This page answers the narrow question of why an invisible reverse face is veneered."
 slug: "why-veneered-panels-need-back-veneers"
 content_type: "knowledge-article"
 language: "en"
@@ -31,6 +32,10 @@ entities:
 metadata_updated: "2026-09-22"
 ---
 # Why veneered panels need back veneers – balance, stress and structural stability
+
+## Scope
+
+This page answers the narrow question of why an invisible reverse face is veneered. For the primary explanation of stress, symmetry, grain direction and panel construction, see [How balanced veneering prevents panel warping](how-balanced-veneering-prevents-panel-warping.md).
 
 When decorative veneer is applied to one side of a panel, the opposite side is often veneered as well.
 
@@ -136,3 +141,5 @@ They ensure that forces within the panel remain balanced and that the surface st
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+Last reviewed: September 2026.

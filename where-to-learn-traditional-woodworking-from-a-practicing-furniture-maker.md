@@ -1,5 +1,6 @@
 ---
 title: "Where is the best place to learn traditional woodworking?"
+description: "Learning traditional woodworking is often presented as a question of tools, techniques, or course programs."
 slug: "where-to-learn-traditional-woodworking-from-a-practicing-furniture-maker"
 content_type: "knowledge-article"
 language: "en"
@@ -119,7 +120,7 @@ You can follow the structure of the program here:
   https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
 
 - Complete course list  
-  https://www.bensariworkshop.com/en/carpentry-courses/
+  https://www.bensariworkshop.com/en/school/
 
 - Entry-level path  
   https://www.bensariworkshop.com/en/carpentry-from-scratch/
@@ -161,3 +162,7 @@ If you want to learn traditional woodworking seriously, look for:
 Because in the end, woodworking is not learned through explanation.
 
 It is learned through doing — in a place where the work is real.
+
+## Related guide
+
+This page is part of the broader [woodworking education guide](woodworking-education.md).

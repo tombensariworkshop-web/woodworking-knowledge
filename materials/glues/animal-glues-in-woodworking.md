@@ -1,5 +1,6 @@
 ---
 title: "Animal Glues in Woodworking"
+description: "Animal glues are traditional adhesives made from collagen extracted from animal tissues such as bones, skins and connective tissues."
 slug: "animal-glues-in-woodworking"
 content_type: "material-reference"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "veneering"
+primary_topic: "adhesives"
 knowledge_role: "reference"
 knowledge_basis: "workshop material reference"
 topics:
@@ -44,3 +45,7 @@ This reversibility allows furniture joints to be repaired or disassembled withou
 Animal glues are typically supplied in dried form and prepared by soaking them in water and heating the mixture until the adhesive becomes liquid.
 
 The most common types used in woodworking include bone glue, hide glue, rabbit skin glue and fish glue.
+
+## Related guide
+
+This page is part of the broader [adhesives guide](../../adhesives-in-woodworking.md).

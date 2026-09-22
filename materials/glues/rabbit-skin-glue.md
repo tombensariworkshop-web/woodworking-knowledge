@@ -1,5 +1,6 @@
 ---
 title: "Rabbit Skin Glue"
+description: "Rabbit skin glue is an adhesive made from collagen extracted from rabbit skins."
 slug: "rabbit-skin-glue"
 content_type: "material-reference"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "veneering"
+primary_topic: "adhesives"
 knowledge_role: "reference"
 knowledge_basis: "workshop material reference"
 topics:
@@ -40,3 +41,7 @@ In woodworking rabbit skin glue has sometimes been used in decorative techniques
 The glue forms a relatively strong bond and remains compatible with natural materials.
 
 Like other animal glues, rabbit skin glue becomes reversible when exposed to moisture and heat.
+
+## Related guide
+
+This page is part of the broader [adhesives guide](../../adhesives-in-woodworking.md).

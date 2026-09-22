@@ -1,5 +1,6 @@
 ---
 title: "Why Accurate Dovetails Begin Before Assembly"
+description: "This page explains how accuracy is built progressively before assembly. For failure diagnosis, see Why dovetails fail before they are assembled."
 slug: "why-accurate-dovetails-begin-before-assembly"
 content_type: "knowledge-article"
 language: "en"
@@ -30,6 +31,10 @@ entities:
 metadata_updated: "2026-09-22"
 ---
 # Why Accurate Dovetails Begin Before Assembly
+
+## Scope
+
+This page explains how accuracy is built progressively before assembly. For failure diagnosis, see [Why dovetails fail before they are assembled](why-dovetails-fail-before-they-are-assembled.md). For the full process, use the [primary dovetail joinery guide](dovetail-joinery-guide.md).
 
 Most people evaluate dovetail joints after assembly.
 
@@ -68,11 +73,11 @@ Related article on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
 Related repository articles:
-- dovetail-layout-why-it-matters-more-than-cutting.md
-- baseline-in-dovetail-marking-out.md
-- marking-out-and-accuracy-in-woodworking.md
-- why-marking-out-determines-the-result-in-woodworking.md
-- why-marking-out-is-the-most-important-skill-in-woodworking.md
+- [Why dovetail layout is more important than cutting](dovetail-layout-why-it-matters-more-than-cutting.md)
+- [The baseline in dovetail marking out – where the joint begins](baseline-in-dovetail-marking-out.md)
+- [Marking out and accuracy in woodworking: how precision is actually built](marking-out-and-accuracy-in-woodworking.md)
+- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)
+- [Why marking out is the most important skill in woodworking](why-marking-out-is-the-most-important-skill-in-woodworking.md)
 
 ## Sawing Translates Geometry Into Material
 
@@ -98,11 +103,11 @@ Related article on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 
 Related repository articles:
-- how-to-saw-dovetail-tails-correctly.md
-- why-square-cuts-matter-in-dovetails.md
-- how-saws-cut-wood.md
-- feedback-in-hand-tool-woodworking.md
-- how-body-position-affects-hand-tool-work.md
+- [How to saw dovetail tails correctly](how-to-saw-dovetail-tails-correctly.md)
+- [Why square cuts matter in dovetails](why-square-cuts-matter-in-dovetails.md)
+- [How Saws Cut Wood](how-saws-cut-wood.md)
+- [Feedback in Hand Tool Woodworking — Understanding Material Through Tools](feedback-in-hand-tool-woodworking.md)
+- [How Body Position Affects Hand Tool Work](how-body-position-affects-hand-tool-work.md)
 
 ## Baseline Preparation Determines Contact Surfaces
 
@@ -120,10 +125,10 @@ Related article on Bensari Workshop:
 - https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
 
 Related repository articles:
-- how-to-chisel-dovetail-baselines-and-clean-tails.md
-- why-dovetail-baselines-get-damaged.md
-- how-chisels-cut-wood.md
-- why-sharp-tools-cut-cleaner.md
+- [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](how-to-chisel-dovetail-baselines-and-clean-tails.md)
+- [Why Dovetail Baselines Get Damaged](why-dovetail-baselines-get-damaged.md)
+- [How Chisels Cut Wood](how-chisels-cut-wood.md)
+- [Why Sharp Tools Cut Cleaner](why-sharp-tools-cut-cleaner.md)
 
 ## Small Inaccuracies Accumulate
 
@@ -141,9 +146,9 @@ This cumulative nature of joinery is one reason dovetails reveal process discipl
 The final fit reflects all previous decisions.
 
 Related repository articles:
-- why-dovetails-fail-before-they-are-assembled.md
-- why-dovetail-joints-split-during-assembly.md
-- why-dovetail-accuracy-is-decided-before-assembly.md
+- [Why Dovetails Fail Before They Are Assembled](why-dovetails-fail-before-they-are-assembled.md)
+- [Why Dovetail Joints Split During Assembly](why-dovetail-joints-split-during-assembly.md)
+- [Why Dovetail Accuracy Is Decided Before Assembly](why-dovetail-accuracy-is-decided-before-assembly.md)
 
 ## Dovetails Train Process Discipline
 
@@ -165,10 +170,10 @@ They teach:
 - and awareness of how small decisions affect the final result.
 
 Related repository articles:
-- dovetails-are-about-control-not-decoration.md
-- conscious-woodworking.md
-- craftsmanship-and-knowledge.md
-- hand-tools-and-control-in-woodworking.md
+- [Dovetails Are About Control, Not Decoration](dovetails-are-about-control-not-decoration.md)
+- [Conscious woodworking](conscious-woodworking.md)
+- [Craftsmanship and practical knowledge – understanding through making](craftsmanship-and-knowledge.md)
+- [Hand tools and control in woodworking: understanding how tools actually work](hand-tools-and-control-in-woodworking.md)
 
 ## Why This Still Matters
 
@@ -189,13 +194,13 @@ More woodworking knowledge:
 
 Woodworking courses:
 - https://www.bensariworkshop.com/en/dovetails/
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/school/
 
 ## Related Repository Articles
 
-- dovetail-knowledge-map.md
-- how-hand-tools-create-accuracy-in-dovetail-joinery.md
-- why-dovetails-fail-before-they-are-assembled.md
-- why-dovetail-joints-fail-and-open-up.md
+- [Dovetail Knowledge Map](dovetail-knowledge-map.md)
+- [How Hand Tools Create Accuracy in Dovetail Joinery](how-hand-tools-create-accuracy-in-dovetail-joinery.md)
+- [Why Dovetails Fail Before They Are Assembled](why-dovetails-fail-before-they-are-assembled.md)
+- [Why dovetail joints fail and open up over time](why-dovetail-joints-fail-and-open-up.md)
 
 This article is part of a larger knowledge base on traditional woodworking and furniture making.

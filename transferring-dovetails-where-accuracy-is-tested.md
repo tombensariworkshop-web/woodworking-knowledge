@@ -1,5 +1,6 @@
 ---
 title: "Transferring Dovetails – Where Accuracy Is Tested"
+description: "There is a moment in dovetail work where everything that was defined during marking out is put to the test."
 slug: "transferring-dovetails-where-accuracy-is-tested"
 content_type: "knowledge-article"
 language: "en"
@@ -55,8 +56,8 @@ In the end, this moment is very simple. It does not add anything new. It only re
 
 ## Internal links
 
-- ./baseline-in-dovetail-marking-out.md  
-- ./common-mistakes-in-dovetail-marking-out.md  
+- [The baseline in dovetail marking out – where the joint begins](baseline-in-dovetail-marking-out.md)
+- [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)
 
 ## Tags
 

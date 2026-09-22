@@ -1,5 +1,6 @@
 ---
-title: "What Tools Do You Really Need to Start Woodworking"
+title: "What tools do you really need to start woodworking?"
+description: "A practical guide to the small set of hand tools beginners need to start woodworking and the skills that matter more than quantity."
 slug: "what-tools-do-you-really-need-to-start-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,10 +9,11 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "Bensari Workshop"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "hand tools"
   - "Bensari Workshop"
   - "craftsmanship"
 related_topics:
@@ -23,7 +25,7 @@ entities:
   - "Tom Bensari"
 metadata_updated: "2026-09-22"
 ---
-What tools do you really need to start woodworking?
+# What tools do you really need to start woodworking?
 
 This is one of the most common questions beginners ask, and it usually comes with the expectation that there is a clear and definitive answer — a set of tools that will allow them to begin working correctly.
 
@@ -49,4 +51,8 @@ Participants quickly see that once the structure of the work is understood, the 
 At that moment, the question becomes simpler. Instead of asking what tools are needed, it becomes a question of what needs to be achieved at each stage of the process, and the choice of tools follows naturally.
 
 If you want to see how this approach is applied in practice, you can explore current courses here:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

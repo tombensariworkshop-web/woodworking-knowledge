@@ -1,5 +1,6 @@
 ---
 title: "How Blade Angle Affects Cutting"
+description: "The angle of a cutting edge strongly influences how a woodworking tool interacts with wood fibers."
 slug: "how-blade-angle-affects-cutting"
 content_type: "knowledge-article"
 language: "en"
@@ -8,10 +9,12 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "wood as material"
+primary_topic: "hand planes"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "hand planes"
+  - "saws"
   - "wood as material"
 related_topics:
   - "wood movement"
@@ -41,4 +44,4 @@ Lower cutting angles slice fibers more easily and are often used when cutting en
 Higher cutting angles resist tear-out when working with difficult grain.
 
 Related article  
-what-is-effective-cutting-angle.md
+[What Is Effective Cutting Angle](what-is-effective-cutting-angle.md)

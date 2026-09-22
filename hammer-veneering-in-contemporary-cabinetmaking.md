@@ -1,5 +1,6 @@
 ---
 title: "Hammer veneering in contemporary cabinetmaking – control, tradition, and real workshop practice"
+description: "Hammer veneering is often described as a traditional technique associated with restoration or historical furniture."
 slug: "hammer-veneering-in-contemporary-cabinetmaking"
 content_type: "knowledge-article"
 language: "en"

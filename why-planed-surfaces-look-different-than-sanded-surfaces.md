@@ -1,5 +1,6 @@
 ---
 title: "Why Planed Surfaces Look Different Than Sanded Surfaces"
+description: "Wood surfaces prepared with a hand plane often look different from surfaces prepared with sandpaper."
 slug: "why-planed-surfaces-look-different-than-sanded-surfaces"
 content_type: "knowledge-article"
 language: "en"
@@ -44,7 +45,7 @@ Sandpaper works in a different way. Abrasive grains scratch the surface and grad
 Because of this difference, the two methods produce surfaces with different microscopic structures.
 
 Related article  
-how-hand-planes-cut-wood.md
+[How hand planes cut wood](how-hand-planes-cut-wood.md)
 
 ## Fiber Structure and Light Reflection
 
@@ -65,8 +66,8 @@ Traditional plane design addresses this with several features, including the chi
 These elements help control how fibers separate from the wood surface.
 
 Related articles  
-how-chipbreakers-prevent-tear-out.md  
-why-wood-tears-out.md
+[How Chipbreakers Prevent Tear-Out](how-chipbreakers-prevent-tear-out.md)
+[Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)
 
 ## Surface Preparation in Cabinetmaking
 
@@ -77,8 +78,8 @@ Planes are used to flatten and refine the surface of boards. Scrapers may then b
 Sanding is sometimes used as a final step, but many furniture makers rely primarily on cutting tools to prepare wood surfaces before finishing.
 
 Related articles  
-what-is-a-cabinet-scraper.md  
-why-hand-tools-still-matter-in-woodworking.md
+[What is a Cabinet Scraper](what-is-a-cabinet-scraper.md)
+[Why hand tools still matter in woodworking](why-hand-tools-still-matter-in-woodworking.md)
 
 ## Surface Quality and Finishing
 

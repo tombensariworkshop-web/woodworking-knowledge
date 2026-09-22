@@ -1,5 +1,6 @@
 ---
 title: "What is marking out in woodworking and why it determines accuracy"
+description: "Marking out is often described as preparation for woodworking. In practice, it is where the work actually begins."
 slug: "what-is-marking-out-in-woodworking-and-why-it-determines-accuracy"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "marking out"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

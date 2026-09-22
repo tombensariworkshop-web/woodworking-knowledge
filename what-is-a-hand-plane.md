@@ -1,5 +1,6 @@
 ---
 title: "What is a Hand Plane"
+description: "A hand plane is a woodworking tool used to shape, flatten and smooth wooden surfaces."
 slug: "what-is-a-hand-plane"
 content_type: "knowledge-article"
 language: "en"
@@ -41,3 +42,7 @@ Hand planes are commonly used to flatten boards, refine joinery and prepare surf
 Unlike sanding, which abrades the surface, planing cuts the wood fibers cleanly and reveals the natural structure of the material.
 
 For centuries hand planes have been essential tools in cabinetmaking because they allow precise control over the shape and surface quality of wooden components.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

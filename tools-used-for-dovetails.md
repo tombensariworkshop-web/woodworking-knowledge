@@ -1,5 +1,6 @@
 ---
-title: "Reference edges in woodworking – where accuracy is built"
+title: "Tools used for hand-cut dovetails"
+description: "The essential tools for hand-cut dovetails are a marking gauge, marking knife, square, dovetail saw and sharp chisels."
 slug: "tools-used-for-dovetails"
 content_type: "knowledge-article"
 language: "en"
@@ -31,78 +32,88 @@ entities:
   - "Tom Bensari"
 metadata_updated: "2026-09-22"
 ---
-# Reference edges in woodworking – where accuracy is built
+# Tools used for hand-cut dovetails
 
-In woodworking, accuracy is often associated with measurement, but in practice it depends much more on consistency. That consistency is built on reference edges, even if at first they seem like a minor technical detail.
+## Short answer
 
-This article is part of a structured knowledge base on traditional woodworking, joinery, and furniture making developed through daily workshop practice at Bensari Workshop.
+The essential tools for hand-cut dovetails are a marking gauge, marking knife, square, dovetail saw and sharp chisels. A coping or fret saw can speed up waste removal, while a plane helps prepare reliable reference surfaces before layout. The quality of the joint depends more on how these tools are prepared and used together than on the size of the tool collection.
 
-## One face, one edge
+## Reference preparation
 
-When I mark out dovetails, everything begins from one face and one edge. This is not a theoretical principle. It is a way of maintaining control over the work from the first line to the final assembly.
+Dovetails begin with flat, square components and clearly identified reference faces and edges. If the boards are twisted, uneven in thickness or out of square, accurate layout becomes difficult.
 
-At the beginning of the process, this is usually very clear. The elements are marked, the orientation is defined, the triangle is visible. But as work progresses, attention shifts to individual operations. The focus moves to cutting, to fitting, to details.
+Useful tools:
 
-Somewhere along the way, the reference system quietly disappears.
+- a bench plane for preparing faces and edges;
+- a square for checking the relationship between surfaces;
+- winding sticks or other checks when preparing wider stock.
 
-## Where errors actually begin
+Related reading:
 
-From that moment on, small inconsistencies begin to accumulate. Each step is still done carefully, each line seems correct, but they no longer relate to the same origin.
+- [Reference faces and reference edges](how-reference-faces-and-reference-edges-work.md)
+- [How hand planes cut wood](how-hand-planes-cut-wood.md)
 
-When the joint is assembled, those differences reveal themselves.
+## Marking gauge
 
-What makes reference edges important is not precision in isolation, but continuity. Every decision, every transfer, every line returns to the same point. That is what allows the elements to come together as a whole instead of a collection of parts.
+A marking gauge establishes the baseline that controls the depth of the joint. The setting should be taken directly from the thickness of the mating board rather than from a separate numerical measurement.
 
-This is why marking out is not just preparation. It is the stage where accuracy is built and controlled:
-https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+The same setting is kept for all corresponding components so that the geometry remains consistent.
 
-## Seeing it in practice
+- [Baseline in dovetail marking out](baseline-in-dovetail-marking-out.md)
+- [What is a marking gauge?](what-is-a-marking-gauge.md)
 
-This becomes very clear when you observe the process in practice, when each action relates back to the same reference:
+## Marking knife and square
 
-https://www.youtube.com/watch?v=ahbU-GnlVXM&t=24s
+A marking knife produces a precise line and severs surface fibres. A square guides lines that must remain perpendicular to the reference edge.
 
-And if you look at the full sequence, it is easy to see how marking out, reference edges, and cutting are connected:
+The knife line should remain readable throughout sawing and chiselling. It is a boundary, not a line to remove casually.
 
-https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
+- [What is a marking knife?](what-is-a-marking-knife.md)
+- [What is a try square?](what-is-a-try-square.md)
+- [Why marking knives matter in dovetail layout](why-marking-knives-matter-in-dovetail-layout.md)
 
-## Tools and reference
+## Dovetail saw
 
-Reference edges only work if the tools follow them consistently.
+A dovetail saw makes the fine rip cuts that define tails and pins. Tooth geometry, sharpness, set and the user's body position affect how easily the saw follows the intended plane.
 
-Squares, marking gauges, and knives are not only measuring tools. They are tools that allow you to maintain alignment across the entire process:
+The saw does not create the geometry; it executes geometry already established during layout.
 
-https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/  
-https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/  
-https://www.bensariworkshop.com/en/hand-tools-in-practice-stanley-combination-square/
+- [What is a dovetail saw?](what-is-a-dovetail-saw.md)
+- [How saws cut wood](how-saws-cut-wood.md)
+- [How to saw dovetail tails correctly](how-to-saw-dovetail-tails-correctly.md)
 
-Understanding tools in isolation is not enough. They only make sense in relation to reference and decision-making:
-https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
+## Chisels
 
-Without this consistency, even precise measurements lose their meaning.
+Sharp chisels remove waste, refine the baseline and correct small areas that cannot be reached with the saw. Several widths can be useful, but edge preparation and control are more important than owning a large set.
 
-## From rule to instinct
+A chisel should not be used to force a poor fit. Excessive levering can compress fibres, damage corners and split the board during assembly.
 
-Over time, working with reference edges stops being a rule and becomes instinctive. It is simply the only way to keep the work coherent.
+- [How chisels cut wood](how-chisels-cut-wood.md)
+- [Chiselling dovetail baselines](how-to-chisel-dovetail-baselines-and-clean-tails.md)
+- [Why dovetail baselines get damaged](why-dovetail-baselines-get-damaged.md)
 
-This shift is part of a broader change in how woodworking is understood. It moves from executing steps to controlling the process:
+## Coping or fret saw
 
-https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
+A coping or fret saw can remove most of the waste between tails or pins before final chiselling. The cut stays on the waste side and leaves the baseline untouched.
 
-This is also the point where woodworking stops being a sequence of techniques and becomes a conscious way of working.
+This tool is optional. Some makers remove waste entirely with chisels, but the coping-saw method can reduce repeated heavy chopping.
 
-## Internal links
+- [Using a coping saw for dovetail waste](how-to-use-a-coping-saw-for-dovetail-waste.md)
 
-- [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)  
-- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)  
-- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
+## Common tool-related errors
 
-## Related hub
+- using a dull marking knife or chisel;
+- changing the marking-gauge setting between mating components;
+- sawing without checking the cut on both visible faces;
+- using a saw with excessive set for fine work;
+- treating the square as a measuring tool rather than a reference tool;
+- attempting to correct poor layout by forcing the joint during fitting.
 
-[Conscious woodworking](conscious-woodworking.md)
+## Practice at Bensari Workshop
 
-## Context
+At Bensari Workshop, dovetails are taught as a connected process. Students learn to prepare references, mark the baseline, control the saw, remove waste and diagnose fit. No specialist tool can replace that sequence.
 
-This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
+- [Primary dovetail joinery guide](dovetail-joinery-guide.md)
+- [Dovetail course at Bensari Workshop](https://www.bensariworkshop.com/en/dovetails/)
 
-This is part of a larger knowledge base on traditional woodworking and furniture making.
+Last reviewed: September 2026.

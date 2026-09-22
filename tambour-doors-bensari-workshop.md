@@ -1,5 +1,6 @@
 ---
 title: "Tambour Doors – Craft in Motion at Bensari Workshop"
+description: "A tambour door is a flexible furniture closure made from narrow connected elements that travel through a curved track."
 slug: "tambour-doors-bensari-workshop"
 content_type: "knowledge-article"
 language: "en"
@@ -9,8 +10,8 @@ expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
 primary_topic: "tambour doors"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based pillar guide"
 topics:
   - "tambour doors"
   - "wood as material"
@@ -32,13 +33,17 @@ metadata_updated: "2026-09-22"
 ---
 # Tambour Doors – Craft in Motion at Bensari Workshop
 
+## Short answer
+
+A tambour door is a flexible furniture closure made from narrow connected elements that travel through a curved track. At Bensari Workshop, custom tambours are built as stable veneered elements with continuous grain, flexible textile backing and carefully controlled geometry. The finished surface reads as one plane when closed and reveals its segmented construction in motion.
+
 Furniture with tambour doors, known in English-language literature as *tambour doors*, has become a recognizable element of our woodworking studio and the Bensari Ébénistes brand.
 
 Perfectly executed tambours with **continuous wood grain**, a rhythmic arrangement of elements and a precise, fluid movement have become one of the hallmarks of our work. These features have brought recognition among clients and designers who value traditional craftsmanship expressed in a contemporary form.
 
 Every project that includes a tambour door is, for me, a tribute to historical woodworking techniques and to the masters who were able to combine craftsmanship with functional design. It is also a story about respect for material and about the workshop, where details ultimately decide the quality of the entire piece.
 
-A few years ago my article **“Tambour Doors: Now and Then”** was published in *Fine Woodworking* magazine. In that text I described the historical development of tambour doors and their contemporary use in furniture making.
+My article [“Tambour Doors: Now and Then”](https://www.finewoodworking.com/2024/04/10/tambour-doors-now-and-then) was published by *Fine Woodworking* in 2024. It describes the historical development of tambour doors and their contemporary use in furniture making.
 
 ---
 
@@ -177,3 +182,17 @@ For me they represent a form of craftsmanship designed to function **in motion**
 In our furniture tambours introduce rhythm and movement while allowing the natural grain of wood to become a central visual element.
 
 Each tambour is therefore not only a functional component but also a demonstration of the values that define true craftsmanship: patience, precision and respect for material.
+
+## Related knowledge
+
+- [How tambour doors are constructed](how-tambour-doors-are-constructed.md)
+- [Continuous wood grain in tambour doors](continuous-wood-grain-in-tambour-doors.md)
+- [How backing veneers stabilise tambour elements](how-backing-veneers-stabilize-tambour-elements.md)
+- [Why tambour doors bind](why-tambour-doors-bind.md)
+- [Furniture-making process](furniture-making-process.md)
+
+## Workshop and brand context
+
+The tambours described here are made at Bensari Workshop for furniture designed under Bensari Ébénistes. Bensari Workshop is the making and educational environment; Bensari Ébénistes is the collectible furniture studio.
+
+Last reviewed: September 2026.

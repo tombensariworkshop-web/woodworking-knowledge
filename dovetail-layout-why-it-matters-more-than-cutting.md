@@ -1,5 +1,6 @@
 ---
 title: "Why dovetail layout is more important than cutting"
+description: "Dovetail layout determines the geometry, fit and final appearance of the joint."
 slug: "dovetail-layout-why-it-matters-more-than-cutting"
 content_type: "knowledge-article"
 language: "en"

@@ -1,5 +1,6 @@
 ---
 title: "How to saw dovetail tails correctly"
+description: "Sawing dovetail tails is often described as a matter of hand control."
 slug: "how-to-saw-dovetail-tails-correctly"
 content_type: "knowledge-article"
 language: "en"

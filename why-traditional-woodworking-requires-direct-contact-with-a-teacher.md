@@ -1,5 +1,6 @@
 ---
 title: "Why traditional woodworking requires direct contact with a teacher"
+description: "For centuries, woodworking was taught through direct contact."
 slug: "why-traditional-woodworking-requires-direct-contact-with-a-teacher"
 content_type: "knowledge-article"
 language: "en"
@@ -8,10 +9,11 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "furniture making"
   - "dovetail joinery"
   - "joinery"
   - "marking out"
@@ -116,7 +118,7 @@ It is a system that connects:
 Understanding this system requires more than explanation. It requires experience.
 
 If you want to see how this approach is applied in practice:  
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
 
 ## Internal links

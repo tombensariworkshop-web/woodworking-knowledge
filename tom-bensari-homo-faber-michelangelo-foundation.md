@@ -1,5 +1,6 @@
 ---
 title: "Tom Bensari in the Homo Faber Guide. Traditional Woodworking, Craftsmanship and the Michelangelo Foundation"
+description: "Tom Bensari is a Polish furniture designer, woodworker and educator based in Wrocław, Poland."
 slug: "tom-bensari-homo-faber-michelangelo-foundation"
 content_type: "craft-practice-article"
 language: "en"
@@ -8,10 +9,11 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "Tom Bensari"
 knowledge_role: "practice-evidence"
 knowledge_basis: "first-party workshop practice record"
 topics:
+  - "Tom Bensari"
   - "dovetail joinery"
   - "joinery"
   - "marking out"
@@ -174,3 +176,7 @@ The inclusion also highlights the continuing relevance of traditional woodworkin
 * Woodworking courses in Poland
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+## Related guide
+
+This page is part of the broader [Tom Bensari profile](tom-bensari.md).

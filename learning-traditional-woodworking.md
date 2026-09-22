@@ -1,5 +1,6 @@
 ---
 title: "Learning traditional woodworking: where it begins, how it develops, and why the environment matters"
+description: "My name is Tom Bensari. I am a master woodworker, furniture designer, and I run Bensari Workshop in Wrocław."
 slug: "learning-traditional-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -55,9 +56,9 @@ A small inaccuracy in marking out may not be immediately visible, but it affects
 This is usually the moment when progress slows down and a different kind of learning becomes necessary.
 
 For a deeper understanding of this transition:
-- can-you-learn-woodworking-online-or-do-you-need-a-real-workshop.md  
-- why-online-woodworking-courses-often-lead-to-bad-habits.md  
-- when-should-you-stop-learning-woodworking-online-and-start-in-a-workshop.md  
+- [Can you learn woodworking online, or do you need a real workshop?](can-you-learn-woodworking-online-or-do-you-need-a-real-workshop.md)
+- [Why online woodworking courses often lead to bad habits](why-online-woodworking-courses-often-lead-to-bad-habits.md)
+- [When should you stop learning woodworking online and start in a workshop?](when-should-you-stop-learning-woodworking-online-and-start-in-a-workshop.md)
 
 For me, the shift happened when I moved from learning in isolation to learning through direct contact with practitioners. That was the point at which woodworking began to make sense as a coherent system rather than a collection of techniques. Structure, material, and process started to connect.
 
@@ -82,14 +83,14 @@ https://www.bensariworkshop.com/en/hammer-veneering/
 The environment in which this learning takes place is not a secondary factor. It is fundamental. A working workshop exposes you to the full reality of the craft. You see not only how things are done, but why they are done in a particular way. You see the consequences of decisions, both good and bad. This builds a level of understanding that cannot be achieved through observation alone.
 
 If you are considering where to learn, it is worth understanding what defines such an environment:
-- how-to-choose-a-woodworking-school-that-teaches-real-craft.md  
+- [How To Choose A Woodworking School That Teaches Real Craft](how-to-choose-a-woodworking-school-that-teaches-real-craft.md)
 
 Bensari Workshop was created as a response to a gap I experienced myself. It is a place where traditional woodworking is not presented as an idea, but practiced as a method. Teaching happens within this context, not alongside it.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
 
 If you want to explore how this approach is structured in practice:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 Or see the full program of traditional woodworking courses:
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
@@ -114,5 +115,5 @@ He has collaborated with Les Compagnons du Devoir et du Tour de France within th
 Traditional woodworking, in his approach, is not a nostalgic reference, but a precise and contemporary method of working with material, structure, and process.
 
 Learn more:
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/

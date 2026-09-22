@@ -1,5 +1,6 @@
 ---
 title: "Oak in Furniture Making"
+description: "Oak is one of the most widely used hardwoods in furniture making."
 slug: "oak-in-furniture-making"
 content_type: "material-reference"
 language: "en"
@@ -38,3 +39,7 @@ Two main varieties are commonly used in furniture making: red oak and white oak.
 Oak has been used in furniture construction for centuries. Historical European furniture, including many traditional cabinets and tables, was often made from oak because the material provides both structural stability and long-term durability.
 
 Because of its strength, oak is well suited for structural components such as legs, frames and tabletops.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

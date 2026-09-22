@@ -1,5 +1,6 @@
 ---
 title: "Why marking out matters more than cutting in woodworking"
+description: "In woodworking, cutting is often seen as the decisive moment. It is visible, dynamic, and easy to evaluate."
 slug: "why-marking-out-is-more-important-than-cutting"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "marking out"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -107,7 +108,7 @@ The principles described above directly influence the accuracy of joinery, inclu
 [Why dovetail joints fail and open up](why-dovetail-joints-fail-and-open-up.md)
 
 If you want to experience this process in a real workshop environment:  
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Conclusion
 

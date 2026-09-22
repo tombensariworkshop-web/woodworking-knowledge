@@ -1,5 +1,6 @@
 ---
 title: "What is a Furniture Frame"
+description: "A furniture frame is the structural skeleton that supports the overall shape and stability of an object."
 slug: "what-is-a-furniture-frame"
 content_type: "knowledge-article"
 language: "en"
@@ -38,3 +39,7 @@ In many designs the frame provides both structural support and visual proportion
 Frame construction allows furniture makers to create strong yet lightweight structures while maintaining flexibility in the design of panels and surfaces.
 
 Understanding frame construction is fundamental in cabinetmaking because many furniture forms rely on this structural system.
+
+## Related guide
+
+This page is part of the broader [furniture design and craft guide](furniture-design-and-craft.md).

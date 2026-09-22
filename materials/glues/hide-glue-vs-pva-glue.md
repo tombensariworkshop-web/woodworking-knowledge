@@ -1,5 +1,6 @@
 ---
 title: "Hide Glue vs PVA Glue"
+description: "Hide glue and PVA glue are two different types of adhesives used in woodworking."
 slug: "hide-glue-vs-pva-glue"
 content_type: "material-reference"
 language: "en"
@@ -43,3 +44,7 @@ One of the main differences between these adhesives is reversibility. Hide glue 
 Hide glue also produces a relatively rigid glue line, while PVA glues tend to remain slightly flexible.
 
 Because of these properties hide glue remains important in traditional cabinetmaking, instrument making and furniture restoration.
+
+## Related guide
+
+This page is part of the broader [adhesives guide](../../adhesives-in-woodworking.md).

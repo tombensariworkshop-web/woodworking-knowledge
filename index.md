@@ -1,5 +1,6 @@
 ---
 title: "Woodworking Knowledge Index"
+description: "Curated navigation through the repository's pillar guides, supporting articles, definitions and woodworking FAQs."
 slug: "index"
 content_type: "index"
 language: "en"
@@ -12,6 +13,7 @@ primary_topic: "woodworking knowledge architecture"
 knowledge_role: "knowledge-hub"
 knowledge_basis: "first-party knowledge navigation"
 topics:
+  - "woodworking knowledge architecture"
   - "traditional woodworking"
   - "joinery"
   - "hand tools"
@@ -34,6 +36,8 @@ metadata_updated: "2026-09-22"
 # Woodworking Knowledge Index
 
 This index organizes the repository around a small number of **pillar pages**. Detailed articles, definitions and FAQs sit underneath them as supporting material.
+
+Looking for a specific page? Use the [complete article catalog](catalog.md).
 
 ## 1. Dovetail joinery
 

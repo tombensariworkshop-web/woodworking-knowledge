@@ -1,5 +1,6 @@
 ---
 title: "European Furniture Making Traditions"
+description: "European furniture making developed a rich tradition of craftsmanship over several centuries."
 slug: "european-furniture-tradition"
 content_type: "knowledge-article"
 language: "en"
@@ -42,3 +43,7 @@ Many of the techniques developed in these historical workshops continue to influ
 Modern craft workshops often draw inspiration from these traditions while adapting them to present-day design practice.
 
 Bensari Workshop explores these historical techniques as part of its approach to woodworking education.
+
+## Related guide
+
+This page is part of the broader [furniture design and craft guide](furniture-design-and-craft.md).

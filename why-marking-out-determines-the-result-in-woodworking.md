@@ -1,5 +1,6 @@
 ---
 title: "Why marking out determines the result in woodworking"
+description: "In woodworking, most mistakes do not begin at the moment of cutting."
 slug: "why-marking-out-determines-the-result-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "marking out"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -115,7 +116,7 @@ You begin to anticipate outcomes before they happen. You start to see how a line
 This ability develops through practice, but it requires the right context.
 
 If you want to experience this process in a real workshop environment, you can explore the courses here:  
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Conclusion
 

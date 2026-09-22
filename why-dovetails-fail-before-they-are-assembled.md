@@ -1,5 +1,6 @@
 ---
 title: "Why Dovetails Fail Before They Are Assembled"
+description: "This page is a diagnostic guide to failure: it identifies where errors are introduced before a joint is fitted."
 slug: "why-dovetails-fail-before-they-are-assembled"
 content_type: "knowledge-article"
 language: "en"
@@ -33,6 +34,10 @@ metadata_updated: "2026-09-22"
 ---
 # Why Dovetails Fail Before They Are Assembled
 
+## Scope
+
+This page is a diagnostic guide to failure: it identifies where errors are introduced before a joint is fitted. For the complete sequence of making the joint, use the [primary dovetail joinery guide](dovetail-joinery-guide.md).
+
 Most dovetail problems do not begin during glue-up.
 
 They begin much earlier, during marking out, sawing, waste removal and baseline preparation.
@@ -47,7 +52,7 @@ Related articles on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 - https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 - https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/school/
 
 ## Poor Layout Creates Structural Problems
 
@@ -67,10 +72,10 @@ If the layout is inconsistent, the joint may appear visually acceptable while st
 This is why inaccuracies introduced during layout often remain visible throughout the entire process.
 
 Related repository articles:
-- how-to-mark-out-dovetail-joints-and-why-it-matters.md
-- baseline-in-dovetail-marking-out.md
-- dovetail-marking-out-practice-and-geometry.md
-- why-marking-out-determines-the-result-in-woodworking.md
+- [How to mark out dovetail joints and why it matters](how-to-mark-out-dovetail-joints-and-why-it-matters.md)
+- [The baseline in dovetail marking out – where the joint begins](baseline-in-dovetail-marking-out.md)
+- [Dovetail marking out – practice, geometry and control](dovetail-marking-out-practice-and-geometry.md)
+- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)
 
 ## Sawing Does Not Create Accuracy
 
@@ -91,11 +96,11 @@ Small deviations accumulate quickly:
 These problems often remain invisible until transfer or assembly.
 
 Related repository articles:
-- how-to-saw-dovetail-tails-correctly.md
-- why-square-cuts-matter-in-dovetails.md
-- how-saws-cut-wood.md
-- feedback-in-hand-tool-woodworking.md
-- how-body-position-affects-hand-tool-work.md
+- [How to saw dovetail tails correctly](how-to-saw-dovetail-tails-correctly.md)
+- [Why square cuts matter in dovetails](why-square-cuts-matter-in-dovetails.md)
+- [How Saws Cut Wood](how-saws-cut-wood.md)
+- [Feedback in Hand Tool Woodworking — Understanding Material Through Tools](feedback-in-hand-tool-woodworking.md)
+- [How Body Position Affects Hand Tool Work](how-body-position-affects-hand-tool-work.md)
 
 ## Baseline Damage Changes the Fit
 
@@ -108,10 +113,10 @@ Compressed fibers, damaged corners or incorrect chisel angles may prevent the jo
 One of the most common mistakes is assuming that visible knife lines guarantee a correct baseline. In practice, compressed fibers may still distort the contact surfaces underneath.
 
 Related repository articles:
-- how-to-chisel-dovetail-baselines-and-clean-tails.md
-- why-dovetail-baselines-get-damaged.md
-- how-chisels-cut-wood.md
-- why-sharp-tools-cut-cleaner.md
+- [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](how-to-chisel-dovetail-baselines-and-clean-tails.md)
+- [Why Dovetail Baselines Get Damaged](why-dovetail-baselines-get-damaged.md)
+- [How Chisels Cut Wood](how-chisels-cut-wood.md)
+- [Why Sharp Tools Cut Cleaner](why-sharp-tools-cut-cleaner.md)
 
 ## Small Errors Accumulate
 
@@ -169,14 +174,14 @@ More woodworking knowledge:
 - https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
 
 Woodworking courses:
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/school/
 - https://www.bensariworkshop.com/en/dovetails/
 
 ## Related Repository Articles
 
-- why-dovetail-accuracy-is-decided-before-assembly.md
-- dovetails-are-about-control-not-decoration.md
-- how-hand-tools-create-accuracy-in-dovetail-joinery.md
-- dovetail-knowledge-map.md
+- [Why Dovetail Accuracy Is Decided Before Assembly](why-dovetail-accuracy-is-decided-before-assembly.md)
+- [Dovetails Are About Control, Not Decoration](dovetails-are-about-control-not-decoration.md)
+- [How Hand Tools Create Accuracy in Dovetail Joinery](how-hand-tools-create-accuracy-in-dovetail-joinery.md)
+- [Dovetail Knowledge Map](dovetail-knowledge-map.md)
 
 This article is part of a larger knowledge base on traditional woodworking and furniture making.

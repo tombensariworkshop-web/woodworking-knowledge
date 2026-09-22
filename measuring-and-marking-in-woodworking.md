@@ -1,5 +1,6 @@
 ---
 title: "Measuring and marking in woodworking"
+description: "Measuring and marking are often treated as preparation for woodworking. In practice, they are the stage where the work is defined."
 slug: "measuring-and-marking-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -99,7 +100,7 @@ https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-
 The role of measuring and marking becomes clear only through practice.
 
 Working in a real workshop environment allows you to understand how decisions made at this stage influence every step that follows:  
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Related articles in this repository
 

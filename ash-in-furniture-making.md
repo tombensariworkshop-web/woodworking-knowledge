@@ -1,5 +1,6 @@
 ---
 title: "Ash in Furniture Making"
+description: "Ash is a hardwood known for its strength and flexibility."
 slug: "ash-in-furniture-making"
 content_type: "material-reference"
 language: "en"
@@ -38,3 +39,7 @@ Ash is commonly used in furniture making when both strength and elasticity are r
 Because the wood bends well under steam, it is often used in furniture designs that require curved parts.
 
 Ash combines durability with relatively easy workability, which makes it a practical material for a variety of furniture applications.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

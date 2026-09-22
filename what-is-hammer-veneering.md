@@ -1,5 +1,6 @@
 ---
 title: "What Is Hammer Veneering"
+description: "Hammer veneering applies thin wood veneer to a substrate with hot hide glue and controlled pressure from a veneer hammer."
 slug: "what-is-hammer-veneering"
 content_type: "knowledge-article"
 language: "en"
@@ -44,3 +45,7 @@ This technique was widely used in traditional cabinetmaking, particularly in Eur
 Today hammer veneering remains an important part of traditional woodworking knowledge. The technique demonstrates how material understanding, hand tools and adhesive properties work together in the construction of fine furniture.
 
 At Bensari Workshop, hammer veneering is explored during practical courses where participants learn how traditional techniques continue to play a role in contemporary cabinetmaking and collectible furniture design.
+
+## Related guide
+
+This page is part of the broader [hammer veneering guide](hammer-veneering-complete-guide.md).

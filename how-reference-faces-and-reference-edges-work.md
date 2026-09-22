@@ -1,5 +1,6 @@
 ---
 title: "How Reference Faces and Reference Edges Work"
+description: "Accurate woodworking depends on establishing consistent reference surfaces."
 slug: "how-reference-faces-and-reference-edges-work"
 content_type: "knowledge-article"
 language: "en"
@@ -41,7 +42,7 @@ One adjacent edge becomes the reference edge.
 Measurements and layout marks are then taken from these two surfaces.
 
 Related article  
-measuring-and-marking-in-woodworking.md
+[Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)
 
 ## Why Reference Surfaces Matter
 
@@ -50,7 +51,7 @@ If measurements are taken from different faces or edges, small inaccuracies can 
 Working consistently from reference surfaces prevents these errors.
 
 Related article  
-why-accurate-layout-matters-in-woodworking.md
+[Why accurate layout matters in woodworking](why-accurate-layout-matters-in-woodworking.md)
 
 ## Reference Surfaces in Workshop Practice
 

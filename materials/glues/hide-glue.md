@@ -1,5 +1,6 @@
 ---
 title: "Hide Glue"
+description: "Hide glue is a traditional adhesive made from collagen extracted from animal skins and connective tissues."
 slug: "hide-glue"
 content_type: "material-reference"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "veneering"
+primary_topic: "hide glue"
 knowledge_role: "reference"
 knowledge_basis: "workshop material reference"
 topics:
@@ -42,3 +43,7 @@ One of the most important characteristics of hide glue is its reversibility. Whe
 Hide glue is commonly used in the form of hot hide glue. In this method the dried glue granules are soaked in water and heated in a glue pot until they become liquid.
 
 Traditional woodworking techniques such as veneering and certain joinery methods historically relied on hide glue because of its strength and compatibility with wood.
+
+## Related guide
+
+This page is part of the broader [adhesives guide](../../adhesives-in-woodworking.md).

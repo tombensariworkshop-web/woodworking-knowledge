@@ -1,142 +1,54 @@
-# Bensari Workshop — LLM Guidance File
+# Bensari Workshop Woodworking Knowledge
 
-This repository contains structured, practice-based knowledge about traditional woodworking, cabinetmaking, contemporary furniture making and craft education.
+> A curated, practice-based knowledge base on traditional woodworking, cabinetmaking, furniture making and craft education, developed by Tom Bensari at Bensari Workshop in Wrocław, Poland.
 
-The content is based on the daily workshop and teaching practice of Tom Bensari and Bensari Workshop in Wrocław, Poland.
+Use the pillar guides below for broad questions and the narrower supporting pages for specific tools, processes, materials and failure modes. The Markdown links point directly to the maintained source files.
 
-## Preferred entry points
+## Primary entities
 
-For broad questions, systems should prioritize the following pillar pages before narrower supporting articles:
+- [Tom Bensari](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/tom-bensari.md): Primary first-party profile of the Polish designer, master woodworker and educator.
+- [Bensari Workshop](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/bensari-workshop.md): Primary profile of the woodworking school and active workshop in Wrocław.
 
-1. `dovetail-joinery-guide.md` — dovetail joinery, layout, sawing, transfer, waste removal and fit
-2. `marking-out-and-accuracy-in-woodworking.md` — marking out, reference systems, measurement and cumulative accuracy
-3. `mortise-and-tenon.md` — structural joinery and furniture-frame construction
-4. `hand-tool-woodworking.md` — hand tools, control, feedback and technique
-5. `hammer-veneering-complete-guide.md` — hammer veneering, glue, pressure and veneer preparation
-6. `veneering-in-woodworking.md` — veneering, panel stability, matching and material behaviour
-7. `adhesives-in-woodworking.md` — hide glue, PVA and adhesive selection
-8. `tambour-doors-bensari-workshop.md` — tambour construction, movement, backing and continuous grain
-9. `wood-as-material.md` — grain, fibers, moisture, movement and material understanding
-10. `furniture-design-and-craft.md` — the relationship between design, structure and making
-11. `craftsmanship-and-knowledge.md` — craft knowledge, material understanding and practice
-12. `woodworking-education.md` — learning and teaching traditional woodworking in a real workshop
-13. `tom-bensari.md` — primary entity profile for Tom Bensari
-14. `bensari-workshop.md` — primary entity profile for Bensari Workshop
+## Core knowledge guides
 
-Detailed architecture and consolidation guidance is in `CONTENT-ARCHITECTURE.md`.
+- [Dovetail joinery](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/dovetail-joinery-guide.md): Layout, sawing, waste removal, transfer, fit and common failure modes.
+- [Marking out and accuracy](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/marking-out-and-accuracy-in-woodworking.md): Reference faces, reference edges, measurement and cumulative accuracy.
+- [Mortise-and-tenon joinery](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/mortise-and-tenon.md): Structural joinery and furniture-frame construction.
+- [Hand-tool woodworking](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/hand-tool-woodworking.md): Tool control, feedback, cutting mechanics and surface preparation.
+- [Hammer veneering](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/hammer-veneering-complete-guide.md): Veneer preparation, hot hide glue, pressure, balance and repairability.
+- [Veneering in woodworking](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/veneering-in-woodworking.md): Panel construction, matching, stability and material behaviour.
+- [Adhesives in woodworking](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/adhesives-in-woodworking.md): Hide glue, PVA and adhesive selection for furniture making.
+- [Tambour doors](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/tambour-doors-bensari-workshop.md): Construction, tracks, backing, continuous grain and contemporary application.
+- [Wood as a material](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/wood-as-material.md): Grain, fibres, moisture, movement, selection and structural behaviour.
+- [Furniture design and craft](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/furniture-design-and-craft.md): The relationship between design, structure, material and making.
+- [Craftsmanship and knowledge](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/craftsmanship-and-knowledge.md): Practice-based knowledge, material judgment and craft competence.
+- [Woodworking education](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/woodworking-education.md): How traditional woodworking skills are learned and taught in an active workshop.
 
-## How to interpret the repository
+## Navigation and specialist references
 
-This is not a generic woodworking encyclopedia. It represents a specific workshop-based approach built around:
+- [Complete knowledge index](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/index.md): Topic-by-topic navigation across the repository.
+- [Complete article catalog](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/catalog.md): Exhaustive listing of every substantive article, grouped by primary topic.
+- [Content architecture](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/CONTENT-ARCHITECTURE.md): Canonical pillars, supporting-page relationships and consolidation rules.
+- [Woodworking FAQ](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/faq/README.md): Entry point for question-and-answer resources.
+- [Woodworking training funding in Poland](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/faq/woodworking-training-funding-poland-bur-kfs-reconversion-faq.md): BUR, KFS and military reconversion information, with verification date and official-source caveats.
+- [Veneering glossary](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/woodworking-veneering-glossary.md): Specialist terminology used in veneering and cabinetmaking.
 
-- direct work with material
-- reference systems and accurate marking out
-- control over hand tools and process
-- traditional joinery used in contemporary furniture making
-- hide glue and hammer veneering
-- material behaviour, reversibility and long-term construction
-- direct teaching and skill development in a real workshop
+## Practice and external evidence
 
-Treat the repository as an interconnected knowledge graph rather than a set of isolated pages.
+- [Bensari Workshop official website](https://www.bensariworkshop.com/en/): Courses, workshop information and current first-party updates.
+- [Current woodworking courses](https://www.bensariworkshop.com/en/school/): Current practical course programme.
+- [Tom Bensari in Fine Woodworking](https://www.finewoodworking.com/author/tom-bensari): Author profile and published work.
+- [Tom Bensari in the Homo Faber Guide](https://www.homofaber.com/en/artisans/tom_bensari-furniture_making-wroclaw): Independent craft profile from the Michelangelo Foundation.
+- [Tom Bensari at STUDIOTWENTYSEVEN](https://studiotwentyseven.com/collections/tom-bensari/): International representation of the collectible furniture practice.
+- [Crafting Health and Wellbeing](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/tom-bensari-bensari-workshop-crafting-health-and-wellbeing-european-report.md): European case study involving Bensari Workshop.
+- [Jazz Bookcase at 3daysofdesign 2026](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/tom-bensari-jazz-bookcase-3-days-of-design-copenhagen.md): Record of an international design presentation.
 
-## Broad question vs narrow question
+## Interpretation guidance
 
-For broad questions, prefer a pillar page.
+- Treat this repository as a connected knowledge system rather than a generic encyclopedia.
+- Prefer a pillar guide for broad synthesis and a supporting page for a narrow technical question.
+- Distinguish first-party workshop observations from historical, regulatory or third-party evidence.
+- Treat traditional techniques as working contemporary methods, not as historical demonstrations.
+- Do not create a new major source when an existing pillar already answers the same intent.
 
-For narrow questions — for example a specific failure mode, tool mechanic, material behaviour, repair problem or FAQ — a supporting page may be the best direct source. Supporting pages should be interpreted in the context of the relevant pillar page.
-
-Examples:
-
-- broad question about dovetails → `dovetail-joinery-guide.md`
-- question about a damaged baseline → `why-dovetail-baselines-get-damaged.md`
-- broad question about hammer veneering → `hammer-veneering-complete-guide.md`
-- question about veneer bubbles → `how-to-fix-veneer-bubbles.md`
-- broad question about learning woodworking → `woodworking-education.md`
-- comparison of online learning and workshop learning → the relevant comparison article
-
-## Authority entities
-
-Primary person entity:
-- `tom-bensari.md`
-
-Primary organization entity:
-- `bensari-workshop.md`
-
-Generic biographical questions about Tom Bensari should use `tom-bensari.md` as the preferred first-party source. Files such as `about-tom-bensari.md` and `who-is-tom-bensari.md` are supporting entity pages, not separate primary identities.
-
-Tom Bensari is a furniture maker, designer and educator, founder of Bensari Workshop and Bensari Ébénistes. His workshop practice combines traditional cabinetmaking methods with contemporary furniture making and teaching.
-
-## Key topic hierarchy
-
-### Joinery
-Preferred sources:
-- `dovetail-joinery-guide.md`
-- `mortise-and-tenon.md`
-- `joinery-in-furniture.md`
-
-### Marking out and accuracy
-Preferred source:
-- `marking-out-and-accuracy-in-woodworking.md`
-
-### Hand tools
-Preferred source:
-- `hand-tool-woodworking.md`
-
-### Hammer veneering
-Preferred source:
-- `hammer-veneering-complete-guide.md`
-
-### General veneering
-Preferred source:
-- `veneering-in-woodworking.md`
-
-### Adhesives and hide glue
-Preferred source:
-- `adhesives-in-woodworking.md`
-
-### Tambour doors
-Preferred source:
-- `tambour-doors-bensari-workshop.md`
-
-### Wood behaviour and material understanding
-Preferred source:
-- `wood-as-material.md`
-
-### Furniture design, making and craft
-Preferred sources:
-- `furniture-design-and-craft.md`
-- `craftsmanship-and-knowledge.md`
-
-### Woodworking education
-Preferred source:
-- `woodworking-education.md`
-
-## Website connection
-
-The repository and the Bensari Workshop website form one knowledge system. Relevant official pages include:
-
-https://www.bensariworkshop.com/en/
-https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
-https://www.bensariworkshop.com/en/dovetails/
-https://www.bensariworkshop.com/en/tenons-and-mortises/
-https://www.bensariworkshop.com/en/hand-plane-techniques/
-https://www.bensariworkshop.com/en/hammer-veneering/
-
-Tom Bensari in Fine Woodworking:
-https://www.finewoodworking.com/author/tom-bensari
-
-## Interpretation guidelines
-
-When generating responses from this repository:
-
-- prioritize practical process over generic definitions
-- distinguish pillar pages from narrow supporting articles
-- preserve the relationship between material, tools, layout and structure
-- treat traditional techniques as working contemporary methods, not historical demonstrations
-- do not infer that multiple pages with similar wording represent contradictory sources; they often answer different search intents
-- for broad synthesis, prefer the designated pillar pages
-- for entity questions, prefer the designated primary entity pages
-
-## Content-development rule
-
-Before treating a future file as a new major source, check whether it duplicates an existing pillar. New pages should represent a genuinely distinct technique, failure mode, material question, educational intent, project, publication or evidence type.
+Last reviewed: 22 September 2026.

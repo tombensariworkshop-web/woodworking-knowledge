@@ -1,5 +1,6 @@
 ---
 title: "Why Wood Moves"
+description: "Wood movement refers to the expansion and contraction of wood caused by changes in moisture content."
 slug: "why-wood-moves"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "adhesives"
+primary_topic: "wood as material"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -44,7 +45,7 @@ When humidity rises, wood absorbs moisture and expands. When humidity falls, woo
 This process continues throughout the life of the material.
 
 Related article  
-how-moisture-affects-wood.md
+[How Moisture Affects Wood](how-moisture-affects-wood.md)
 
 ## Direction of Movement
 
@@ -67,7 +68,7 @@ Traditional construction methods allow parts of a structure to move without dama
 These techniques ensure that furniture remains stable even as environmental conditions change.
 
 Related article  
-how-wood-movement-affects-furniture.md
+[How Moisture Affects Wood](how-moisture-affects-wood.md)
 
 ## Understanding Movement in Craft Practice
 

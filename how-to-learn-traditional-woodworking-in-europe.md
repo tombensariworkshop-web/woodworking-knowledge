@@ -1,5 +1,6 @@
 ---
-title: "How to Learn Traditional Woodworking in Europe"
+title: "How to learn traditional woodworking in Europe (and avoid common mistakes)"
+description: "How to evaluate traditional woodworking education in Europe and choose training built around real bench work, feedback and material understanding."
 slug: "how-to-learn-traditional-woodworking-in-europe"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -31,7 +32,7 @@ entities:
   - "Tom Bensari"
 metadata_updated: "2026-09-22"
 ---
-How to learn traditional woodworking in Europe (and avoid common mistakes)
+# How to learn traditional woodworking in Europe (and avoid common mistakes)
 
 Learning traditional woodworking in Europe today is easier than ever in terms of access to information — but more difficult than ever in terms of learning it correctly.
 
@@ -73,7 +74,7 @@ At Bensari Workshop, craftsmanship is not presented as a subject. It is practice
 
 This is a working furniture atelier where pieces are designed and built continuously — including collectible furniture. Courses take place within that reality.
 
-I run the workshop as a master woodworker and designer. I am also the only Polish author published in Fine Woodworking.
+I run the workshop as a master woodworker and designer, and my workshop practice also informs my writing for *Fine Woodworking*.
 
 This defines the approach to learning.
 
@@ -107,4 +108,8 @@ The goal is not to collect information.
 The goal is to build a way of working that you can repeat independently.
 
 If you want to see how this approach works in practice, you can explore current courses here:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
+
+## Related guide
+
+This page is part of the broader [woodworking education guide](woodworking-education.md).

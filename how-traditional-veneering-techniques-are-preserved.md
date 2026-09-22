@@ -1,5 +1,6 @@
 ---
 title: "How Traditional Veneering Techniques Are Preserved"
+description: "Many traditional woodworking techniques survive through workshop practice."
 slug: "how-traditional-veneering-techniques-are-preserved"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -44,4 +45,4 @@ By learning how to work with natural adhesives, veneer sheets and traditional to
 This knowledge allows traditional craft techniques to remain part of contemporary woodworking culture.
 
 Related articles  
-- how-hammer-veneering-is-taught-in-workshops.md
+- [How hammer veneering is taught in woodworking workshops – observation, feedback and control](how-hammer-veneering-is-taught-in-workshops.md)

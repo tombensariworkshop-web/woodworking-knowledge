@@ -1,5 +1,6 @@
 ---
 title: "How to mark out dovetail joints and why it matters"
+description: "Dovetail joints are often discussed in terms of cutting technique. Saw control, chisel work, and tight fitting joints dominate most explanations."
 slug: "how-to-mark-out-dovetail-joints-and-why-it-matters"
 content_type: "knowledge-article"
 language: "en"
@@ -109,7 +110,7 @@ Inaccurate marking can lead to:
 - joints that were never truly aligned  
 
 For a deeper explanation of why dovetail joints open over time:  
-../why-dovetail-joints-fail-and-open-up.md
+[Why dovetail joints fail and open up over time](why-dovetail-joints-fail-and-open-up.md)
 
 ## Marking out in practice
 

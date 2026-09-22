@@ -1,5 +1,6 @@
 ---
 title: "Why veneer is cut slightly oversized – positioning, movement and control"
+description: "In traditional veneering, veneer sheets are cut slightly larger than the final dimensions of the panel."
 slug: "why-veneer-is-cut-slightly-oversized"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

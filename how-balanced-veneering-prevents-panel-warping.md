@@ -1,5 +1,6 @@
 ---
 title: "How balanced veneering prevents panel warping – symmetry, stress and material control"
+description: "Balanced veneering applies veneer to both faces of a panel so that moisture, glue shrinkage and later environmental changes act more symmetrically."
 slug: "how-balanced-veneering-prevents-panel-warping"
 content_type: "knowledge-article"
 language: "en"
@@ -30,6 +31,10 @@ entities:
 metadata_updated: "2026-09-22"
 ---
 # How balanced veneering prevents panel warping – symmetry, stress and material control
+
+## Short answer
+
+Balanced veneering applies veneer to both faces of a panel so that moisture, glue shrinkage and later environmental changes act more symmetrically. It does not eliminate movement, but it reduces unequal stress that can cause cupping or warping. This is the primary article on balanced panel construction in this repository.
 
 Balanced veneering is one of the fundamental principles in traditional panel construction.
 
@@ -84,7 +89,7 @@ This balance reduces internal stress and keeps the panel flat.
 Learn more:
 
 - [Why veneered surfaces are stable](why-veneered-surfaces-are-stable.md)  
-- [Why veneered panels need back veneers](why-veneered-panels-need-back-veneers.md)
+- [Why a hidden back veneer is structurally necessary](why-veneered-panels-need-back-veneers.md)
 
 ## Not decoration, but structure
 
@@ -144,3 +149,5 @@ It ensures that movement remains controlled and predictable.
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+Last reviewed: September 2026.

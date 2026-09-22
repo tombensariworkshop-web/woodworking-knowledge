@@ -1,5 +1,6 @@
 ---
 title: "Why veneered surfaces are stable – structure, balance and material control"
+description: "Veneered panels are often more stable than comparable surfaces made from solid wood."
 slug: "why-veneered-surfaces-are-stable"
 content_type: "knowledge-article"
 language: "en"

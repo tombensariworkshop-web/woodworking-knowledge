@@ -1,5 +1,6 @@
 ---
 title: "Woodworking and veneering glossary – terms, structure and practical context"
+description: "This glossary explains key terms used in traditional woodworking, cabinetmaking and veneering."
 slug: "woodworking-veneering-glossary"
 content_type: "glossary"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "veneering"
 knowledge_role: "reference"
 knowledge_basis: "woodworking terminology reference"
 topics:
@@ -90,7 +91,7 @@ It is valued for:
 Its properties make it especially suitable for veneering and restoration.
 
 Related:
-- [Hammer veneering and hide glue](hammer-veneering-and-hide-glue.md)  
+- [Hammer veneering and hide glue](materials/glues/hammer-veneering-and-hide-glue.md)
 - [What is hide glue](what-is-hide-glue.md)
 
 ---
@@ -140,7 +141,7 @@ The process of refining wood before finishing or veneering.
 It typically includes planing and scraping rather than sanding.
 
 Related:
-- [What is surface preparation](what-is-surface-preparation.md)
+- [What is surface preparation](hand-plane-surface-preparation.md)
 
 ---
 

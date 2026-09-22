@@ -1,5 +1,6 @@
 ---
 title: "Why Dull Tools Cause Tear-Out"
+description: "Sharp cutting edges are essential in woodworking because they slice wood fibers cleanly."
 slug: "why-dull-tools-cause-tear-out"
 content_type: "knowledge-article"
 language: "en"
@@ -44,7 +45,7 @@ A sharp blade slices wood fibers with minimal resistance.
 Because the fibers are cut cleanly, the surface remains smooth and the shaving forms consistently.
 
 Related article  
-how-hand-planes-cut-wood.md
+[How hand planes cut wood](how-hand-planes-cut-wood.md)
 
 ## What Happens When Tools Become Dull
 
@@ -55,7 +56,7 @@ Instead of producing a clean shaving, the blade can lift fibers ahead of the cut
 This increases the risk of tear-out.
 
 Related article  
-why-wood-tears-out.md
+[How Chipbreakers Prevent Tear-Out](how-chipbreakers-prevent-tear-out.md)
 
 ## Tool Maintenance in Woodworking
 
@@ -64,4 +65,4 @@ Regular sharpening helps maintain control over cutting tools and improves surfac
 Many traditional woodworking techniques rely on extremely sharp tools to produce precise results.
 
 Related article  
-bevel-angle-in-woodworking-tools.md
+[How Blade Angle Affects Cutting](how-blade-angle-affects-cutting.md)

@@ -1,5 +1,6 @@
 ---
 title: "How to Fix Veneer Bubbles"
+description: "Veneer bubbles appear when a section of veneer lifts away from the substrate and traps air beneath the surface."
 slug: "how-to-fix-veneer-bubbles"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -67,6 +68,6 @@ Cabinet scrapers are often used to level the repaired area and remove small glue
 Because veneer is thin, aggressive sanding should be avoided.
 
 Related articles  
-- how-to-repair-veneer.md  
-- how-air-bubbles-are-avoided-in-hammer-veneering.md  
-- hammer-veneering-and-hide-glue.md
+- [How to Repair Veneer](how-to-repair-veneer.md)
+- [How air bubbles are avoided in hammer veneering – pressure, glue and sequence](how-air-bubbles-are-avoided-in-hammer-veneering.md)
+- materials/glues/hammer-veneering-and-hide-glue.md

@@ -1,5 +1,6 @@
 ---
 title: "What is Softwood"
+description: "Softwood refers to wood that comes from coniferous trees such as pine, spruce or fir."
 slug: "what-is-softwood"
 content_type: "knowledge-article"
 language: "en"
@@ -39,3 +40,7 @@ In furniture making, softwood is often used for structural elements, internal co
 The properties of softwood make it particularly suitable for larger structures and projects where weight and workability are important factors.
 
 Understanding the differences between hardwood and softwood helps woodworkers choose the most appropriate material for a given project.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

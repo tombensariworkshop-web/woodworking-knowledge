@@ -1,5 +1,6 @@
 ---
 title: "What Is a Try Square"
+description: "A try square is a measuring and layout tool used to mark and verify right angles in woodworking."
 slug: "what-is-a-try-square"
 content_type: "knowledge-article"
 language: "en"
@@ -34,3 +35,7 @@ The tool consists of a blade attached to a handle at a fixed ninety-degree angle
 Try squares are used throughout the woodworking process, from preparing rough boards to laying out joinery.
 
 Because accurate angles are essential in furniture construction, the try square remains one of the most frequently used measuring tools in cabinetmaking workshops.
+
+## Related guide
+
+This page is part of the broader [marking-out and accuracy guide](marking-out-and-accuracy-in-woodworking.md).

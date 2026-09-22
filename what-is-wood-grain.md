@@ -1,5 +1,6 @@
 ---
 title: "What is Wood Grain"
+description: "Wood grain refers to the natural pattern formed by the growth of tree fibers."
 slug: "what-is-wood-grain"
 content_type: "knowledge-article"
 language: "en"
@@ -38,3 +39,7 @@ Understanding grain direction is essential in woodworking because it affects:
 Working with the grain usually produces smoother surfaces and reduces the risk of tearing the fibers.
 
 Experienced woodworkers learn to read grain patterns and adjust their tools and techniques accordingly.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

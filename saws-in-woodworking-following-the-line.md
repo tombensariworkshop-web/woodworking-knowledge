@@ -1,5 +1,6 @@
 ---
 title: "Saws in Woodworking — Following the Line"
+description: "For a long time, I treated sawing as a purely technical step in the process, something that had to be done before the more refined work could begin."
 slug: "saws-in-woodworking-following-the-line"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "veneering"
+primary_topic: "saws"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -84,13 +85,13 @@ https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
 To understand how this sequence continues:
 
 - chisels and precision  
-../chisels-in-woodworking-precision-and-control.md  
+[How Chisels Cut Wood](how-chisels-cut-wood.md)
 
 - hand planes and surface  
-../hand-planes-in-woodworking-control-and-surface.md  
+[Hand Planes in Woodworking — Control and Surface](hand-planes-in-woodworking-control-and-surface.md)
 
 - measurement and accuracy  
-../measurement-in-woodworking-defining-geometry.md  
+[Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)
 
 ## Conclusion
 

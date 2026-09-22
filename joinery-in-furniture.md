@@ -1,5 +1,6 @@
 ---
 title: "Joinery in furniture construction"
+description: "Joinery is often described as a set of methods used to connect pieces of wood."
 slug: "joinery-in-furniture"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "joinery"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -111,7 +112,7 @@ https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-
 Joinery only becomes clear in practice.
 
 Working in a real workshop environment allows you to understand how material, tools, and decisions come together:  
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/dovetails/  
 https://www.bensariworkshop.com/en/tenons-and-mortises/
 

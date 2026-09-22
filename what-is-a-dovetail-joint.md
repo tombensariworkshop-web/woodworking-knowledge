@@ -1,5 +1,6 @@
 ---
 title: "What is a dovetail joint"
+description: "A dovetail is a mechanically interlocking woodworking joint formed by matching tails and pins."
 slug: "what-is-a-dovetail-joint"
 content_type: "knowledge-article"
 language: "en"
@@ -33,6 +34,10 @@ metadata_updated: "2026-09-22"
 ---
 # What is a dovetail joint
 
+## Short answer
+
+A dovetail is a mechanically interlocking woodworking joint formed by matching tails and pins. Its geometry resists pulling forces, which makes it especially useful for drawers, boxes and casework. This page provides the definition; for the complete process, see the [primary dovetail joinery guide](dovetail-joinery-guide.md).
+
 A dovetail joint is one of the fundamental forms of joinery used in furniture making, most commonly in drawers, boxes, and casework. It is defined by a series of interlocking shapes that resist pulling forces, creating a mechanical connection that does not rely only on glue.
 
 In practice, however, a dovetail joint is not defined by its shape alone. Its quality depends on how it is laid out, cut, and transferred from one element to another. This is why I do not treat dovetails as a decorative detail, but as a way of working that reveals whether the process is understood.
@@ -58,8 +63,7 @@ If any of these stages is unclear, the final joint will reflect that.
 
 This is why in practice, problems in dovetails rarely begin where they become visible.
 
-A detailed explanation of how I approach dovetail layout in workshop practice can be found here:
-https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+A detailed explanation of the workshop approach is available in the [dovetail layout guide](https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/).
 
 ## Dovetails as a system, not a technique
 
@@ -77,11 +81,13 @@ Understanding this relationship is more important than repeating individual acti
 
 ## Further reading on Bensari Workshop
 
-- https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
-- https://www.bensariworkshop.com/en/dovetails/
+- [Dovetail layout: a practical hand-cut guide](https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/)
+- [Dovetail course at Bensari Workshop](https://www.bensariworkshop.com/en/dovetails/)
 
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław, where traditional woodworking is taught in a real workshop environment.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+Last reviewed: September 2026.

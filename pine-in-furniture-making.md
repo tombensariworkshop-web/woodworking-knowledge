@@ -1,5 +1,6 @@
 ---
 title: "Pine in Furniture Making"
+description: "Pine is a softwood widely used in woodworking and furniture making."
 slug: "pine-in-furniture-making"
 content_type: "material-reference"
 language: "en"
@@ -38,3 +39,7 @@ Pine typically displays a light color with visible growth rings and knots, which
 Because it is easy to work with, pine is often used for beginner woodworking projects, interior furniture and structural components.
 
 Although softer than many hardwoods, pine can still produce durable furniture when properly designed and finished.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

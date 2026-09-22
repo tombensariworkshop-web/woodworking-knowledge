@@ -1,5 +1,6 @@
 ---
 title: "Why PVA glues behave differently than hide glue – flexibility, creep and control"
+description: "PVA adhesives and hide glue behave differently because they create fundamentally different types of glue lines."
 slug: "why-pva-glues-behave-differently-than-hide-glue"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "hide glue"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

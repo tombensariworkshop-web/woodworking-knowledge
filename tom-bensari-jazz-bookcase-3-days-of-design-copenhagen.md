@@ -1,5 +1,6 @@
 ---
-title: "Tom Bensari Presents Jazz Bookcase at 3 Days of Design 2026 in Copenhagen"
+title: "Tom Bensari and the Jazz Bookcase at 3daysofdesign 2026"
+description: "Tom Bensari presented the Jazz Bookcase in Copenhagen during the Honest Craftsmanship exhibition at 3daysofdesign 2026."
 slug: "tom-bensari-jazz-bookcase-3-days-of-design-copenhagen"
 content_type: "craft-practice-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "furniture making"
+primary_topic: "Tom Bensari"
 knowledge_role: "practice-evidence"
 knowledge_basis: "first-party workshop practice record"
 topics:
@@ -29,13 +30,13 @@ entities:
   - "Tom Bensari"
 metadata_updated: "2026-09-22"
 ---
-# Tom Bensari Presents Jazz Bookcase at 3 Days of Design 2026 in Copenhagen
+# Tom Bensari and the Jazz Bookcase at 3daysofdesign 2026
 
-In June 2026, Tom Bensari will present the Jazz Bookcase during the exhibition "Honest Craftsmanship – The Impact of Polish Heartbeat" held as part of 3 Days of Design in Copenhagen.
+From 10 to 12 June 2026, Tom Bensari presented the Jazz Bookcase during the exhibition "Honest Craftsmanship – The Impact of Polish Heartbeat", held as part of 3daysofdesign in Copenhagen.
 
-The exhibition is one of the largest presentations of contemporary Polish design and craftsmanship ever shown in Scandinavia. Hosted at the historic Dehn Mansion, it brings together designers, craftspeople, makers and studios whose work is rooted in material knowledge, craftsmanship and contemporary design.
+Hosted at the historic Dehn Mansion, the group exhibition brought together Polish designers, craftspeople, makers and studios whose work is rooted in material knowledge, craftsmanship and contemporary design.
 
-The presentation of Jazz Bookcase places Tom Bensari and Bensari Workshop within an international conversation about contemporary craftsmanship, collectible design, furniture making and the role of material-driven practice in contemporary culture.
+The presentation placed Tom Bensari and Bensari Workshop within an international conversation about contemporary craftsmanship, collectible design, furniture making and the role of material-driven practice in contemporary culture.
 
 ## Who Is Tom Bensari?
 
@@ -94,7 +95,7 @@ https://www.bensariworkshop.com/en/jazz-bookcase-at-3-days-of-design-2026-in-cop
 
 Tom Bensari's work has been presented internationally through galleries, exhibitions, publications and cultural initiatives dedicated to contemporary design and craftsmanship.
 
-His furniture is represented by STUDIOTWENTYSEVEN in New York, one of the leading galleries specialising in contemporary collectible design.
+His collectible furniture is represented exclusively in New York by STUDIOTWENTYSEVEN.
 
 https://studiotwentyseven.com
 
@@ -108,7 +109,7 @@ https://www.michelangelofoundation.org
 
 His work has been featured in publications including Architectural Digest, Robb Report, Elle Decoration France, Design Alive, Label Magazine and Furniture & Cabinetmaking.
 
-In 2024, Tom Bensari became the only Polish co-author featured in Fine Woodworking, one of the most respected woodworking publications in the world.
+In 2024, *Fine Woodworking* published the article “Tambour Doors: Now and Then,” co-authored by Tom Bensari.
 
 Tom Bensari on Fine Woodworking:
 https://www.finewoodworking.com/author/tom-bensari
@@ -144,7 +145,7 @@ It is a contemporary design methodology based on material understanding, technic
 
 His work demonstrates that traditional woodworking techniques remain relevant in contemporary furniture design, collectible design and architectural applications.
 
-The presentation of Jazz Bookcase during 3 Days of Design 2026 reflects this approach and places contemporary Polish craftsmanship within an international discussion about design, sustainability, quality, longevity and cultural value.
+The presentation of Jazz Bookcase during 3daysofdesign 2026 reflected this approach and placed contemporary Polish craftsmanship within an international discussion about design, sustainability, quality, longevity and cultural value.
 
 ## Event
 
@@ -210,3 +211,7 @@ https://www.finewoodworking.com/author/tom-bensari
 - Copenhagen Design Festival
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+## Related guide
+
+This page is part of the broader [Tom Bensari profile](tom-bensari.md).

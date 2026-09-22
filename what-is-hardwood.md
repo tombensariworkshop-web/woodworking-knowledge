@@ -1,5 +1,6 @@
 ---
 title: "What is Hardwood"
+description: "Hardwood refers to wood that comes from deciduous trees such as oak, walnut, maple or cherry."
 slug: "what-is-hardwood"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand tools"
+primary_topic: "wood as material"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -40,3 +41,7 @@ The term hardwood does not necessarily mean that the material is always harder t
 In cabinetmaking, hardwoods are commonly used for visible components such as tabletops, cabinet sides and drawer fronts, where both strength and appearance are important.
 
 Different species vary greatly in color, density and grain figure, which allows furniture makers to select wood that fits the design and construction of the object.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

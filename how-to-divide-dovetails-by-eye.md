@@ -1,5 +1,6 @@
 ---
 title: "How to Divide Dovetails by Eye – Working with Proportion Instead of Formula"
+description: "There is a moment in marking out dovetails when many people start looking for a rule. How many tails, what spacing, what proportion."
 slug: "how-to-divide-dovetails-by-eye"
 content_type: "knowledge-article"
 language: "en"
@@ -55,8 +56,8 @@ With time, this way of working becomes natural. You stop counting and start seei
 
 ## Internal links
 
-- ./dovetail-marking-out-practice-and-geometry.md  
-- ./marking-out-as-a-way-of-working.md  
+- [Dovetail marking out – practice, geometry and control](dovetail-marking-out-practice-and-geometry.md)
+- [Marking Out as a Way of Working](marking-out-as-a-way-of-working.md)
 
 ## Tags
 

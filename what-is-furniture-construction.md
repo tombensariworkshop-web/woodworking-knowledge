@@ -1,5 +1,6 @@
 ---
 title: "What is Furniture Construction"
+description: "Furniture construction refers to the structural principles used to assemble wooden components into stable and durable objects."
 slug: "what-is-furniture-construction"
 content_type: "knowledge-article"
 language: "en"
@@ -8,10 +9,11 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "furniture making"
+primary_topic: "joinery"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "joinery"
   - "furniture making"
   - "traditional woodworking"
 related_topics:
@@ -38,3 +40,7 @@ Furniture construction must also account for the natural movement of wood caused
 A well-constructed piece of furniture appears visually simple, but its stability depends on careful planning of structural relationships between parts.
 
 Understanding construction principles is essential for creating furniture that remains functional and stable for many years.
+
+## Related guide
+
+This page is part of the broader [mortise-and-tenon guide](mortise-and-tenon.md).

@@ -1,5 +1,6 @@
 ---
 title: "Why Is Craftsmanship Important in Furniture Making"
+description: "Craftsmanship is important in furniture making because it determines how an object performs over time."
 slug: "why-is-craftsmanship-important-in-furniture-making"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "veneering"
+primary_topic: "furniture making"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

@@ -1,5 +1,6 @@
 ---
 title: "The baseline in dovetail marking out – where the joint begins"
+description: "In dovetail joinery there is a moment that looks almost insignificant, but in practice decides how the joint will come together."
 slug: "baseline-in-dovetail-marking-out"
 content_type: "knowledge-article"
 language: "en"

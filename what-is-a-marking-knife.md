@@ -1,5 +1,6 @@
 ---
 title: "What Is a Marking Knife"
+description: "A marking knife is a layout tool used in woodworking to mark precise cutting lines on wood."
 slug: "what-is-a-marking-knife"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "marking out"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -41,3 +42,7 @@ Marking knives are commonly used when laying out dovetails, mortises and other p
 Because the knife creates a physical reference in the wood surface, it improves the accuracy of cutting and helps tools register precisely against the layout line.
 
 In traditional cabinetmaking, careful marking with a knife is often considered one of the most important steps in the construction process.
+
+## Related guide
+
+This page is part of the broader [marking-out and accuracy guide](marking-out-and-accuracy-in-woodworking.md).

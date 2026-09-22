@@ -1,5 +1,6 @@
 ---
 title: "Types of Hand Planes"
+description: "Different types of hand planes are used in woodworking depending on the task being performed."
 slug: "types-of-hand-planes"
 content_type: "knowledge-article"
 language: "en"
@@ -50,3 +51,7 @@ The jointer plane has a long body that allows woodworkers to straighten edges an
 The block plane is a small, one-handed tool commonly used for trimming and adjusting small components.
 
 Each type of plane serves a specific purpose, and together they form an essential set of tools in traditional woodworking.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

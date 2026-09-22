@@ -1,5 +1,6 @@
 ---
 title: "Why Is Hand Planing Still Used in Woodworking"
+description: "Hand planing is still used because it offers precise control over surface and geometry."
 slug: "why-is-hand-planing-still-used-in-woodworking"
 content_type: "knowledge-article"
 language: "en"

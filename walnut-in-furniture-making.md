@@ -1,5 +1,6 @@
 ---
 title: "Walnut in Furniture Making"
+description: "Walnut is a hardwood widely appreciated in furniture making for its rich color and refined grain pattern."
 slug: "walnut-in-furniture-making"
 content_type: "material-reference"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand planes"
+primary_topic: "wood as material"
 knowledge_role: "reference"
 knowledge_basis: "workshop material reference"
 topics:
@@ -42,3 +43,7 @@ Walnut has a relatively straight grain and works well with both hand tools and m
 Because of its visual qualities, walnut is often used in high-end furniture, cabinetry and decorative panels.
 
 The wood combines structural strength with elegant appearance, making it suitable for both structural elements and highly visible surfaces.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

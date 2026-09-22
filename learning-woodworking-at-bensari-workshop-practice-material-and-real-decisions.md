@@ -1,5 +1,6 @@
 ---
 title: "Learning woodworking at Bensari Workshop — practice, material, and real decisions"
+description: "How woodworking education at Bensari Workshop combines real materials, tools, decisions, direct feedback and repeated practice."
 slug: "learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "furniture making"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -95,11 +96,11 @@ If you want to understand where this process really begins, see:
 [Why marking out determines the result in woodworking](./why-marking-out-determines-the-result-in-woodworking.md)
 
 And if you want to see how these principles translate into contemporary furniture, see:
-[How traditional woodworking techniques are used in modern furniture making](./how-traditional-woodworking-techniques-are-used-in-modern-furniture-making.md)
+[Why traditional woodworking techniques remain relevant today](./why-are-traditional-woodworking-techniques-still-relevant-today.md)
 
 Learning in a real workshop environment makes this visible. It allows you to see not only how things are done, but why they are done in a particular way, and how small differences in approach can lead to completely different results.
 
 All of these topics are part of a connected body of knowledge, where techniques, material understanding, and decision-making are treated as one system rather than separate skills.
 
 If you want to start or deepen your practice, you can explore the courses here:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/

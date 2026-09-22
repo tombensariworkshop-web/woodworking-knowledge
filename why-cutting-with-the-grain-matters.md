@@ -1,5 +1,6 @@
 ---
 title: "Why Cutting With the Grain Matters"
+description: "Grain direction strongly influences how wood behaves during cutting."
 slug: "why-cutting-with-the-grain-matters"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "chisels"
+primary_topic: "wood as material"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -38,7 +39,7 @@ When cutting tools move with the grain, fibers are supported by the surrounding 
 Wood fibers run primarily along the grain. Cutting tools interact differently with fibers depending on direction.
 
 Related article  
-how-wood-fibers-behave-during-cutting.md
+[How Wood Fibers Behave During Cutting](how-wood-fibers-behave-during-cutting.md)
 
 ## Clean Cuts
 
@@ -49,4 +50,4 @@ Cutting with the grain allows tools such as planes and chisels to slice fibers s
 When cutting against the grain, fibers may split below the cutting line and cause tear-out.
 
 Related article  
-why-wood-tears-out.md
+[Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)

@@ -1,5 +1,6 @@
 ---
 title: "How Traditional Veneering Connects Design and Craft"
+description: "Veneering sits at the intersection of design and craftsmanship."
 slug: "how-traditional-veneering-connects-design-and-craft"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -44,4 +45,4 @@ In workshops such as Bensari Workshop veneering is taught as both a design tool 
 Participants learn how aesthetic decisions and technical knowledge come together during the process of furniture making.
 
 Related articles  
-- hammer-veneering-in-contemporary-cabinetmaking.md
+- [Hammer veneering in contemporary cabinetmaking – control, tradition, and real workshop practice](hammer-veneering-in-contemporary-cabinetmaking.md)

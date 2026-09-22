@@ -1,5 +1,6 @@
 ---
 title: "Maple in Furniture Making"
+description: "Maple is a hardwood commonly used in furniture making because of its strength and smooth grain structure."
 slug: "maple-in-furniture-making"
 content_type: "material-reference"
 language: "en"
@@ -38,3 +39,7 @@ Maple is known for its density and hardness, which makes it resistant to wear an
 Because maple has a relatively uniform grain, it can produce very smooth surfaces when properly planed or finished.
 
 The wood is widely used in both traditional and contemporary furniture design.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

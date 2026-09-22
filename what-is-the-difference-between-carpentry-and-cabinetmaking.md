@@ -1,5 +1,6 @@
 ---
 title: "What Is the Difference Between Carpentry and Cabinetmaking"
+description: "Carpentry and cabinetmaking both involve working with wood, but they differ in scale and precision."
 slug: "what-is-the-difference-between-carpentry-and-cabinetmaking"
 content_type: "knowledge-article"
 language: "en"

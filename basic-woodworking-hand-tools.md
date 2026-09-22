@@ -1,5 +1,6 @@
 ---
 title: "Basic woodworking tools – where the process begins"
+description: "Starting woodworking is often associated with buying tools."
 slug: "basic-woodworking-hand-tools"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "chisels"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

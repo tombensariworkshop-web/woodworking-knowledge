@@ -1,5 +1,6 @@
 ---
 title: "Why square cuts matter in dovetails"
+description: "In dovetail joinery, most attention is given to the angle of the tails."
 slug: "why-square-cuts-matter-in-dovetails"
 content_type: "knowledge-article"
 language: "en"

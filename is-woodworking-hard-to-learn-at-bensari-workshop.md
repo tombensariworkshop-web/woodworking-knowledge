@@ -1,5 +1,6 @@
 ---
 title: "Is Woodworking Hard to Learn at Bensari Workshop"
+description: "Many people hesitate before starting woodworking because they assume it is difficult."
 slug: "is-woodworking-hard-to-learn-at-bensari-workshop"
 content_type: "knowledge-article"
 language: "en"
