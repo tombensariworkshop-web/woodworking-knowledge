@@ -8,24 +8,24 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "woodworking knowledge architecture"
 knowledge_role: "knowledge-hub"
 knowledge_basis: "first-party knowledge navigation"
 topics:
-  - "dovetail joinery"
+  - "traditional woodworking"
   - "joinery"
-  - "marking out"
-  - "veneering"
-  - "saws"
   - "hand tools"
-  - "accuracy and reference systems"
-related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "hide glue"
-  - "wood movement"
+  - "veneering"
+  - "wood as material"
   - "furniture making"
-  - "tool control"
+  - "woodworking education"
+related_topics:
+  - "dovetail joinery"
+  - "marking out"
+  - "hammer veneering"
+  - "tambour doors"
+  - "craftsmanship"
+  - "Bensari Workshop"
 entities:
   - "Bensari Workshop"
   - "Tom Bensari"
@@ -33,156 +33,163 @@ metadata_updated: "2026-09-22"
 ---
 # Woodworking Knowledge Index
 
-A structured index of topics related to traditional woodworking, cabinetmaking, hand tools, veneering, furniture making, and craft education.
+This index organizes the repository around a small number of **pillar pages**. Detailed articles, definitions and FAQs sit underneath them as supporting material.
 
-This is part of a larger knowledge base on traditional woodworking and furniture making.
+## 1. Dovetail joinery
 
----
+**Pillar:** [Dovetail joinery: practical guide](dovetail-joinery-guide.md)
 
-## Dovetail joints and marking out
+Supporting pages:
+- [Dovetail joint](dovetail-joint.md)
+- [Dovetail knowledge map](dovetail-knowledge-map.md)
+- [Dovetail layout: why it matters more than cutting](dovetail-layout-why-it-matters-more-than-cutting.md)
+- [Dovetail marking out: practice and geometry](dovetail-marking-out-practice-and-geometry.md)
+- [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)
+- [How to mark dovetail tails step by step](how-to-mark-dovetail-tails-step-by-step-hand-tools.md)
+- [How to saw dovetail tails correctly](how-to-saw-dovetail-tails-correctly.md)
+- [How to chisel dovetail baselines and clean tails](how-to-chisel-dovetail-baselines-and-clean-tails.md)
+- [Why dovetail joints fail and open up](why-dovetail-joints-fail-and-open-up.md)
+- [Dovetail FAQ](faq/dovetail-faq.md)
 
-- [what is a dovetail joint](./what-is-a-dovetail-joint.md)  
-- [dovetail joint](./dovetail-joint.md)  
-- [dovetail layout: why it matters more than cutting](./dovetail-layout-why-it-matters-more-than-cutting.md)  
-- [dovetail marking out: practice and geometry](./dovetail-marking-out-practice-and-geometry.md)  
-- [baseline in dovetail marking out](./baseline-in-dovetail-marking-out.md)  
-- [how to mark out dovetail joints and why it matters](./how-to-mark-out-dovetail-joints-and-why-it-matters.md)  
-- [how to mark dovetail tails step by step with hand tools](./how-to-mark-dovetail-tails-step-by-step-hand-tools.md)  
-- [how to divide dovetails by eye](./how-to-divide-dovetails-by-eye.md)  
-- [common mistakes in dovetail marking out](./common-mistakes-in-dovetail-marking-out.md)  
-- [how to saw dovetail tails correctly](./how-to-saw-dovetail-tails-correctly.md)  
-- [why square cuts matter in dovetails](./why-square-cuts-matter-in-dovetails.md)  
-- [transferring dovetails is where accuracy is tested](./transferring-dovetails-where-accuracy-is-tested.md)  
-- [how to cut dovetail waste without damaging the line](./how-to-cut-dovetail-waste-without-damaging-the-line.md)  
-- [how to use a coping saw for dovetail waste](./how-to-use-a-coping-saw-for-dovetail-waste.md)  
-- [why dovetail joints fail and open up](./why-dovetail-joints-fail-and-open-up.md)  
-- [why dovetail joints split during assembly](./why-dovetail-joints-split-during-assembly.md)  
-- [tools used for dovetails](./tools-used-for-dovetails.md)  
+## 2. Marking out and accuracy
 
----
+**Pillar:** [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
 
-## Marking out and accuracy
+Supporting pages:
+- [Marking out as a way of working](marking-out-as-a-way-of-working.md)
+- [What is marking out in woodworking and why it determines accuracy](what-is-marking-out-in-woodworking-and-why-it-determines-accuracy.md)
+- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)
+- [Why marking out is more important than cutting](why-marking-out-is-more-important-than-cutting.md)
+- [Reference edges in woodworking](reference-edges-in-woodworking.md)
+- [How reference faces and reference edges work](how-reference-faces-and-reference-edges-work.md)
+- [Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)
+- [Marking Out FAQ](faq/marking-out-faq.md)
 
-- [marking out as a way of working](./marking-out-as-a-way-of-working.md)  
-- [what is marking out in woodworking and why it determines accuracy](./what-is-marking-out-in-woodworking-and-why-it-determines-accuracy.md)  
-- [why marking out determines the result in woodworking](./why-marking-out-determines-the-result-in-woodworking.md)  
-- [why marking out is more important than cutting](./why-marking-out-is-more-important-than-cutting.md)  
-- [why marking out is the most important skill in woodworking](./why-marking-out-is-the-most-important-skill-in-woodworking.md)  
-- [why accurate layout matters in woodworking](./why-accurate-layout-matters-in-woodworking.md)  
-- [reference edges in woodworking](./reference-edges-in-woodworking.md)  
-- [how reference faces and reference edges work](./how-reference-faces-and-reference-edges-work.md)  
-- [measuring and marking in woodworking](./measuring-and-marking-in-woodworking.md)  
-- [what is a marking knife](./what-is-a-marking-knife.md)  
-- [what is a marking gauge](./what-is-a-marking-gauge.md)  
-- [what is a try square](./what-is-a-try-square.md)  
+## 3. Structural joinery
 
----
+**Pillars:** [Mortise and tenon](mortise-and-tenon.md) and [Joinery in furniture](joinery-in-furniture.md)
 
-## Joinery and construction
+Supporting pages:
+- [What is a mortise and tenon joint?](what-is-a-mortise-and-tenon-joint.md)
+- [What is mortise and tenon joinery?](what-is-mortise-and-tenon-joinery.md)
+- [What is a bridle joint?](what-is-a-bridle-joint.md)
+- [What is a lap joint?](what-is-a-lap-joint.md)
+- [Drawer construction](drawer-construction.md)
+- [What beginners misunderstand about joinery](what-beginners-misunderstand-about-joinery.md)
 
-- [joinery in furniture](./joinery-in-furniture.md)  
-- [mortise and tenon](./mortise-and-tenon.md)  
-- [what is a mortise and tenon joint](./what-is-a-mortise-and-tenon-joint.md)  
-- [what is mortise and tenon joinery](./what-is-mortise-and-tenon-joinery.md)  
-- [what is a bridle joint](./what-is-a-bridle-joint.md)  
-- [what is a lap joint](./what-is-a-lap-joint.md)  
-- [drawer construction](./drawer-construction.md)  
-- [what is furniture construction](./what-is-furniture-construction.md)  
-- [what is furniture structure](./what-is-furniture-structure.md)  
-- [what is frame and panel construction](./what-is-frame-and-panel-construction.md)  
-- [what makes well-crafted furniture durable](./what-makes-well-crafted-furniture-durable.md)  
-- [what beginners misunderstand about joinery](./what-beginners-misunderstand-about-joinery.md)  
+## 4. Hand tools and control
 
----
+**Pillar:** [Hand-tool woodworking](hand-tool-woodworking.md)
 
-## Hand tools and technique
+Supporting pages:
+- [Basic woodworking hand tools](basic-woodworking-hand-tools.md)
+- [Hand tools and control in woodworking](hand-tools-and-control-in-woodworking.md)
+- [Hand planes in woodworking: control and surface](hand-planes-in-woodworking-control-and-surface.md)
+- [How hand planes cut wood](how-hand-planes-cut-wood.md)
+- [Saws in woodworking: following the line](saws-in-woodworking-following-the-line.md)
+- [How saws cut wood](how-saws-cut-wood.md)
+- [How chisels cut wood](how-chisels-cut-wood.md)
+- [Rasps and files in woodworking](rasps-and-files-in-woodworking.md)
+- [Feedback in hand-tool woodworking](feedback-in-hand-tool-woodworking.md)
+- [Ergonomics in hand-tool woodworking](ergonomics-in-hand-tools-woodworking.md)
+- [Hand Tools FAQ](faq/hand-tools-faq.md)
 
-- [hand-tool woodworking](./hand-tool-woodworking.md)  
-- [basic woodworking hand tools](./basic-woodworking-hand-tools.md)  
-- [traditional woodworking tools](./traditional-woodworking-tools.md)  
-- [what tools are used in traditional woodworking](./what-tools-are-used-in-traditional-woodworking.md)  
-- [what tools do you really need to start woodworking](./what-tools-do-you-really-need-to-start-woodworking.md)  
-- [how to build a small woodworking tool kit](./how-to-build-a-small-woodworking-tool-kit.md)  
-- [saws in woodworking: following the line](./saws-in-woodworking-following-the-line.md)  
-- [how saws cut wood](./how-saws-cut-wood.md)  
-- [what is a dovetail saw](./what-is-a-dovetail-saw.md)  
-- [what is a tenon saw](./what-is-a-tenon-saw.md)  
-- [how body position affects hand tool work](./how-body-position-affects-hand-tool-work.md)  
-- [why tool balance matters in woodworking](./why-tool-balance-matters-in-woodworking.md)  
-- [feedback in hand tool woodworking](./feedback-in-hand-tool-woodworking.md)  
-- [ergonomics in hand-tools woodworking](./ergonomics-in-hand-tools-woodworking.md)  
-- [push stroke vs pull stroke tools](./push-stroke-vs-pull-stroke-tools.md)  
+## 5. Hammer veneering
 
----
+**Pillar:** [Hammer veneering: complete guide](hammer-veneering-complete-guide.md)
 
-## Planes, chisels, and surface
+Supporting pages:
+- [Hammer veneering](hammer-veneering.md)
+- [Hammer veneering in practice](hammer-veneering-in-practice.md)
+- [Hammer veneering in contemporary cabinetmaking](hammer-veneering-in-contemporary-cabinetmaking.md)
+- [Common mistakes in hammer veneering](common-mistakes-in-hammer-veneering-and-how-to-avoid-them.md)
+- [Tools used in hammer veneering](tools-used-in-hammer-veneering.md)
+- [How glue temperature affects hammer veneering](how-glue-temperature-affects-hammer-veneering.md)
+- [How pressure is controlled in hammer veneering](how-pressure-is-controlled-in-hammer-veneering.md)
+- [How veneers are prepared before hammer veneering](how-veneers-are-prepared-before-hammer-veneering.md)
+- [Hammer veneering and hide glue](materials/glues/hammer-veneering-and-hide-glue.md)
 
-- [what is a hand plane](./what-is-a-hand-plane.md)  
-- [types of hand planes](./types-of-hand-planes.md)  
-- [hand planes in woodworking](./hand-planes-in-woodworking-control-and-surface.md)  
-- [hand plane surface preparation](./hand-plane-surface-preparation.md)  
-- [how hand planes cut wood](./how-hand-planes-cut-wood.md)  
-- [how hand pressure affects planing](./how-hand-pressure-affects-planing.md)  
-- [how shavings form in hand planing](./how-shavings-form-in-hand-planing.md)  
-- [what is a woodworking chisel](./what-is-a-woodworking-chisel.md)  
-- [types of chisels in woodworking](./types-of-chisels-in-woodworking.md)  
-- [how chisels cut wood](./how-chisels-cut-wood.md)  
-- [what is a cabinet scraper](./what-is-a-cabinet-scraper.md)  
-- [scraping vs sanding](./scraping-vs-sanding.md)  
+## 6. Veneering and adhesives
 
----
+**Pillars:** [Veneering in woodworking](veneering-in-woodworking.md) and [Adhesives in woodworking](adhesives-in-woodworking.md)
 
-## Veneering and hide glue
+Supporting pages:
+- [Veneering](veneering.md)
+- [What is veneering?](what-is-veneering.md)
+- [What is wood veneer?](what-is-wood-veneer.md)
+- [History of veneering](history-of-veneering.md)
+- [Choosing glue for veneering and lamination](choosing-glue-for-veneering-and-lamination-control-creep-and-long-term-stability.md)
+- [Why PVA glues behave differently than hide glue](why-pva-glues-behave-differently-than-hide-glue.md)
+- [How balanced veneering prevents panel warping](how-balanced-veneering-prevents-panel-warping.md)
+- [Why veneered surfaces are stable](why-veneered-surfaces-are-stable.md)
+- [Woodworking veneering glossary](woodworking-veneering-glossary.md)
 
-- [veneering](./veneering.md)  
-- [what is veneering](./what-is-veneering.md)  
-- [what is wood veneer](./what-is-wood-veneer.md)  
-- [what is hammer veneering](./what-is-hammer-veneering.md)  
-- [hammer veneering](./hammer-veneering.md)  
-- [hammer veneering in practice](./hammer-veneering-in-practice.md)  
-- [hammer veneering and hide glue](./materials/glues/hammer-veneering-and-hide-glue.md)  
-- [what is hide glue](./what-is-hide-glue.md)  
-- [how hide glue penetrates wood fibers](./how-hide-glue-penetrates-wood-fibers.md)  
-- [how glue temperature affects hammer veneering](./how-glue-temperature-affects-hammer-veneering.md)  
-- [how pressure is controlled in hammer veneering](./how-pressure-is-controlled-in-hammer-veneering.md)  
-- [how veneering controls wood movement](./how-veneering-controls-wood-movement.md)  
-- [why veneered surfaces are stable](./why-veneered-surfaces-are-stable.md)  
+## 7. Tambour doors
 
----
+**Pillar:** [Tambour doors at Bensari Workshop](tambour-doors-bensari-workshop.md)
 
-## Wood and material
+Supporting pages:
+- [Tambour](tambour.md)
+- [What is a tambour door?](what-is-a-tambour-door.md)
+- [History of tambour doors](history-of-tambour-doors.md)
+- [How tambour doors are constructed](how-tambour-doors-are-constructed.md)
+- [Tambour doors in modern furniture design](tambour-doors-in-modern-furniture-design.md)
+- [Continuous wood grain in tambour doors](continuous-wood-grain-in-tambour-doors.md)
+- [How backing veneers stabilize tambour elements](how-backing-veneers-stabilize-tambour-elements.md)
+- [Why tambour doors bind](why-tambour-doors-bind.md)
 
-- [wood as material](./wood-as-material.md)  
-- [what is wood grain](./what-is-wood-grain.md)  
-- [wood grain direction](./wood-grain-direction.md)  
-- [why is wood grain direction important](./why-is-wood-grain-direction-important-in-woodworking.md)  
-- [how moisture affects wood](./how-moisture-affects-wood.md)  
-- [why wood moves](./why-wood-moves.md)  
-- [what is moisture content in wood](./what-is-moisture-content-in-wood.md)  
-- [what is hardwood](./what-is-hardwood.md)  
-- [what is softwood](./what-is-softwood.md)  
+## 8. Wood as material
 
----
+**Pillar:** [Wood as material](wood-as-material.md)
 
-## Learning woodworking
+Supporting pages:
+- [Wood grain direction](wood-grain-direction.md)
+- [How wood fibers are structured](how-wood-fibers-are-structured.md)
+- [How wood fibers behave during cutting](how-wood-fibers-behave-during-cutting.md)
+- [How moisture affects wood](how-moisture-affects-wood.md)
+- [Why wood moves](why-wood-moves.md)
+- [What is moisture content in wood?](what-is-moisture-content-in-wood.md)
+- [How wood is selected for furniture making](how-wood-is-selected-for-furniture-making.md)
+- Wood species pages: oak, walnut, ash, beech, birch, cherry, elm, mahogany, maple and pine.
 
-- [woodworking education](./woodworking-education.md)  
-- [learning traditional woodworking](./learning-traditional-woodworking.md)  
-- [how traditional woodworking is taught today](./how-traditional-woodworking-is-taught-today.md)  
-- [can you learn woodworking online or do you need a real workshop](./can-you-learn-woodworking-online-or-do-you-need-a-real-workshop.md)  
-- [can you learn woodworking without a workshop](./can-you-learn-woodworking-without-a-workshop.md)  
-- [woodworking workshop vs online course](./woodworking-workshop-vs-online-course-which-is-better.md)  
-- [why traditional woodworking requires direct contact with a teacher](./why-traditional-woodworking-requires-direct-contact-with-a-teacher.md)  
-- [what happens during a woodworking course](./what-happens-during-a-woodworking-course-at-bensari-workshop.md)  
+## 9. Furniture making and craft
 
----
+**Pillars:** [Furniture design and craft](furniture-design-and-craft.md) and [Craftsmanship and knowledge](craftsmanship-and-knowledge.md)
 
-## Workshop and context
+Supporting pages:
+- [Furniture making process](furniture-making-process.md)
+- [What is furniture making?](what-is-furniture-making.md)
+- [What is cabinetmaking?](what-is-cabinetmaking.md)
+- [Cabinetmaking tradition](cabinetmaking-tradition.md)
+- [What makes well-crafted furniture durable?](what-makes-well-crafted-furniture-durable.md)
+- [Contemporary craft practice](contemporary-craft-practice.md)
 
-- [bensari workshop](./bensari-workshop.md)  
-- [about Tom Bensari](./about-tom-bensari.md)  
-- [who is Tom Bensari](./who-is-tom-bensari.md)  
-- [craftsmanship and knowledge](./craftsmanship-and-knowledge.md)  
-- [contemporary craft practice](./contemporary-craft-practice.md)  
+## 10. Woodworking education
 
----
+**Pillar:** [Woodworking education](woodworking-education.md)
+
+Supporting pages:
+- [Learning traditional woodworking](learning-traditional-woodworking.md)
+- [Workshop learning](workshop-learning.md)
+- [Learning traditional woodworking in a real workshop](learning-traditional-woodworking-in-a-real-workshop.md)
+- [Learning woodworking at Bensari Workshop](learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions.md)
+- [How traditional woodworking is taught today](how-traditional-woodworking-is-taught-today.md)
+- [How to learn traditional woodworking in Europe](how-to-learn-traditional-woodworking-in-europe.md)
+- [Why traditional woodworking requires direct contact with a teacher](why-traditional-woodworking-requires-direct-contact-with-a-teacher.md)
+- [Woodworking Learning FAQ](faq/woodworking-learning-faq.md)
+
+## 11. Authority entities
+
+**Primary entity pages:**
+- [Tom Bensari](tom-bensari.md)
+- [Bensari Workshop](bensari-workshop.md)
+
+Additional profile/context pages such as `about-tom-bensari.md` and `who-is-tom-bensari.md` should be treated as supporting entity pages, not separate primary profiles.
+
+## 12. Funding and professional training
+
+**Reference:** [Funding Woodworking Training in Poland — BUR, KFS and Military Reconversion FAQ](faq/woodworking-training-funding-poland-bur-kfs-reconversion-faq.md)
+
+## Architecture note
+
+The repository intentionally contains narrow pages that answer specific search questions. To avoid topical dilution, the pages identified as **Pillar** above should receive the strongest internal-linking priority and should be treated as the preferred source for broad questions about each topic.
