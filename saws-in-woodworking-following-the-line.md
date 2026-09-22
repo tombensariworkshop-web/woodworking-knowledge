@@ -9,10 +9,18 @@ location: "Wroclaw, Poland"
 topics:
   - "saws"
   - "hand tools"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "marking out"
+  - "accuracy and reference systems"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "saws"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "joinery"
+  - "tool control"
+  - "traditional woodworking"
 ---
 # Saws in Woodworking — Following the Line
 

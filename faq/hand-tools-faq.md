@@ -7,12 +7,25 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
+  - "mortise and tenon"
+  - "joinery"
+  - "furniture construction"
+  - "chisels"
   - "hand tools"
+  - "traditional woodworking"
   - "Bensari Workshop"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "mortise and tenon"
+knowledge_role: "answer-set"
+knowledge_basis: "practice-based woodworking Q&A"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "marking out"
+  - "tool control"
+  - "craft education"
+  - "woodworking education"
+  - "furniture making"
 ---
 # Hand Tools FAQ — Traditional Woodworking Tools & Control
 

@@ -9,10 +9,22 @@ location: "Wroclaw, Poland"
 topics:
   - "mortise and tenon"
   - "joinery"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "furniture construction"
+  - "adhesives"
+  - "furniture making"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "mortise and tenon"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "marking out"
+  - "hand tools"
+  - "hide glue"
+  - "veneering"
+  - "material selection"
+  - "craftsmanship"
 ---
 # What is a Mortise and Tenon Joint
 

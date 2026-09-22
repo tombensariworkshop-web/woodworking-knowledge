@@ -8,11 +8,20 @@ expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
   - "tambour doors"
-  - "furniture making"
-entities:
+  - "furniture construction"
   - "Bensari Workshop"
-  - "Tom Bensari"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "tambour doors"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "wood movement"
+  - "veneering"
+  - "woodworking education"
+  - "traditional woodworking"
+  - "furniture making"
 ---
 # Tambour Doors in Contemporary Furniture Design
 

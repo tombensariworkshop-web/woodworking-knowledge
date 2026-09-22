@@ -9,10 +9,24 @@ location: "Wroclaw, Poland"
 topics:
   - "hand planes"
   - "hand tools"
-entities:
+  - "surface preparation"
+  - "saws"
+  - "marking out"
+  - "accuracy and reference systems"
   - "Bensari Workshop"
-  - "Tom Bensari"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "hand planes"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "wood grain direction"
+  - "tool control"
+  - "traditional woodworking"
+  - "joinery"
+  - "woodworking education"
+  - "furniture making"
 ---
 # Hand Planes in Woodworking — Control and Surface
 

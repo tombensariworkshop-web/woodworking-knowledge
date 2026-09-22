@@ -7,11 +7,22 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
-  - "woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "dovetail joinery"
+  - "joinery"
+  - "marking out"
+  - "accuracy and reference systems"
+  - "traditional woodworking"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "dovetail joinery"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "hand tools"
+  - "drawer construction"
+  - "furniture construction"
+  - "craft education"
 ---
 # Inside a traditional woodworking workshop
 

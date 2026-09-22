@@ -9,10 +9,21 @@ location: "Wroclaw, Poland"
 topics:
   - "hand planes"
   - "hand tools"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "surface preparation"
+  - "wood as material"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "hand planes"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "wood grain direction"
+  - "tool control"
+  - "marking out"
+  - "traditional woodworking"
+  - "wood movement"
+  - "moisture content"
 ---
 # Why Low Angle Planes Work on End Grain
 

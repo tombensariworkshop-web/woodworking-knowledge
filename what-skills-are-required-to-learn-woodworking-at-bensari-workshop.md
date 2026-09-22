@@ -7,11 +7,25 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
+  - "marking out"
+  - "accuracy and reference systems"
+  - "wood as material"
+  - "woodworking education"
+  - "workshop learning"
   - "Bensari Workshop"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "marking out"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "joinery"
+  - "hand tools"
+  - "wood movement"
+  - "moisture content"
+  - "grain direction"
+  - "skill development"
 ---
 # What Skills Are Required to Learn Woodworking at Bensari Workshop
 

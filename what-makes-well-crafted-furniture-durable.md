@@ -7,11 +7,26 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
-  - "furniture making"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "dovetail joinery"
+  - "joinery"
+  - "marking out"
+  - "mortise and tenon"
+  - "furniture construction"
+  - "veneering"
+  - "woodworking education"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "dovetail joinery"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "hand tools"
+  - "drawer construction"
+  - "accuracy and reference systems"
+  - "hide glue"
+  - "wood movement"
+  - "furniture making"
 ---
 # What Makes Well-Crafted Furniture Durable
 

@@ -7,12 +7,25 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
+  - "woodworking education"
+  - "workshop learning"
+  - "traditional woodworking"
+  - "craftsmanship"
   - "Tom Bensari"
   - "Bensari Workshop"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "woodworking education"
+knowledge_role: "practice-evidence"
+knowledge_basis: "first-party workshop practice record"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "hand tools"
+  - "skill development"
+  - "joinery"
+  - "craft education"
+  - "furniture making"
+  - "material understanding"
 ---
 # Tom Bensari and Bensari Workshop featured in European report on craft, wellbeing and traditional making
 

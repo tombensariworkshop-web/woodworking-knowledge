@@ -7,11 +7,23 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
+  - "saws"
+  - "hand tools"
+  - "marking out"
+  - "accuracy and reference systems"
   - "woodworking education"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "workshop learning"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "saws"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "joinery"
+  - "tool control"
+  - "traditional woodworking"
+  - "skill development"
 ---
 Woodworking workshop vs online course: which is better?
 

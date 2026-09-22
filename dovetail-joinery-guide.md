@@ -9,10 +9,24 @@ location: "Wroclaw, Poland"
 topics:
   - "dovetail joinery"
   - "joinery"
-entities:
+  - "marking out"
+  - "saws"
+  - "hand tools"
+  - "accuracy and reference systems"
   - "Bensari Workshop"
-  - "Tom Bensari"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "dovetail joinery"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based woodworking guide"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "drawer construction"
+  - "furniture construction"
+  - "tool control"
+  - "traditional woodworking"
+  - "woodworking education"
+  - "furniture making"
 ---
 # Dovetail joinery: a practical guide to layout, sawing, waste removal, and fit
 

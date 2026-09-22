@@ -7,11 +7,24 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
+  - "chisels"
   - "hand tools"
-entities:
+  - "woodworking education"
+  - "workshop learning"
   - "Bensari Workshop"
-  - "Tom Bensari"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "chisels"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "joinery"
+  - "marking out"
+  - "tool control"
+  - "traditional woodworking"
+  - "skill development"
+  - "furniture making"
 ---
 # Ergonomics in Hand Tools — How Tools Shape the Way We Work
 

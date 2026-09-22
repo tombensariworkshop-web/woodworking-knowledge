@@ -7,12 +7,24 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
-  - "adhesives"
   - "hide glue"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "adhesives"
+  - "wood as material"
+  - "furniture making"
+  - "traditional woodworking"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "hide glue"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "veneering"
+  - "reversible construction"
+  - "furniture construction"
+  - "wood movement"
+  - "moisture content"
+  - "grain direction"
 ---
 # What is Hide Glue
 

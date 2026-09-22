@@ -7,11 +7,28 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
-  - "Bensari Workshop"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "dovetail joinery"
+  - "joinery"
+  - "marking out"
+  - "mortise and tenon"
+  - "furniture construction"
+  - "veneering"
+  - "tambour doors"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "dovetail joinery"
+knowledge_role: "authority-entity"
+knowledge_basis: "first-party entity profile"
+entity_type: "Organization"
+official_url: "https://www.bensariworkshop.com/en/"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "hand tools"
+  - "drawer construction"
+  - "accuracy and reference systems"
+  - "hide glue"
+  - "wood movement"
+  - "furniture making"
 ---
 # Bensari Workshop
 

@@ -7,11 +7,26 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
-  - "woodworking"
-entities:
+  - "marking out"
+  - "accuracy and reference systems"
+  - "woodworking education"
+  - "workshop learning"
+  - "traditional woodworking"
+  - "craftsmanship"
   - "Bensari Workshop"
-  - "Tom Bensari"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "marking out"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "joinery"
+  - "hand tools"
+  - "skill development"
+  - "craft education"
+  - "furniture making"
+  - "material understanding"
 ---
 How to learn traditional woodworking in Europe (and avoid common mistakes)
 

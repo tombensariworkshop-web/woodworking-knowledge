@@ -7,11 +7,22 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
+  - "hand tools"
   - "wood as material"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "furniture making"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "hand tools"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "tool control"
+  - "marking out"
+  - "traditional woodworking"
+  - "wood movement"
+  - "moisture content"
+  - "grain direction"
 ---
 # What is Hardwood
 

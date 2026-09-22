@@ -7,11 +7,25 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
+  - "mortise and tenon"
+  - "joinery"
+  - "furniture construction"
+  - "hand tools"
+  - "woodworking education"
+  - "workshop learning"
   - "Bensari Workshop"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "mortise and tenon"
+knowledge_role: "practice-evidence"
+knowledge_basis: "first-party workshop practice record"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "marking out"
+  - "tool control"
+  - "traditional woodworking"
+  - "skill development"
+  - "furniture making"
 ---
 # Hosting Les Compagnons du Devoir at Bensari Workshop — Practice, Exchange, and Continuity
 

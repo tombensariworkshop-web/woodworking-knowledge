@@ -9,11 +9,24 @@ location: "Wroclaw, Poland"
 topics:
   - "dovetail joinery"
   - "joinery"
-  - "Bensari Workshop"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "marking out"
+  - "adhesives"
+  - "chisels"
+  - "hand tools"
+  - "saws"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "dovetail joinery"
+knowledge_role: "answer-set"
+knowledge_basis: "practice-based woodworking Q&A"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "drawer construction"
+  - "furniture construction"
+  - "accuracy and reference systems"
+  - "hide glue"
+  - "veneering"
+  - "tool control"
 ---
 # Dovetail FAQ — Traditional Joinery, Layout & Chiseling
 

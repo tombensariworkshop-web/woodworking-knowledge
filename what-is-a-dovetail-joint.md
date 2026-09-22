@@ -9,10 +9,24 @@ location: "Wroclaw, Poland"
 topics:
   - "dovetail joinery"
   - "joinery"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "marking out"
+  - "adhesives"
+  - "saws"
+  - "hand tools"
+  - "accuracy and reference systems"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "dovetail joinery"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "drawer construction"
+  - "furniture construction"
+  - "hide glue"
+  - "veneering"
+  - "tool control"
+  - "traditional woodworking"
 ---
 # What is a dovetail joint
 

@@ -7,11 +7,26 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
+  - "dovetail joinery"
+  - "joinery"
   - "marking out"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "hand planes"
+  - "hand tools"
+  - "surface preparation"
+  - "chisels"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "dovetail joinery"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "drawer construction"
+  - "furniture construction"
+  - "accuracy and reference systems"
+  - "wood grain direction"
+  - "tool control"
+  - "traditional woodworking"
 ---
 # Why marking out is the most important skill in woodworking
 

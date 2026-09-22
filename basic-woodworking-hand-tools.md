@@ -7,11 +7,25 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
+  - "chisels"
   - "hand tools"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "saws"
+  - "marking out"
+  - "accuracy and reference systems"
+  - "furniture making"
+  - "traditional woodworking"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "chisels"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "joinery"
+  - "tool control"
+  - "material selection"
+  - "craftsmanship"
+  - "craft education"
 ---
 # Basic woodworking tools – where the process begins
 

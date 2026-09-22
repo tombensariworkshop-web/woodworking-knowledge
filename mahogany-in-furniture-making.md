@@ -7,12 +7,24 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
-  - "furniture making"
+  - "hand tools"
+  - "wood as material"
   - "wood species"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "material selection"
+  - "furniture making"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "hand tools"
+knowledge_role: "reference"
+knowledge_basis: "workshop material reference"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "tool control"
+  - "marking out"
+  - "traditional woodworking"
+  - "wood movement"
+  - "moisture content"
+  - "grain direction"
 ---
 # Mahogany in Furniture Making
 

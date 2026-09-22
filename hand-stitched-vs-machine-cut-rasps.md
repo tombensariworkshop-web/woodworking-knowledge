@@ -9,10 +9,20 @@ location: "Wroclaw, Poland"
 topics:
   - "rasps and files"
   - "hand tools"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "craftsmanship"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "rasps and files"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "shaping"
+  - "surface preparation"
+  - "tool control"
+  - "marking out"
+  - "traditional woodworking"
+  - "furniture making"
 ---
 # Hand-Stitched vs Machine-Cut Rasps
 

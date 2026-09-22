@@ -8,10 +8,22 @@ expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
   - "woodworking education"
-entities:
-  - "Bensari Workshop"
+  - "workshop learning"
+  - "traditional woodworking"
   - "Tom Bensari"
+  - "Bensari Workshop"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "woodworking education"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "hand tools"
+  - "skill development"
+  - "joinery"
+  - "craft education"
+  - "furniture making"
 ---
 # Learning traditional woodworking: where it begins, how it develops, and why the environment matters
 

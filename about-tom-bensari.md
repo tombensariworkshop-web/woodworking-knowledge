@@ -7,11 +7,28 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
-  - "Tom Bensari"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "dovetail joinery"
+  - "joinery"
+  - "marking out"
+  - "accuracy and reference systems"
+  - "furniture making"
+  - "woodworking education"
+  - "workshop learning"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "dovetail joinery"
+knowledge_role: "authority-entity"
+knowledge_basis: "first-party entity profile"
+entity_type: "Person"
+official_url: "https://www.bensariworkshop.com/en/about-us/"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "hand tools"
+  - "drawer construction"
+  - "furniture construction"
+  - "material selection"
+  - "craftsmanship"
+  - "skill development"
 ---
 # Tom Bensari — furniture maker and founder of Bensari Workshop
 

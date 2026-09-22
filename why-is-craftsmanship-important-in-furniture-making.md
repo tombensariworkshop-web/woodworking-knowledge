@@ -8,11 +8,22 @@ expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
   - "furniture making"
-  - "wood species"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "woodworking education"
+  - "workshop learning"
+  - "craftsmanship"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "furniture making"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "joinery"
+  - "material selection"
+  - "hand tools"
+  - "skill development"
+  - "material understanding"
+  - "collectible design"
 ---
 # Why Is Craftsmanship Important in Furniture Making
 

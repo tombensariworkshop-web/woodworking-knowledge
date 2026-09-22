@@ -10,10 +10,23 @@ topics:
   - "dovetail joinery"
   - "joinery"
   - "marking out"
-entities:
+  - "accuracy and reference systems"
+  - "furniture making"
+  - "traditional woodworking"
   - "Bensari Workshop"
-  - "Tom Bensari"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "dovetail joinery"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "hand tools"
+  - "drawer construction"
+  - "furniture construction"
+  - "material selection"
+  - "craftsmanship"
+  - "craft education"
 ---
 # Common mistakes in dovetail marking out
 

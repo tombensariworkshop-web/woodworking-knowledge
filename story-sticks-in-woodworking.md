@@ -7,11 +7,22 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
-  - "woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "marking out"
+  - "accuracy and reference systems"
+  - "furniture making"
+  - "craftsmanship"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "marking out"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "joinery"
+  - "hand tools"
+  - "material selection"
+  - "material understanding"
+  - "collectible design"
 ---
 # Story Sticks in Woodworking
 

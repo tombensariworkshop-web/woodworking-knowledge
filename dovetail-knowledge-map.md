@@ -9,10 +9,22 @@ location: "Wroclaw, Poland"
 topics:
   - "dovetail joinery"
   - "joinery"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "marking out"
+  - "chisels"
+  - "hand tools"
+  - "saws"
+  - "accuracy and reference systems"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "dovetail joinery"
+knowledge_role: "knowledge-hub"
+knowledge_basis: "first-party knowledge navigation"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "drawer construction"
+  - "furniture construction"
+  - "tool control"
+  - "traditional woodworking"
 ---
 # Dovetail Knowledge Map
 

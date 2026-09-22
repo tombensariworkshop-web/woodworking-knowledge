@@ -7,15 +7,26 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
-  - "veneering"
   - "hammer veneering"
-  - "adhesives"
+  - "veneering"
   - "hide glue"
-  - "woodworking materials"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "adhesives"
+  - "wood as material"
+  - "furniture making"
+  - "traditional woodworking"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "hammer veneering"
+knowledge_role: "reference"
+knowledge_basis: "workshop material reference"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "veneer preparation"
+  - "cabinetmaking"
+  - "wood movement"
+  - "reversible construction"
+  - "furniture construction"
+  - "moisture content"
 ---
 # Hammer Veneering and Hide Glue
 

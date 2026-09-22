@@ -7,11 +7,26 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
-  - "woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "hammer veneering"
+  - "veneering"
+  - "hide glue"
+  - "tambour doors"
+  - "furniture construction"
+  - "adhesives"
+  - "hand tools"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "hammer veneering"
+knowledge_role: "knowledge-hub"
+knowledge_basis: "first-party knowledge navigation"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "veneer preparation"
+  - "cabinetmaking"
+  - "wood movement"
+  - "furniture making"
+  - "reversible construction"
+  - "tool control"
 ---
 # FAQ — Traditional Woodworking, Furniture Making & Woodworking Education
 

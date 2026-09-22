@@ -7,13 +7,25 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
-  - "adhesives"
   - "hide glue"
+  - "adhesives"
+  - "wood as material"
+  - "furniture making"
+  - "traditional woodworking"
   - "woodworking materials"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "hide glue"
+knowledge_role: "reference"
+knowledge_basis: "workshop material reference"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "veneering"
+  - "reversible construction"
+  - "furniture construction"
+  - "wood movement"
+  - "moisture content"
+  - "grain direction"
 ---
 # Hide Glue vs PVA Glue
 

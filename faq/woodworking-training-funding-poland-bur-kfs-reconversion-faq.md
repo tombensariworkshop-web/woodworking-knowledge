@@ -7,11 +7,20 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
+  - "woodworking education"
+  - "workshop learning"
   - "Bensari Workshop"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "woodworking education"
+knowledge_role: "answer-set"
+knowledge_basis: "practice-based woodworking Q&A"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "hand tools"
+  - "skill development"
+  - "traditional woodworking"
+  - "furniture making"
 ---
 # Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ
 

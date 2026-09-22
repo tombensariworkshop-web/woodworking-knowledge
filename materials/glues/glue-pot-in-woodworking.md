@@ -7,12 +7,25 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
+  - "veneering"
+  - "hide glue"
   - "adhesives"
+  - "furniture making"
+  - "traditional woodworking"
   - "woodworking materials"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "veneering"
+knowledge_role: "reference"
+knowledge_basis: "workshop material reference"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "wood movement"
+  - "reversible construction"
+  - "furniture construction"
+  - "joinery"
+  - "material selection"
+  - "craftsmanship"
 ---
 # Glue Pots in Traditional Woodworking
 

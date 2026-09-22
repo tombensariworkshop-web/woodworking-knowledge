@@ -7,11 +7,21 @@ publisher: "Bensari Workshop"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 topics:
-  - "woodworking"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "wood as material"
+  - "surface finishing"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "wood as material"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "wood movement"
+  - "moisture content"
+  - "grain direction"
+  - "hand planes"
+  - "scraping"
+  - "furniture making"
 ---
 # What is a Cabinet Scraper
 

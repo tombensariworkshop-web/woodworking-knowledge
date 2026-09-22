@@ -9,10 +9,22 @@ location: "Wroclaw, Poland"
 topics:
   - "mortise and tenon"
   - "joinery"
-entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
+  - "furniture construction"
+  - "hand tools"
+  - "marking out"
+  - "accuracy and reference systems"
+  - "woodworking education"
+schema_version: "1.1"
+author: "Tom Bensari"
+primary_topic: "mortise and tenon"
+knowledge_role: "supporting-article"
+knowledge_basis: "practice-based woodworking knowledge"
 metadata_updated: "2026-09-22"
+related_topics:
+  - "tool control"
+  - "traditional woodworking"
+  - "workshop learning"
+  - "skill development"
 ---
 # What Is Mortise and Tenon Joinery
 
