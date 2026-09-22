@@ -1,3 +1,20 @@
+---
+title: "Dovetail marking out – practice, geometry and control"
+slug: "dovetail-marking-out-practice-and-geometry"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Dovetail marking out – practice, geometry and control
 
 When people struggle with dovetails, they usually look at the saw.

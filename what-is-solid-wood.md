@@ -1,3 +1,18 @@
+---
+title: "What is Solid Wood"
+slug: "what-is-solid-wood"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "wood as material"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is Solid Wood
 
 Solid wood refers to lumber that is cut directly from a tree and used as a structural material in woodworking and furniture making.

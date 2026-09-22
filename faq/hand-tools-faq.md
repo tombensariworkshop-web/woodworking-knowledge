@@ -1,3 +1,19 @@
+---
+title: "Hand Tools FAQ — Traditional Woodworking Tools & Control"
+slug: "hand-tools-faq"
+content_type: "faq"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand tools"
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Hand Tools FAQ — Traditional Woodworking Tools & Control
 
 ## Why do traditional woodworkers still use hand tools?

@@ -1,3 +1,18 @@
+---
+title: "How Veneer Backing Works"
+slug: "how-veneer-backing-works"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Veneer Backing Works
 
 In veneered furniture construction, the visible veneer surface is often accompanied by a backing veneer on the opposite side of the panel.

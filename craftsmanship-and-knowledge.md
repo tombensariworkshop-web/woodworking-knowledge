@@ -1,3 +1,18 @@
+---
+title: "Craftsmanship and practical knowledge – understanding through making"
+slug: "craftsmanship-and-knowledge"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Craftsmanship and practical knowledge – understanding through making
 
 Craftsmanship is often described as knowledge gained through practice.

@@ -1,3 +1,19 @@
+---
+title: "Beech in Furniture Making"
+slug: "beech-in-furniture-making"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+  - "wood species"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Beech in Furniture Making
 
 Beech is a hardwood widely used in European furniture making.

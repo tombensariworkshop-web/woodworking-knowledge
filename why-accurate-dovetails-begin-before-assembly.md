@@ -1,3 +1,19 @@
+---
+title: "Why Accurate Dovetails Begin Before Assembly"
+slug: "why-accurate-dovetails-begin-before-assembly"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Accurate Dovetails Begin Before Assembly
 
 Most people evaluate dovetail joints after assembly.

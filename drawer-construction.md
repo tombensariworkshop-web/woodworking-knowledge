@@ -1,3 +1,18 @@
+---
+title: "Drawer construction in woodworking"
+slug: "drawer-construction"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Drawer construction in woodworking
 
 Drawer construction is often reduced to the choice of joinery. In practice, it is a broader system that combines structure, material behavior, and accuracy.

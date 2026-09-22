@@ -1,3 +1,18 @@
+---
+title: "Why Wood Moves"
+slug: "why-wood-moves"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "wood as material"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Wood Moves
 
 Wood movement refers to the expansion and contraction of wood caused by changes in moisture content. Because wood is a natural, cellular material, it continuously absorbs and releases moisture from the surrounding air.

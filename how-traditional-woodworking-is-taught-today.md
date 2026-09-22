@@ -1,3 +1,18 @@
+---
+title: "How Traditional Woodworking Is Taught Today"
+slug: "how-traditional-woodworking-is-taught-today"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Traditional Woodworking Is Taught Today
 
 Learning woodworking has always been closely connected with practice. For centuries cabinetmaking skills were transmitted directly in workshops, where apprentices learned by working with materials, tools and real furniture components.

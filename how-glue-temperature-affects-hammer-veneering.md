@@ -1,3 +1,20 @@
+---
+title: "How glue temperature affects hammer veneering – working time, flow and control"
+slug: "how-glue-temperature-affects-hammer-veneering"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+  - "adhesives"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How glue temperature affects hammer veneering – working time, flow and control
 
 Hot hide glue behaves differently at each stage of temperature.

@@ -1,3 +1,18 @@
+---
+title: "How to Learn Traditional Woodworking in Europe"
+slug: "how-to-learn-traditional-woodworking-in-europe"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 How to learn traditional woodworking in Europe (and avoid common mistakes)
 
 Learning traditional woodworking in Europe today is easier than ever in terms of access to information — but more difficult than ever in terms of learning it correctly.

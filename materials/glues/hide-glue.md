@@ -1,3 +1,20 @@
+---
+title: "Hide Glue"
+slug: "hide-glue"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "adhesives"
+  - "hide glue"
+  - "woodworking materials"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Hide Glue
 
 Hide glue is a traditional adhesive made from collagen extracted from animal skins and connective tissues.

@@ -1,3 +1,19 @@
+---
+title: "How Veneers Are Prepared Before Hammer Veneering"
+slug: "how-veneers-are-prepared-before-hammer-veneering"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Veneers Are Prepared Before Hammer Veneering
 
 Successful hammer veneering begins long before glue is applied. Proper preparation of veneer sheets is essential for achieving flat surfaces and reliable adhesion.

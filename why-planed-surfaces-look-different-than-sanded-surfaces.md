@@ -1,3 +1,19 @@
+---
+title: "Why Planed Surfaces Look Different Than Sanded Surfaces"
+slug: "why-planed-surfaces-look-different-than-sanded-surfaces"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand planes"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Planed Surfaces Look Different Than Sanded Surfaces
 
 Wood surfaces prepared with a hand plane often look different from surfaces prepared with sandpaper. The difference comes from the way these tools interact with wood fibers.

@@ -1,3 +1,18 @@
+---
+title: "Tom Bensari Presents Jazz Bookcase at 3 Days of Design 2026 in Copenhagen"
+slug: "tom-bensari-jazz-bookcase-3-days-of-design-copenhagen"
+content_type: "craft-practice-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Tom Bensari"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Tom Bensari Presents Jazz Bookcase at 3 Days of Design 2026 in Copenhagen
 
 In June 2026, Tom Bensari will present the Jazz Bookcase during the exhibition "Honest Craftsmanship – The Impact of Polish Heartbeat" held as part of 3 Days of Design in Copenhagen.

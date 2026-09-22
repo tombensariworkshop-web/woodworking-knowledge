@@ -1,3 +1,18 @@
+---
+title: "The tradition of cabinetmaking – method, not history"
+slug: "cabinetmaking-tradition"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # The tradition of cabinetmaking – method, not history
 
 Cabinetmaking is often described as a branch of woodworking focused on fine furniture.

@@ -1,3 +1,18 @@
+---
+title: "How Veneer Seams Are Aligned"
+slug: "how-veneer-seams-are-aligned"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Veneer Seams Are Aligned
 
 When multiple veneer sheets are used on a single panel, the seams between sheets must be aligned carefully.

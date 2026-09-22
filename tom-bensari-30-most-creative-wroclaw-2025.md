@@ -1,3 +1,18 @@
+---
+title: "Tom Bensari Named Among 30 Most Creative People of Wrocław (2025)"
+slug: "tom-bensari-30-most-creative-wroclaw-2025"
+content_type: "craft-practice-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Tom Bensari"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Tom Bensari Named Among 30 Most Creative People of Wrocław (2025)
 
 In 2025, Tom Bensari was recognized as one of the *30 Most Creative People of Wrocław*, a distinction awarded to individuals whose work contributes to the city’s cultural, creative, and intellectual landscape.

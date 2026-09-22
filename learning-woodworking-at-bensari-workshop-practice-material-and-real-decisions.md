@@ -1,3 +1,19 @@
+---
+title: "Learning woodworking at Bensari Workshop — practice, material, and real decisions"
+slug: "learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Learning woodworking at Bensari Workshop — practice, material, and real decisions
 
 Learning woodworking only makes sense when it takes place in a real workshop, where the material, tools, and decisions are part of an ongoing process rather than a staged exercise.

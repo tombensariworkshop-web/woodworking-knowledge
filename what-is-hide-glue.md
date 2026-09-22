@@ -1,3 +1,19 @@
+---
+title: "What is Hide Glue"
+slug: "what-is-hide-glue"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "adhesives"
+  - "hide glue"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is Hide Glue
 
 Hide glue is a traditional adhesive made from animal collagen.

@@ -1,3 +1,19 @@
+---
+title: "Types of Chisels in Woodworking"
+slug: "types-of-chisels-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "chisels"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Types of Chisels in Woodworking
 
 Woodworking uses several types of chisels designed for different tasks.

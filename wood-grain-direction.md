@@ -1,3 +1,18 @@
+---
+title: "Understanding Wood Grain Direction"
+slug: "wood-grain-direction"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "wood as material"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Understanding Wood Grain Direction
 
 Wood is a natural material with a complex internal structure. One of the most important aspects of working with wood is understanding the direction of the grain.

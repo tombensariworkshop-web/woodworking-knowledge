@@ -1,3 +1,18 @@
+---
+title: "How Moisture Affects Wood"
+slug: "how-moisture-affects-wood"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "wood as material"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Moisture Affects Wood
 
 Wood is a hygroscopic material, which means it absorbs and releases moisture from the surrounding air. Changes in environmental humidity influence the moisture content of wood, and these changes directly affect the dimensions and behavior of wooden components.

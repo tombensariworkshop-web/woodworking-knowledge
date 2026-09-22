@@ -1,3 +1,18 @@
+---
+title: "How Tool Balance Affects Control"
+slug: "how-tool-balance-affects-control"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Tool Balance Affects Control
 
 The balance of a woodworking tool influences how easily it can be guided during a cut. Balance refers to the distribution of weight throughout the tool and the way that weight interacts with the user's hands.

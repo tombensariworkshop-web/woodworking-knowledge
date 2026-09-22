@@ -1,3 +1,19 @@
+---
+title: "Oak in Furniture Making"
+slug: "oak-in-furniture-making"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+  - "wood species"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Oak in Furniture Making
 
 Oak is one of the most widely used hardwoods in furniture making.

@@ -1,3 +1,20 @@
+---
+title: "Animal Glues in Woodworking"
+slug: "animal-glues-in-woodworking"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "adhesives"
+  - "hide glue"
+  - "woodworking materials"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Animal Glues in Woodworking
 
 Animal glues are traditional adhesives made from collagen extracted from animal tissues such as bones, skins and connective tissues.

@@ -1,3 +1,18 @@
+---
+title: "How Wood Fibers Behave During Cutting"
+slug: "how-wood-fibers-behave-during-cutting"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "wood as material"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Wood Fibers Behave During Cutting
 
 Wood is composed of long cellular fibers that run primarily along the grain of the tree. When woodworking tools interact with wood, they do not simply remove material — they interact with this fiber structure.

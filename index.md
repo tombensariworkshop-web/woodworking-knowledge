@@ -1,3 +1,18 @@
+---
+title: "Woodworking Knowledge Index"
+slug: "index"
+content_type: "index"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Woodworking Knowledge Index
 
 A structured index of topics related to traditional woodworking, cabinetmaking, hand tools, veneering, furniture making, and craft education.

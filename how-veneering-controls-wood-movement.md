@@ -1,3 +1,18 @@
+---
+title: "How Veneering Controls Wood Movement"
+slug: "how-veneering-controls-wood-movement"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Veneering Controls Wood Movement
 
 One of the important functions of veneering is controlling the dimensional movement of wood.

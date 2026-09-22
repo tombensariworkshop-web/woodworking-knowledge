@@ -1,3 +1,18 @@
+---
+title: "Why online woodworking courses often lead to bad habits"
+slug: "why-online-woodworking-courses-often-lead-to-bad-habits"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why online woodworking courses often lead to bad habits
 
 When I started learning woodworking, I relied heavily on books and online resources. It was a natural choice. That was where the knowledge was available. At the same time, it took me years to understand that access to information does not automatically translate into the ability to work with precision.

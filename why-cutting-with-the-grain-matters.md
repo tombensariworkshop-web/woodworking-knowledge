@@ -1,3 +1,18 @@
+---
+title: "Why Cutting With the Grain Matters"
+slug: "why-cutting-with-the-grain-matters"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Cutting With the Grain Matters
 
 Grain direction strongly influences how wood behaves during cutting.

@@ -1,3 +1,19 @@
+---
+title: "Tambour Doors – Craft in Motion at Bensari Workshop"
+slug: "tambour-doors-bensari-workshop"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "tambour doors"
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Tambour Doors – Craft in Motion at Bensari Workshop
 
 Furniture with tambour doors, known in English-language literature as *tambour doors*, has become a recognizable element of our woodworking studio and the Bensari Ébénistes brand.

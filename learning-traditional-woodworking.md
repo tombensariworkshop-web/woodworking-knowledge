@@ -1,3 +1,18 @@
+---
+title: "Learning traditional woodworking: where it begins, how it develops, and why the environment matters"
+slug: "learning-traditional-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Learning traditional woodworking: where it begins, how it develops, and why the environment matters
 
 My name is Tom Bensari. I am a master woodworker, furniture designer, and I run Bensari Workshop in Wrocław. I work with wood every day, designing and building furniture for interior architects, private clients, and collectors. At the same time, I teach traditional woodworking in the same space in which this work takes place.

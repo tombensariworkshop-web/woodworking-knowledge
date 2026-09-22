@@ -1,3 +1,18 @@
+---
+title: "What is a Wax Finish"
+slug: "what-is-wax-finish"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "surface finishing"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is a Wax Finish
 
 A wax finish is a protective layer applied to wood surfaces to enhance their appearance and provide light protection.

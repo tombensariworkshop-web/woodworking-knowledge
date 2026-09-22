@@ -1,3 +1,19 @@
+---
+title: "How Hand Planes Cut Wood"
+slug: "how-hand-planes-cut-wood"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand planes"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Hand Planes Cut Wood
 
 A hand plane removes wood by slicing through the fibers with a sharp cutting edge. Although the tool appears simple, the cutting process involves a complex interaction between blade geometry, wood fibers and the movement of the tool.

@@ -1,3 +1,19 @@
+---
+title: "Why PVA glues behave differently than hide glue – flexibility, creep and control"
+slug: "why-pva-glues-behave-differently-than-hide-glue"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "adhesives"
+  - "hide glue"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why PVA glues behave differently than hide glue – flexibility, creep and control
 
 PVA adhesives and hide glue behave differently because they create fundamentally different types of glue lines.

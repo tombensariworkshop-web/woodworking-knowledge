@@ -1,3 +1,20 @@
+---
+title: "Hide Glue vs PVA Glue"
+slug: "hide-glue-vs-pva-glue"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "adhesives"
+  - "hide glue"
+  - "woodworking materials"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Hide Glue vs PVA Glue
 
 Hide glue and PVA glue are two different types of adhesives used in woodworking.

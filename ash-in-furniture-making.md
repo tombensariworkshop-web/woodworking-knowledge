@@ -1,3 +1,19 @@
+---
+title: "Ash in Furniture Making"
+slug: "ash-in-furniture-making"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+  - "wood species"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Ash in Furniture Making
 
 Ash is a hardwood known for its strength and flexibility.

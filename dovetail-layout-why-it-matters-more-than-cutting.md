@@ -1,3 +1,20 @@
+---
+title: "Why dovetail layout is more important than cutting"
+slug: "dovetail-layout-why-it-matters-more-than-cutting"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why dovetail layout is more important than cutting
 
 Dovetail layout determines the geometry, fit and final appearance of the joint.

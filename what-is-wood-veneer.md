@@ -1,3 +1,18 @@
+---
+title: "What Is Wood Veneer"
+slug: "what-is-wood-veneer"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Is Wood Veneer
 
 Wood veneer is a thin layer of wood, typically less than a few millimeters thick, cut from a log and applied to a stable substrate such as plywood.

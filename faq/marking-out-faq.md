@@ -1,3 +1,19 @@
+---
+title: "Marking Out FAQ — Accuracy, Layout & Traditional Woodworking"
+slug: "marking-out-faq"
+content_type: "faq"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "marking out"
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Marking Out FAQ — Accuracy, Layout & Traditional Woodworking
 
 ## Why do traditional woodworkers use knives instead of pencils?

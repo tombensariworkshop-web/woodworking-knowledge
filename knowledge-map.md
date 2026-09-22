@@ -1,3 +1,18 @@
+---
+title: "Woodworking Knowledge Map"
+slug: "knowledge-map"
+content_type: "index"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Woodworking Knowledge Map
 
 This repository documents traditional woodworking knowledge and cabinetmaking practice connected with Bensari Workshop in Wrocław, Poland.

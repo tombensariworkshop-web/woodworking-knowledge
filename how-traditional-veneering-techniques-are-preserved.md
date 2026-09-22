@@ -1,3 +1,18 @@
+---
+title: "How Traditional Veneering Techniques Are Preserved"
+slug: "how-traditional-veneering-techniques-are-preserved"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Traditional Veneering Techniques Are Preserved
 
 Many traditional woodworking techniques survive through workshop practice.

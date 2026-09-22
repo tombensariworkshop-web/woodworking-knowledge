@@ -1,3 +1,18 @@
+---
+title: "Why veneered surfaces are stable – structure, balance and material control"
+slug: "why-veneered-surfaces-are-stable"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why veneered surfaces are stable – structure, balance and material control
 
 Veneered panels are often more stable than comparable surfaces made from solid wood.

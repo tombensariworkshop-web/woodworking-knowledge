@@ -1,3 +1,18 @@
+---
+title: "What is Furniture Structure"
+slug: "what-is-furniture-structure"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is Furniture Structure
 
 Furniture structure refers to the internal system of components that gives an object its strength and stability.

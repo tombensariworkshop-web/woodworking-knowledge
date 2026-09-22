@@ -1,3 +1,19 @@
+---
+title: "Why Low Angle Planes Work on End Grain"
+slug: "why-low-angle-planes-work-on-end-grain"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand planes"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Low Angle Planes Work on End Grain
 
 End grain presents a different cutting challenge than long grain because the tool cuts across the ends of wood fibers rather than along their length.

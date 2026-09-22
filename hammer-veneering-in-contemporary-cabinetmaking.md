@@ -1,3 +1,20 @@
+---
+title: "Hammer veneering in contemporary cabinetmaking – control, tradition, and real workshop practice"
+slug: "hammer-veneering-in-contemporary-cabinetmaking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Hammer veneering in contemporary cabinetmaking – control, tradition, and real workshop practice
 
 Hammer veneering is often described as a traditional technique associated with restoration or historical furniture.

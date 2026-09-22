@@ -1,3 +1,20 @@
+---
+title: "How Hide Glue Penetrates Wood Fibers"
+slug: "how-hide-glue-penetrates-wood-fibers"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "adhesives"
+  - "hide glue"
+  - "wood as material"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Hide Glue Penetrates Wood Fibers
 
 Hide glue forms strong bonds with wood partly because of how it interacts with the cellular structure of the material.

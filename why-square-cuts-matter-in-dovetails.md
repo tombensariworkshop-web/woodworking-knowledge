@@ -1,3 +1,19 @@
+---
+title: "Why square cuts matter in dovetails"
+slug: "why-square-cuts-matter-in-dovetails"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why square cuts matter in dovetails
 
 In dovetail joinery, most attention is given to the angle of the tails.

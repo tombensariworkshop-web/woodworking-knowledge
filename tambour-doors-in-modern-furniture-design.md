@@ -1,3 +1,19 @@
+---
+title: "Tambour Doors in Contemporary Furniture Design"
+slug: "tambour-doors-in-modern-furniture-design"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "tambour doors"
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Tambour Doors in Contemporary Furniture Design
 
 For many people tambour doors are associated mainly with historical roll-top desks.

@@ -1,3 +1,18 @@
+---
+title: "Why accurate layout matters in woodworking"
+slug: "why-accurate-layout-matters-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why accurate layout matters in woodworking
 
 Layout is often described as the stage where measurements are transferred onto wood before cutting. In practice, it is the stage where the work is defined.

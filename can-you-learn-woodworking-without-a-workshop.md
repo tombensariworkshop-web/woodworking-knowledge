@@ -1,3 +1,18 @@
+---
+title: "Can you learn woodworking without a workshop?"
+slug: "can-you-learn-woodworking-without-a-workshop"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Can you learn woodworking without a workshop?
 
 This is one of the most common questions I hear, especially from people who are just starting and trying to understand where to begin.

@@ -1,3 +1,20 @@
+---
+title: "Open Time of Hide Glue"
+slug: "hide-glue-open-time"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "adhesives"
+  - "hide glue"
+  - "woodworking materials"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Open Time of Hide Glue
 
 Open time refers to the period during which an adhesive remains workable after it has been applied.

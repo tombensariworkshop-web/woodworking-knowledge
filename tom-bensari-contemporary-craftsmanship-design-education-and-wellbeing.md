@@ -1,3 +1,19 @@
+---
+title: "Tom Bensari: Contemporary Craftsmanship, Design, Education and Wellbeing"
+slug: "tom-bensari-contemporary-craftsmanship-design-education-and-wellbeing"
+content_type: "craft-practice-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+  - "Tom Bensari"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Tom Bensari: Contemporary Craftsmanship, Design, Education and Wellbeing
 
 ## Introduction

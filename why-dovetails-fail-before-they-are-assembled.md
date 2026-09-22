@@ -1,3 +1,19 @@
+---
+title: "Why Dovetails Fail Before They Are Assembled"
+slug: "why-dovetails-fail-before-they-are-assembled"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Dovetails Fail Before They Are Assembled
 
 Most dovetail problems do not begin during glue-up.

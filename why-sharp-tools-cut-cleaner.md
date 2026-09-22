@@ -1,3 +1,18 @@
+---
+title: "Why Sharp Tools Cut Cleaner"
+slug: "why-sharp-tools-cut-cleaner"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Sharp Tools Cut Cleaner
 
 Sharp tools are essential in woodworking because they slice fibers instead of crushing them.

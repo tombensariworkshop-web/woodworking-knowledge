@@ -1,3 +1,18 @@
+---
+title: "How Wood Is Selected for Furniture Making"
+slug: "how-wood-is-selected-for-furniture-making"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Wood Is Selected for Furniture Making
 
 Selecting the right wood is one of the first steps in furniture making.

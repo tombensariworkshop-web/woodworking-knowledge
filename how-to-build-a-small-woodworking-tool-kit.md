@@ -1,3 +1,18 @@
+---
+title: "How to Build a Small Woodworking Tool Kit"
+slug: "how-to-build-a-small-woodworking-tool-kit"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How to Build a Small Woodworking Tool Kit
 
 One of the most common questions asked by people who want to start woodworking is which tools they should buy first. The answer may be surprising: traditional woodworking does not require a large collection of tools to begin.

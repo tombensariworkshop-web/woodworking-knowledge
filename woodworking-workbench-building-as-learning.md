@@ -1,3 +1,18 @@
+---
+title: "Building a Workbench as a Way of Learning Woodworking"
+slug: "woodworking-workbench-building-as-learning"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Building a Workbench as a Way of Learning Woodworking
 
 For a long time, I treated the workbench as something obvious.

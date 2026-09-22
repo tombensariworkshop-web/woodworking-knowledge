@@ -1,3 +1,18 @@
+---
+title: "Push Stroke vs Pull Stroke Tools"
+slug: "push-stroke-vs-pull-stroke-tools"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Push Stroke vs Pull Stroke Tools
 
 Woodworking tools can be designed to cut either on the push stroke or on the pull stroke. This difference reflects two major traditions of tool design found in woodworking cultures around the world.

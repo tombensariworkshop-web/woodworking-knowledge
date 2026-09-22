@@ -1,3 +1,18 @@
+---
+title: "Hand tools and control in woodworking: understanding how tools actually work"
+slug: "hand-tools-and-control-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Hand tools and control in woodworking: understanding how tools actually work
 
 Hand tools are often discussed in terms of preference or tradition. In practice, they are simply a way of working that allows direct control over the material. That control depends less on the tool itself and more on how it is used.

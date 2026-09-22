@@ -1,3 +1,19 @@
+---
+title: "Mahogany in Furniture Making"
+slug: "mahogany-in-furniture-making"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+  - "wood species"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Mahogany in Furniture Making
 
 Mahogany is a hardwood traditionally associated with fine furniture making.

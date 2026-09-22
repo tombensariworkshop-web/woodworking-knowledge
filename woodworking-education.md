@@ -1,3 +1,18 @@
+---
+title: "Learning traditional woodworking"
+slug: "woodworking-education"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Learning traditional woodworking
 
 Learning woodworking is often approached as acquiring a set of techniques. In practice, it is something much deeper. It is a process of learning how to make decisions, how to understand material, and how to control the outcome of the work.

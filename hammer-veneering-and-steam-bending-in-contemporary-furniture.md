@@ -1,3 +1,21 @@
+---
+title: "Hammer veneering and steam bending in contemporary furniture – control in material"
+slug: "hammer-veneering-and-steam-bending-in-contemporary-furniture"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+  - "steam bending"
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Hammer veneering and steam bending in contemporary furniture – control in material
 
 Hammer veneering and steam bending are often associated with traditional cabinetmaking.

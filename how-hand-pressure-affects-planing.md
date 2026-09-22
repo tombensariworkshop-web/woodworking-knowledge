@@ -1,3 +1,19 @@
+---
+title: "How Hand Pressure Affects Planing"
+slug: "how-hand-pressure-affects-planing"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand planes"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Hand Pressure Affects Planing
 
 Hand planes remove wood by slicing thin shavings from the surface of a board. While blade sharpness and plane setup are important, the way a woodworker applies pressure to the tool also has a significant effect on the result.

@@ -1,3 +1,18 @@
+---
+title: "Basic woodworking tools – where the process begins"
+slug: "basic-woodworking-hand-tools"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Basic woodworking tools – where the process begins
 
 Starting woodworking is often associated with buying tools.

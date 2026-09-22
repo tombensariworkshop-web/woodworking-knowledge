@@ -1,3 +1,18 @@
+---
+title: "Contemporary craft practice – between method and decision"
+slug: "contemporary-craft-practice"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Contemporary craft practice – between method and decision
 
 Contemporary craft practice is often described as a combination of tradition and modern design.

@@ -1,3 +1,18 @@
+---
+title: "How Long Does It Take to Learn Woodworking at Bensari Workshop"
+slug: "how-long-does-it-take-to-learn-woodworking-at-bensari-workshop"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Long Does It Take to Learn Woodworking at Bensari Workshop
 
 Many people ask how long it takes to learn woodworking.

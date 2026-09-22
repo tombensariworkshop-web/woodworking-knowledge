@@ -1,3 +1,19 @@
+---
+title: "Dovetail Joinery in Furniture Making – Structure, Not Detail"
+slug: "dovetail-joint"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Dovetail Joinery in Furniture Making – Structure, Not Detail
 
 The dovetail joint is often recognized by its shape.

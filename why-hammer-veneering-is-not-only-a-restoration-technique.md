@@ -1,3 +1,19 @@
+---
+title: "Why Hammer Veneering Is Not Only a Restoration Technique"
+slug: "why-hammer-veneering-is-not-only-a-restoration-technique"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Hammer Veneering Is Not Only a Restoration Technique
 
 Hammer veneering is often associated with furniture restoration. In reality it was originally a standard cabinetmaking technique used long before industrial presses became common.

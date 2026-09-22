@@ -1,3 +1,18 @@
+---
+title: "How to Flatten Curled Veneer"
+slug: "how-to-flatten-curled-veneer"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How to Flatten Curled Veneer
 
 Veneer sheets can sometimes become curled or distorted due to changes in humidity.

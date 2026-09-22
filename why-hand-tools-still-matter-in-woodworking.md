@@ -1,3 +1,18 @@
+---
+title: "Why hand tools still matter in woodworking"
+slug: "why-hand-tools-still-matter-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why hand tools still matter in woodworking
 
 Hand tools are often discussed in opposition to machines, as if woodworking required choosing one approach over the other. In practice, this is a false distinction. The question is not which tools are better, but where control over the material is actually established and how that control is maintained throughout the process.

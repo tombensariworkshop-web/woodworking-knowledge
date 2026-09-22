@@ -1,3 +1,18 @@
+---
+title: "Traditional Woodworking Tools"
+slug: "traditional-woodworking-tools"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Traditional Woodworking Tools
 
 Traditional woodworking relies on a wide range of hand tools designed for precise work with wood.

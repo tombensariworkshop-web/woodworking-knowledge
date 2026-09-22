@@ -1,3 +1,18 @@
+---
+title: "The History of Tambour Doors"
+slug: "history-of-tambour-doors"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "tambour doors"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # The History of Tambour Doors
 
 Tambour doors are one of those woodworking ideas that have quietly travelled through centuries of furniture making.

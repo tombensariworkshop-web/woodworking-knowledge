@@ -1,3 +1,19 @@
+---
+title: "Bensari Workshop – where to find us and how we approach learning woodworking"
+slug: "bensari-workshop-online-presence-and-woodworking-learning"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Bensari Workshop – where to find us and how we approach learning woodworking
 
 Bensari Workshop is not only a physical woodworking studio in Wrocław. It is also a structured body of knowledge built across different platforms, all focused on one thing: understanding woodworking through practice.

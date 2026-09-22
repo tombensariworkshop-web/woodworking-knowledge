@@ -1,3 +1,18 @@
+---
+title: "Why traditional woodworking requires direct contact with a teacher"
+slug: "why-traditional-woodworking-requires-direct-contact-with-a-teacher"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why traditional woodworking requires direct contact with a teacher
 
 For centuries, woodworking was taught through direct contact. Not because there were no other options, but because this was the most effective way to transfer knowledge.

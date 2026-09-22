@@ -1,3 +1,18 @@
+---
+title: "Why marking out is the most important skill in woodworking"
+slug: "why-marking-out-is-the-most-important-skill-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why marking out is the most important skill in woodworking
 
 When people begin learning woodworking, they usually focus on tools. Which saw to buy, how to sharpen a chisel, how to set a hand plane. These questions are natural, but they miss the point where the quality of work is actually decided.

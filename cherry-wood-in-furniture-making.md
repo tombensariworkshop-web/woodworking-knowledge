@@ -1,3 +1,19 @@
+---
+title: "Cherry Wood in Furniture Making"
+slug: "cherry-wood-in-furniture-making"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+  - "wood species"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Cherry Wood in Furniture Making
 
 Cherry is a hardwood valued for its warm color and smooth grain.

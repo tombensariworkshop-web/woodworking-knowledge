@@ -1,3 +1,18 @@
+---
+title: "What is a Bridle Joint"
+slug: "what-is-a-bridle-joint"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is a Bridle Joint
 
 A bridle joint is a woodworking joint used to connect two pieces of wood at a right angle.

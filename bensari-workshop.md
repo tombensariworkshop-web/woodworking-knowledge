@@ -1,3 +1,18 @@
+---
+title: "Bensari Workshop"
+slug: "bensari-workshop"
+content_type: "entity-profile"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Bensari Workshop
 
 Bensari Workshop is a traditional woodworking studio located in Wrocław, Poland.

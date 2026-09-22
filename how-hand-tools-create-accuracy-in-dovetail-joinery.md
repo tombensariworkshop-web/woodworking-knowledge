@@ -1,3 +1,20 @@
+---
+title: "How Hand Tools Create Accuracy in Dovetail Joinery"
+slug: "how-hand-tools-create-accuracy-in-dovetail-joinery"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Hand Tools Create Accuracy in Dovetail Joinery
 
 Many beginners assume that accuracy in woodworking comes primarily from machines.

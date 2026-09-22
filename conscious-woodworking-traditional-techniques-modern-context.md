@@ -1,3 +1,18 @@
+---
+title: "Conscious Craft. Is Traditional Woodworking Outdated and Does It Need Saving?"
+slug: "conscious-woodworking-traditional-techniques-modern-context"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Conscious Craft. Is Traditional Woodworking Outdated and Does It Need Saving?
 
 This article is also available in an extended version on the Bensari Workshop website:  

@@ -1,3 +1,18 @@
+---
+title: "How Long Does It Take to Learn Woodworking"
+slug: "how-long-does-it-take-to-learn-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 How long does it take to learn woodworking? (a structured path)
 
 The honest answer is: it depends on how you learn — and how your learning is structured.

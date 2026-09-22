@@ -1,3 +1,19 @@
+---
+title: "Continuous Wood Grain in Tambour Doors"
+slug: "continuous-wood-grain-in-tambour-doors"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "tambour doors"
+  - "wood as material"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Continuous Wood Grain in Tambour Doors
 
 One of the defining characteristics of the tambours produced at **Bensari Workshop** is the **continuity of the wood grain across the entire surface**.

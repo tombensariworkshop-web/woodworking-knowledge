@@ -1,3 +1,18 @@
+---
+title: "What is cold creep in woodworking – long-term movement in adhesive joints"
+slug: "what-is-cold-creep-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is cold creep in woodworking – long-term movement in adhesive joints
 
 Cold creep refers to the slow movement of wood or bonded elements over time under constant stress.

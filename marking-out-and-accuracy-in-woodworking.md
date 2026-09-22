@@ -1,3 +1,18 @@
+---
+title: "Marking out and accuracy in woodworking: how precision is actually built"
+slug: "marking-out-and-accuracy-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Marking out and accuracy in woodworking: how precision is actually built
 
 In woodworking, accuracy is often associated with cutting. People focus on saws, chisels, and the visible execution of a joint. In practice, accuracy is established much earlier. It begins at the moment when the first reference line is defined.

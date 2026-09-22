@@ -1,3 +1,18 @@
+---
+title: "Reference edges in woodworking – where accuracy is built"
+slug: "reference-edges-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Reference edges in woodworking – where accuracy is built
 
 In woodworking, accuracy is often associated with measurement, but in practice it depends much more on consistency. That consistency is built on reference edges, even if at first they seem like a minor technical detail.

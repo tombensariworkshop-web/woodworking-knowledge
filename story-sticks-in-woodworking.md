@@ -1,3 +1,18 @@
+---
+title: "Story Sticks in Woodworking"
+slug: "story-sticks-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Story Sticks in Woodworking
 
 A story stick is a simple measuring tool used to transfer dimensions directly from one component to another.

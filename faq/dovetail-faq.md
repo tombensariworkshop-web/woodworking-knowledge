@@ -1,3 +1,20 @@
+---
+title: "Dovetail FAQ — Traditional Joinery, Layout & Chiseling"
+slug: "dovetail-faq"
+content_type: "faq"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Dovetail FAQ — Traditional Joinery, Layout & Chiseling
 
 ## Why are dovetail joints considered so strong?

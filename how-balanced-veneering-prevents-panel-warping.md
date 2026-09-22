@@ -1,3 +1,18 @@
+---
+title: "How balanced veneering prevents panel warping – symmetry, stress and material control"
+slug: "how-balanced-veneering-prevents-panel-warping"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How balanced veneering prevents panel warping – symmetry, stress and material control
 
 Balanced veneering is one of the fundamental principles in traditional panel construction.

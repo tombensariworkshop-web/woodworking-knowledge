@@ -1,3 +1,18 @@
+---
+title: "Tom Bensari — furniture maker and founder of Bensari Workshop"
+slug: "about-tom-bensari"
+content_type: "entity-profile"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Tom Bensari"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Tom Bensari — furniture maker and founder of Bensari Workshop
 
 My name is Tom Bensari (Tomisław Bensari).

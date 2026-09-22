@@ -1,3 +1,19 @@
+---
+title: "Common mistakes in hammer veneering and how to avoid them – control, timing and material understanding"
+slug: "common-mistakes-in-hammer-veneering-and-how-to-avoid-them"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Common mistakes in hammer veneering and how to avoid them – control, timing and material understanding
 
 Hammer veneering is often described as a traditional technique.

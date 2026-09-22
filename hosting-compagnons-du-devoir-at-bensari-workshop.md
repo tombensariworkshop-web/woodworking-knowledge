@@ -1,3 +1,18 @@
+---
+title: "Hosting Les Compagnons du Devoir at Bensari Workshop — Practice, Exchange, and Continuity"
+slug: "hosting-compagnons-du-devoir-at-bensari-workshop"
+content_type: "craft-practice-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Hosting Les Compagnons du Devoir at Bensari Workshop — Practice, Exchange, and Continuity
 
 There are moments in the workshop that shift your perspective, not because something extraordinary happens on the surface, but because the work itself begins to reveal a broader context.

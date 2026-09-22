@@ -1,3 +1,19 @@
+---
+title: "How Chisels Cut Wood"
+slug: "how-chisels-cut-wood"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "chisels"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Chisels Cut Wood
 
 A chisel removes wood by slicing fibers with a sharp cutting edge. Unlike planes or saws, chisels are typically used for controlled cuts in small areas, especially when forming or refining joinery.

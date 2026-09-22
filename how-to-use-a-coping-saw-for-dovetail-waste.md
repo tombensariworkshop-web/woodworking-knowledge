@@ -1,3 +1,21 @@
+---
+title: "How to use a coping saw for dovetail waste"
+slug: "how-to-use-a-coping-saw-for-dovetail-waste"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+  - "saws"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How to use a coping saw for dovetail waste
 
 A coping saw is one of the simplest and most effective tools for removing waste between dovetail tails.

@@ -1,3 +1,19 @@
+---
+title: "Why wood is used in furniture making"
+slug: "why-wood-is-used-in-furniture-making"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+  - "wood species"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why wood is used in furniture making
 
 Wood is often described through its properties. Strength, workability, appearance.

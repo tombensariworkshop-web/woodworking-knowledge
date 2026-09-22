@@ -1,3 +1,18 @@
+---
+title: "What is Bookmatching in Veneering"
+slug: "what-is-bookmatching-in-veneering"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is Bookmatching in Veneering
 
 Bookmatching is a veneering technique in which two consecutive sheets of veneer are opened like the pages of a book and placed side by side.

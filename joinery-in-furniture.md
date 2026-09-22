@@ -1,3 +1,19 @@
+---
+title: "Joinery in furniture construction"
+slug: "joinery-in-furniture"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "joinery"
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Joinery in furniture construction
 
 Joinery is often described as a set of methods used to connect pieces of wood. In practice, it defines how furniture works, how it behaves over time, and whether it remains stable or begins to fail.

@@ -1,3 +1,18 @@
+---
+title: "Learning traditional woodworking in a real workshop: practice, material, and decision making"
+slug: "learning-traditional-woodworking-in-a-real-workshop"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Learning traditional woodworking in a real workshop: practice, material, and decision making
 
 Woodworking is often presented as something that can be learned through videos and isolated exercises. While these resources can be useful, they rarely replace the experience of working in a real workshop environment.

@@ -1,3 +1,19 @@
+---
+title: "How Saws Cut Wood"
+slug: "how-saws-cut-wood"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "saws"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Saws Cut Wood
 
 Hand saws cut wood by removing small chips with a row of teeth. Each tooth acts like a tiny cutting tool that severs fibers as the blade moves through the material.

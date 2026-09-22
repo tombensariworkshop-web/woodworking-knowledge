@@ -1,3 +1,19 @@
+---
+title: "Hand Planes in Woodworking — Control and Surface"
+slug: "hand-planes-in-woodworking-control-and-surface"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand planes"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Hand Planes in Woodworking — Control and Surface
 
 Hand planes are often reduced to finishing tools, something you reach for at the very end of the process to make a surface look better. In practice, they play a much more fundamental role.

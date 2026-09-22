@@ -1,3 +1,18 @@
+---
+title: "Ergonomics in Hand Tools — How Tools Shape the Way We Work"
+slug: "ergonomics-in-hand-tools-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Ergonomics in Hand Tools — How Tools Shape the Way We Work
 
 For a long time, I understood ergonomics in woodworking as something related mainly to comfort. It seemed like a secondary aspect of tools, something that might make work more pleasant, but not necessarily more precise.

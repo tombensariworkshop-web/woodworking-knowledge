@@ -1,3 +1,20 @@
+---
+title: "How glue is forced out during hammer veneering – flow, pressure and material interaction"
+slug: "how-glue-is-forced-out-during-hammer-veneering"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+  - "adhesives"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How glue is forced out during hammer veneering – flow, pressure and material interaction
 
 In hammer veneering, glue is not only used to bond veneer to the substrate.

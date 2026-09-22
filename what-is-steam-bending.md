@@ -1,3 +1,18 @@
+---
+title: "What is Steam Bending"
+slug: "what-is-steam-bending"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "steam bending"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is Steam Bending
 
 Steam bending is a woodworking technique used to shape wood by exposing it to steam.

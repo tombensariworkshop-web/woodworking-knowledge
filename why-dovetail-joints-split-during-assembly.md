@@ -1,3 +1,19 @@
+---
+title: "Why Dovetail Joints Split During Assembly"
+slug: "why-dovetail-joints-split-during-assembly"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Dovetail Joints Split During Assembly
 
 Splitting during assembly is one of the most common problems in hand-cut dovetail joinery.

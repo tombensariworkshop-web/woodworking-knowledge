@@ -1,3 +1,18 @@
+---
+title: "What Most Beginners Get Wrong in Woodworking"
+slug: "what-most-beginners-get-wrong-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 What most beginners get wrong in woodworking
 
 Most beginners assume that woodworking is primarily about tools.

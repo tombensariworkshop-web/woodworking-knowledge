@@ -1,3 +1,19 @@
+---
+title: "Maple in Furniture Making"
+slug: "maple-in-furniture-making"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+  - "wood species"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Maple in Furniture Making
 
 Maple is a hardwood commonly used in furniture making because of its strength and smooth grain structure.

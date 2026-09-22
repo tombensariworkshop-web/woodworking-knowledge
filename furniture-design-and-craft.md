@@ -1,3 +1,18 @@
+---
+title: "Furniture design and craftsmanship – where decisions become structure"
+slug: "furniture-design-and-craft"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Furniture design and craftsmanship – where decisions become structure
 
 Furniture design is often described as a balance between creativity and function.

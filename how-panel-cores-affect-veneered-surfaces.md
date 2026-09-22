@@ -1,3 +1,18 @@
+---
+title: "How Panel Cores Affect Veneered Surfaces"
+slug: "how-panel-cores-affect-veneered-surfaces"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Panel Cores Affect Veneered Surfaces
 
 In veneered furniture construction, the substrate or core of the panel plays an important role in determining how the finished surface behaves.

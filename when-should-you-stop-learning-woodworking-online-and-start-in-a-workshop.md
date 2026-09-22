@@ -1,3 +1,18 @@
+---
+title: "When should you stop learning woodworking online and start in a workshop?"
+slug: "when-should-you-stop-learning-woodworking-online-and-start-in-a-workshop"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # When should you stop learning woodworking online and start in a workshop?
 
 Online learning is often the first step. It allows you to explore woodworking, understand basic concepts, and begin working on your own. There is value in that stage, and I went through it myself.

@@ -1,3 +1,19 @@
+---
+title: "Elm in Furniture Making"
+slug: "elm-in-furniture-making"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+  - "wood species"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Elm in Furniture Making
 
 Elm is a hardwood historically used in furniture making and structural woodworking.

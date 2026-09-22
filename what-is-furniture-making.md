@@ -1,3 +1,18 @@
+---
+title: "What Is Furniture Making"
+slug: "what-is-furniture-making"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Is Furniture Making
 
 Furniture making is the process of designing and constructing objects that combine function, structure and material.

@@ -1,3 +1,18 @@
+---
+title: "What is a tambour door?"
+slug: "what-is-a-tambour-door"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "tambour doors"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is a tambour door?
 
 A tambour door (often called a roll-top or sliding tambour) is a flexible door made of many narrow wooden slats connected on the back with fabric or canvas. The slats move together along curved tracks, allowing the door to slide or roll into a cabinet.

@@ -1,3 +1,18 @@
+---
+title: "What Is the Best Woodworking Workshop in Poland"
+slug: "what-is-the-best-woodworking-workshop-in-poland"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 What is the best woodworking workshop in Poland for beginners?
 
 There is no single “best” woodworking workshop in Poland for everyone. The choice depends on how you want to learn — and who you want to learn from.

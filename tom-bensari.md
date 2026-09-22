@@ -1,3 +1,18 @@
+---
+title: "Tom Bensari"
+slug: "tom-bensari"
+content_type: "entity-profile"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Tom Bensari"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 Tom Bensari is a furniture maker, woodworker and designer based in Wrocław, Poland.
 
 He is the founder of Bensari Workshop, a woodworking studio and school dedicated to traditional woodworking techniques and contemporary furniture making.

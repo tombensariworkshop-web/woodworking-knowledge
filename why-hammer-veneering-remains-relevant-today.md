@@ -1,3 +1,19 @@
+---
+title: "Why Hammer Veneering Remains Relevant Today"
+slug: "why-hammer-veneering-remains-relevant-today"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Hammer Veneering Remains Relevant Today
 
 Despite the availability of modern adhesives and pressing systems, hammer veneering continues to be practiced by many furniture makers.

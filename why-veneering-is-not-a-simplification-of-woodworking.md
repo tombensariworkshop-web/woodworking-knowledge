@@ -1,3 +1,18 @@
+---
+title: "Why veneering is not a simplified form of woodworking"
+slug: "why-veneering-is-not-a-simplification-of-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why veneering is not a simplified form of woodworking
 
 It is tempting to think of veneering as a simplified form of woodworking.

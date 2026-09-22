@@ -1,3 +1,18 @@
+---
+title: "Why marking out matters more than cutting in woodworking"
+slug: "why-marking-out-is-more-important-than-cutting"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why marking out matters more than cutting in woodworking
 
 In woodworking, cutting is often seen as the decisive moment. It is visible, dynamic, and easy to evaluate. A clean saw cut or a sharp chisel line gives immediate feedback.

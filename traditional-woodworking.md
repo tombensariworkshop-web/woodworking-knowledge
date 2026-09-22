@@ -1,3 +1,18 @@
+---
+title: "Traditional Woodworking"
+slug: "traditional-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Traditional Woodworking
 
 Traditional woodworking refers to furniture making and woodcraft practices developed before the widespread use of industrial machinery.

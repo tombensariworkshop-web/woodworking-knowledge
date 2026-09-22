@@ -1,3 +1,18 @@
+---
+title: "What is a Furniture Frame"
+slug: "what-is-a-furniture-frame"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is a Furniture Frame
 
 A furniture frame is the structural skeleton that supports the overall shape and stability of an object.

@@ -1,3 +1,18 @@
+---
+title: "How to Remove Old Veneer"
+slug: "how-to-remove-old-veneer"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How to Remove Old Veneer
 
 Old veneer sometimes needs to be removed when furniture is repaired or restored. This may happen when veneer has been severely damaged, when large areas have detached from the substrate, or when previous repairs were unsuccessful.

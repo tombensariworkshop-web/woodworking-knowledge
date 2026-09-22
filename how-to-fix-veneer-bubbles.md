@@ -1,3 +1,18 @@
+---
+title: "How to Fix Veneer Bubbles"
+slug: "how-to-fix-veneer-bubbles"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How to Fix Veneer Bubbles
 
 Veneer bubbles appear when a section of veneer lifts away from the substrate and traps air beneath the surface.

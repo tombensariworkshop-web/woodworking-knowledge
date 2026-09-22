@@ -1,3 +1,18 @@
+---
+title: "How Tambour Doors Are Constructed"
+slug: "how-tambour-doors-are-constructed"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "tambour doors"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Tambour Doors Are Constructed
 
 Tambour doors often look deceptively simple. From the outside they appear to be a wooden surface that slides quietly into the cabinet. But from a workshop perspective they are one of the most demanding elements in furniture construction.

@@ -1,3 +1,18 @@
+---
+title: "Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ"
+slug: "woodworking-training-funding-poland-bur-kfs-reconversion-faq"
+content_type: "faq"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ
 
 *Last verified: 13 August 2026*

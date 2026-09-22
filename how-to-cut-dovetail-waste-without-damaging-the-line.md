@@ -1,3 +1,19 @@
+---
+title: "How to cut dovetail waste without damaging the line"
+slug: "how-to-cut-dovetail-waste-without-damaging-the-line"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How to cut dovetail waste without damaging the line
 
 Removing waste is one of the most delicate stages in dovetail work. The goal is not speed, but preserving the layout lines that define the joint.

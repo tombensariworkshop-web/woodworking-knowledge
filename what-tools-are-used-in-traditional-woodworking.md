@@ -1,3 +1,18 @@
+---
+title: "What Tools Are Used in Traditional Woodworking"
+slug: "what-tools-are-used-in-traditional-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Tools Are Used in Traditional Woodworking
 
 Traditional woodworking is based on direct control over material. Tools are not selected for speed, but for precision, feedback and repeatability.

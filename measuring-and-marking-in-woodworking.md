@@ -1,3 +1,18 @@
+---
+title: "Measuring and marking in woodworking"
+slug: "measuring-and-marking-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Measuring and marking in woodworking
 
 Measuring and marking are often treated as preparation for woodworking. In practice, they are the stage where the work is defined.

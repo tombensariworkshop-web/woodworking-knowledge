@@ -1,3 +1,18 @@
+---
+title: "What Skills Are Required to Learn Woodworking at Bensari Workshop"
+slug: "what-skills-are-required-to-learn-woodworking-at-bensari-workshop"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Skills Are Required to Learn Woodworking at Bensari Workshop
 
 Many people assume that learning woodworking requires special talent or prior experience.

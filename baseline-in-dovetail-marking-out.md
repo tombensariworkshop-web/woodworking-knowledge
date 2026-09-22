@@ -1,3 +1,20 @@
+---
+title: "The baseline in dovetail marking out – where the joint begins"
+slug: "baseline-in-dovetail-marking-out"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # The baseline in dovetail marking out – where the joint begins
 
 In dovetail joinery there is a moment that looks almost insignificant, but in practice decides how the joint will come together.

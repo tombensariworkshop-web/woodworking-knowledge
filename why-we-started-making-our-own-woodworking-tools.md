@@ -1,3 +1,18 @@
+---
+title: "Why We Started Making Our Own Woodworking Tools"
+slug: "why-we-started-making-our-own-woodworking-tools"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why We Started Making Our Own Woodworking Tools
 
 For a long time, I treated tools as something external to the work. They were objects I selected, tested, adjusted, and eventually learned how to use with more or less control.

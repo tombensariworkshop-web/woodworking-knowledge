@@ -1,3 +1,18 @@
+---
+title: "What Makes Well-Crafted Furniture Durable"
+slug: "what-makes-well-crafted-furniture-durable"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Makes Well-Crafted Furniture Durable
 
 Durability in furniture depends on structure, material and workmanship.

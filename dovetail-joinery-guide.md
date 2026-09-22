@@ -1,3 +1,19 @@
+---
+title: "Dovetail joinery: a practical guide to layout, sawing, waste removal, and fit"
+slug: "dovetail-joinery-guide"
+content_type: "guide"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Dovetail joinery: a practical guide to layout, sawing, waste removal, and fit
 
 Dovetail joints are often presented as a symbol of fine woodworking, but in real workshop practice they are simply one of the fundamental ways of building durable drawers, boxes, and casework. Their value does not lie in appearance alone. A well-made dovetail joint depends on geometry, tool control, and the ability to work from clear references without losing accuracy from one stage to the next.

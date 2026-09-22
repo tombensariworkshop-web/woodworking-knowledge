@@ -1,3 +1,19 @@
+---
+title: "Why Do Furniture Makers Use Veneer"
+slug: "why-do-furniture-makers-use-veneer"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Do Furniture Makers Use Veneer
 
 Veneer is used because it allows control over stability, structure and surface.

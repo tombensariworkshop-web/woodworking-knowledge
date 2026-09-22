@@ -1,3 +1,18 @@
+---
+title: "When to use urea formaldehyde in woodworking – rigidity, stability and structural performance"
+slug: "when-to-use-urea-formaldehyde-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # When to use urea formaldehyde in woodworking – rigidity, stability and structural performance
 
 Urea formaldehyde adhesives are used when rigidity and long-term stability are required.

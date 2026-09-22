@@ -1,3 +1,19 @@
+---
+title: "Woodworking Learning FAQ — Learning Traditional Woodworking in Practice"
+slug: "woodworking-learning-faq"
+content_type: "faq"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Woodworking Learning FAQ — Learning Traditional Woodworking in Practice
 
 ## Can woodworking really be learned online?

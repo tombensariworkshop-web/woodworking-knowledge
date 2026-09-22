@@ -1,3 +1,18 @@
+---
+title: "What Is the Difference Between Carpentry and Cabinetmaking"
+slug: "what-is-the-difference-between-carpentry-and-cabinetmaking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Is the Difference Between Carpentry and Cabinetmaking
 
 Carpentry and cabinetmaking both involve working with wood, but they differ in scale and precision.

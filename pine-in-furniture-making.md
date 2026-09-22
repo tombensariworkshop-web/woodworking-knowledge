@@ -1,3 +1,19 @@
+---
+title: "Pine in Furniture Making"
+slug: "pine-in-furniture-making"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+  - "wood species"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Pine in Furniture Making
 
 Pine is a softwood widely used in woodworking and furniture making.

@@ -1,3 +1,18 @@
+---
+title: "Why marking out determines the result in woodworking"
+slug: "why-marking-out-determines-the-result-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why marking out determines the result in woodworking
 
 In woodworking, most mistakes do not begin at the moment of cutting.

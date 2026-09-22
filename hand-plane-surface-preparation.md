@@ -1,3 +1,19 @@
+---
+title: "Surface Preparation with Hand Planes"
+slug: "hand-plane-surface-preparation"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand planes"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Surface Preparation with Hand Planes
 
 Hand planes are among the most important tools in traditional woodworking.

@@ -1,3 +1,21 @@
+---
+title: "What Is a Dovetail Saw"
+slug: "what-is-a-dovetail-saw"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+  - "saws"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Is a Dovetail Saw
 
 A dovetail saw is a small backsaw designed for fine joinery work.

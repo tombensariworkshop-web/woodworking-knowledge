@@ -1,3 +1,19 @@
+---
+title: "Why veneered panels are used in furniture – stability, composition and structural control"
+slug: "why-veneered-panels-are-used-in-furniture"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why veneered panels are used in furniture – stability, composition and structural control
 
 Veneered panels have been widely used in furniture making for centuries.

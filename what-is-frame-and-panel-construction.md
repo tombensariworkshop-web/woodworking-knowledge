@@ -1,3 +1,18 @@
+---
+title: "What is Frame and Panel Construction"
+slug: "what-is-frame-and-panel-construction"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is Frame and Panel Construction
 
 Frame and panel construction is a traditional woodworking method used to build doors, cabinets and furniture panels.

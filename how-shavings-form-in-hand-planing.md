@@ -1,3 +1,19 @@
+---
+title: "How Shavings Form in Hand Planing"
+slug: "how-shavings-form-in-hand-planing"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand planes"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Shavings Form in Hand Planing
 
 When a hand plane moves across the surface of wood, it removes material in the form of a thin shaving. This shaving is created when the cutting edge slices wood fibers and lifts them away from the surface.

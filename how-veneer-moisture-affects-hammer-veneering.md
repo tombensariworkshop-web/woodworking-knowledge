@@ -1,3 +1,20 @@
+---
+title: "How Veneer Moisture Affects Hammer Veneering"
+slug: "how-veneer-moisture-affects-hammer-veneering"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+  - "wood as material"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Veneer Moisture Affects Hammer Veneering
 
 The moisture content of veneer plays an important role in hammer veneering.

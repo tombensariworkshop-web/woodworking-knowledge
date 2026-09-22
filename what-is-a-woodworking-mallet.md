@@ -1,3 +1,18 @@
+---
+title: "What Is a Woodworking Mallet"
+slug: "what-is-a-woodworking-mallet"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Is a Woodworking Mallet
 
 A woodworking mallet is a striking tool used to drive chisels and assemble wooden joints.

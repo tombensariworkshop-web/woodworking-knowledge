@@ -1,3 +1,19 @@
+---
+title: "Hammer veneering: material control, glue behavior, and surface stability"
+slug: "hammer-veneering-complete-guide"
+content_type: "guide"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Hammer veneering: material control, glue behavior, and surface stability
 
 Hammer veneering is often misunderstood as a historical or restoration technique.

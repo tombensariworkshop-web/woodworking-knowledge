@@ -1,3 +1,19 @@
+---
+title: "How air bubbles are avoided in hammer veneering – pressure, glue and sequence"
+slug: "how-air-bubbles-are-avoided-in-hammer-veneering"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How air bubbles are avoided in hammer veneering – pressure, glue and sequence
 
 Air bubbles are one of the most common problems in veneering.

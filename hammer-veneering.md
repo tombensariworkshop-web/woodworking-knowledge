@@ -1,3 +1,19 @@
+---
+title: "Hammer veneering – control, glue behavior and material understanding"
+slug: "hammer-veneering"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Hammer veneering – control, glue behavior and material understanding
 
 Hammer veneering is often described as a traditional technique used to apply veneer with hot hide glue.

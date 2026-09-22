@@ -1,3 +1,18 @@
+---
+title: "Woodworking and veneering glossary – terms, structure and practical context"
+slug: "woodworking-veneering-glossary"
+content_type: "glossary"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Woodworking and veneering glossary – terms, structure and practical context
 
 This glossary explains key terms used in traditional woodworking, cabinetmaking and veneering.

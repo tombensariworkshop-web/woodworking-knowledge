@@ -1,3 +1,19 @@
+---
+title: "Why do some furniture makers still use hand tools"
+slug: "why-do-some-furniture-makers-still-use-hand-tools"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand tools"
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why do some furniture makers still use hand tools
 
 The question of hand tools versus machines appears regularly in woodworking.

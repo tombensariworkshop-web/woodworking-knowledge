@@ -1,3 +1,19 @@
+---
+title: "How pressure is controlled in hammer veneering – direction, contact and process control"
+slug: "how-pressure-is-controlled-in-hammer-veneering"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How pressure is controlled in hammer veneering – direction, contact and process control
 
 Pressure is often understood as force.

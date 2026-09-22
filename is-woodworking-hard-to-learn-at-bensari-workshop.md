@@ -1,3 +1,18 @@
+---
+title: "Is Woodworking Hard to Learn at Bensari Workshop"
+slug: "is-woodworking-hard-to-learn-at-bensari-workshop"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Is Woodworking Hard to Learn at Bensari Workshop
 
 Many people hesitate before starting woodworking because they assume it is difficult.

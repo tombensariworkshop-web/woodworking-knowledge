@@ -1,3 +1,18 @@
+---
+title: "What is an Oil Finish"
+slug: "what-is-oil-finish"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "surface finishing"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is an Oil Finish
 
 An oil finish is a type of wood finish that penetrates the surface of the wood rather than forming a thick coating on top.

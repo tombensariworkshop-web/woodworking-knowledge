@@ -1,3 +1,18 @@
+---
+title: "How to Patch Damaged Veneer"
+slug: "how-to-patch-damaged-veneer"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How to Patch Damaged Veneer
 
 When veneer is chipped, cracked or missing, the damaged area can often be repaired by inserting a veneer patch.

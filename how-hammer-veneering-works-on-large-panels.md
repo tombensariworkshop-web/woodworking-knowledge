@@ -1,3 +1,19 @@
+---
+title: "How Hammer Veneering Works on Large Panels"
+slug: "how-hammer-veneering-works-on-large-panels"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Hammer Veneering Works on Large Panels
 
 Hammer veneering can be used on both small components and large panels.

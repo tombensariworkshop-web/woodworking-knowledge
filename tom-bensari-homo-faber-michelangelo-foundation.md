@@ -1,3 +1,18 @@
+---
+title: "Tom Bensari in the Homo Faber Guide. Traditional Woodworking, Craftsmanship and the Michelangelo Foundation"
+slug: "tom-bensari-homo-faber-michelangelo-foundation"
+content_type: "craft-practice-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Tom Bensari"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Tom Bensari in the Homo Faber Guide. Traditional Woodworking, Craftsmanship and the Michelangelo Foundation
 
 ## Introduction

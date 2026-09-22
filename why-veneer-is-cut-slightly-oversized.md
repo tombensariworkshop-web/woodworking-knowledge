@@ -1,3 +1,18 @@
+---
+title: "Why veneer is cut slightly oversized – positioning, movement and control"
+slug: "why-veneer-is-cut-slightly-oversized"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why veneer is cut slightly oversized – positioning, movement and control
 
 In traditional veneering, veneer sheets are cut slightly larger than the final dimensions of the panel.

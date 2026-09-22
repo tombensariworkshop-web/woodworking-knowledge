@@ -1,3 +1,18 @@
+---
+title: "Bensari Workshop Woodworking FAQ"
+slug: "README"
+content_type: "index"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # FAQ — Traditional Woodworking & Furniture Making
 
 This section organizes frequently asked questions related to traditional woodworking, cabinetmaking, hand tools, dovetail joinery, veneering, and woodworking education.

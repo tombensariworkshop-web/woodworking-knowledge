@@ -1,3 +1,19 @@
+---
+title: "What Happens During a Woodworking Course at Bensari Workshop"
+slug: "what-happens-during-a-woodworking-course-at-bensari-workshop"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Happens During a Woodworking Course at Bensari Workshop
 
 Many people ask what learning woodworking actually looks like in practice.

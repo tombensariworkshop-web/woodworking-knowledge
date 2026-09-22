@@ -1,3 +1,18 @@
+---
+title: "What Is Veneering in Woodworking"
+slug: "what-is-veneering"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Is Veneering in Woodworking
 
 Veneering is a woodworking technique that involves applying thin layers of wood (veneer) to a stable substrate, typically plywood.

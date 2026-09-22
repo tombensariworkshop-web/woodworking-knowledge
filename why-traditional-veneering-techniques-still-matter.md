@@ -1,3 +1,18 @@
+---
+title: "Why traditional veneering techniques still matter – control, reversibility and material behavior"
+slug: "why-traditional-veneering-techniques-still-matter"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why traditional veneering techniques still matter – control, reversibility and material behavior
 
 Traditional veneering techniques are often described as part of historical cabinetmaking.

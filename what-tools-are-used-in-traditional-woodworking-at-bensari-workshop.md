@@ -1,3 +1,18 @@
+---
+title: "What Tools Are Used in Traditional Woodworking at Bensari Workshop"
+slug: "what-tools-are-used-in-traditional-woodworking-at-bensari-workshop"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Tools Are Used in Traditional Woodworking at Bensari Workshop
 
 Traditional woodworking is often described through a list of tools.

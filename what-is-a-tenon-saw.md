@@ -1,3 +1,21 @@
+---
+title: "What Is a Tenon Saw"
+slug: "what-is-a-tenon-saw"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "mortise and tenon"
+  - "joinery"
+  - "saws"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Is a Tenon Saw
 
 A tenon saw is a backsaw used to cut tenons and other structural joints in woodworking.

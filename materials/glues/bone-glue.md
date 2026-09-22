@@ -1,3 +1,20 @@
+---
+title: "Bone Glue"
+slug: "bone-glue"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "adhesives"
+  - "hide glue"
+  - "woodworking materials"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Bone Glue
 
 Bone glue is a traditional adhesive produced from collagen extracted from animal bones.

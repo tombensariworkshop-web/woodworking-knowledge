@@ -1,3 +1,18 @@
+---
+title: "The history of veneering in furniture making – continuity of technique and material control"
+slug: "history-of-veneering"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # The history of veneering in furniture making – continuity of technique and material control
 
 Veneering is often described as one of the oldest techniques in furniture making.

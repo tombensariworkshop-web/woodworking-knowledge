@@ -1,3 +1,18 @@
+---
+title: "How to Repair Veneer"
+slug: "how-to-repair-veneer"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How to Repair Veneer
 
 Veneer can sometimes become damaged through impact, moisture or aging adhesives. Common problems include lifted veneer, cracks, missing fragments or bubbles beneath the surface.

@@ -1,3 +1,19 @@
+---
+title: "How to Divide Dovetails by Eye – Working with Proportion Instead of Formula"
+slug: "how-to-divide-dovetails-by-eye"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How to Divide Dovetails by Eye – Working with Proportion Instead of Formula
 
 There is a moment in marking out dovetails when many people start looking for a rule. How many tails, what spacing, what proportion. It is a natural question, but in practice it often leads away from understanding the joint.

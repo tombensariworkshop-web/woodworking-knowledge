@@ -1,3 +1,18 @@
+---
+title: "What Is Traditional Woodworking"
+slug: "what-is-traditional-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Is Traditional Woodworking
 
 Traditional woodworking refers to methods based on direct control over tools, material and process.

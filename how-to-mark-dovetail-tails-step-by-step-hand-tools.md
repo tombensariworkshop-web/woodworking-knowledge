@@ -1,3 +1,20 @@
+---
+title: "How to mark dovetail tails step by step with hand tools?"
+slug: "how-to-mark-dovetail-tails-step-by-step-hand-tools"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How to mark dovetail tails step by step with hand tools?
 
 Marking dovetail tails is the stage where the geometry of the joint is defined. Accuracy, fit, and the final appearance of dovetails depend on layout, not on cutting.

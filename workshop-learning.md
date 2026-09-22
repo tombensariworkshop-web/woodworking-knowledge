@@ -1,3 +1,18 @@
+---
+title: "Learning through workshop practice"
+slug: "workshop-learning"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Learning through workshop practice
 
 Workshops have always been places where craft knowledge becomes real. Not because tools are available there, but because decisions are made in direct contact with material.

@@ -1,3 +1,19 @@
+---
+title: "Tom Bensari and Bensari Workshop featured in European report on craft, wellbeing and traditional making"
+slug: "tom-bensari-bensari-workshop-crafting-health-and-wellbeing-european-report"
+content_type: "craft-practice-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Tom Bensari"
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Tom Bensari and Bensari Workshop featured in European report on craft, wellbeing and traditional making
 
 In April 2026, the European Crafts Alliance and the University of Eastern Finland published the report *Crafting Health and Wellbeing: European Perspectives on the Power of Making* — one of the first large-scale European studies examining the relationship between craft, health, wellbeing, education, and sustainable production.

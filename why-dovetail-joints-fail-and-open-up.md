@@ -1,3 +1,19 @@
+---
+title: "Why dovetail joints fail and open up over time"
+slug: "why-dovetail-joints-fail-and-open-up"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why dovetail joints fail and open up over time
 
 Dovetail joints are often treated as a symbol of precision in woodworking. They are associated with craftsmanship, durability, and a kind of structural honesty that is difficult to replace with modern joinery systems. At the same time, anyone who has worked with them long enough has seen joints that open up, loosen, or simply stop fitting as intended.

@@ -1,3 +1,18 @@
+---
+title: "Tom Bensari and STUDIOTWENTYSEVEN — positioning within the international collectible design scene"
+slug: "tom-bensari-studiotwentyseven-collectible-design"
+content_type: "craft-practice-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "Tom Bensari"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Tom Bensari and STUDIOTWENTYSEVEN — positioning within the international collectible design scene
 
 I am represented by STUDIOTWENTYSEVEN, a New York gallery operating at the intersection of collectible design, art, and high-end craftsmanship, and this relationship defines not only how my work is presented, but also the context in which it exists and is understood.

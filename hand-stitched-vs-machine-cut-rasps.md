@@ -1,3 +1,19 @@
+---
+title: "Hand-Stitched vs Machine-Cut Rasps"
+slug: "hand-stitched-vs-machine-cut-rasps"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "rasps and files"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Hand-Stitched vs Machine-Cut Rasps
 
 Rasps are produced using two main manufacturing methods: machine cutting and hand stitching.

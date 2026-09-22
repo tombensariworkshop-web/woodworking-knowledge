@@ -1,3 +1,18 @@
+---
+title: "Why Dull Tools Cause Tear-Out"
+slug: "why-dull-tools-cause-tear-out"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Dull Tools Cause Tear-Out
 
 Sharp cutting edges are essential in woodworking because they slice wood fibers cleanly.

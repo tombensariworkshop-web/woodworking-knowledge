@@ -1,3 +1,18 @@
+---
+title: "Conscious woodworking"
+slug: "conscious-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Conscious woodworking
 
 Conscious woodworking is not about choosing between hand tools and machines. It is about understanding when and why to use each of them.

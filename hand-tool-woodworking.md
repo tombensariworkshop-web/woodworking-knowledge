@@ -1,3 +1,18 @@
+---
+title: "Hand tool woodworking – control, feedback and material understanding"
+slug: "hand-tool-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Hand tool woodworking – control, feedback and material understanding
 
 Hand tool woodworking is often defined as furniture making that relies on manual tools instead of machines.

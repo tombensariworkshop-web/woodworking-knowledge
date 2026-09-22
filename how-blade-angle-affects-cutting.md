@@ -1,3 +1,18 @@
+---
+title: "How Blade Angle Affects Cutting"
+slug: "how-blade-angle-affects-cutting"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Blade Angle Affects Cutting
 
 The angle of a cutting edge strongly influences how a woodworking tool interacts with wood fibers.

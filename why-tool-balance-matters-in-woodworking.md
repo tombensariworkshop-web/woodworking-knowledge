@@ -1,3 +1,18 @@
+---
+title: "Why Tool Balance Matters in Woodworking"
+slug: "why-tool-balance-matters-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Tool Balance Matters in Woodworking
 
 Balance is rarely the first quality people pay attention to when choosing a tool.

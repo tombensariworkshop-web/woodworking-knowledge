@@ -1,3 +1,19 @@
+---
+title: "Mortise and tenon joinery"
+slug: "mortise-and-tenon"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "mortise and tenon"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Mortise and tenon joinery
 
 Mortise and tenon joinery is one of the most fundamental structural systems in furniture making. It is widely used not because it is traditional, but because it solves a specific problem. It creates a stable connection that can carry load while maintaining alignment over time.

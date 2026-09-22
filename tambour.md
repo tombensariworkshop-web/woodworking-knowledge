@@ -1,3 +1,18 @@
+---
+title: "Tambour in Woodworking — Construction, Function and Contemporary Use"
+slug: "tambour"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "tambour doors"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Tambour in Woodworking — Construction, Function and Contemporary Use
 
 Tambour is a woodworking technique based on a flexible surface made of narrow elements connected in a way that allows them to move along a defined path.

@@ -1,3 +1,18 @@
+---
+title: "Why Are Traditional Woodworking Techniques Still Relevant Today"
+slug: "why-are-traditional-woodworking-techniques-still-relevant-today"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Are Traditional Woodworking Techniques Still Relevant Today
 
 Traditional woodworking techniques are often described as something that belongs to the past.

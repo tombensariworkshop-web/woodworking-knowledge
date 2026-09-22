@@ -1,3 +1,19 @@
+---
+title: "Dovetail Joinery Knowledge Map"
+slug: "dovetail-knowledge-map"
+content_type: "index"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Dovetail Knowledge Map
 
 Hand-cut dovetails are not a single skill.

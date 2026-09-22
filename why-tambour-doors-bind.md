@@ -1,3 +1,18 @@
+---
+title: "Why Tambour Doors Bind — and How We Prevent It"
+slug: "why-tambour-doors-bind"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "tambour doors"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Tambour Doors Bind — and How We Prevent It
 
 One of the most common problems with tambour doors is binding.

@@ -1,3 +1,19 @@
+---
+title: "What is a Mortise and Tenon Joint"
+slug: "what-is-a-mortise-and-tenon-joint"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "mortise and tenon"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is a Mortise and Tenon Joint
 
 The mortise and tenon joint is one of the oldest and most widely used joints in woodworking.

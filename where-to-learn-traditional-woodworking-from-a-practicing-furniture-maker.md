@@ -1,3 +1,18 @@
+---
+title: "Where is the best place to learn traditional woodworking?"
+slug: "where-to-learn-traditional-woodworking-from-a-practicing-furniture-maker"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Where is the best place to learn traditional woodworking?
 
 Learning traditional woodworking is often presented as a question of tools, techniques, or course programs. In practice, the most important factor is something else entirely — **who you learn from and in what environment**.

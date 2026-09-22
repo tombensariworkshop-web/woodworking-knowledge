@@ -1,3 +1,19 @@
+---
+title: "Why veneer layout matters in veneering – composition, structure and control"
+slug: "why-veneer-layout-matters-in-veneering"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why veneer layout matters in veneering – composition, structure and control
 
 Before veneering begins, the sheets must be arranged.

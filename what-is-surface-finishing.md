@@ -1,3 +1,18 @@
+---
+title: "What is Surface Finishing"
+slug: "what-is-surface-finishing"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "surface finishing"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is Surface Finishing
 
 Surface finishing refers to the final stage of woodworking in which protective or decorative coatings are applied to wood.

@@ -1,3 +1,19 @@
+---
+title: "What is a Woodworking Chisel"
+slug: "what-is-a-woodworking-chisel"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "chisels"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is a Woodworking Chisel
 
 A woodworking chisel is a cutting tool used to remove wood in a controlled manner.

@@ -1,3 +1,18 @@
+---
+title: "Feedback in Hand Tool Woodworking — Understanding Material Through Tools"
+slug: "feedback-in-hand-tool-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Feedback in Hand Tool Woodworking — Understanding Material Through Tools
 
 One of the aspects of working with hand tools that is often overlooked at the beginning is feedback.

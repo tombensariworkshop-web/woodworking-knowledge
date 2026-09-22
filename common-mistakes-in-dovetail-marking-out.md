@@ -1,3 +1,20 @@
+---
+title: "Common mistakes in dovetail marking out"
+slug: "common-mistakes-in-dovetail-marking-out"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Common mistakes in dovetail marking out
 
 When dovetails do not fit, the instinct is to blame the cut.

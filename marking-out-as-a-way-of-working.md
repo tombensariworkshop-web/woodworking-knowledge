@@ -1,3 +1,18 @@
+---
+title: "Marking Out as a Way of Working"
+slug: "marking-out-as-a-way-of-working"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Marking Out as a Way of Working
 
 Over time, marking out stops being a step in the process. It becomes the process itself.

@@ -1,3 +1,18 @@
+---
+title: "Adhesives in woodworking – control, behavior and structural decisions"
+slug: "adhesives-in-woodworking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "adhesives"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Adhesives in woodworking – control, behavior and structural decisions
 
 Adhesives in woodworking are often treated as a secondary choice.

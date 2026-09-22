@@ -1,3 +1,18 @@
+---
+title: "How Body Position Affects Hand Tool Work"
+slug: "how-body-position-affects-hand-tool-work"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Body Position Affects Hand Tool Work
 
 In hand tool woodworking, body position plays a crucial role in controlling tools and maintaining accuracy. The way a woodworker stands and moves during a task influences both efficiency and precision.

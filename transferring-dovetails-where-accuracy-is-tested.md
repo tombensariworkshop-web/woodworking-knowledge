@@ -1,3 +1,19 @@
+---
+title: "Transferring Dovetails – Where Accuracy Is Tested"
+slug: "transferring-dovetails-where-accuracy-is-tested"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Transferring Dovetails – Where Accuracy Is Tested
 
 There is a moment in dovetail work where everything that was defined during marking out is put to the test. It happens when the layout is transferred from one element to the other.

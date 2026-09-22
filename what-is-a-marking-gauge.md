@@ -1,3 +1,18 @@
+---
+title: "What is a Marking Gauge"
+slug: "what-is-a-marking-gauge"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is a Marking Gauge
 
 A marking gauge is a woodworking tool used to mark precise lines parallel to an edge of a board.

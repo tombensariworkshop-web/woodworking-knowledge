@@ -1,3 +1,19 @@
+---
+title: "What is a dovetail joint"
+slug: "what-is-a-dovetail-joint"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is a dovetail joint
 
 A dovetail joint is one of the fundamental forms of joinery used in furniture making, most commonly in drawers, boxes, and casework. It is defined by a series of interlocking shapes that resist pulling forces, creating a mechanical connection that does not rely only on glue.

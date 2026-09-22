@@ -1,3 +1,18 @@
+---
+title: "How Cutting With the Grain Works"
+slug: "how-cutting-with-the-grain-works"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Cutting With the Grain Works
 
 Grain direction is one of the most important factors in woodworking.

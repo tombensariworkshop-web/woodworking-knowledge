@@ -1,3 +1,18 @@
+---
+title: "Woodworking Workshop vs Online Course Which Is Better"
+slug: "woodworking-workshop-vs-online-course-which-is-better"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 Woodworking workshop vs online course: which is better?
 
 The difference between learning woodworking online and learning it in a workshop is often described in terms of access to knowledge, but in practice that is not where the real distinction lies.

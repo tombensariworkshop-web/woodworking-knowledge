@@ -1,3 +1,21 @@
+---
+title: "Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique"
+slug: "how-to-chisel-dovetail-baselines-and-clean-tails"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+  - "chisels"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique
 
 Hand-cut dovetails are often associated with sawing accuracy, but in practice, the final precision of the joint depends just as much on chiseling the baseline correctly. A poorly established baseline can push the tails away from the socket walls, create gaps, or damage the geometry of the entire joint.

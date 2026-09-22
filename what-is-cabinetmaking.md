@@ -1,3 +1,18 @@
+---
+title: "What Is Cabinetmaking"
+slug: "what-is-cabinetmaking"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Is Cabinetmaking
 
 Cabinetmaking is the branch of woodworking focused on the construction of furniture and precise interior elements.

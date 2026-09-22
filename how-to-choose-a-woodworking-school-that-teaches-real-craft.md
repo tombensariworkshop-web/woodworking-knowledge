@@ -1,3 +1,18 @@
+---
+title: "How to Choose a Woodworking School That Teaches Real Craft"
+slug: "how-to-choose-a-woodworking-school-that-teaches-real-craft"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 #How to choose a woodworking school that teaches real craft
 
 Choosing where to learn woodworking is not a trivial decision. It determines not only what you will learn, but how you will think about the craft in the long term.

@@ -1,3 +1,18 @@
+---
+title: "Why veneered panels need back veneers – balance, stress and structural stability"
+slug: "why-veneered-panels-need-back-veneers"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why veneered panels need back veneers – balance, stress and structural stability
 
 When decorative veneer is applied to one side of a panel, the opposite side is often veneered as well.

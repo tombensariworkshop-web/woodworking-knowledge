@@ -1,3 +1,18 @@
+---
+title: "Wood as a Material in Furniture Making"
+slug: "wood-as-material"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Wood as a Material in Furniture Making
 
 Wood is one of the oldest materials used by humans for constructing tools, buildings and furniture.

@@ -1,3 +1,20 @@
+---
+title: "Why Traditional Woodworkers Still Use Hide Glue"
+slug: "why-traditional-woodworkers-still-use-hide-glue"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "adhesives"
+  - "hide glue"
+  - "woodworking materials"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Traditional Woodworkers Still Use Hide Glue
 
 Hide glue has been used in woodworking and cabinetmaking for centuries. Even though modern synthetic adhesives such as PVA glues are widely available today, many traditional woodworkers continue to use hide glue for specific applications.

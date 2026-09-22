@@ -1,3 +1,19 @@
+---
+title: "How to mark out dovetail joints and why it matters"
+slug: "how-to-mark-out-dovetail-joints-and-why-it-matters"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How to mark out dovetail joints and why it matters
 
 Dovetail joints are often discussed in terms of cutting technique. Saw control, chisel work, and tight fitting joints dominate most explanations.

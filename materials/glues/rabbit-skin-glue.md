@@ -1,3 +1,20 @@
+---
+title: "Rabbit Skin Glue"
+slug: "rabbit-skin-glue"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "adhesives"
+  - "hide glue"
+  - "woodworking materials"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Rabbit Skin Glue
 
 Rabbit skin glue is an adhesive made from collagen extracted from rabbit skins.

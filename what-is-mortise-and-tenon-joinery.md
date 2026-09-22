@@ -1,3 +1,19 @@
+---
+title: "What Is Mortise and Tenon Joinery"
+slug: "what-is-mortise-and-tenon-joinery"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "mortise and tenon"
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What Is Mortise and Tenon Joinery
 
 Mortise and tenon joinery is a method of connecting two pieces of wood by fitting a projecting tenon into a corresponding mortise.

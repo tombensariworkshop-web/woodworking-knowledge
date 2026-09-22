@@ -1,3 +1,19 @@
+---
+title: "Why veneer thickness matters in hammer veneering – flexibility, control and stability"
+slug: "why-veneer-thickness-matters-in-hammer-veneering"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why veneer thickness matters in hammer veneering – flexibility, control and stability
 
 Veneer thickness directly influences how the material behaves during hammer veneering.

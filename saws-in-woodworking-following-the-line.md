@@ -1,3 +1,19 @@
+---
+title: "Saws in Woodworking — Following the Line"
+slug: "saws-in-woodworking-following-the-line"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "saws"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Saws in Woodworking — Following the Line
 
 For a long time, I treated sawing as a purely technical step in the process, something that had to be done before the more refined work could begin. With experience, that perception changed completely.

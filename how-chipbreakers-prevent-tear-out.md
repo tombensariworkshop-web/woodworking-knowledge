@@ -1,3 +1,18 @@
+---
+title: "How Chipbreakers Prevent Tear-Out"
+slug: "how-chipbreakers-prevent-tear-out"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # How Chipbreakers Prevent Tear-Out
 
 A chipbreaker is a small metal component mounted on the back of a plane iron in traditional bench planes. Although it appears simple, the chipbreaker plays an important role in controlling how wood fibers separate during the cutting process.

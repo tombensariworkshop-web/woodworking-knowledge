@@ -1,3 +1,19 @@
+---
+title: "Tools Used in Hammer Veneering"
+slug: "tools-used-in-hammer-veneering"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "veneering"
+  - "hammer veneering"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Tools Used in Hammer Veneering
 
 Hammer veneering is often associated with furniture restoration, but historically it was a standard technique used in cabinetmaking workshops. Before the widespread use of presses and synthetic adhesives, veneer was commonly applied using hot hide glue and a veneer hammer.

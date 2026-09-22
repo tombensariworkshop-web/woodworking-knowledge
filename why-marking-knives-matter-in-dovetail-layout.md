@@ -1,3 +1,20 @@
+---
+title: "Why Marking Knives Matter in Dovetail Layout"
+slug: "why-marking-knives-matter-in-dovetail-layout"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "dovetail joinery"
+  - "joinery"
+  - "marking out"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Why Marking Knives Matter in Dovetail Layout
 
 In hand-cut dovetail joinery, accuracy begins with marking out.

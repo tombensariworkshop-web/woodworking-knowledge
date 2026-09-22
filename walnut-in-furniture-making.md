@@ -1,3 +1,19 @@
+---
+title: "Walnut in Furniture Making"
+slug: "walnut-in-furniture-making"
+content_type: "material-reference"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "furniture making"
+  - "wood species"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # Walnut in Furniture Making
 
 Walnut is a hardwood widely appreciated in furniture making for its rich color and refined grain pattern.

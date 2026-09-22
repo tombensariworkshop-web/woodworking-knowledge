@@ -1,3 +1,18 @@
+---
+title: "What beginners misunderstand about joinery"
+slug: "what-beginners-misunderstand-about-joinery"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What beginners misunderstand about joinery
 
 There is a moment in woodworking that most people recognise very quickly.

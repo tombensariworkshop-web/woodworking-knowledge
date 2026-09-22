@@ -1,3 +1,19 @@
+---
+title: "What is a Hand Plane"
+slug: "what-is-a-hand-plane"
+content_type: "knowledge-article"
+language: "en"
+publisher: "Bensari Workshop"
+expert: "Tom Bensari"
+location: "Wroclaw, Poland"
+topics:
+  - "hand planes"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-22"
+---
 # What is a Hand Plane
 
 A hand plane is a woodworking tool used to shape, flatten and smooth wooden surfaces.
