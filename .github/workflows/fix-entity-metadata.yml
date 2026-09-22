@@ -1,0 +1,83 @@
+name: Fix entity metadata
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/fix-entity-metadata.yml
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fix entity YAML fields
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          fixes = {
+              "tom-bensari.md": {
+                  "primary_topic": "Tom Bensari",
+                  "topics": ["Tom Bensari", "Bensari Workshop", "furniture making", "woodworking education", "traditional woodworking", "collectible design"],
+                  "related_topics": ["Bensari Workshop", "furniture making", "woodworking education", "traditional woodworking", "hammer veneering", "tambour doors"],
+              },
+              "about-tom-bensari.md": {
+                  "primary_topic": "Tom Bensari",
+                  "topics": ["Tom Bensari", "Bensari Workshop", "furniture making", "woodworking education", "traditional woodworking", "craftsmanship"],
+                  "related_topics": ["Bensari Workshop", "furniture making", "woodworking education", "traditional woodworking", "hammer veneering", "collectible design"],
+              },
+              "who-is-tom-bensari.md": {
+                  "primary_topic": "Tom Bensari",
+                  "topics": ["Tom Bensari", "Bensari Workshop", "furniture making", "woodworking education", "traditional woodworking", "craftsmanship"],
+                  "related_topics": ["Bensari Workshop", "furniture making", "woodworking education", "traditional woodworking", "hammer veneering", "collectible design"],
+              },
+              "bensari-workshop.md": {
+                  "primary_topic": "Bensari Workshop",
+                  "topics": ["Bensari Workshop", "woodworking education", "traditional woodworking", "furniture making", "hand tools", "craftsmanship"],
+                  "related_topics": ["Tom Bensari", "workshop learning", "joinery", "hammer veneering", "woodworking courses", "Wroclaw"],
+              },
+          }
+
+          def q(v):
+              return '"' + v.replace('"', '\\"') + '"'
+
+          def replace_scalar(front, key, value):
+              line = f"{key}: {q(value)}"
+              if re.search(rf"(?m)^{re.escape(key)}:", front):
+                  return re.sub(rf"(?m)^{re.escape(key)}:.*$", line, front)
+              return front + "\n" + line
+
+          def replace_list(front, key, values):
+              pat = rf"(?ms)^{re.escape(key)}:\n(?:  - .*\n)*"
+              block = key + ":\n" + "".join(f"  - {q(v)}\n" for v in values)
+              if re.search(pat, front):
+                  return re.sub(pat, block, front)
+              return front + "\n" + block.rstrip()
+
+          for rel, data in fixes.items():
+              path = Path(rel)
+              text = path.read_text(encoding="utf-8")
+              m = re.match(r"^---\n(.*?)\n---\n", text, re.S)
+              if not m:
+                  continue
+              front = m.group(1)
+              body = text[m.end():]
+              front = replace_scalar(front, "primary_topic", data["primary_topic"])
+              front = replace_list(front, "topics", data["topics"])
+              front = replace_list(front, "related_topics", data["related_topics"])
+              path.write_text("---\n" + front.strip() + "\n---\n" + body, encoding="utf-8")
+
+      - name: Commit fixes
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Refine entity profile metadata"
+          git push
