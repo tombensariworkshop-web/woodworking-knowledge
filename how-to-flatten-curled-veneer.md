@@ -1,5 +1,6 @@
 ---
 title: "How to Flatten Curled Veneer"
+description: "Veneer sheets can sometimes become curled or distorted due to changes in humidity."
 slug: "how-to-flatten-curled-veneer"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -57,5 +58,5 @@ Once the veneer lies flat, it can be cut, joined and prepared for the veneering 
 Proper preparation of veneer sheets makes hammer veneering easier and reduces the risk of bubbles or uneven bonding.
 
 Related articles  
-- how-veneers-are-prepared-before-hammer-veneering.md  
-- why-veneer-layout-matters-in-veneering.md
+- [How Veneers Are Prepared Before Hammer Veneering](how-veneers-are-prepared-before-hammer-veneering.md)
+- [Why veneer layout matters in veneering – composition, structure and control](why-veneer-layout-matters-in-veneering.md)

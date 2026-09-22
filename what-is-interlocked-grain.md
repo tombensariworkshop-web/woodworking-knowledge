@@ -1,5 +1,6 @@
 ---
 title: "What Is Interlocked Grain"
+description: "Interlocked grain occurs when wood fibers change direction repeatedly within the structure of the tree."
 slug: "what-is-interlocked-grain"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand planes"
+primary_topic: "wood as material"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -39,4 +40,4 @@ This pattern can make planing difficult because cutting direction changes consta
 Interlocked grain increases the risk of tear-out.
 
 Related article  
-why-wood-tears-out.md
+[Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)

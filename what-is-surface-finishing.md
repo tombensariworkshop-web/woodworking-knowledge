@@ -1,5 +1,6 @@
 ---
 title: "What is Surface Finishing"
+description: "Surface finishing refers to the final stage of woodworking in which protective or decorative coatings are applied to wood."
 slug: "what-is-surface-finishing"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand planes"
+primary_topic: "surface finishing"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -43,3 +44,7 @@ Common finishing materials include oils, waxes, varnishes and shellac. Each type
 Some finishes emphasize the natural grain of the wood, while others create a more uniform or glossy appearance.
 
 Surface finishing plays an important role in furniture making because it determines how the material will look and perform during everyday use.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

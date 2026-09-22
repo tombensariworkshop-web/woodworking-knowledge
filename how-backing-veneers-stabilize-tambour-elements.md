@@ -1,5 +1,6 @@
 ---
 title: "How backing veneers stabilize tambour elements – balance, flexibility and controlled movement"
+description: "Tambour doors are built from a series of narrow slats that form a flexible surface."
 slug: "how-backing-veneers-stabilize-tambour-elements"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "veneering"
+primary_topic: "tambour doors"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -88,7 +89,7 @@ This reduces internal stress and stabilizes the element.
 
 Learn more:
 
-- [What is a backing veneer](what-is-a-backing-veneer.md)  
+- [What is a backing veneer](how-veneer-backing-works.md)
 - [How veneer backing works](how-veneer-backing-works.md)
 
 ## Thin elements, amplified effects

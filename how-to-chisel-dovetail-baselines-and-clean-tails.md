@@ -1,5 +1,6 @@
 ---
 title: "Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique"
+description: "A practical method for chiselling dovetail baselines, removing waste and cleaning tails without damaging the joint's reference line."
 slug: "how-to-chisel-dovetail-baselines-and-clean-tails"
 content_type: "knowledge-article"
 language: "en"
@@ -46,7 +47,7 @@ This article is part of a larger knowledge base on traditional woodworking and f
 
 ---
 
-# Why Baseline Chiseling Matters
+## Why Baseline Chiseling Matters
 
 The baseline determines how tightly the tails and pins meet each other. Even a perfectly sawn dovetail can fail visually if the baseline is crushed, uneven, or slightly angled.
 
@@ -56,7 +57,7 @@ This is why learning how not to use a chisel is often more important than learni
 
 ---
 
-# Choosing Chisels for Dovetail Work
+## Choosing Chisels for Dovetail Work
 
 ## Chisel Width Between the Tails
 
@@ -87,7 +88,7 @@ Usually, “slightly narrower” means around 1–2 mm.
 
 ---
 
-# What Type of Chisel Works Best?
+## What Type of Chisel Works Best?
 
 ## Bevel Angle
 
@@ -137,7 +138,7 @@ For dovetail work, I most often use chisels from Blue Spruce Toolworks because t
 
 ---
 
-# How to Chisel the Baseline
+## How to Chisel the Baseline
 
 Proper baseline work requires:
 - stable positioning,
@@ -196,7 +197,7 @@ This approach allows me to chisel baselines all day without damaging them.
 
 ---
 
-# Chiseling the Outer Baseline Sections
+## Chiseling the Outer Baseline Sections
 
 The outer corners require additional control because multiple surfaces intersect there simultaneously.
 
@@ -222,7 +223,7 @@ At this point the shoulder can be cut safely without risking damage to the surro
 
 ---
 
-# Cleaning the Corners
+## Cleaning the Corners
 
 After baseline work is complete, small corrections are usually still necessary.
 
@@ -242,7 +243,7 @@ From that viewing angle, it becomes very difficult to judge whether the tool is 
 
 ---
 
-# Final Corrections
+## Final Corrections
 
 If the baseline angle was not established correctly during the initial chopping, the remaining “high spot” must be removed.
 
@@ -252,7 +253,7 @@ In wider sockets, I often remove this material by pushing the chisel sideways ra
 
 ---
 
-# Continue the Dovetail Series
+## Continue the Dovetail Series
 
 This article focused on preparing and refining the tails. The next stage is transferring and cutting the corresponding pins.
 
@@ -261,6 +262,10 @@ Related articles:
 - https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 
 Additional woodworking knowledge:
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/school/
 
 This article is part of a larger knowledge base on traditional woodworking and furniture making.
+
+## Related guide
+
+This page is part of the broader [dovetail joinery guide](dovetail-joinery-guide.md).

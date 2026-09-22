@@ -1,5 +1,6 @@
 ---
 title: "What is Moisture Content in Wood"
+description: "Moisture content refers to the amount of water present inside wood relative to its dry weight."
 slug: "what-is-moisture-content-in-wood"
 content_type: "knowledge-article"
 language: "en"
@@ -35,3 +36,7 @@ Furniture makers monitor moisture content to ensure that wood is stable before c
 Wood that is too wet can deform after assembly, while wood that is excessively dry may expand when exposed to higher humidity.
 
 Understanding moisture content helps woodworkers predict how materials will behave during construction and throughout the life of the finished object.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

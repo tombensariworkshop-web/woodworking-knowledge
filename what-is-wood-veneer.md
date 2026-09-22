@@ -1,5 +1,6 @@
 ---
 title: "What Is Wood Veneer"
+description: "Wood veneer is a thin layer of wood, typically less than a few millimeters thick, cut from a log and applied to a stable substrate such as plywood."
 slug: "what-is-wood-veneer"
 content_type: "knowledge-article"
 language: "en"

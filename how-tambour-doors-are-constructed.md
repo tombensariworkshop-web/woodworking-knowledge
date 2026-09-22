@@ -1,5 +1,6 @@
 ---
 title: "How Tambour Doors Are Constructed"
+description: "Tambour doors often look deceptively simple. From the outside they appear to be a wooden surface that slides quietly into the cabinet."
 slug: "how-tambour-doors-are-constructed"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "veneering"
+primary_topic: "tambour doors"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

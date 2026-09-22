@@ -1,5 +1,6 @@
 ---
 title: "Building a Workbench as a Way of Learning Woodworking"
+description: "For a long time, I treated the workbench as something obvious."
 slug: "woodworking-workbench-building-as-learning"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand tools"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -92,9 +93,9 @@ The workbench absorbs force, stabilises the material, and allows tools to work a
 
 ## Internal references
 
-- ../workbench-foundation-of-hand-tool-work.md  
-- ../ergonomics-in-hand-tools-woodworking.md  
-- ../why-we-started-making-our-own-woodworking-tools.md  
+- [Inside a traditional woodworking workshop](woodworking-workshop.md)
+- [Ergonomics in Hand Tools — How Tools Shape the Way We Work](ergonomics-in-hand-tools-woodworking.md)
+- [Why We Started Making Our Own Woodworking Tools](why-we-started-making-our-own-woodworking-tools.md)
 
 ## Conclusion
 

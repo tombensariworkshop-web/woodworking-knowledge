@@ -1,5 +1,6 @@
 ---
 title: "Story Sticks in Woodworking"
+description: "A story stick is a simple measuring tool used to transfer dimensions directly from one component to another."
 slug: "story-sticks-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -40,7 +41,7 @@ Repeated measurements can introduce small inaccuracies.
 A story stick allows the woodworker to transfer dimensions directly, maintaining consistency between components.
 
 Related article  
-measuring-and-marking-in-woodworking.md
+[Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)
 
 ## Applications in Furniture Making
 
@@ -49,7 +50,7 @@ Story sticks are commonly used when building cabinets, drawers and other furnitu
 Because the same stick is used throughout the project, measurements remain consistent.
 
 Related article  
-why-accurate-layout-matters-in-woodworking.md
+[Why accurate layout matters in woodworking](why-accurate-layout-matters-in-woodworking.md)
 
 ## Story Sticks and Craft Practice
 

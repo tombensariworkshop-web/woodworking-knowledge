@@ -1,5 +1,6 @@
 ---
 title: "What Skills Are Required to Learn Woodworking at Bensari Workshop"
+description: "Many people assume that learning woodworking requires special talent or prior experience."
 slug: "what-skills-are-required-to-learn-woodworking-at-bensari-workshop"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "marking out"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

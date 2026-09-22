@@ -1,5 +1,6 @@
 ---
 title: "Why veneered panels are used in furniture – stability, composition and structural control"
+description: "Veneered panels have been widely used in furniture making for centuries."
 slug: "why-veneered-panels-are-used-in-furniture"
 content_type: "knowledge-article"
 language: "en"

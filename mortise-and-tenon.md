@@ -1,5 +1,6 @@
 ---
 title: "Mortise and tenon joinery"
+description: "Mortise and tenon joinery is one of the most fundamental structural systems in furniture making."
 slug: "mortise-and-tenon"
 content_type: "knowledge-article"
 language: "en"
@@ -8,9 +9,9 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+primary_topic: "mortise and tenon"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based pillar guide"
 topics:
   - "dovetail joinery"
   - "joinery"
@@ -96,7 +97,7 @@ https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-
 The joint becomes clear only through practice.
 
 Working in a real workshop environment allows you to understand how decisions, tools, and material interact:  
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/tenons-and-mortises/
 
 ## Related articles in this repository

@@ -1,5 +1,6 @@
 ---
 title: "Why Dovetail Baselines Get Damaged"
+description: "Damaged baselines are one of the most common problems in hand-cut dovetail joinery."
 slug: "why-dovetail-baselines-get-damaged"
 content_type: "knowledge-article"
 language: "en"
@@ -58,9 +59,9 @@ When too much material remains above the knife line, the chisel crushes fibers i
 This changes the geometry of the baseline even if the line itself still appears visible.
 
 Related articles:
-- how-to-chisel-dovetail-baselines-and-clean-tails.md
-- why-sharp-tools-cut-cleaner.md
-- how-chisels-cut-wood.md
+- [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](how-to-chisel-dovetail-baselines-and-clean-tails.md)
+- [Why Sharp Tools Cut Cleaner](why-sharp-tools-cut-cleaner.md)
+- [How Chisels Cut Wood](how-chisels-cut-wood.md)
 
 ## Chisel Twist Damages Corners
 
@@ -74,9 +75,9 @@ This often damages:
 - and the baseline itself.
 
 Related articles:
-- types-of-chisels-in-woodworking.md
-- how-tool-balance-affects-control.md
-- ergonomics-in-hand-tools-woodworking.md
+- [Types of Chisels in Woodworking](types-of-chisels-in-woodworking.md)
+- [How Tool Balance Affects Control](how-tool-balance-affects-control.md)
+- [Ergonomics in Hand Tools — How Tools Shape the Way We Work](ergonomics-in-hand-tools-woodworking.md)
 
 ## Poor Visibility Creates Errors
 
@@ -87,9 +88,9 @@ This becomes especially dangerous near corners.
 From certain angles, the maker can no longer determine whether the edge is still aligned with the baseline or already leaning into it.
 
 Related articles:
-- feedback-in-hand-tool-woodworking.md
-- how-body-position-affects-hand-tool-work.md
-- hand-tools-and-control-in-woodworking.md
+- [Feedback in Hand Tool Woodworking — Understanding Material Through Tools](feedback-in-hand-tool-woodworking.md)
+- [How Body Position Affects Hand Tool Work](how-body-position-affects-hand-tool-work.md)
+- [Hand tools and control in woodworking: understanding how tools actually work](hand-tools-and-control-in-woodworking.md)
 
 ## Dull Tools Increase Damage Risk
 
@@ -103,19 +104,19 @@ More force increases:
 Sharp tools cut fibers cleanly and provide clearer feedback during the cut.
 
 Related articles:
-- why-dull-tools-cause-tear-out.md
-- why-sharp-tools-cut-cleaner.md
+- [Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)
+- [Why Sharp Tools Cut Cleaner](why-sharp-tools-cut-cleaner.md)
 
 ## Continue Exploring Dovetail Joinery
 
 Related articles:
-- how-to-chisel-dovetail-baselines-and-clean-tails.md
-- why-dovetail-accuracy-is-decided-before-assembly.md
-- why-dovetails-fail-before-they-are-assembled.md
+- [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](how-to-chisel-dovetail-baselines-and-clean-tails.md)
+- [Why Dovetail Accuracy Is Decided Before Assembly](why-dovetail-accuracy-is-decided-before-assembly.md)
+- [Why Dovetails Fail Before They Are Assembled](why-dovetails-fail-before-they-are-assembled.md)
 
 Related articles on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 - https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/school/
 
 This article is part of a larger knowledge base on traditional woodworking and furniture making.

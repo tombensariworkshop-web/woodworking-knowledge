@@ -1,5 +1,6 @@
 ---
 title: "What is Bookmatching in Veneering"
+description: "Bookmatching is a veneering technique in which two consecutive sheets of veneer are opened like the pages of a book and placed side by side."
 slug: "what-is-bookmatching-in-veneering"
 content_type: "knowledge-article"
 language: "en"
@@ -38,3 +39,7 @@ Bookmatching is widely used in furniture making to highlight dramatic grain patt
 The technique allows furniture makers to create visually striking surfaces while maintaining efficient use of material.
 
 Bookmatched veneers are commonly seen on tabletops, cabinet fronts and decorative panels.
+
+## Related guide
+
+This page is part of the broader [veneering guide](veneering-in-woodworking.md).

@@ -1,5 +1,6 @@
 ---
 title: "How pressure is controlled in hammer veneering – direction, contact and process control"
+description: "It is a controlled movement that defines how glue and veneer interact."
 slug: "how-pressure-is-controlled-in-hammer-veneering"
 content_type: "knowledge-article"
 language: "en"
@@ -87,7 +88,7 @@ Without this sequence, pressure traps what should be removed.
 
 Learn more:
 
-- how-the-veneer-hammer-actually-works.md  
+- [Veneer Hammer in Traditional Cabinetmaking](veneer-hammer-in-traditional-cabinetmaking.md)
 
 ## Tool angle and control
 
@@ -151,8 +152,8 @@ Controlled pressure creates contact, removes air and defines the final result.
 
 ## Related
 
-- how-air-bubbles-are-avoided-in-hammer-veneering.md  
-- hammer-veneering-in-practice.md  
+- [How air bubbles are avoided in hammer veneering – pressure, glue and sequence](how-air-bubbles-are-avoided-in-hammer-veneering.md)
+- [Hammer veneering in practice – control, glue behavior and real work](hammer-veneering-in-practice.md)
 
 ## Context
 

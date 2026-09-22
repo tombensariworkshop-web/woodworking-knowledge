@@ -1,5 +1,6 @@
 ---
 title: "Hand Planes in Woodworking — Control and Surface"
+description: "Hand planes are often reduced to finishing tools, something you reach for at the very end of the process to make a surface look better."
 slug: "hand-planes-in-woodworking-control-and-surface"
 content_type: "knowledge-article"
 language: "en"
@@ -67,10 +68,10 @@ https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/
 For a broader understanding of how tools work together:
 
 - chisels and precision  
-../chisels-in-woodworking-precision-and-control.md  
+[How Chisels Cut Wood](how-chisels-cut-wood.md)
 
 - workbench and stability  
-../workbench-foundation-of-hand-tool-work.md  
+[Building a Workbench as a Way of Learning Woodworking](woodworking-workbench-building-as-learning.md)
 
 ## Conclusion
 

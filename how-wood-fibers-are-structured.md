@@ -1,5 +1,6 @@
 ---
 title: "How Wood Fibers Are Structured"
+description: "Wood is composed of long tubular cells that run along the grain of the tree."
 slug: "how-wood-fibers-are-structured"
 content_type: "knowledge-article"
 language: "en"
@@ -37,4 +38,4 @@ Wood fibers are arranged in bundles that give wood its strength.
 The orientation of these fibers determines how wood behaves when cut.
 
 Related article  
-how-wood-fibers-behave-during-cutting.md
+[How Wood Fibers Behave During Cutting](how-wood-fibers-behave-during-cutting.md)

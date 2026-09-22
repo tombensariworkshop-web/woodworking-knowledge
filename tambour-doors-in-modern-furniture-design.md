@@ -1,5 +1,6 @@
 ---
 title: "Tambour Doors in Contemporary Furniture Design"
+description: "For many people tambour doors are associated mainly with historical roll-top desks."
 slug: "tambour-doors-in-modern-furniture-design"
 content_type: "knowledge-article"
 language: "en"

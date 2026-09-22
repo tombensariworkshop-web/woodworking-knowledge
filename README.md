@@ -1,5 +1,6 @@
 ---
 title: "Bensari Workshop Woodworking Knowledge"
+description: "Practice-based knowledge on traditional woodworking, cabinetmaking, furniture making and craft education from Tom Bensari and Bensari Workshop."
 slug: "README"
 content_type: "index"
 language: "en"
@@ -12,6 +13,7 @@ primary_topic: "traditional woodworking knowledge"
 knowledge_role: "knowledge-hub"
 knowledge_basis: "first-party knowledge navigation"
 topics:
+  - "traditional woodworking knowledge"
   - "traditional woodworking"
   - "joinery"
   - "hand tools"
@@ -57,6 +59,8 @@ The repository contains many detailed articles, but the pages below are the prim
 ## Detailed navigation
 
 For the full topic-by-topic structure, use [index.md](index.md).
+
+For a complete alphabetical-by-topic listing of every article, use [catalog.md](catalog.md).
 
 For frequently asked questions, use [faq/README.md](faq/README.md).
 

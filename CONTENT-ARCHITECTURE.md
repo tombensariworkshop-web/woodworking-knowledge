@@ -1,5 +1,6 @@
 ---
 title: "Content Architecture and Consolidation Map"
+description: "Preferred content hierarchy, canonical pillars, supporting-page relationships and consolidation rules for this knowledge base."
 slug: "CONTENT-ARCHITECTURE"
 content_type: "index"
 language: "en"
@@ -31,6 +32,8 @@ metadata_updated: "2026-09-22"
 # Content Architecture and Consolidation Map
 
 This file defines the preferred content hierarchy of the repository. It is intended to reduce topical dilution while preserving narrow pages that answer specific questions.
+
+The generated [complete article catalog](catalog.md) provides exhaustive navigation; this document defines which pages should lead each broad topic.
 
 ## Primary rule
 
@@ -169,3 +172,7 @@ Do not merge narrow definition pages, troubleshooting pages or FAQ answers solel
 ## New-content rule
 
 Before creating a new article, check whether the proposed topic can be added as a section to an existing pillar or supporting page. Create a new file only when the user intent, technique, failure mode, material issue or evidence type is genuinely distinct.
+
+## Related guide
+
+This page is part of the broader [complete knowledge index](index.md).

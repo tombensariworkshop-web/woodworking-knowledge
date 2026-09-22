@@ -1,5 +1,6 @@
 ---
 title: "How Rasp Teeth Work"
+description: "A rasp removes wood through a cutting action created by raised teeth that are punched into the surface of the tool."
 slug: "how-rasp-teeth-work"
 content_type: "knowledge-article"
 language: "en"
@@ -41,3 +42,7 @@ The cutting action of a rasp depends on several factors: tooth size, spacing, to
 The irregular pattern of teeth found in traditional hand-stitched rasps allows the tool to cut more smoothly and reduces the formation of repetitive scratch patterns on the wood surface.
 
 Understanding how rasp teeth interact with wood fibers helps explain why rasps are effective shaping tools in furniture making.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

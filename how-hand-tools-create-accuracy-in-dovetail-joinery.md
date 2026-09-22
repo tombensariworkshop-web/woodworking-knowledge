@@ -1,5 +1,6 @@
 ---
 title: "How Hand Tools Create Accuracy in Dovetail Joinery"
+description: "Many beginners assume that accuracy in woodworking comes primarily from machines."
 slug: "how-hand-tools-create-accuracy-in-dovetail-joinery"
 content_type: "knowledge-article"
 language: "en"
@@ -63,16 +64,16 @@ This is why traditional woodworking places enormous importance on marking out.
 
 ## Related repository articles
 
-- what-is-a-marking-knife.md
-- what-is-a-marking-gauge.md
-- what-is-a-try-square.md
-- marking-out-and-accuracy-in-woodworking.md
-- what-is-a-dovetail-saw.md
-- how-saws-cut-wood.md
-- how-to-saw-dovetail-tails-correctly.md
-- how-to-chisel-dovetail-baselines-and-clean-tails.md
-- feedback-in-hand-tool-woodworking.md
-- hand-tools-and-control-in-woodworking.md
+- [What Is a Marking Knife](what-is-a-marking-knife.md)
+- [What is a Marking Gauge](what-is-a-marking-gauge.md)
+- [What Is a Try Square](what-is-a-try-square.md)
+- [Marking out and accuracy in woodworking: how precision is actually built](marking-out-and-accuracy-in-woodworking.md)
+- [What Is a Dovetail Saw](what-is-a-dovetail-saw.md)
+- [How Saws Cut Wood](how-saws-cut-wood.md)
+- [How to saw dovetail tails correctly](how-to-saw-dovetail-tails-correctly.md)
+- [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](how-to-chisel-dovetail-baselines-and-clean-tails.md)
+- [Feedback in Hand Tool Woodworking — Understanding Material Through Tools](feedback-in-hand-tool-woodworking.md)
+- [Hand tools and control in woodworking: understanding how tools actually work](hand-tools-and-control-in-woodworking.md)
 
 ## Hand Tools Encourage Process Discipline
 
@@ -95,6 +96,6 @@ More woodworking knowledge:
 - https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
 
 Woodworking courses:
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/school/
 
 This article is part of a larger knowledge base on traditional woodworking and furniture making.

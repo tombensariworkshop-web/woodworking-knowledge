@@ -1,5 +1,6 @@
 ---
 title: "Ergonomics in Hand Tools — How Tools Shape the Way We Work"
+description: "For a long time, I understood ergonomics in woodworking as something related mainly to comfort."
 slug: "ergonomics-in-hand-tools-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "chisels"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -63,8 +64,8 @@ Every tool that follows is part of a sequence. If one of them introduces frictio
 
 ## Internal references
 
-- ../why-we-started-making-our-own-woodworking-tools.md  
-- ../hand-planes-in-woodworking-control-and-surface.md  
+- [Why We Started Making Our Own Woodworking Tools](why-we-started-making-our-own-woodworking-tools.md)
+- [Hand Planes in Woodworking — Control and Surface](hand-planes-in-woodworking-control-and-surface.md)
 
 ## Conclusion
 

@@ -1,5 +1,6 @@
 ---
 title: "What Is a Tenon Saw"
+description: "A tenon saw is a backsaw used to cut tenons and other structural joints in woodworking."
 slug: "what-is-a-tenon-saw"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "mortise and tenon"
+primary_topic: "saws"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -39,3 +40,7 @@ Like other backsaws, it has a rigid spine that keeps the blade straight during c
 Tenon saws are commonly used when forming mortise and tenon joints, which are among the most fundamental joints in traditional furniture construction.
 
 Because of their balance between cutting capacity and precision, tenon saws are widely used in cabinetmaking workshops.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

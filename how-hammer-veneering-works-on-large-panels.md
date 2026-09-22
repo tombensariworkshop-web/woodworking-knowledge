@@ -1,5 +1,6 @@
 ---
 title: "How Hammer Veneering Works on Large Panels"
+description: "Hammer veneering can be used on both small components and large panels."
 slug: "how-hammer-veneering-works-on-large-panels"
 content_type: "knowledge-article"
 language: "en"
@@ -43,5 +44,5 @@ Because hide glue gels as it cools, each area begins to set as the work progress
 This method allows large veneered panels to be produced without mechanical presses while maintaining direct control over the process.
 
 Related articles  
-- how-the-veneer-hammer-actually-works.md  
-- how-hot-hide-glue-behaves-in-hammer-veneering.md
+- [Veneer Hammer in Traditional Cabinetmaking](veneer-hammer-in-traditional-cabinetmaking.md)
+- materials/glues/hide-glue-in-veneering.md

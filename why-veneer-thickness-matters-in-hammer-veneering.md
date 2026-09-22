@@ -1,5 +1,6 @@
 ---
 title: "Why veneer thickness matters in hammer veneering – flexibility, control and stability"
+description: "Veneer thickness directly influences how the material behaves during hammer veneering."
 slug: "why-veneer-thickness-matters-in-hammer-veneering"
 content_type: "knowledge-article"
 language: "en"

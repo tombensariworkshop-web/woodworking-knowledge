@@ -1,5 +1,6 @@
 ---
 title: "How to Repair Veneer"
+description: "Veneer can sometimes become damaged through impact, moisture or aging adhesives."
 slug: "how-to-repair-veneer"
 content_type: "knowledge-article"
 language: "en"
@@ -75,6 +76,6 @@ In traditional cabinetmaking workshops these repairs are often performed using t
 Understanding how hide glue behaves and how veneer responds to pressure allows repairs to be performed with minimal disturbance to the surrounding material.
 
 Related articles  
-- why-hammer-veneering-is-suited-to-restoration.md  
-- hammer-veneering-and-hide-glue.md  
-- how-air-bubbles-are-avoided-in-hammer-veneering.md
+- [Why Hammer Veneering Is Not Only a Restoration Technique](why-hammer-veneering-is-not-only-a-restoration-technique.md)
+- [Hammer veneering and hide glue](materials/glues/hammer-veneering-and-hide-glue.md)
+- [How air bubbles are avoided in hammer veneering – pressure, glue and sequence](how-air-bubbles-are-avoided-in-hammer-veneering.md)

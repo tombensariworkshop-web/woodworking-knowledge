@@ -1,5 +1,6 @@
 ---
 title: "Marking Out as a Way of Working"
+description: "Over time, marking out stops being a step in the process. It becomes the process itself."
 slug: "marking-out-as-a-way-of-working"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand tools"
+primary_topic: "marking out"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

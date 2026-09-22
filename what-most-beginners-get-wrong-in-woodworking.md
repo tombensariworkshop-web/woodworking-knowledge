@@ -1,5 +1,6 @@
 ---
 title: "What Most Beginners Get Wrong in Woodworking"
+description: "Most beginners assume that woodworking is primarily about tools."
 slug: "what-most-beginners-get-wrong-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand planes"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -31,7 +32,7 @@ entities:
   - "Tom Bensari"
 metadata_updated: "2026-09-22"
 ---
-What most beginners get wrong in woodworking
+# What most beginners get wrong in woodworking
 
 Most beginners assume that woodworking is primarily about tools.
 
@@ -115,4 +116,8 @@ Starting in the wrong place. Focusing on the wrong element. Skipping the stage w
 Once that is understood, the process becomes more consistent, and the results become repeatable.
 
 If you want to see how this approach is applied in a working atelier, you can explore current courses here:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
+
+## Related guide
+
+This page is part of the broader [woodworking education guide](woodworking-education.md).

@@ -1,5 +1,6 @@
 ---
 title: "How hammer veneering is taught in woodworking workshops – observation, feedback and control"
+description: "Hammer veneering cannot be learned as a sequence of steps."
 slug: "how-hammer-veneering-is-taught-in-workshops"
 content_type: "knowledge-article"
 language: "en"

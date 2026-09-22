@@ -1,5 +1,6 @@
 ---
 title: "Mahogany in Furniture Making"
+description: "Mahogany is a hardwood traditionally associated with fine furniture making."
 slug: "mahogany-in-furniture-making"
 content_type: "material-reference"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand tools"
+primary_topic: "wood as material"
 knowledge_role: "reference"
 knowledge_basis: "workshop material reference"
 topics:
@@ -40,3 +41,7 @@ Mahogany has good dimensional stability and works well with both hand tools and 
 Historically, mahogany became one of the most important woods in European cabinetmaking during the eighteenth and nineteenth centuries.
 
 Its combination of workability, stability and visual richness made it a preferred material for high-quality furniture.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

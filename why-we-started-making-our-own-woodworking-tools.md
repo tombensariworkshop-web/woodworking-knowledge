@@ -1,5 +1,6 @@
 ---
 title: "Why We Started Making Our Own Woodworking Tools"
+description: "For a long time, I treated tools as something external to the work."
 slug: "why-we-started-making-our-own-woodworking-tools"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "chisels"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -139,3 +140,7 @@ We did not start making our own tools because we wanted to produce them.
 We started because, at some point, it became the most natural continuation of the work itself.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

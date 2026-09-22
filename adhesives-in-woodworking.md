@@ -1,5 +1,6 @@
 ---
 title: "Adhesives in woodworking – control, behavior and structural decisions"
+description: "Adhesives in woodworking are often treated as a secondary choice."
 slug: "adhesives-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,9 +9,9 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+primary_topic: "adhesives"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based pillar guide"
 topics:
   - "hammer veneering"
   - "veneering"
@@ -155,7 +156,7 @@ Treating glue as part of the structure changes how woodworking is approached.
 
 ## Related
 
-- [Choosing glue for veneering and lamination](choosing-glue-for-veneering-and-lamination.md)
+- [Choosing glue for veneering and lamination](choosing-glue-for-veneering-and-lamination-control-creep-and-long-term-stability.md)
 
 ## Related topics:
 

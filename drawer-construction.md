@@ -1,5 +1,6 @@
 ---
 title: "Drawer construction in woodworking"
+description: "Drawer construction is often reduced to the choice of joinery. In practice, it is a broader system that combines structure, material behavior, and accuracy."
 slug: "drawer-construction"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "joinery"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

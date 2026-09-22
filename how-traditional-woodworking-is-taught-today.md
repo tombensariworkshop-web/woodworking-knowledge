@@ -1,5 +1,6 @@
 ---
 title: "How Traditional Woodworking Is Taught Today"
+description: "Learning woodworking has always been closely connected with practice."
 slug: "how-traditional-woodworking-is-taught-today"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand planes"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -51,7 +52,7 @@ Many contemporary woodworking environments rely primarily on machines. While mac
 
 Hand planes, chisels, marking gauges and scrapers allow woodworkers to work directly with the material and develop a deeper awareness of grain direction, surface quality and structural precision.
 
-Our workshop is one of the few places in Poland where hand tools are part of everyday woodworking practice. These tools are not treated as historical artifacts, but as active instruments used daily in furniture making.
+At Bensari Workshop, hand tools are part of everyday woodworking practice. They are not treated as historical artifacts, but as active instruments used in furniture making and teaching.
 
 Working with hand tools allows participants to understand woodworking as a process of control, observation and refinement rather than simply material removal.
 
@@ -74,3 +75,7 @@ Many of the methods explored during the courses are also used in the daily work 
 This connection between education and professional practice allows participants to see how traditional woodworking knowledge continues to function in contemporary craft environments.
 
 In this way woodworking education becomes more than a technical training process. It becomes an introduction to the broader culture of craft, where historical techniques, material understanding and contemporary design practice meet.
+
+## Related guide
+
+This page is part of the broader [woodworking education guide](woodworking-education.md).

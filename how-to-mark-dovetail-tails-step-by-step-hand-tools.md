@@ -1,5 +1,6 @@
 ---
 title: "How to mark dovetail tails step by step with hand tools?"
+description: "Marking dovetail tails is the stage where the geometry of the joint is defined."
 slug: "how-to-mark-dovetail-tails-step-by-step-hand-tools"
 content_type: "knowledge-article"
 language: "en"

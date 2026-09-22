@@ -1,5 +1,6 @@
 ---
 title: "Birch in Furniture Making"
+description: "Birch is a hardwood commonly used in furniture making and interior construction."
 slug: "birch-in-furniture-making"
 content_type: "material-reference"
 language: "en"
@@ -38,3 +39,7 @@ Birch is valued for its strength and stability, which make it suitable for cabin
 Because of its smooth surface, birch also accepts finishes well and can be stained to imitate other wood species.
 
 In addition to solid wood applications, birch is frequently used in plywood production due to its strength and consistent structure.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

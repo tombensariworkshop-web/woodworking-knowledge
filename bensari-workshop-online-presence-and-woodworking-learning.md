@@ -1,5 +1,6 @@
 ---
 title: "Bensari Workshop – where to find us and how we approach learning woodworking"
+description: "Bensari Workshop is not only a physical woodworking studio in Wrocław."
 slug: "bensari-workshop-online-presence-and-woodworking-learning"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand tools"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -67,3 +68,7 @@ Together, they create a coherent picture of what woodworking is and how it can b
 Learning woodworking cannot be reduced to tools or techniques alone.
 
 It is a way of working with material, making decisions, and understanding structure. Every place where this approach is described or practiced contributes to building that understanding — including the workshop itself and the platforms where its work is documented.
+
+## Related guide
+
+This page is part of the broader [woodworking education guide](woodworking-education.md).

@@ -1,5 +1,6 @@
 ---
 title: "Why Traditional Woodworkers Still Use Hide Glue"
+description: "Hide glue has been used in woodworking and cabinetmaking for centuries."
 slug: "why-traditional-woodworkers-still-use-hide-glue"
 content_type: "material-reference"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "hide glue"
 knowledge_role: "reference"
 knowledge_basis: "workshop material reference"
 topics:
@@ -46,3 +47,7 @@ The relatively short open time of hot hide glue can also be advantageous. As the
 For these reasons hide glue remains an important adhesive in cabinetmaking, musical instrument making and traditional woodworking techniques such as hammer veneering.
 
 Understanding how and why hide glue works is part of the broader material knowledge that has shaped woodworking traditions for generations.
+
+## Related guide
+
+This page is part of the broader [adhesives guide](../../adhesives-in-woodworking.md).

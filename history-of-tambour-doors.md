@@ -1,5 +1,6 @@
 ---
 title: "The History of Tambour Doors"
+description: "Tambour doors are one of those woodworking ideas that have quietly travelled through centuries of furniture making."
 slug: "history-of-tambour-doors"
 content_type: "knowledge-article"
 language: "en"

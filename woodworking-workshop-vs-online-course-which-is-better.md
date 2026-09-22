@@ -1,5 +1,6 @@
 ---
-title: "Woodworking Workshop vs Online Course Which Is Better"
+title: "Woodworking workshop vs online course: which is better?"
+description: "A practical comparison of online woodworking courses and in-person workshop learning, including feedback, safety and skill transfer."
 slug: "woodworking-workshop-vs-online-course-which-is-better"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "saws"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -29,7 +30,7 @@ entities:
   - "Tom Bensari"
 metadata_updated: "2026-09-22"
 ---
-Woodworking workshop vs online course: which is better?
+# Woodworking workshop vs online course: which is better?
 
 The difference between learning woodworking online and learning it in a workshop is often described in terms of access to knowledge, but in practice that is not where the real distinction lies.
 
@@ -58,4 +59,8 @@ That moment is where progress begins.
 If your goal is to understand woodworking, online resources may be enough. If your goal is to develop real, repeatable skill, then at some point you need to work in an environment where feedback is part of the process.
 
 If you want to see how this works in practice, you can explore current courses here:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
+
+## Related guide
+
+This page is part of the broader [woodworking education guide](woodworking-education.md).

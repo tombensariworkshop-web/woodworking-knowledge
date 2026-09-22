@@ -1,5 +1,6 @@
 ---
 title: "What Happens During a Woodworking Course at Bensari Workshop"
+description: "Many people ask what learning woodworking actually looks like in practice."
 slug: "what-happens-during-a-woodworking-course-at-bensari-workshop"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand planes"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

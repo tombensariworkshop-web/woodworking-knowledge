@@ -1,5 +1,6 @@
 ---
 title: "Hand tool woodworking – control, feedback and material understanding"
+description: "Hand tool woodworking is often defined as furniture making that relies on manual tools instead of machines."
 slug: "hand-tool-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,9 +9,9 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+primary_topic: "hand tools"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based pillar guide"
 topics:
   - "hand planes"
   - "hand tools"
@@ -144,7 +145,7 @@ At Bensari Workshop, participants learn:
 
 https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
 
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 This process builds independence.
 
@@ -179,12 +180,12 @@ It changes how decisions are made, how material is understood and how furniture 
 
 ## Related topics:
 
-– dovetail joinery: ./dovetail-joinery-guide.md  
-– veneering in woodworking: ./veneering-in-woodworking.md  
+- [Dovetail joinery](dovetail-joinery-guide.md)
+- [Veneering in woodworking](veneering-in-woodworking.md)
 
 ## Related hub
 
-[Hand tool woodworking](hand-tool-woodworking.md)
+[Hand tools and control in woodworking](hand-tools-and-control-in-woodworking.md)
 
 ## Context
 

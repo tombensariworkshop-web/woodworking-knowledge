@@ -1,5 +1,6 @@
 ---
 title: "Scraping vs Sanding in Woodworking"
+description: "Scraping and sanding are two common methods used to refine wooden surfaces before finishing."
 slug: "scraping-vs-sanding"
 content_type: "knowledge-article"
 language: "en"
@@ -8,10 +9,11 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "wood as material"
+primary_topic: "surface preparation"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "surface preparation"
   - "wood as material"
   - "surface finishing"
 related_topics:
@@ -39,3 +41,7 @@ Because scraping cuts the fibers rather than tearing them, it often produces a c
 Sanding can be useful for blending surfaces or preparing areas where complex shapes make scraping difficult.
 
 Many furniture makers combine both techniques to achieve the desired surface quality.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

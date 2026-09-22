@@ -1,5 +1,6 @@
 ---
 title: "Furniture design and craftsmanship – where decisions become structure"
+description: "Furniture design is often described as a balance between creativity and function."
 slug: "furniture-design-and-craft"
 content_type: "knowledge-article"
 language: "en"
@@ -8,10 +9,11 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+primary_topic: "furniture design and craft"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based pillar guide"
 topics:
+  - "furniture design and craft"
   - "dovetail joinery"
   - "joinery"
   - "marking out"
@@ -124,7 +126,7 @@ It is part of the making process.
 
 Participants work with real materials and real structures. They see how design decisions translate into joints, surfaces and final objects.
 
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 This connection between thinking and making is essential.
 

@@ -1,5 +1,6 @@
 ---
 title: "What Is Furniture Making"
+description: "Furniture making is the process of designing and constructing objects that combine function, structure and material."
 slug: "what-is-furniture-making"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "furniture making"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

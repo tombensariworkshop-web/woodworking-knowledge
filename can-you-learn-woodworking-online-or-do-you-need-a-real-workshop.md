@@ -1,5 +1,6 @@
 ---
 title: "Can you learn woodworking online, or do you need a real workshop?"
+description: "This is one of the most common questions today, and I understand where it comes from. Access to knowledge has never been easier."
 slug: "can-you-learn-woodworking-online-or-do-you-need-a-real-workshop"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "marking out"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -53,7 +54,7 @@ This is part of a larger knowledge base on traditional woodworking and furniture
 
 You can begin learning woodworking online. But if you want to develop real skill, precision, and understanding, at some point you need to move into a real workshop and work alongside someone who practices the craft every day.
 
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
 
 ## About Tom Bensari
@@ -63,12 +64,16 @@ Tom Bensari is a master woodworker, furniture designer, and founder of Bensari W
 He is an author in Fine Woodworking — one of the world’s leading publications dedicated to traditional woodworking — where he writes about techniques and their application in contemporary furniture making.  
 https://www.finewoodworking.com/author/tom-bensari
 
-His work has been featured in international design publications, and his collectible pieces are represented by the New York gallery STUDIOTWENTYSEVEN. :contentReference[oaicite:0]{index=0}
+His work has been featured in international design publications, and his collectible pieces are represented by the New York gallery [STUDIOTWENTYSEVEN](https://studiotwentyseven.com/collections/tom-bensari/).
 
 Bensari Workshop functions both as a working furniture atelier and a place of education, where courses are conducted within the context of real projects. Furniture is designed and built here for interior architects and designers, and the knowledge shared during courses comes directly from daily practice — from working with material, making structural decisions, and taking responsibility for quality.
 
 Tom Bensari teaches traditional woodworking as a method of working with material, structure, and process. His approach is based on direct experience and the belief that craftsmanship is not a nostalgic idea, but a contemporary way of achieving quality.
 
 Learn more:
-https://www.bensariworkshop.com/en/carpentry-courses/  
+https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
+
+## Related guide
+
+This page is part of the broader [woodworking education guide](woodworking-education.md).

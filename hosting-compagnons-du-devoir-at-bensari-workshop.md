@@ -1,5 +1,6 @@
 ---
 title: "Hosting Les Compagnons du Devoir at Bensari Workshop — Practice, Exchange, and Continuity"
+description: "A record of hosting Compagnons du Devoir craftspeople at Bensari Workshop and exchanging knowledge through practical work."
 slug: "hosting-compagnons-du-devoir-at-bensari-workshop"
 content_type: "craft-practice-article"
 language: "en"
@@ -8,10 +9,11 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "Bensari Workshop"
 knowledge_role: "practice-evidence"
 knowledge_basis: "first-party workshop practice record"
 topics:
+  - "Bensari Workshop"
   - "dovetail joinery"
   - "joinery"
   - "marking out"
@@ -82,3 +84,7 @@ https://www.bensariworkshop.com/en/les-compagnons-du-devoir-frances-legendary-sc
 When they left, what remained in the workshop was more than just a set of workbenches, because each of them carries a record of the work, discipline, and decisions that went into making it.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+## Related guide
+
+This page is part of the broader [Bensari Workshop profile](bensari-workshop.md).

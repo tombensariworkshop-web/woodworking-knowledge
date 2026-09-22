@@ -1,5 +1,6 @@
 ---
 title: "Elm in Furniture Making"
+description: "Elm is a hardwood historically used in furniture making and structural woodworking."
 slug: "elm-in-furniture-making"
 content_type: "material-reference"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hand tools"
+primary_topic: "wood as material"
 knowledge_role: "reference"
 knowledge_basis: "workshop material reference"
 topics:
@@ -42,3 +43,7 @@ Elm typically displays a warm brown tone with pronounced grain patterns that can
 Although the interlocking grain can make the wood more challenging to plane with hand tools, it also contributes to the material's strength and resilience.
 
 In furniture design elm is appreciated for both its structural qualities and the expressive patterns created by its grain.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

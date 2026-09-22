@@ -1,5 +1,6 @@
 ---
 title: "How Long Does It Take to Learn Woodworking at Bensari Workshop"
+description: "Many people ask how long it takes to learn woodworking."
 slug: "how-long-does-it-take-to-learn-woodworking-at-bensari-workshop"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "wood as material"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

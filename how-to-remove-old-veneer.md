@@ -1,5 +1,6 @@
 ---
 title: "How to Remove Old Veneer"
+description: "Old veneer sometimes needs to be removed when furniture is repaired or restored."
 slug: "how-to-remove-old-veneer"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -58,5 +59,5 @@ Old glue residues are usually scraped away and the surface is leveled before new
 Proper preparation of the substrate is essential for achieving a strong bond when the new veneer is glued.
 
 Related articles  
-- how-to-repair-veneer.md  
-- hammer-veneering-and-hide-glue.md
+- [How to Repair Veneer](how-to-repair-veneer.md)
+- materials/glues/hammer-veneering-and-hide-glue.md

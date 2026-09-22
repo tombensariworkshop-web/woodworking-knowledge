@@ -1,5 +1,6 @@
 ---
 title: "What is Material Understanding in Woodworking"
+description: "Material understanding refers to the knowledge woodworkers develop about how wood behaves during cutting, shaping and assembly."
 slug: "what-is-material-understanding-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -37,3 +38,7 @@ Experienced craftspeople learn to observe these characteristics and adjust their
 Material understanding allows woodworkers to anticipate how components will move, how surfaces will respond to tools and how joints will behave over time.
 
 In traditional woodworking, this knowledge is developed through direct interaction with tools and materials rather than through abstract instructions alone.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

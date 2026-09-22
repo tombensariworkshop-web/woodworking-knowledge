@@ -1,5 +1,6 @@
 ---
 title: "Why veneer layout matters in veneering – composition, structure and control"
+description: "Before veneering begins, the sheets must be arranged."
 slug: "why-veneer-layout-matters-in-veneering"
 content_type: "knowledge-article"
 language: "en"

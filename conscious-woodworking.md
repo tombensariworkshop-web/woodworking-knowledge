@@ -1,5 +1,6 @@
 ---
 title: "Conscious woodworking"
+description: "Conscious woodworking is not about choosing between hand tools and machines. It is about understanding when and why to use each of them."
 slug: "conscious-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,10 +9,11 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "furniture making"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "furniture making"
   - "dovetail joinery"
   - "joinery"
   - "marking out"
@@ -106,7 +108,7 @@ This approach develops through practice.
 It requires exposure to different tools, different techniques, and real workshop conditions where decisions matter.
 
 At Bensari Workshop, woodworking is taught as a complete process:
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Context
 

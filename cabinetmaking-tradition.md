@@ -1,5 +1,6 @@
 ---
 title: "The tradition of cabinetmaking – method, not history"
+description: "Cabinetmaking is often described as a branch of woodworking focused on fine furniture."
 slug: "cabinetmaking-tradition"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "furniture making"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -107,7 +108,7 @@ It is practiced daily.
 
 Furniture is designed and built for real projects, and the same methods are used during courses. Participants do not learn isolated techniques. They see how decisions are made, how elements are connected, and how structure emerges from the process.
 
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 This connection between making and teaching is essential.
 

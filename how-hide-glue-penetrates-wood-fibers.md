@@ -1,5 +1,6 @@
 ---
 title: "How Hide Glue Penetrates Wood Fibers"
+description: "Hide glue forms strong bonds with wood partly because of how it interacts with the cellular structure of the material."
 slug: "how-hide-glue-penetrates-wood-fibers"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "hide glue"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -56,5 +57,5 @@ This interaction between hide glue and wood fibers is one reason why traditional
 The thin glue line formed during hammer veneering allows the adhesive to penetrate the surface while still maintaining a rigid bond between veneer and substrate.
 
 Related articles  
-- hammer-veneering-and-hide-glue.md  
-- how-hot-hide-glue-behaves-in-hammer-veneering.md
+- [Hammer veneering and hide glue](materials/glues/hammer-veneering-and-hide-glue.md)
+- materials/glues/hide-glue-in-veneering.md

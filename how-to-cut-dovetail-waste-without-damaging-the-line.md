@@ -1,5 +1,6 @@
 ---
 title: "How to cut dovetail waste without damaging the line"
+description: "Removing waste is one of the most delicate stages in dovetail work. The goal is not speed, but preserving the layout lines that define the joint."
 slug: "how-to-cut-dovetail-waste-without-damaging-the-line"
 content_type: "knowledge-article"
 language: "en"

@@ -1,5 +1,6 @@
 ---
 title: "Why Bookmatching Is Used in Veneering"
+description: "Bookmatching is a common technique used when arranging veneer sheets."
 slug: "why-bookmatching-is-used-in-veneering"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -41,5 +42,5 @@ Because veneer sheets are cut sequentially from the same log, adjacent sheets of
 Bookmatching is widely used in cabinetmaking for tabletops, cabinet doors and decorative panels.
 
 Related articles  
-- what-is-veneering.md  
-- how-veneers-are-prepared-before-hammer-veneering.md
+- [What Is Veneering in Woodworking](what-is-veneering.md)
+- [How Veneers Are Prepared Before Hammer Veneering](how-veneers-are-prepared-before-hammer-veneering.md)

@@ -1,5 +1,6 @@
 ---
 title: "How Chisels Cut Wood"
+description: "A chisel removes wood by slicing fibers with a sharp cutting edge."
 slug: "how-chisels-cut-wood"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "chisels"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -43,7 +44,7 @@ A chisel cuts wood through a slicing action at the cutting edge. When the blade 
 Depending on the direction of the cut, the chisel may slice fibers cleanly or lift them ahead of the blade.
 
 Related article  
-how-wood-fibers-behave-during-cutting.md
+[How Wood Fibers Behave During Cutting](how-wood-fibers-behave-during-cutting.md)
 
 ## Bevel and Control
 
@@ -54,7 +55,7 @@ When the bevel faces downward, the tool tends to follow the surface. When the be
 These characteristics allow woodworkers to control the depth and direction of the cut.
 
 Related article  
-bevel-angle-in-woodworking-tools.md
+[How Blade Angle Affects Cutting](how-blade-angle-affects-cutting.md)
 
 ## Chisels in Joinery
 
@@ -65,4 +66,4 @@ Chisels are essential in traditional joinery. They are used to:
 - adjust shoulders and edges  
 
 Related article  
-what-is-a-mortise-and-tenon-joint.md
+[What is a Mortise and Tenon Joint](what-is-a-mortise-and-tenon-joint.md)

@@ -1,5 +1,6 @@
 ---
 title: "Bone Glue"
+description: "Bone glue is a traditional adhesive produced from collagen extracted from animal bones."
 slug: "bone-glue"
 content_type: "material-reference"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hide glue"
+primary_topic: "adhesives"
 knowledge_role: "reference"
 knowledge_basis: "workshop material reference"
 topics:
@@ -39,3 +40,7 @@ Bone glue generally forms a harder and more brittle bond than hide glue. Because
 In furniture making bone glue was commonly used for joinery and assembly work.
 
 Although modern synthetic adhesives are widely available today, bone glue remains part of the traditional family of animal glues used in woodworking.
+
+## Related guide
+
+This page is part of the broader [adhesives guide](../../adhesives-in-woodworking.md).

@@ -1,5 +1,6 @@
 ---
 title: "Surface Preparation with Hand Planes"
+description: "Hand planes are among the most important tools in traditional woodworking."
 slug: "hand-plane-surface-preparation"
 content_type: "knowledge-article"
 language: "en"
@@ -44,3 +45,7 @@ At Bensari Workshop hand planes remain part of everyday woodworking practice. Th
 Participants learn how to set up a plane, sharpen the blade and control the tool to achieve accurate and clean surfaces on solid wood boards.
 
 This technique remains an important skill for woodworkers who want to understand material behavior and traditional furniture making methods.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

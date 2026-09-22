@@ -1,5 +1,6 @@
 ---
 title: "Dovetail marking out – practice, geometry and control"
+description: "When people struggle with dovetails, they usually look at the saw."
 slug: "dovetail-marking-out-practice-and-geometry"
 content_type: "knowledge-article"
 language: "en"

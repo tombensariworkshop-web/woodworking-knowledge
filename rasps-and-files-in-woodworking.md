@@ -1,5 +1,6 @@
 ---
 title: "Rasps and Files in Woodworking"
+description: "Rasps and files are shaping tools used to remove material and refine surfaces in woodworking."
 slug: "rasps-and-files-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "chisels"
+primary_topic: "rasps and files"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -78,6 +79,10 @@ This staged approach reflects a broader principle in traditional woodworking: sh
 
 Although modern workshops frequently use machines for shaping operations, rasps and files remain important tools in many craft environments.
 
-Our workshop is one of the few places in Poland where hand tools are part of everyday woodworking practice. Rasps, files, planes and chisels are used daily when shaping furniture components and refining details.
+At Bensari Workshop, hand tools are part of everyday woodworking practice. Rasps, files, planes and chisels are used when shaping furniture components and refining details.
 
 At Bensari Workshop, participants in woodworking courses learn how these tools work while building real furniture elements. Through this process they discover how simple hand tools can provide precise control over the form of a wooden object.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

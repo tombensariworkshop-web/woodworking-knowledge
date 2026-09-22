@@ -1,5 +1,6 @@
 ---
 title: "Reference edges in woodworking – where accuracy is built"
+description: "In woodworking, accuracy is often associated with measurement, but in practice it depends much more on consistency."
 slug: "reference-edges-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "marking out"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

@@ -1,5 +1,6 @@
 ---
 title: "Why Tambour Doors Bind — and How We Prevent It"
+description: "One of the most common problems with tambour doors is binding."
 slug: "why-tambour-doors-bind"
 content_type: "knowledge-article"
 language: "en"

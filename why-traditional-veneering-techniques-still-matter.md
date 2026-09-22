@@ -1,5 +1,6 @@
 ---
 title: "Why traditional veneering techniques still matter – control, reversibility and material behavior"
+description: "Traditional veneering techniques are often described as part of historical cabinetmaking."
 slug: "why-traditional-veneering-techniques-still-matter"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -102,7 +103,7 @@ This level of responsiveness is difficult to achieve in closed pressing systems.
 Explore further:
 
 - [Hammer veneering in practice](hammer-veneering-in-practice.md)  
-- [Hammer veneering and hide glue](hammer-veneering-and-hide-glue.md)  
+- [Hammer veneering and hide glue](materials/glues/hammer-veneering-and-hide-glue.md)
 - [What is veneering](what-is-veneering.md)  
 
 ## Continuity instead of nostalgia

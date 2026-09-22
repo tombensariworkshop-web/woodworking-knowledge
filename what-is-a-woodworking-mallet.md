@@ -1,5 +1,6 @@
 ---
 title: "What Is a Woodworking Mallet"
+description: "A woodworking mallet is a striking tool used to drive chisels and assemble wooden joints."
 slug: "what-is-a-woodworking-mallet"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "chisels"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -34,3 +35,7 @@ Unlike metal hammers, mallets are typically made from wood or other relatively s
 Woodworkers use mallets when cutting joinery, assembling frames and adjusting components during fitting.
 
 Because chisels often require controlled striking force, the mallet is considered a basic tool in traditional woodworking.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

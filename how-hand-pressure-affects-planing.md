@@ -1,5 +1,6 @@
 ---
 title: "How Hand Pressure Affects Planing"
+description: "Hand planes remove wood by slicing thin shavings from the surface of a board."
 slug: "how-hand-pressure-affects-planing"
 content_type: "knowledge-article"
 language: "en"
@@ -53,7 +54,7 @@ If too much pressure is applied at the rear of the plane at the beginning of the
 Learning to shift pressure smoothly during the stroke helps maintain flat, even surfaces.
 
 Related article  
-how-hand-planes-cut-wood.md
+[How hand planes cut wood](how-hand-planes-cut-wood.md)
 
 ## Tool Feedback
 
@@ -64,4 +65,4 @@ This feedback allows adjustments to be made during the cut, improving accuracy a
 Understanding how pressure affects planing is therefore an important part of developing skill with hand tools.
 
 Related article  
-why-hand-tools-still-matter-in-woodworking.md
+[Why hand tools still matter in woodworking](why-hand-tools-still-matter-in-woodworking.md)

@@ -1,5 +1,6 @@
 ---
 title: "Gel Strength in Hide Glue"
+description: "Gel strength is one of the most important characteristics used to classify hide glue."
 slug: "gel-strength-in-hide-glue"
 content_type: "material-reference"
 language: "en"
@@ -41,3 +42,7 @@ Glues with higher gel strength typically produce stronger and harder adhesive jo
 Traditional hide glues used in woodworking often range between approximately 192 g and 315 g gel strength.
 
 Understanding gel strength helps woodworkers choose the appropriate glue for different cabinetmaking techniques.
+
+## Related guide
+
+This page is part of the broader [adhesives guide](../../adhesives-in-woodworking.md).

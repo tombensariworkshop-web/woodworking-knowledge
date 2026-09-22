@@ -1,5 +1,6 @@
 ---
 title: "Dovetail Joinery in Furniture Making – Structure, Not Detail"
+description: "This article explains the structural role of dovetails within furniture."
 slug: "dovetail-joint"
 content_type: "knowledge-article"
 language: "en"
@@ -30,6 +31,10 @@ entities:
 metadata_updated: "2026-09-22"
 ---
 # Dovetail Joinery in Furniture Making – Structure, Not Detail
+
+## Scope
+
+This article explains the structural role of dovetails within furniture. For the canonical process from layout through fitting, use the [Dovetail joinery practical guide](dovetail-joinery-guide.md).
 
 The dovetail joint is often recognized by its shape.
 
@@ -72,8 +77,7 @@ The saw and chisel usually do not create the problem.
 
 They only reveal it later.
 
-I describe this process in detail here:
-- https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+The process is described in the [Bensari Workshop guide to dovetail layout](https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/).
 
 ## Cutting as Continuation
 
@@ -85,8 +89,7 @@ Cutting does not create accuracy.
 
 It follows it.
 
-The saw simply translates the decisions made during marking out into the material:
-- https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
+The saw translates the decisions made during marking out into the material. See [cutting dovetail tails step by step](https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/).
 
 A dovetail saw does not automatically create precision.
 
@@ -108,8 +111,7 @@ This stage determines how the tails and pins will actually meet during assembly.
 
 Compressed fibers, poor chisel control or damaged corners may prevent the joint from closing properly even if the saw cuts appear accurate.
 
-Related article:
-- https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
+Related article: [chiselling the baseline in dovetail joints](https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/).
 
 ## Transfer and Fit
 
@@ -119,8 +121,7 @@ This is where accuracy becomes visible.
 
 If the geometry is consistent, the joint fits naturally. If not, small deviations accumulate and become impossible to ignore.
 
-This is also where many failures originate:
-- why-dovetail-joints-fail-and-open-up.md
+This is also where many failures become visible. See [why dovetail joints fail and open up](why-dovetail-joints-fail-and-open-up.md).
 
 ## Not a Technique, but a System
 
@@ -157,8 +158,9 @@ Participants work with real components, not exercises, and they see how the join
 They learn not only how to cut dovetails, but how decisions made earlier determine the result.
 
 Woodworking courses:
-- https://www.bensariworkshop.com/en/dovetails/
-- https://www.bensariworkshop.com/en/carpentry-courses/
+
+- [Dovetail course](https://www.bensariworkshop.com/en/dovetails/)
+- [All woodworking courses](https://www.bensariworkshop.com/en/school/)
 
 ## Why Dovetails Still Matter
 
@@ -184,22 +186,24 @@ It is defined before it begins.
 
 ## Internal Links
 
-- dovetail-marking-out-practice-and-geometry.md
-- common-mistakes-in-dovetail-marking-out.md
-- why-marking-out-determines-the-result-in-woodworking.md
-- tools-used-for-dovetails.md
-- why-dovetail-accuracy-is-decided-before-assembly.md
-- why-dovetails-fail-before-they-are-assembled.md
-- how-hand-tools-create-accuracy-in-dovetail-joinery.md
-- dovetails-are-about-control-not-decoration.md
+- [Dovetail marking out: practice and geometry](dovetail-marking-out-practice-and-geometry.md)
+- [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)
+- [Why marking out determines the result](why-marking-out-determines-the-result-in-woodworking.md)
+- [Tools used for dovetails](tools-used-for-dovetails.md)
+- [Why dovetail accuracy is decided before assembly](why-dovetail-accuracy-is-decided-before-assembly.md)
+- [Why dovetails fail before assembly](why-dovetails-fail-before-they-are-assembled.md)
+- [How hand tools create accuracy in dovetail joinery](how-hand-tools-create-accuracy-in-dovetail-joinery.md)
+- [Dovetails are about control, not decoration](dovetails-are-about-control-not-decoration.md)
 
 ## Related Hub
 
-- dovetail-knowledge-map.md
-- dovetail-joinery-guide.md
+- [Dovetail knowledge map](dovetail-knowledge-map.md)
+- [Dovetail joinery guide](dovetail-joinery-guide.md)
 
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
+
+Last reviewed: September 2026.

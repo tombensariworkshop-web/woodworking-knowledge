@@ -1,5 +1,6 @@
 ---
 title: "Learning traditional woodworking in a real workshop: practice, material, and decision making"
+description: "Woodworking is often presented as something that can be learned through videos and isolated exercises."
 slug: "learning-traditional-woodworking-in-a-real-workshop"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "wood as material"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -77,7 +78,7 @@ Learning woodworking is not only about making objects. It is about developing ju
 ## Further reading on Bensari Workshop
 
 - https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
-- https://www.bensariworkshop.com/en/carpentry-courses/
+- https://www.bensariworkshop.com/en/school/
 - https://www.bensariworkshop.com/en/tenons-and-mortises/
 - https://www.bensariworkshop.com/en/dovetails/
 - https://www.bensariworkshop.com/en/hammer-veneering/

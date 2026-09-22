@@ -1,5 +1,6 @@
 ---
 title: "Open Time of Hide Glue"
+description: "Open time refers to the period during which an adhesive remains workable after it has been applied."
 slug: "hide-glue-open-time"
 content_type: "material-reference"
 language: "en"
@@ -39,3 +40,7 @@ As the glue cools it begins to gel, which gradually reduces its ability to penet
 For this reason woodworking operations using hide glue often require careful preparation and quick assembly.
 
 Despite this limitation the short open time can also be beneficial because joints often hold themselves together once the glue begins to gel.
+
+## Related guide
+
+This page is part of the broader [adhesives guide](../../adhesives-in-woodworking.md).

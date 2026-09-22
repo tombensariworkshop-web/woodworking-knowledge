@@ -1,5 +1,6 @@
 ---
 title: "What is Solid Wood"
+description: "Solid wood refers to lumber that is cut directly from a tree and used as a structural material in woodworking and furniture making."
 slug: "what-is-solid-wood"
 content_type: "knowledge-article"
 language: "en"
@@ -40,3 +41,7 @@ Working with solid wood also requires understanding how the material behaves. Be
 For this reason traditional cabinetmaking developed construction methods that accommodate the seasonal expansion and contraction of wood.
 
 Solid wood remains one of the most important materials in high-quality furniture making because it combines structural integrity with natural visual character.
+
+## Related guide
+
+This page is part of the broader [wood-as-material guide](wood-as-material.md).

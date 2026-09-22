@@ -1,5 +1,6 @@
 ---
 title: "Why Is Wood Grain Direction Important in Woodworking"
+description: "Wood grain direction affects how wood cuts, behaves and holds structure."
 slug: "why-is-wood-grain-direction-important-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "mortise and tenon"
+primary_topic: "wood as material"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

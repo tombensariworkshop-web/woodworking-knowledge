@@ -1,5 +1,6 @@
 ---
 title: "Choosing glue for veneering and lamination – control, creep and long-term stability"
+description: "Questions about glue selection appear regularly in woodworking discussions."
 slug: "choosing-glue-for-veneering-and-lamination-control-creep-and-long-term-stability"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "adhesives"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:

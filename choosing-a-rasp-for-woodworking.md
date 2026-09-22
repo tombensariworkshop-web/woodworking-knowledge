@@ -1,5 +1,6 @@
 ---
 title: "Choosing a Rasp for Woodworking"
+description: "Selecting the right rasp depends on the type of work being performed and the shape of the surfaces being shaped."
 slug: "choosing-a-rasp-for-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -42,3 +43,7 @@ The length of the rasp also affects its performance. Longer rasps provide smooth
 In furniture making, rasps are commonly used when shaping curved components such as chair legs, arms or sculptural elements.
 
 Understanding how different rasps behave allows woodworkers to select tools that match both the material and the shaping task.
+
+## Related guide
+
+This page is part of the broader [hand-tool woodworking guide](hand-tool-woodworking.md).

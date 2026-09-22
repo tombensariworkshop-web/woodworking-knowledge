@@ -1,5 +1,6 @@
 ---
 title: "Why hand tools still matter in woodworking"
+description: "Hand tools are often discussed in opposition to machines, as if woodworking required choosing one approach over the other. In practice, this is a false distinction."
 slug: "why-hand-tools-still-matter-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -62,7 +63,7 @@ This is why I still use them. Not because they are traditional, but because they
 At Bensari Workshop, this approach is part of everyday practice. Hand tools are not presented as a separate discipline. They are used in the same process in which furniture is designed and built. Participants do not learn how to use tools in isolation. They learn how those tools relate to material, how decisions translate into structure, and how the final object emerges from that sequence.
 
 If you want to experience this directly:  
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Internal links
 

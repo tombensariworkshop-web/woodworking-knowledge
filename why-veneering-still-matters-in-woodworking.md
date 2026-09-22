@@ -1,5 +1,6 @@
 ---
 title: "Why veneering still matters in woodworking"
+description: "Veneering is often perceived as a technique of the past, something associated with historical furniture or restoration work."
 slug: "why-veneering-still-matters-in-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -97,7 +98,7 @@ These observations reinforce one thing.
 Veneering is not about applying a surface. It is about understanding material and working with it precisely.
 
 If you want to experience this process in practice:  
-https://www.bensariworkshop.com/en/carpentry-courses/
+https://www.bensariworkshop.com/en/school/
 
 ## Continuity of knowledge
 

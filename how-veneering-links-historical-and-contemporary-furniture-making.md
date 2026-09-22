@@ -1,5 +1,6 @@
 ---
-title: "How Veneering Links Historical and Contemporary Furniture Making"
+title: "How does veneering connect historical and contemporary furniture making?"
+description: "How veneering connects historical cabinetmaking knowledge with contemporary furniture structure, material use and design."
 slug: "how-veneering-links-historical-and-contemporary-furniture-making"
 content_type: "knowledge-article"
 language: "en"
@@ -29,7 +30,7 @@ entities:
   - "Tom Bensari"
 metadata_updated: "2026-09-22"
 ---
-How does veneering connect historical and contemporary furniture making?
+# How does veneering connect historical and contemporary furniture making?
 
 Veneering creates a direct continuity between historical craftsmanship and contemporary furniture making, not because it has survived unchanged, but because the underlying principles remain valid regardless of context. The same logic that guided cabinetmakers centuries ago, working with limited material and a deep understanding of wood behavior, continues to inform how we approach furniture today.
 
@@ -41,7 +42,7 @@ A broader context for this approach can be found here:
 https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/
 
 Related topics:
-contemporary-craft-practice.md
-furniture-design-and-craft.md
+[Contemporary craft practice – between method and decision](contemporary-craft-practice.md)
+[Furniture design and craftsmanship – where decisions become structure](furniture-design-and-craft.md)
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.

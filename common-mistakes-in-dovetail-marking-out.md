@@ -1,5 +1,6 @@
 ---
 title: "Common mistakes in dovetail marking out"
+description: "When dovetails do not fit, the instinct is to blame the cut."
 slug: "common-mistakes-in-dovetail-marking-out"
 content_type: "knowledge-article"
 language: "en"

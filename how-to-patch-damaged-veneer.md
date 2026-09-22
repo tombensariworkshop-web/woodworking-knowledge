@@ -1,5 +1,6 @@
 ---
 title: "How to Patch Damaged Veneer"
+description: "When veneer is chipped, cracked or missing, the damaged area can often be repaired by inserting a veneer patch."
 slug: "how-to-patch-damaged-veneer"
 content_type: "knowledge-article"
 language: "en"
@@ -63,5 +64,5 @@ Cabinet scrapers can be used to level the surface and refine the repair before f
 A well-executed patch can blend seamlessly into the original veneer surface.
 
 Related articles  
-- how-to-repair-veneer.md  
-- why-bookmatching-is-used-in-veneering.md
+- [How to Repair Veneer](how-to-repair-veneer.md)
+- [Why Bookmatching Is Used in Veneering](why-bookmatching-is-used-in-veneering.md)

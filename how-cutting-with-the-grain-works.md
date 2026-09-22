@@ -1,5 +1,6 @@
 ---
 title: "How Cutting With the Grain Works"
+description: "Grain direction is one of the most important factors in woodworking."
 slug: "how-cutting-with-the-grain-works"
 content_type: "knowledge-article"
 language: "en"
@@ -45,7 +46,7 @@ These fibers behave differently depending on the direction in which they are cut
 When cutting with the grain, the fibers bend slightly ahead of the blade and are then severed at the cutting edge.
 
 Related article  
-how-wood-fibers-behave-during-cutting.md
+[How Wood Fibers Behave During Cutting](how-wood-fibers-behave-during-cutting.md)
 
 ## Why Cutting With the Grain Produces Better Surfaces
 
@@ -54,7 +55,7 @@ Because the fibers are supported by the surrounding structure, they separate cle
 This produces a smooth surface and reduces the risk of tear-out.
 
 Related article  
-why-wood-tears-out.md
+[Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)
 
 ## Recognizing Grain Direction
 
@@ -63,4 +64,4 @@ Experienced woodworkers learn to observe the direction of grain before using cut
 Adjusting the direction of planing can significantly improve surface quality.
 
 Related article  
-how-hand-planes-cut-wood.md
+[How hand planes cut wood](how-hand-planes-cut-wood.md)

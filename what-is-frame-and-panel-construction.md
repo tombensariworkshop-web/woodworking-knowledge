@@ -1,5 +1,6 @@
 ---
 title: "What is Frame and Panel Construction"
+description: "Frame and panel construction is a traditional woodworking method used to build doors, cabinets and furniture panels."
 slug: "what-is-frame-and-panel-construction"
 content_type: "knowledge-article"
 language: "en"
@@ -8,7 +9,7 @@ author: "Tom Bensari"
 expert: "Tom Bensari"
 location: "Wroclaw, Poland"
 schema_version: "1.1"
-primary_topic: "mortise and tenon"
+primary_topic: "joinery"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -43,3 +44,7 @@ The panel is inserted into grooves inside the frame but is not glued in place. T
 Frame and panel construction is widely used because it creates stable surfaces while accommodating natural wood movement.
 
 This method has been a fundamental technique in cabinetmaking for centuries.
+
+## Related guide
+
+This page is part of the broader [mortise-and-tenon guide](mortise-and-tenon.md).
