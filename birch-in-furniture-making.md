@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "wood as material"
 knowledge_role: "reference"
@@ -17,13 +17,16 @@ topics:
   - "wood species"
   - "material selection"
   - "furniture making"
-metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "moisture content"
   - "grain direction"
   - "joinery"
   - "craftsmanship"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Birch in Furniture Making
 

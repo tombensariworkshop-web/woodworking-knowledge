@@ -1,13 +1,13 @@
 ---
 title: "Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ"
-description: "An overview of BUR, KFS and military reconversion funding routes for professional woodworking training in Poland."
+description: "BUR, KFS and military reconversion may support eligible professional woodworking training in Poland under different rules."
 slug: "woodworking-training-funding-poland-bur-kfs-reconversion-faq"
 content_type: "faq"
 language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "woodworking training funding in Poland"
 knowledge_role: "answer-set"
@@ -21,6 +21,17 @@ topics:
   - "adult skills funding"
   - "Bensari Workshop"
   - "furniture making"
+related_topics:
+  - "woodworking education"
+  - "professional training"
+  - "public funding"
+  - "training eligibility"
+  - "Polish labour offices"
+  - "career change"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ
 

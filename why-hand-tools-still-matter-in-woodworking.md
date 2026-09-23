@@ -7,23 +7,28 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "dovetail joinery"
   - "joinery"
   - "marking out"
+  - "chisels"
   - "hand tools"
+  - "saws"
   - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
 related_topics:
   - "drawer construction"
   - "furniture construction"
   - "tool control"
   - "traditional woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Why hand tools still matter in woodworking
 

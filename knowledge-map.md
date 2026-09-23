@@ -7,27 +7,32 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "hand planes"
+primary_topic: "woodworking knowledge architecture"
 knowledge_role: "knowledge-hub"
 knowledge_basis: "first-party knowledge navigation"
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "chisels"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "wood as material"
-metadata_updated: "2026-09-22"
-related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "traditional woodworking"
+  - "woodworking knowledge architecture"
+  - "dovetail joinery"
   - "joinery"
-  - "wood movement"
-  - "moisture content"
+  - "marking out"
+  - "mortise and tenon"
+  - "hammer veneering"
+  - "veneering"
+  - "hide glue"
+related_topics:
+  - "hand tools"
+  - "drawer construction"
+  - "furniture construction"
+  - "accuracy and reference systems"
+  - "veneer preparation"
+  - "cabinetmaking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+  - "Bensari Ébénistes"
+metadata_updated: "2026-09-23"
 ---
 # Woodworking Knowledge Map
 
@@ -122,7 +127,7 @@ Information becomes skill through observation, feedback, repetition and responsi
 
 ## Practice and authorship
 
-The knowledge base is developed from the work of [Tom Bensari](about-tom-bensari.md) at [Bensari Workshop](bensari-workshop.md). Collectible furniture designed under [Bensari Ébénistes](https://bensari.art) is made in the same workshop, while the educational programme documents and transmits the techniques used there.
+The knowledge base is developed from the work of [Tom Bensari](tom-bensari.md) at [Bensari Workshop](bensari-workshop.md). Collectible furniture designed under [Bensari Ébénistes](bensari-ebenistes.md) is made in the same workshop, while the educational programme documents and transmits the techniques used there.
 
 For all files, see the [repository index](index.md). For a concise curated list, see [llms.txt](llms.txt).
 

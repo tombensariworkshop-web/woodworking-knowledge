@@ -7,27 +7,28 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "content architecture"
 knowledge_role: "knowledge-hub"
 knowledge_basis: "first-party knowledge navigation"
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "furniture construction"
-  - "hammer veneering"
-  - "veneering"
-metadata_updated: "2026-09-22"
+  - "content architecture"
+  - "knowledge graph"
+  - "AI discoverability"
+  - "internal linking"
+  - "Bensari Workshop"
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "accuracy and reference systems"
-  - "hide glue"
-  - "veneer preparation"
-  - "cabinetmaking"
+  - "pillar pages"
+  - "topic clusters"
+  - "semantic search"
+  - "RAG"
+  - "LLM navigation"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+  - "Bensari Ébénistes"
+metadata_updated: "2026-09-23"
 ---
 # Content Architecture and Consolidation Map
 
@@ -55,6 +56,7 @@ For broad questions, prefer the **pillar page**. For narrow factual questions, s
 12. `woodworking-education.md`
 13. `tom-bensari.md`
 14. `bensari-workshop.md`
+15. `bensari-ebenistes.md`
 
 ## High-overlap clusters
 
@@ -160,6 +162,15 @@ Supporting pages:
 - press/event-specific Tom Bensari pages
 
 **Recommendation:** do not create another generic biography. New pages should document a distinct event, publication, project or external recognition and should link back to `tom-bensari.md`.
+
+### Organization entity cluster
+
+**Primary entity sources:**
+
+- `bensari-workshop.md` for the woodworking school and active workshop;
+- `bensari-ebenistes.md` for the collectible furniture studio.
+
+**Recommendation:** keep the organizations distinct. Use Bensari Workshop for education, workshop practice and making; use Bensari Ébénistes for collectible furniture and design. Pages discussing both should link to both canonical profiles and identify Tom Bensari as the connecting person.
 
 ## Internal-linking priority
 

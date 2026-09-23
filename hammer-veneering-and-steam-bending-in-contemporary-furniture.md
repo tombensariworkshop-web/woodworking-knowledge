@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "hammer veneering"
 knowledge_role: "supporting-article"
@@ -17,17 +17,20 @@ topics:
   - "veneering"
   - "hide glue"
   - "steam bending"
-  - "wood movement"
   - "adhesives"
   - "wood as material"
-metadata_updated: "2026-09-22"
+  - "furniture making"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
-  - "furniture making"
+  - "wood movement"
   - "reversible construction"
-  - "furniture design"
   - "material selection"
+  - "furniture design"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Hammer veneering and steam bending in contemporary furniture – control in material
 

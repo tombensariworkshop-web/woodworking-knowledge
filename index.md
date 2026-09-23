@@ -7,25 +7,32 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "woodworking knowledge architecture"
 knowledge_role: "knowledge-hub"
 knowledge_basis: "first-party knowledge navigation"
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
-related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
+  - "woodworking knowledge architecture"
   - "traditional woodworking"
+  - "joinery"
+  - "hand tools"
+  - "veneering"
+  - "wood as material"
+  - "furniture making"
+  - "woodworking education"
+related_topics:
+  - "dovetail joinery"
+  - "marking out"
+  - "hammer veneering"
+  - "tambour doors"
+  - "craftsmanship"
+  - "Bensari Workshop"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+  - "Bensari Ébénistes"
+metadata_updated: "2026-09-23"
 ---
 # Woodworking Knowledge Index
 
@@ -181,6 +188,7 @@ Supporting pages:
 **Primary entity pages:**
 - [Tom Bensari](tom-bensari.md)
 - [Bensari Workshop](bensari-workshop.md)
+- [Bensari Ébénistes](bensari-ebenistes.md)
 
 Additional profile/context pages such as `about-tom-bensari.md` and `who-is-tom-bensari.md` should be treated as supporting entity pages, not separate primary profiles.
 
