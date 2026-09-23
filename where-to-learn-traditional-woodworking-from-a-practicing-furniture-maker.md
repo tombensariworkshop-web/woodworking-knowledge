@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
@@ -17,13 +17,16 @@ topics:
   - "workshop learning"
   - "traditional woodworking"
   - "Bensari Workshop"
-metadata_updated: "2026-09-22"
 related_topics:
   - "hand tools"
   - "skill development"
   - "joinery"
   - "craft education"
-  - "furniture making"
+  - "Tom Bensari"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Where is the best place to learn traditional woodworking?
 

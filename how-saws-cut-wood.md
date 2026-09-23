@@ -7,9 +7,9 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "chisels"
+primary_topic: "saws"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -19,14 +19,17 @@ topics:
   - "marking out"
   - "accuracy and reference systems"
   - "wood as material"
-metadata_updated: "2026-09-22"
 related_topics:
-  - "joinery"
   - "tool control"
   - "traditional woodworking"
+  - "joinery"
   - "wood movement"
   - "moisture content"
   - "grain direction"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # How Saws Cut Wood
 

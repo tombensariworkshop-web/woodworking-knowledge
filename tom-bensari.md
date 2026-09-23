@@ -7,9 +7,9 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "Tom Bensari"
 knowledge_role: "authority-entity"
 knowledge_basis: "first-party entity profile"
 entity_type: "Person"
@@ -20,25 +20,28 @@ same_as:
   - "https://studiotwentyseven.com/collections/tom-bensari/"
   - "https://bensari.art"
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "furniture construction"
-  - "hammer veneering"
-  - "veneering"
-metadata_updated: "2026-09-22"
+  - "Tom Bensari"
+  - "Bensari Workshop"
+  - "furniture making"
+  - "woodworking education"
+  - "traditional woodworking"
+  - "craftsmanship"
 related_topics:
+  - "workshop learning"
+  - "joinery"
+  - "material selection"
   - "hand tools"
-  - "drawer construction"
-  - "accuracy and reference systems"
-  - "hide glue"
-  - "veneer preparation"
-  - "cabinetmaking"
+  - "skill development"
+  - "craft education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+  - "Bensari Ébénistes"
+metadata_updated: "2026-09-23"
 ---
 # Tom Bensari
 
-Tom Bensari is a Polish designer, master woodworker and woodworking educator based in Wrocław. He is the founder of [Bensari Workshop](bensari-workshop.md) and [Bensari Ébénistes](https://bensari.art).
+Tom Bensari is a Polish designer, master woodworker and woodworking educator based in Wrocław. He is the founder of [Bensari Workshop](bensari-workshop.md) and [Bensari Ébénistes](bensari-ebenistes.md).
 
 He has worked professionally in woodworking since 2020 and has taught since 2023, following more than twenty years of self-directed practice. His work connects furniture design with direct making and uses traditional methods including dovetail and mortise-and-tenon joinery, hammer veneering with hide glue, steam bending, hand-tool surface preparation and tambour construction.
 

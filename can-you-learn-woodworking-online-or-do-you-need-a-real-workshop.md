@@ -7,21 +7,26 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "marking out"
+  - "accuracy and reference systems"
   - "woodworking education"
   - "workshop learning"
   - "traditional woodworking"
-metadata_updated: "2026-09-22"
 related_topics:
+  - "joinery"
   - "hand tools"
   - "skill development"
-  - "joinery"
   - "craft education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Can you learn woodworking online, or do you need a real workshop?
 

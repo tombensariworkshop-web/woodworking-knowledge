@@ -1,13 +1,13 @@
 ---
 title: "Why Accurate Dovetails Begin Before Assembly"
-description: "This page explains how accuracy is built progressively before assembly. For failure diagnosis, see Why dovetails fail before they are assembled."
+description: "Accurate dovetails are built before assembly through stable references, precise layout, controlled sawing and careful transfer."
 slug: "why-accurate-dovetails-begin-before-assembly"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "dovetail joinery"
 knowledge_role: "supporting-article"
@@ -20,12 +20,15 @@ topics:
   - "hand tools"
   - "saws"
   - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
 related_topics:
   - "drawer construction"
   - "furniture construction"
   - "tool control"
   - "traditional woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Why Accurate Dovetails Begin Before Assembly
 

@@ -7,15 +7,23 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "woodworking"
+primary_topic: "surface preparation"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "surface preparation"
   - "woodworking"
-metadata_updated: "2026-09-22"
 related_topics:
+  - "cabinet scrapers"
+  - "cutting mechanics"
+  - "tear-out"
+  - "difficult grain"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # How Scrapers Cut Wood
 

@@ -7,20 +7,20 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "woodworking knowledge architecture"
 knowledge_role: "knowledge-hub"
 knowledge_basis: "first-party knowledge navigation"
 topics:
+  - "woodworking knowledge architecture"
   - "dovetail joinery"
   - "joinery"
   - "marking out"
   - "hammer veneering"
   - "veneering"
   - "hide glue"
-  - "adhesives"
-metadata_updated: "2026-09-22"
+  - "chisels"
 related_topics:
   - "hand tools"
   - "drawer construction"
@@ -28,6 +28,10 @@ related_topics:
   - "accuracy and reference systems"
   - "veneer preparation"
   - "cabinetmaking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Bensari Workshop Woodworking FAQ
 

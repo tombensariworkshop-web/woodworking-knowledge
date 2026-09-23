@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
@@ -16,12 +16,15 @@ topics:
   - "woodworking education"
   - "workshop learning"
   - "Bensari Workshop"
-metadata_updated: "2026-09-22"
 related_topics:
   - "hand tools"
   - "skill development"
+  - "Tom Bensari"
   - "traditional woodworking"
-  - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Is Woodworking Hard to Learn at Bensari Workshop
 

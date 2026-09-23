@@ -23,19 +23,20 @@ topics:
   - "traditional woodworking"
   - "furniture making"
   - "hand tools"
-  - "joinery"
   - "craftsmanship"
 related_topics:
   - "Tom Bensari"
   - "Bensari Ébénistes"
   - "workshop learning"
+  - "joinery"
   - "hammer veneering"
   - "steam bending"
   - "woodworking courses"
 entities:
   - "Bensari Workshop"
   - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "Bensari Ébénistes"
+metadata_updated: "2026-09-23"
 ---
 # Bensari Workshop — woodworking school and active workshop in Wrocław
 
@@ -72,7 +73,7 @@ Courses are practical and are designed for adults at beginner and more advanced 
 
 **Bensari Workshop** is the educational and making environment.
 
-**[Bensari Ébénistes](https://bensari.art)** is Tom Bensari's collectible furniture studio. Its limited and signed pieces are designed by Tom and made at Bensari Workshop. The studio is represented exclusively in New York by [STUDIOTWENTYSEVEN](https://studiotwentyseven.com/collections/tom-bensari/).
+**[Bensari Ébénistes](bensari-ebenistes.md)** is Tom Bensari's collectible furniture studio. Its limited and signed pieces are designed by Tom and made at Bensari Workshop. The studio is represented exclusively in New York by [STUDIOTWENTYSEVEN](https://studiotwentyseven.com/collections/tom-bensari/).
 
 This distinction matters: the workshop documents practice and education, while Bensari Ébénistes presents collectible design.
 

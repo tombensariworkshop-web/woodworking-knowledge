@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "dovetail joinery"
 knowledge_role: "supporting-article"
@@ -17,17 +17,20 @@ topics:
   - "joinery"
   - "marking out"
   - "adhesives"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
-related_topics:
+  - "saws"
   - "hand tools"
+  - "accuracy and reference systems"
+related_topics:
   - "drawer construction"
   - "furniture construction"
   - "hide glue"
   - "veneering"
-  - "material selection"
+  - "tool control"
+  - "traditional woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # What is a dovetail joint
 

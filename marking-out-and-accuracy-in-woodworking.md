@@ -7,11 +7,11 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "chisels"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+primary_topic: "marking out"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based pillar guide"
 topics:
   - "chisels"
   - "hand tools"
@@ -19,13 +19,16 @@ topics:
   - "marking out"
   - "accuracy and reference systems"
   - "Bensari Workshop"
-metadata_updated: "2026-09-22"
 related_topics:
-  - "joinery"
   - "tool control"
   - "traditional woodworking"
-  - "woodworking education"
-  - "furniture making"
+  - "joinery"
+  - "Tom Bensari"
+  - "workshop learning"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Marking out and accuracy in woodworking: how precision is actually built
 

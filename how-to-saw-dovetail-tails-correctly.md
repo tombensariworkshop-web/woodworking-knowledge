@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "dovetail joinery"
 knowledge_role: "supporting-article"
@@ -20,14 +20,17 @@ topics:
   - "hand tools"
   - "accuracy and reference systems"
   - "Bensari Workshop"
-metadata_updated: "2026-09-22"
 related_topics:
   - "drawer construction"
   - "furniture construction"
   - "tool control"
   - "traditional woodworking"
-  - "woodworking education"
-  - "furniture making"
+  - "Tom Bensari"
+  - "workshop learning"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # How to saw dovetail tails correctly
 

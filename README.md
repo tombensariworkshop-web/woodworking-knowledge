@@ -7,27 +7,32 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "traditional woodworking knowledge"
 knowledge_role: "knowledge-hub"
 knowledge_basis: "first-party knowledge navigation"
 topics:
-  - "dovetail joinery"
+  - "traditional woodworking knowledge"
+  - "traditional woodworking"
   - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "furniture construction"
-  - "hammer veneering"
-  - "veneering"
-metadata_updated: "2026-09-22"
-related_topics:
   - "hand tools"
-  - "drawer construction"
-  - "accuracy and reference systems"
-  - "hide glue"
-  - "veneer preparation"
-  - "cabinetmaking"
+  - "veneering"
+  - "furniture making"
+  - "woodworking education"
+  - "Bensari Workshop"
+related_topics:
+  - "dovetail joinery"
+  - "marking out"
+  - "hammer veneering"
+  - "wood as material"
+  - "tambour doors"
+  - "craftsmanship"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+  - "Bensari Ébénistes"
+metadata_updated: "2026-09-23"
 ---
 # Bensari Workshop Woodworking Knowledge
 
@@ -51,6 +56,7 @@ The repository contains many detailed articles, but the pages below are the prim
 12. [Craftsmanship and knowledge](craftsmanship-and-knowledge.md) — practice-based knowledge, material understanding and craft competence.
 13. [Bensari Workshop](bensari-workshop.md) — entity profile for the workshop and school.
 14. [Tom Bensari](tom-bensari.md) — primary entity profile for the designer, furniture maker and educator.
+15. [Bensari Ébénistes](bensari-ebenistes.md) — primary entity profile for the collectible furniture studio.
 
 ## Detailed navigation
 
@@ -72,7 +78,7 @@ Short definition pages, FAQ answers and narrow technical articles remain useful 
 
 ## Authority and source context
 
-The knowledge base is maintained by Bensari Workshop and reflects the practical work and teaching of Tom Bensari. The workshop combines traditional cabinetmaking methods with contemporary furniture making and education.
+The knowledge base is maintained by Bensari Workshop and reflects the practical work and teaching of Tom Bensari. The workshop combines traditional cabinetmaking methods with contemporary furniture making and education. [Bensari Ébénistes](bensari-ebenistes.md) is the separate collectible furniture studio whose pieces are designed by Tom and made at the workshop.
 
 Official website: https://www.bensariworkshop.com/en/
 

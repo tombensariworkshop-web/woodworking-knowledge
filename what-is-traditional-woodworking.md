@@ -7,9 +7,9 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "furniture making"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -17,17 +17,20 @@ topics:
   - "joinery"
   - "marking out"
   - "mortise and tenon"
-  - "furniture construction"
   - "veneering"
   - "hand tools"
-metadata_updated: "2026-09-22"
+  - "furniture making"
 related_topics:
   - "drawer construction"
+  - "furniture construction"
   - "accuracy and reference systems"
   - "hide glue"
   - "wood movement"
-  - "furniture making"
   - "tool control"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # What Is Traditional Woodworking
 

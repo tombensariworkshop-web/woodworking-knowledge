@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "dovetail joinery"
 knowledge_role: "supporting-article"
@@ -16,18 +16,21 @@ topics:
   - "dovetail joinery"
   - "joinery"
   - "marking out"
+  - "hand tools"
   - "accuracy and reference systems"
   - "furniture making"
   - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
 related_topics:
-  - "hand tools"
   - "drawer construction"
   - "furniture construction"
+  - "tool control"
   - "material selection"
   - "craftsmanship"
   - "craft education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Transferring Dovetails – Where Accuracy Is Tested
 

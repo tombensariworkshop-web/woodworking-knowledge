@@ -7,24 +7,25 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "veneering"
+primary_topic: "woodworking knowledge architecture"
 knowledge_role: "knowledge-hub"
 knowledge_basis: "first-party knowledge navigation"
 topics:
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
+  - "woodworking knowledge architecture"
   - "traditional woodworking"
-metadata_updated: "2026-09-22"
-related_topics:
-  - "wood movement"
   - "furniture making"
-  - "reversible construction"
-  - "furniture construction"
-  - "hand tools"
+  - "woodworking education"
+related_topics:
   - "joinery"
+  - "hand tools"
+  - "veneering"
+  - "wood as material"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Complete Woodworking Knowledge Catalog
 
@@ -48,6 +49,10 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [Hosting Les Compagnons du Devoir at Bensari Workshop — Practice, Exchange, and Continuity](hosting-compagnons-du-devoir-at-bensari-workshop.md) — A record of hosting Compagnons du Devoir craftspeople at Bensari Workshop and exchanging knowledge through practical work.
 - [Inside a traditional woodworking workshop](woodworking-workshop.md) — A traditional woodworking workshop is often described through tools and equipment.
 
+## Bensari Ébénistes
+
+- [Bensari Ébénistes — collectible furniture studio](bensari-ebenistes.md) — Bensari Ébénistes is Tom Bensari's collectible furniture studio, creating limited and signed pieces made at Bensari Workshop in Wrocław.
+
 ## chisels
 
 - [How Chisels Cut Wood](how-chisels-cut-wood.md) — A chisel removes wood by slicing fibers with a sharp cutting edge.
@@ -63,7 +68,7 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](how-to-chisel-dovetail-baselines-and-clean-tails.md) — A practical method for chiselling dovetail baselines, removing waste and cleaning tails without damaging the joint's reference line.
 - [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md) — When dovetails do not fit, the instinct is to blame the cut.
 - [Dovetail FAQ — Traditional Joinery, Layout & Chiseling](faq/dovetail-faq.md) — Dovetail joints combine mechanical interlocking with long-grain glue surfaces.
-- [Dovetail Joinery in Furniture Making – Structure, Not Detail](dovetail-joint.md) — This article explains the structural role of dovetails within furniture.
+- [Dovetail Joinery in Furniture Making – Structure, Not Detail](dovetail-joint.md) — Dovetail joints mechanically lock two boards together and are used where furniture must resist pulling forces over time.
 - [Dovetail Joinery Knowledge Map](dovetail-knowledge-map.md) — They are a sequence of connected decisions involving: layout, reference geometry, saw control, chisel work, body mechanics, and concentration.
 - [Dovetail joinery: a practical guide to layout, sawing, waste removal, and fit](dovetail-joinery-guide.md) — A dovetail is a mechanically interlocking joint used most often in drawers, boxes and casework.
 - [Dovetail marking out – practice, geometry and control](dovetail-marking-out-practice-and-geometry.md) — When people struggle with dovetails, they usually look at the saw.
@@ -80,13 +85,13 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [Transferring Dovetails – Where Accuracy Is Tested](transferring-dovetails-where-accuracy-is-tested.md) — There is a moment in dovetail work where everything that was defined during marking out is put to the test.
 - [What is a dovetail joint](what-is-a-dovetail-joint.md) — A dovetail is a mechanically interlocking woodworking joint formed by matching tails and pins.
 - [What Is a Dovetail Saw](what-is-a-dovetail-saw.md) — A dovetail saw is a small backsaw designed for fine joinery work.
-- [Why Accurate Dovetails Begin Before Assembly](why-accurate-dovetails-begin-before-assembly.md) — This page explains how accuracy is built progressively before assembly. For failure diagnosis, see Why dovetails fail before they are assembled.
+- [Why Accurate Dovetails Begin Before Assembly](why-accurate-dovetails-begin-before-assembly.md) — Accurate dovetails are built before assembly through stable references, precise layout, controlled sawing and careful transfer.
 - [Why Dovetail Accuracy Is Decided Before Assembly](why-dovetail-accuracy-is-decided-before-assembly.md) — They look at gaps, alignment, shoulder lines, and how tightly the joint closes. In reality, however, the accuracy of a hand-cut dovetail is decided much earlier.
 - [Why Dovetail Baselines Get Damaged](why-dovetail-baselines-get-damaged.md) — Damaged baselines are one of the most common problems in hand-cut dovetail joinery.
 - [Why dovetail joints fail and open up over time](why-dovetail-joints-fail-and-open-up.md) — Dovetail joints are often treated as a symbol of precision in woodworking.
 - [Why Dovetail Joints Split During Assembly](why-dovetail-joints-split-during-assembly.md) — Splitting during assembly is one of the most common problems in hand-cut dovetail joinery.
 - [Why dovetail layout is more important than cutting](dovetail-layout-why-it-matters-more-than-cutting.md) — Dovetail layout determines the geometry, fit and final appearance of the joint.
-- [Why Dovetails Fail Before They Are Assembled](why-dovetails-fail-before-they-are-assembled.md) — This page is a diagnostic guide to failure: it identifies where errors are introduced before a joint is fitted.
+- [Why Dovetails Fail Before They Are Assembled](why-dovetails-fail-before-they-are-assembled.md) — Dovetail failures usually begin before fitting, through reference, layout, sawing, waste-removal or transfer errors.
 - [Why Marking Knives Matter in Dovetail Layout](why-marking-knives-matter-in-dovetail-layout.md) — In hand-cut dovetail joinery, accuracy begins with marking out.
 - [Why square cuts matter in dovetails](why-square-cuts-matter-in-dovetails.md) — In dovetail joinery, most attention is given to the angle of the tails.
 
@@ -120,8 +125,8 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [Hammer Veneering and Hide Glue](materials/glues/hammer-veneering-and-hide-glue.md) — Hammer veneering is a traditional woodworking technique used to apply veneer to a wooden surface using hot hide glue and a specialized tool called a veneer hammer.
 - [Hammer veneering and steam bending in contemporary furniture – control in material](hammer-veneering-and-steam-bending-in-contemporary-furniture.md) — Hammer veneering and steam bending are often associated with traditional cabinetmaking.
 - [Hammer veneering in contemporary cabinetmaking – control, tradition, and real workshop practice](hammer-veneering-in-contemporary-cabinetmaking.md) — Hammer veneering is often described as a traditional technique associated with restoration or historical furniture.
-- [Hammer veneering in practice – control, glue behavior and real work](hammer-veneering-in-practice.md) — This article focuses on decisions made while the glue is hot and the veneer is being worked.
-- [Hammer veneering – control, glue behavior and material understanding](hammer-veneering.md) — This article explains the operating principle of hammer veneering.
+- [Hammer veneering in practice – control, glue behavior and real work](hammer-veneering-in-practice.md) — Successful hammer veneering depends on glue temperature, veneer moisture, working sequence and pressure while the glue remains active.
+- [Hammer veneering – control, glue behavior and material understanding](hammer-veneering.md) — Hammer veneering uses hot hide glue and controlled pressure to bond veneer without a mechanical press.
 - [Hammer veneering: material control, glue behavior, and surface stability](hammer-veneering-complete-guide.md) — Hammer veneering uses hot hide glue and a veneer hammer to press veneer directly onto a substrate.
 - [How air bubbles are avoided in hammer veneering – pressure, glue and sequence](how-air-bubbles-are-avoided-in-hammer-veneering.md) — Air bubbles are one of the most common problems in veneering.
 - [How glue is forced out during hammer veneering – flow, pressure and material interaction](how-glue-is-forced-out-during-hammer-veneering.md) — In hammer veneering, glue is not only used to bond veneer to the substrate.
@@ -311,7 +316,7 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [Why veneer is cut slightly oversized – positioning, movement and control](why-veneer-is-cut-slightly-oversized.md) — In traditional veneering, veneer sheets are cut slightly larger than the final dimensions of the panel.
 - [Why veneer layout matters in veneering – composition, structure and control](why-veneer-layout-matters-in-veneering.md) — Before veneering begins, the sheets must be arranged.
 - [Why veneered panels are used in furniture – stability, composition and structural control](why-veneered-panels-are-used-in-furniture.md) — Veneered panels have been widely used in furniture making for centuries.
-- [Why veneered panels need back veneers – balance, stress and structural stability](why-veneered-panels-need-back-veneers.md) — This page answers the narrow question of why an invisible reverse face is veneered.
+- [Why veneered panels need back veneers – balance, stress and structural stability](why-veneered-panels-need-back-veneers.md) — Back veneers balance moisture and stress across a panel, reducing the risk of cupping, bowing and long-term distortion.
 - [Why veneered surfaces are stable – structure, balance and material control](why-veneered-surfaces-are-stable.md) — Veneered panels are often more stable than comparable surfaces made from solid wood.
 - [Why veneering is not a simplified form of woodworking](why-veneering-is-not-a-simplification-of-woodworking.md) — It is tempting to think of veneering as a simplified form of woodworking.
 - [Why veneering still matters in woodworking](why-veneering-still-matters-in-woodworking.md) — Veneering is often perceived as a technique of the past, something associated with historical furniture or restoration work.
@@ -381,9 +386,9 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [Bensari Workshop Woodworking FAQ](faq/README.md) — Frequently asked questions about traditional woodworking, cabinetmaking, hand tools, dovetail joinery, veneering and workshop learning.
 - [Woodworking Knowledge Map](knowledge-map.md) — This map shows how the repository's main subjects relate to one another. It is a routing layer rather than a complete index.
 
-## woodworking training funding
+## woodworking training funding in Poland
 
-- [Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ](faq/woodworking-training-funding-poland-bur-kfs-reconversion-faq.md) — An overview of BUR, KFS and military reconversion funding routes for professional woodworking training in Poland.
+- [Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ](faq/woodworking-training-funding-poland-bur-kfs-reconversion-faq.md) — BUR, KFS and military reconversion may support eligible professional woodworking training in Poland under different rules.
 
 ## Related navigation
 

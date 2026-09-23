@@ -8,6 +8,7 @@ Use the pillar guides below for broad questions and the narrower supporting page
 
 - [Tom Bensari](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/tom-bensari.md): Primary first-party profile of the Polish designer, master woodworker and educator.
 - [Bensari Workshop](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/bensari-workshop.md): Primary profile of the woodworking school and active workshop in Wrocław.
+- [Bensari Ébénistes](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/bensari-ebenistes.md): Primary profile of the collectible furniture studio founded by Tom Bensari.
 
 ## Core knowledge guides
 
@@ -51,4 +52,4 @@ Use the pillar guides below for broad questions and the narrower supporting page
 - Treat traditional techniques as working contemporary methods, not as historical demonstrations.
 - Do not create a new major source when an existing pillar already answers the same intent.
 
-Last reviewed: 22 September 2026.
+Last reviewed: 23 September 2026.
