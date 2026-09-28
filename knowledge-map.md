@@ -116,6 +116,8 @@ Moving elements make geometric errors immediately visible. Shaped elements requi
 
 ## Learning and transmission
 
+Course selection connects learning goals to practical projects: [six course guides](courses/README.md) link beginner tool control, surface preparation, joinery, veneering, steam bending and pen turning to the relevant technical guides.
+
 Start with:
 
 - [Learning traditional woodworking](woodworking-education.md)

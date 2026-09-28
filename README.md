@@ -60,6 +60,8 @@ The repository contains many detailed articles, but the pages below are the prim
 
 ## Detailed navigation
 
+- [Course selection and programmes](courses/README.md) — six practical course cards, participation in English and gift-voucher guidance; current prices and dates are linked, not copied.
+
 For the full topic-by-topic structure, use [index.md](index.md).
 
 For a complete alphabetical-by-topic listing of every article, use [catalog.md](catalog.md).
