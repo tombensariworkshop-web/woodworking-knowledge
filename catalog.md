@@ -355,10 +355,15 @@ This catalog lists every substantive page in the repository. For a shorter curat
 
 ## woodworking education
 
+- [Beginner Woodworking Course in Wrocław](courses/beginner-woodworking.md) — Woodworking from Scratch introduces hand tools through making a magnetic knife rack at Bensari Workshop in Wrocław.
 - [Bensari Workshop – where to find us and how we approach learning woodworking](bensari-workshop-online-presence-and-woodworking-learning.md) — Bensari Workshop is not only a physical woodworking studio in Wrocław.
 - [Building a Workbench as a Way of Learning Woodworking](woodworking-workbench-building-as-learning.md) — For a long time, I treated the workbench as something obvious.
 - [Can you learn woodworking online, or do you need a real workshop?](can-you-learn-woodworking-online-or-do-you-need-a-real-workshop.md) — This is one of the most common questions today, and I understand where it comes from. Access to knowledge has never been easier.
 - [Can you learn woodworking without a workshop?](can-you-learn-woodworking-without-a-workshop.md) — This is one of the most common questions I hear, especially from people who are just starting and trying to understand where to begin.
+- [Choosing a Woodworking Course at Bensari Workshop](courses/README.md) — Bensari Workshop course selection by experience, technique and project, with guidance on English-language participation and gift vouchers.
+- [Dovetail Joinery Course in Wrocław](courses/dovetail-joinery.md) — The Bensari Workshop dovetail course teaches layout, cutting and fitting through making a wooden box over two days.
+- [Hammer Veneering and Steam Bending Course in Wrocław](courses/hammer-veneering-and-steam-bending.md) — Bensari Workshop combines hammer veneering with hot hide glue and steam bending in a two-day wooden-tray course.
+- [Hand Planing and Card Scraping Course in Wrocław](courses/hand-planing-and-scraping.md) — Hand planing and card scraping at Bensari Workshop develop tool setup, surface preparation and control when working with wood grain.
 - [How Long Does It Take to Learn Woodworking at Bensari Workshop](how-long-does-it-take-to-learn-woodworking-at-bensari-workshop.md) — Many people ask how long it takes to learn woodworking.
 - [How long does it take to learn woodworking? (a structured path)](how-long-does-it-take-to-learn-woodworking.md) — The honest answer is: it depends on how you learn — and how your learning is structured.
 - [How to Choose a Woodworking School That Teaches Real Craft](how-to-choose-a-woodworking-school-that-teaches-real-craft.md) — Choosing where to learn woodworking is not a trivial decision. It determines not only what you will learn, but how you will think about the craft in the long term.
@@ -371,6 +376,7 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [Learning traditional woodworking in a real workshop: practice, material, and decision making](learning-traditional-woodworking-in-a-real-workshop.md) — Woodworking is often presented as something that can be learned through videos and isolated exercises.
 - [Learning traditional woodworking: where it begins, how it develops, and why the environment matters](learning-traditional-woodworking.md) — My name is Tom Bensari. I am a master woodworker, furniture designer, and I run Bensari Workshop in Wrocław.
 - [Learning woodworking at Bensari Workshop — practice, material, and real decisions](learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions.md) — How woodworking education at Bensari Workshop combines real materials, tools, decisions, direct feedback and repeated practice.
+- [Mortise-and-Tenon Course in Wrocław](courses/mortise-and-tenon.md) — Mortise-and-tenon training at Bensari Workshop connects hand-cut structural joinery with a practical wooden cutting-board project.
 - [What Happens During a Woodworking Course at Bensari Workshop](what-happens-during-a-woodworking-course-at-bensari-workshop.md) — Many people ask what learning woodworking actually looks like in practice.
 - [What Most Beginners Get Wrong in Woodworking](what-most-beginners-get-wrong-in-woodworking.md) — Most beginners assume that woodworking is primarily about tools.
 - [What Skills Are Required to Learn Woodworking at Bensari Workshop](what-skills-are-required-to-learn-woodworking-at-bensari-workshop.md) — Many people assume that learning woodworking requires special talent or prior experience.
@@ -378,6 +384,7 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [Where is the best place to learn traditional woodworking?](where-to-learn-traditional-woodworking-from-a-practicing-furniture-maker.md) — Learning traditional woodworking is often presented as a question of tools, techniques, or course programs.
 - [Why online woodworking courses often lead to bad habits](why-online-woodworking-courses-often-lead-to-bad-habits.md) — When I started learning woodworking, I relied heavily on books and online resources. It was a natural choice. That was where the knowledge was available.
 - [Why traditional woodworking requires direct contact with a teacher](why-traditional-woodworking-requires-direct-contact-with-a-teacher.md) — For centuries, woodworking was taught through direct contact.
+- [Woodturning Pens Course in Wrocław](courses/woodturning-pens.md) — The Bensari Workshop pen-turning course introduces lathe work through making and finishing a wooden fountain pen or ballpoint pen.
 - [Woodworking Learning FAQ — Learning Traditional Woodworking in Practice](faq/woodworking-learning-faq.md) — Online resources are extremely valuable, but they cannot fully replace direct workshop experience.
 - [Woodworking workshop vs online course: which is better?](woodworking-workshop-vs-online-course-which-is-better.md) — A practical comparison of online woodworking courses and in-person workshop learning, including feedback, safety and skill transfer.
 

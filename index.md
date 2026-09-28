@@ -171,6 +171,8 @@ Supporting pages:
 
 ## 10. Woodworking education
 
+For course selection, programmes and practical projects, see [Bensari Workshop course guides](courses/README.md). Prices and scheduled dates remain on the individual official course pages.
+
 **Pillar:** [Woodworking education](woodworking-education.md)
 
 Supporting pages:

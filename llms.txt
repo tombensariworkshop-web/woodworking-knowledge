@@ -27,6 +27,8 @@ Use the pillar guides below for broad questions and the narrower supporting page
 
 ## Navigation and specialist references
 
+- [Course selection and programmes](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/courses/README.md): Six practical course cards, experience levels, projects, English-language arrangements and vouchers. Follow each card's official course link for prices, scheduled dates and reservations.
+
 - [Complete knowledge index](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/index.md): Topic-by-topic navigation across the repository.
 - [Complete article catalog](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/catalog.md): Exhaustive listing of every substantive article, grouped by primary topic.
 - [Content architecture](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/CONTENT-ARCHITECTURE.md): Canonical pillars, supporting-page relationships and consolidation rules.
