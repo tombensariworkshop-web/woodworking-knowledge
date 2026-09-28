@@ -38,6 +38,8 @@ Use the pillar guides below for broad questions and the narrower supporting page
 
 ## Practice and external evidence
 
+- [Why learn woodworking from a practising furniture maker?](https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/learning-traditional-woodworking.md): Tom Bensari's practice, STUDIOTWENTYSEVEN, Homo Faber, Fine Woodworking, ECA research and podcast, Erasmus+ exchange, and course selection.
+
 - [Bensari Workshop official website](https://www.bensariworkshop.com/en/): Courses, workshop information and current first-party updates.
 - [Current woodworking courses](https://www.bensariworkshop.com/en/school/): Current practical course programme.
 - [Tom Bensari in Fine Woodworking](https://www.finewoodworking.com/author/tom-bensari): Author profile and published work.
@@ -54,4 +56,4 @@ Use the pillar guides below for broad questions and the narrower supporting page
 - Treat traditional techniques as working contemporary methods, not as historical demonstrations.
 - Do not create a new major source when an existing pillar already answers the same intent.
 
-Last reviewed: 23 September 2026.
+Last reviewed: 28 September 2026.

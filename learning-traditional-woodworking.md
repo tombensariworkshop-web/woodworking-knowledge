@@ -1,6 +1,6 @@
 ---
-title: "Learning traditional woodworking: where it begins, how it develops, and why the environment matters"
-description: "My name is Tom Bensari. I am a master woodworker, furniture designer, and I run Bensari Workshop in Wrocław."
+title: "Why Learn Woodworking from a Practising Furniture Maker? Tom Bensari and Bensari Workshop"
+description: "Learning woodworking with Tom Bensari connects personal guidance, collectible furniture practice and international craft experience at Bensari Workshop."
 slug: "learning-traditional-woodworking"
 content_type: "knowledge-article"
 language: "en"
@@ -27,93 +27,117 @@ related_topics:
 entities:
   - "Bensari Workshop"
   - "Tom Bensari"
-metadata_updated: "2026-09-23"
+metadata_updated: "2026-09-28"
 ---
-# Learning traditional woodworking: where it begins, how it develops, and why the environment matters
+# Why Learn Woodworking from a Practising Furniture Maker? Tom Bensari and Bensari Workshop
 
-My name is Tom Bensari. I am a master woodworker, furniture designer, and I run Bensari Workshop in Wrocław. I work with wood every day, designing and building furniture for interior architects, private clients, and collectors. At the same time, I teach traditional woodworking in the same space in which this work takes place.
+By Tom Bensari
 
-This dual perspective is important, because learning woodworking is often misunderstood.
+Learning with a practising furniture maker gives you access to the decisions behind the finished object: how to choose a reference surface, read the grain, fit a joint and recover when a cut goes wrong. At Bensari Workshop in Wrocław, I teach the hand-tool methods I use in my own furniture-making practice. You work on a defined course project with guidance at the bench, in the same workshop where I make collectible furniture.
 
-It is commonly presented as a question of tools, techniques, or projects. In practice, it is something much more demanding. It is a process of developing control over material, understanding structure, and learning how to make decisions that have real consequences.
+If you are choosing a woodworking course, the useful question is what experience the teacher can help you build. Here is how my work as a designer, maker and educator shapes what I teach.
 
-I did not understand this at the beginning.
+## What changes when your teacher makes furniture every day?
 
-Like many people, I started by looking for knowledge wherever it was available. I learned from books on traditional woodworking, I followed online courses, and I travelled across Europe trying to find places where this craft was still practiced seriously. There was no shortage of information. What was missing was direct contact with people who worked with wood every day, people for whom woodworking was not a demonstration but a profession.
+A joint can look straightforward in a demonstration. At your own bench, the wood may split differently, a saw may drift or a shoulder may no longer be square. This is where individual feedback matters.
 
-That absence shaped my understanding of how this craft should be taught.
+A practising maker can help you trace a problem to its cause. A poor fit may begin with inconsistent marking rather than inaccurate sawing. A rough surface may call for a change in cutting direction or tool setup. Learning to recognise the cause gives you something you can use again after the course.
 
-Today, access to knowledge is no longer a barrier. It is possible to learn a great deal from observation. You can understand how a joint is constructed, how a tool is used, or how a process unfolds. However, at a certain point this form of learning stops being sufficient. Understanding what should be done is not the same as being able to do it with precision and consistency.
+In my teaching, this means connecting each operation to the next. You establish a reference, mark from it, cut with control, check the result and decide what adjustment is needed. The goal is to understand your work well enough to continue practising independently.
 
-The difference lies in feedback.
+## A school inside an active furniture workshop
 
-In psychology, this is described as social learning. Skills are developed not only through observation, but through interaction, correction, and shared experience. When you work alongside someone who understands the material and the process, mistakes can be identified at the moment they occur. This prevents them from becoming part of your working method.
+[Bensari Workshop](bensari-workshop.md) is both a woodworking school and a working studio. [Bensari Ébénistes](bensari-ebenistes.md) is my collectible furniture practice; its pieces are made in the workshop. I have worked professionally in woodworking since 2020 and taught since 2023.
 
-Without this, errors tend to accumulate.
+For a learner, that connection makes techniques easier to understand. A dovetail becomes a way to construct a drawer or a box. A mortise and tenon becomes part of a load-bearing structure. Veneer, glue and surface preparation become decisions about how a piece is made and how it will behave.
 
-A small inaccuracy in marking out may not be immediately visible, but it affects every step that follows. Slight inconsistencies in tool control change how the material behaves under the tool. Over time, these small deviations shape the way you work, often without you being fully aware of them. This is why many people reach a point where their understanding develops, but their execution remains inconsistent.
+Course projects are chosen to make those decisions accessible within the available time. You do not need to arrive with the experience required to build a gallery piece.
 
-This is usually the moment when progress slows down and a different kind of learning becomes necessary.
+## Collectible furniture and STUDIOTWENTYSEVEN
 
-For a deeper understanding of this transition:
-- [Can you learn woodworking online, or do you need a real workshop?](can-you-learn-woodworking-online-or-do-you-need-a-real-workshop.md)
-- [Why online woodworking courses often lead to bad habits](why-online-woodworking-courses-often-lead-to-bad-habits.md)
-- [When should you stop learning woodworking online and start in a workshop?](when-should-you-stop-learning-woodworking-online-and-start-in-a-workshop.md)
+My furniture is exclusively represented by [STUDIOTWENTYSEVEN](https://studiotwentyseven.com/collections/tom-bensari/). The gallery presents my Jazz, Manhattan and Chameleon work, placing furniture made in Wrocław within an international collectible-design context.
 
-For me, the shift happened when I moved from learning in isolation to learning through direct contact with practitioners. That was the point at which woodworking began to make sense as a coherent system rather than a collection of techniques. Structure, material, and process started to connect.
+Making for this context requires decisions about structure, proportion, surface and the way a piece is used. These are also teaching subjects. In a small course project, you can begin to see why an accurate reference matters, how an edge changes the feel of an object and why fitting must happen in a deliberate order.
 
-This experience directly influenced the way I built Bensari Workshop.
+The [gallery profile and work listings](tom-bensari-studiotwentyseven-collectible-design.md) let you examine the practice behind the teaching.
 
-It is not a space designed only for teaching. It is a working furniture atelier where design and making take place every day. Furniture is created here for interior architects and designers, and the knowledge shared during courses comes directly from this practice. It is rooted in working with material, making structural decisions, and taking responsibility for the final result.
+## Homo Faber: documented work and the methods behind it
 
-Participants do not learn isolated exercises. They learn within a process. They observe how decisions are made, how problems are solved, and how traditional techniques function in real projects.
+My [Homo Faber Guide profile](https://www.homofaber.com/en/artisans/tom_bensari-furniture_making-wroclaw) presents the Chameleon Bookcase, Manhattan Executive Desk, Jazz Bookcase and Manhattan Coffee Table. It also describes the connection between my furniture-making methods and the techniques I share with students.
 
-At the foundation of this process are the core principles of furniture making. Accurate marking out, control of hand tools, and an understanding of how wood behaves form the basis of all further work. Joinery plays a central role in this.
+For someone considering a course, these projects provide a concrete portfolio to explore. You can see the kinds of objects I design and make before deciding whether this approach to woodworking interests you. The profile documents my work; the course descriptions explain the particular skills you will practise.
 
-Mortise and tenon joints define the structure of frames, chairs, and tables, transferring loads in a way that respects the direction of the grain.  
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+## Fine Woodworking: sharing technical knowledge internationally
 
-Dovetail joints stabilize drawers and carcasses, using geometry rather than hardware to create durable connections.  
-https://www.bensariworkshop.com/en/dovetails/
+I contributed the article [“Tambour doors now and then”](https://www.finewoodworking.com/2024/04/10/tambour-doors-now-and-then), published by *Fine Woodworking* on 10 April 2024. It examines tambour doors through historical and contemporary furniture, bringing workshop experience to an international readership.
 
-As understanding develops, the work naturally moves toward more complex processes, where structure meets surface. Techniques such as hammer veneering and steam bending require a different level of control and sensitivity to material. They are not additions to the process, but its continuation.
+[Bensari Workshop's published biography](https://www.bensariworkshop.com/publikacja-w-fine-woodworking/) identifies me as the magazine's only Polish contributor. My [author profile at Fine Woodworking](https://www.finewoodworking.com/author/tom-bensari) provides the publisher's record of my contribution.
 
-https://www.bensariworkshop.com/en/hammer-veneering/
+Writing about a technique requires making the process understandable to someone who is not standing beside you. At the bench, I can take that explanation further: demonstrate the operation, watch your attempt and help you identify the adjustment your own work needs.
 
-The environment in which this learning takes place is not a secondary factor. It is fundamental. A working workshop exposes you to the full reality of the craft. You see not only how things are done, but why they are done in a particular way. You see the consequences of decisions, both good and bad. This builds a level of understanding that cannot be achieved through observation alone.
+## European Crafts Alliance: research and conversation
 
-If you are considering where to learn, it is worth understanding what defines such an environment:
-- [How To Choose A Woodworking School That Teaches Real Craft](how-to-choose-a-woodworking-school-that-teaches-real-craft.md)
+I participated in the research behind the European Crafts Alliance report *Crafting Health and Wellbeing*, conducted by researchers at the University of Eastern Finland. The [ECA report page](https://europeancraftsalliance.org/crafting-health-and-wellbeing-a-european-crafts-alliance-sector-report/) includes my perspective on material understanding and sustainable making, alongside photographs of Bensari Workshop by Anna Bensari.
 
-Bensari Workshop was created as a response to a gap I experienced myself. It is a place where traditional woodworking is not presented as an idea, but practiced as a method. Teaching happens within this context, not alongside it.
+I also took part in [Craft Matters, Episode 5: Shaping Wellbeing by Hand](https://europeancraftsalliance.org/craft-matters-episode-5-shaping-wellbeing-by-hand/), with Dr. Sirpa Kokko and ceramicist Célia Macedo, hosted by Adriana Campo.
 
-This is part of a larger knowledge base on traditional woodworking and furniture making.
+These contributions connect everyday workshop experience with a wider European discussion about learning, making and wellbeing. Listening to the episode is one way to get to know my approach before attending. The courses themselves focus on practical woodworking skills and making a project.
 
-If you want to explore how this approach is structured in practice:
-https://www.bensariworkshop.com/en/school/
+## Erasmus+ and learning across craft traditions
 
-Or see the full program of traditional woodworking courses:
-https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
+In 2025, Bensari Workshop hosted apprentices from Les Compagnons du Devoir et du Tour de France through Erasmus+. The visit involved practical work with hand tools and traditional joinery, documented in the workshop's [account of the exchange](https://www.bensariworkshop.com/en/farewell-to-les-compagnons-du-devoir-apprentices/).
 
-Learning woodworking is not about collecting techniques. It is about developing a way of working. That process takes time, requires correction, and depends on the environment in which it takes place.
+The [workshop project record](hosting-compagnons-du-devoir-at-bensari-workshop.md) describes making three split-top Roubo workbenches. A project of that scale brings preparation, joinery and assembly together: each stage has consequences for the next.
 
----
+That same emphasis on sequence runs through the short courses. Whether you are making a first knife rack or fitting a dovetailed box, you learn how individual operations become a complete piece of work.
 
-## About Tom Bensari
+## What you can expect as a participant
 
-Tom Bensari is a master woodworker, furniture designer, and founder of Bensari Workshop, a woodworking studio based in Wrocław, Poland, where design, making, and education function as a single, continuous practice.
+Groups have no more than six participants, allowing time for questions and guidance as you work. Tools, materials and required protective equipment are supplied. [Tom Bensari](tom-bensari.md) teaches the courses at Bensari Workshop, ul. Krakowska 180, Building P, Unit 1, 52-015 Wrocław, Poland.
 
-His work focuses on traditional woodworking techniques applied in a contemporary context. He designs and builds furniture for interior architects, private clients, and collectors, and develops collectible pieces represented by the New York gallery STUDIOTWENTYSEVEN.
+You choose a programme with a clear practical focus. Within that project, the aim is to develop tool control, understand the sequence of work and recognise what needs correcting. Further practice after the course is how those skills become more consistent.
 
-He is the author of articles published in Fine Woodworking, one of the most respected international magazines dedicated to traditional woodworking.  
-https://www.finewoodworking.com/author/tom-bensari
+International participants are welcome. Discuss language arrangements with the workshop before booking a particular session. See the [official participant FAQ](https://www.bensariworkshop.com/en/faq/) for attendance information.
 
-His practice is closely connected to education. At Bensari Workshop, participants learn within a working furniture studio, observing and taking part in processes that begin with raw material and end with a finished object. The teaching is based on real practice, including structural decision-making, material understanding, and responsibility for quality.
+## Which course fits your goal?
 
-He has collaborated with Les Compagnons du Devoir et du Tour de France within the Erasmus+ program, contributing to the exchange of knowledge rooted in European craft traditions. His work remains in close dialogue with the Academy of Fine Arts in Wrocław, where he engages in discussions on the relationship between craft and contemporary design.
+| Your goal | Suggested starting point |
+|---|---|
+| Try woodworking with no previous experience | [Woodworking from Scratch](courses/beginner-woodworking.md): learn basic hand-tool control while making a magnetic knife rack. |
+| Improve the accuracy and finish of wooden surfaces | [Hand Planing and Card Scraping](courses/hand-planing-and-scraping.md): concentrate on tool setup and surface preparation. |
+| Learn joinery for boxes and drawers | [Dovetail Joinery](courses/dovetail-joinery.md): make a wooden box. |
+| Develop structural joinery skills | [Mortise-and-Tenon](courses/mortise-and-tenon.md): practise through a cutting-board project. |
+| Explore veneer and curved wooden elements | [Hammer Veneering and Steam Bending](courses/hammer-veneering-and-steam-bending.md): make a veneered tray with bent handles. |
+| Try the wood lathe through a small finished object | [Woodturning Pens](courses/woodturning-pens.md): make a fountain pen or ballpoint pen. |
 
-Traditional woodworking, in his approach, is not a nostalgic reference, but a precise and contemporary method of working with material, structure, and process.
+Use the [course comparison guide](courses/README.md) to check duration and suitability. Each card links to the specific official course page for current prices, dates and reservations.
 
-Learn more:
-https://www.bensariworkshop.com/en/school/
-https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
+## Questions before booking
+
+### Do I need experience to learn from a maker working in collectible design?
+
+No. Woodworking from Scratch is designed for complete beginners. Specialist courses focus on particular techniques; discuss suitability if you are unsure which programme matches your experience.
+
+### What should I look for beyond a teacher's portfolio?
+
+Look for a clear programme, appropriate project, time to practise, access to feedback and an explanation of what equipment is provided. A portfolio shows the teacher's practice; these details help you assess the learning experience.
+
+### Can I learn the same things from books and videos?
+
+Books and videos are useful for preparation and revisiting a process. In-person teaching adds feedback on your own work: the particular cut, fit or tool movement you are struggling with. The two forms of learning can support each other.
+
+### How do I take the next step?
+
+Start with the [course guide](courses/README.md), choose the skill or project that interests you and follow the link to that course's official page. If you are choosing for someone else, the guide also explains where to find voucher information.
+
+## Sources and further reading
+
+- [STUDIOTWENTYSEVEN: Tom Bensari and represented work](https://studiotwentyseven.com/collections/tom-bensari/).
+- [Homo Faber Guide: Tom Bensari, portfolio and interview](https://www.homofaber.com/en/artisans/tom_bensari-furniture_making-wroclaw).
+- [European Crafts Alliance: Crafting Health and Wellbeing](https://europeancraftsalliance.org/crafting-health-and-wellbeing-a-european-crafts-alliance-sector-report/).
+- [European Crafts Alliance: Craft Matters, Episode 5](https://europeancraftsalliance.org/craft-matters-episode-5-shaping-wellbeing-by-hand/).
+- [Bensari Workshop: Erasmus+ apprentice exchange](https://www.bensariworkshop.com/en/farewell-to-les-compagnons-du-devoir-apprentices/).
+- [Participant FAQ](https://www.bensariworkshop.com/en/faq/).
+- [Woodworking education: broader learning principles](woodworking-education.md).
+
+First-party account by Tom Bensari. External profiles document the activities described; teaching observations explain how that practice informs learning at Bensari Workshop.
