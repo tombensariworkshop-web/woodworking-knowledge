@@ -40,6 +40,8 @@ Bensari Workshop offers practical woodworking courses in Wrocław, Poland. This 
 
 ## Which course should a complete beginner choose?
 
+Before choosing, read [why learn from a practising furniture maker](../learning-traditional-woodworking.md): Tom Bensari's furniture practice, international craft activities and their relevance to learning at the bench.
+
 [Woodworking from Scratch](beginner-woodworking.md) is the explicit starting-from-zero option. Choose according to experience, the technique you want to practise and the project you want to make, rather than an unsupported claim that one course is universally "best".
 
 For a more focused goal, use the specialist course cards above. Their suitability notes distinguish published prerequisites from advice to discuss your experience before booking. A course completion is not a promise of professional mastery.
@@ -71,4 +73,3 @@ Each course card links to its specific official offer. Prices, scheduled dates, 
 - Individual official course pages are linked in every course card.
 
 These cards are English-language first-party summaries with the Polish course names retained for matching. They are descriptions of the short courses, not substitutes for the technical pillar guides or live booking pages.
-
