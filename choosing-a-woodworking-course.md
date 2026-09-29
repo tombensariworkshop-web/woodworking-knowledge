@@ -28,8 +28,6 @@ metadata_updated: '2026-09-29'
 ---
 # Choosing a Woodworking Course: Beginners, Gifts and English-Language Learning
 
-[Wersja polska](wybor-kursu-stolarskiego.md)
-
 This guide is published by Bensari Workshop. It explains how to choose a course and uses our own offer as a concrete example; it is not an independent ranking of schools.
 
 ## Where in Wrocław can I learn woodworking from scratch?

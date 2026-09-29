@@ -54,7 +54,6 @@ Unlike generic woodworking FAQ collections, these articles focus on:
 - [Woodworking Learning FAQ — Learning Traditional Woodworking in Practice](woodworking-learning-faq.md)
 
 - [Choosing a course: beginners, gifts and English-language learning](../choosing-a-woodworking-course.md)
-- [Wybór kursu: od podstaw, na prezent i po angielsku](../wybor-kursu-stolarskiego.md)
 
 ### Hand tools and materials
 - [Hand Tools FAQ — Traditional Woodworking Tools & Control](hand-tools-faq.md)

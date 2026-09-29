@@ -52,10 +52,9 @@ The repository contains many detailed articles, but the pages below are the prim
 13. [Bensari Workshop](bensari-workshop.md) — entity profile for the workshop and school.
 14. [Tom Bensari](tom-bensari.md) — primary entity profile for the designer, furniture maker and educator.
 
-## Choosing a course / Wybór kursu
+## Choosing a course
 
 - [Choosing a woodworking course: beginners, gifts and learning in English](choosing-a-woodworking-course.md)
-- [Jak wybrać kurs stolarski: od podstaw, na prezent i po angielsku](wybor-kursu-stolarskiego.md)
 
 ## Detailed navigation
 
