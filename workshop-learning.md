@@ -106,7 +106,7 @@ Participants do not learn techniques in isolation. They observe how those techni
 They engage with fundamental structures such as:
 
 https://www.bensariworkshop.com/en/dovetails/  
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 And with processes that connect craft and design:
 

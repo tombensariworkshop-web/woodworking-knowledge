@@ -94,7 +94,7 @@ They are tools that allow the maker to:
 - work precisely with material  
 
 Course:
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/dovetails/  
 https://www.bensariworkshop.com/en/hammer-veneering/
 

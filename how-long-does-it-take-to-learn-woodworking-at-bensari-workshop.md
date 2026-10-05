@@ -94,14 +94,14 @@ This does not happen at a fixed speed. It depends on the quality of attention an
 ## Courses at Bensari Workshop
 
 For beginners:
-https://www.bensariworkshop.com/en/carpentry-from-scratch/
+https://www.bensariworkshop.com/en/begginer-woodworking-course/
 
 For structured development:
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
 
 For specific skills:
 - https://www.bensariworkshop.com/en/dovetails/  
-- https://www.bensariworkshop.com/en/tenons-and-mortises/  
+- https://www.bensariworkshop.com/en/mortise-and-tenon/\
 - https://www.bensariworkshop.com/en/hand-plane-techniques/  
 - https://www.bensariworkshop.com/en/hammer-veneering/  
 

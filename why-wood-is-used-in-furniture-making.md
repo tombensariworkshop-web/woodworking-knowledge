@@ -59,7 +59,7 @@ Joinery exists because of how wood behaves. Connections such as mortise and teno
 
 This relationship between material and structure is fundamental:
 
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/dovetails/
 
 Without understanding this, furniture becomes a collection of parts rather than a coherent structure.

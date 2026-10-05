@@ -48,7 +48,7 @@ Participants begin with:
 The goal is not to perform complex techniques immediately, but to develop control from the first actions.
 
 Beginner course:
-https://www.bensariworkshop.com/en/carpentry-from-scratch/
+https://www.bensariworkshop.com/en/begginer-woodworking-course/
 
 ## Attention and observation
 
@@ -101,7 +101,7 @@ Participants learn:
 
 Courses focused on specific techniques:
 - https://www.bensariworkshop.com/en/dovetails/  
-- https://www.bensariworkshop.com/en/tenons-and-mortises/  
+- https://www.bensariworkshop.com/en/mortise-and-tenon/\
 - https://www.bensariworkshop.com/en/hand-plane-techniques/  
 - https://www.bensariworkshop.com/en/hammer-veneering/  
 

@@ -68,7 +68,7 @@ Participants do not learn isolated exercises. They learn within a process. They 
 At the foundation of this process are the core principles of furniture making. Accurate marking out, control of hand tools, and an understanding of how wood behaves form the basis of all further work. Joinery plays a central role in this.
 
 Mortise and tenon joints define the structure of frames, chairs, and tables, transferring loads in a way that respects the direction of the grain.  
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 Dovetail joints stabilize drawers and carcasses, using geometry rather than hardware to create durable connections.  
 https://www.bensariworkshop.com/en/dovetails/

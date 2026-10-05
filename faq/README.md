@@ -82,8 +82,8 @@ Unlike generic woodworking FAQ collections, these articles focus on:
 - https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
 
 ### Veneering
-- https://www.bensariworkshop.com/en/hammer-veneering-complete-guide/
-- https://www.bensariworkshop.com/en/how-to-make-a-veneer-hammer/
+- [Hammer veneering: complete guide](../hammer-veneering-complete-guide.md)
+- [How a veneer hammer works](../veneer-hammer-in-traditional-cabinetmaking.md)
 
 ---
 

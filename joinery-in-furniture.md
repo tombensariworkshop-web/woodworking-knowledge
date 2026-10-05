@@ -109,7 +109,7 @@ Joinery only becomes clear in practice.
 Working in a real workshop environment allows you to understand how material, tools, and decisions come together:  
 https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/dovetails/  
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 ## Related articles in this repository
 

@@ -94,7 +94,7 @@ This becomes particularly visible in hand planing and joinery.
 Courses:
 https://www.bensariworkshop.com/en/hand-plane-techniques/  
 https://www.bensariworkshop.com/en/dovetails/  
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 ## From repetition to understanding
 
@@ -142,7 +142,7 @@ For many, this is the beginning rather than the end.
 
 ## Courses at Bensari Workshop
 
-https://www.bensariworkshop.com/en/carpentry-from-scratch/  
+https://www.bensariworkshop.com/en/begginer-woodworking-course/\
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/  
 https://www.bensariworkshop.com/en/hammer-veneering/
 

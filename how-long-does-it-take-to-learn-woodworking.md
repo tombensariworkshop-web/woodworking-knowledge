@@ -56,7 +56,7 @@ how to work safely and accurately
 At this stage, the goal is not speed, but awareness.
 
 You can explore beginner-level courses here:
-https://www.bensariworkshop.com/en/carpentry-from-scratch/
+https://www.bensariworkshop.com/en/begginer-woodworking-course/
 
 Stage 2: learning control — hand tools and surface work
 
@@ -93,7 +93,7 @@ Dovetail joinery:
 https://www.bensariworkshop.com/en/dovetails/
 
 Mortise and tenon:
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 At this stage, small errors become visible. This is where feedback matters most.
 

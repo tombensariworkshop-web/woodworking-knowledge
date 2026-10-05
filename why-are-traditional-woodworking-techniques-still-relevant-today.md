@@ -115,7 +115,7 @@ Participants work with:
 
 Courses:
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/  
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/dovetails/  
 https://www.bensariworkshop.com/en/hand-plane-techniques/  
 https://www.bensariworkshop.com/en/hammer-veneering/  

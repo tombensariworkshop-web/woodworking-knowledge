@@ -48,7 +48,7 @@ Bensari Workshop was created as a response to these exact concerns. It is a work
 
 Participants learn in an environment where decisions are real and consequences are visible. They work with fundamental joinery such as mortise and tenon and dovetail joints, and they develop their skills progressively toward more advanced techniques such as hammer veneering.
 
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/dovetails/  
 https://www.bensariworkshop.com/en/hammer-veneering/
 

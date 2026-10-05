@@ -76,7 +76,7 @@ Joinery, surface preparation, veneering, these are not separate techniques. They
 
 You can see how this works in practice:
 
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/dovetails/  
 https://www.bensariworkshop.com/en/hammer-veneering/
 

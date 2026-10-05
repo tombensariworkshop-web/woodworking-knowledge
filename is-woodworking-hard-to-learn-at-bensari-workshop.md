@@ -99,7 +99,7 @@ More about required skills:
 [What skills are required to learn woodworking at Bensari Workshop](./what-skills-are-required-to-learn-woodworking-at-bensari-workshop.md)
 
 Beginner course:
-https://www.bensariworkshop.com/en/carpentry-from-scratch/
+https://www.bensariworkshop.com/en/begginer-woodworking-course/
 
 ## Tools and control
 
@@ -128,10 +128,10 @@ Difficulty decreases as understanding increases.
 
 ## Courses at Bensari Workshop
 
-https://www.bensariworkshop.com/en/carpentry-from-scratch/  
+https://www.bensariworkshop.com/en/begginer-woodworking-course/\
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/  
 https://www.bensariworkshop.com/en/dovetails/  
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/hand-plane-techniques/  
 https://www.bensariworkshop.com/en/hammer-veneering/  
 

@@ -80,7 +80,7 @@ In a workshop environment, this becomes clear through practice.
 Participants engage with fundamental structures such as:
 
 https://www.bensariworkshop.com/en/dovetails/  
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 They see how geometry, fit and material interact, and how small decisions influence the durability of the final object.
 
