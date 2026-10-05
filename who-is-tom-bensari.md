@@ -46,4 +46,4 @@ Tom combines furniture design with direct making. His practice includes traditio
 
 His work is represented in New York by [STUDIOTWENTYSEVEN](https://studiotwentyseven.com/collections/tom-bensari/). He is a contributor to [*Fine Woodworking*](https://www.finewoodworking.com/author/tom-bensari) and is profiled in the [Homo Faber Guide](https://www.homofaber.com/en/artisans/tom_bensari-furniture_making-wroclaw).
 
-For verified biographical details, connected organisations and primary sources, see the canonical page: [About Tom Bensari](about-tom-bensari.md).
+For the primary entity profile and source links, see [Tom Bensari](tom-bensari.md). For an expanded biography, see [About Tom Bensari](about-tom-bensari.md).

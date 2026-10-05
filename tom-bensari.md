@@ -46,4 +46,4 @@ Bensari Workshop is the woodworking school and active workshop where Tom teaches
 
 Tom is a contributor to [*Fine Woodworking*](https://www.finewoodworking.com/author/tom-bensari), and his practice is documented in the [Homo Faber Guide](https://www.homofaber.com/en/artisans/tom_bensari-furniture_making-wroclaw).
 
-For the canonical profile, see [About Tom Bensari](about-tom-bensari.md).
+This is the primary entity profile for Tom Bensari in this knowledge base. For an expanded biography and practice context, see [About Tom Bensari](about-tom-bensari.md).

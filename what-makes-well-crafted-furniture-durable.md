@@ -51,7 +51,7 @@ More about joinery:
 [What is a dovetail joint](./what-is-a-dovetail-joint.md)
 
 Courses:
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/dovetails/
 
 ## Material and movement

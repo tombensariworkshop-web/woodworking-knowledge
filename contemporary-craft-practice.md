@@ -84,7 +84,7 @@ In practice, these techniques define structure.
 They determine how elements connect, how forces travel through the object, and how the object behaves over time.
 
 You can see how this works in joinery:  
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/dovetails/
 
 And how it extends to surface and material control:  

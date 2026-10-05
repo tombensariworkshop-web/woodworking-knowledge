@@ -73,7 +73,7 @@ The workshop functions as a working atelier where furniture is designed and buil
 
 They work with fundamental joinery such as mortise and tenon and dovetail joints, and they see how these structures operate in real furniture:
 
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/dovetails/
 
 They also engage with processes such as veneering, understanding not only how they are performed, but why they are used:

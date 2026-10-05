@@ -95,7 +95,7 @@ The joint becomes clear only through practice.
 
 Working in a real workshop environment allows you to understand how decisions, tools, and material interact:  
 https://www.bensariworkshop.com/en/school/
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 ## Related articles in this repository
 

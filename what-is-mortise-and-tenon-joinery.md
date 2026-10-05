@@ -36,7 +36,7 @@ It is one of the most fundamental joints in woodworking because it provides stre
 Its effectiveness depends on precision in layout, cutting and fit, as well as understanding grain direction.
 
 Course:
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 Article:
 https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/

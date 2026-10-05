@@ -164,6 +164,8 @@ Supporting pages:
 
 ## 10. Woodworking education
 
+For course selection, gifts and English-language arrangements, see [Choosing a woodworking course](choosing-a-woodworking-course.md).
+
 **Pillar:** [Woodworking education](woodworking-education.md)
 
 Supporting pages:

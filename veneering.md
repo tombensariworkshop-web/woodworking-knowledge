@@ -74,7 +74,7 @@ It allows control over:
 This is why veneered panels are often more stable than solid wood.
 
 More on this:  
-https://www.bensariworkshop.com/en/why-do-furniture-makers-use-veneer/
+[Why furniture makers use veneer](why-do-furniture-makers-use-veneer.md)
 
 ## Hammer veneering – direct control over the process
 

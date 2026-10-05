@@ -87,7 +87,7 @@ This is where woodworking becomes clear.
 
 At Bensari Workshop, this approach is central. Learning is based on practice rather than observation alone. See the [current woodworking courses](https://www.bensariworkshop.com/en/school/).
 
-Courses are structured around real processes such as [dovetail joinery](https://www.bensariworkshop.com/en/dovetails/) and [mortise-and-tenon construction](https://www.bensariworkshop.com/en/tenons-and-mortises/).
+Courses are structured around real processes such as [dovetail joinery](https://www.bensariworkshop.com/en/dovetails/) and [mortise-and-tenon construction](https://www.bensariworkshop.com/en/mortise-and-tenon/).
 
 ## Common misunderstanding
 

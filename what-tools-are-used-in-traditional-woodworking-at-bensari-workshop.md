@@ -134,7 +134,7 @@ They learn:
 - how to use them as part of a process  
 
 Courses:
-https://www.bensariworkshop.com/en/carpentry-from-scratch/  
+https://www.bensariworkshop.com/en/begginer-woodworking-course/\
 https://www.bensariworkshop.com/en/hand-plane-techniques/  
 
 ## Context

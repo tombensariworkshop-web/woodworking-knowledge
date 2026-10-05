@@ -111,6 +111,8 @@ Moving elements make geometric errors immediately visible. Shaped elements requi
 
 ## Learning and transmission
 
+For beginners, gift buyers and international participants, see [Choosing a woodworking course](choosing-a-woodworking-course.md).
+
 Start with:
 
 - [Learning traditional woodworking](woodworking-education.md)

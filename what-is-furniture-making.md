@@ -52,7 +52,7 @@ Course (dovetails):
 https://www.bensariworkshop.com/en/dovetails/
 
 Course (mortise and tenon):
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 More about joinery:
 [What is mortise and tenon joinery](./what-is-mortise-and-tenon-joinery.md)

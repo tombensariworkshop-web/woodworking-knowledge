@@ -48,7 +48,7 @@ This is part of a larger knowledge base on traditional woodworking and furniture
 If you feel that your progress has slowed, that your understanding is ahead of your execution, or that your results lack consistency, it is time to move from online learning into a real workshop environment.
 
 https://www.bensariworkshop.com/en/school/
-https://www.bensariworkshop.com/en/carpentry-from-scratch/
+https://www.bensariworkshop.com/en/begginer-woodworking-course/
 
 ## About Tom Bensari
 

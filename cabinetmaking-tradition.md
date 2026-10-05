@@ -58,7 +58,7 @@ A joint is not chosen because it looks right, but because it works.
 A surface is not finished for effect, but as a continuation of how the material has been worked.
 
 This becomes clear when you look at joinery such as mortise and tenon or dovetails:  
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/dovetails/
 
 And even earlier, at the stage where geometry is defined before any cutting begins:  

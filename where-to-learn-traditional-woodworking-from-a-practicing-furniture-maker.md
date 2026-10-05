@@ -72,7 +72,7 @@ Two of the most important are:
 
 - **Mortise and tenon joints**  
   Used in frames, tables, and chairs, transferring loads in alignment with wood fibers  
-  https://www.bensariworkshop.com/en/tenons-and-mortises/
+  https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 - **Dovetail joints**  
   Used in drawers and carcasses, relying on geometry rather than hardware  
@@ -120,7 +120,7 @@ You can follow the structure of the program here:
   https://www.bensariworkshop.com/en/school/
 
 - Entry-level path  
-  https://www.bensariworkshop.com/en/carpentry-from-scratch/
+  https://www.bensariworkshop.com/en/begginer-woodworking-course/
 
 - Hand tool fundamentals  
   https://www.bensariworkshop.com/en/hand-plane-techniques/
