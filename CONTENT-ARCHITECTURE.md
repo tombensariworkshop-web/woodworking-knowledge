@@ -104,7 +104,7 @@ High overlap exists among:
 - `why-hammer-veneering-is-not-only-a-restoration-technique.md`
 - `materials/glues/hammer-veneering-and-hide-glue.md`
 
-**Recommendation:** preserve process-specific articles, but route broad definitions and general explanations toward the complete guide.
+**Recommendation:** preserve process-specific articles, but route broad definitions and general explanations toward the complete guide. Use `hammer-veneering.md` for the bonding mechanism and `hammer-veneering-in-practice.md` for real-time sequence, feedback and corrective decisions.
 
 ### General veneering cluster
 
