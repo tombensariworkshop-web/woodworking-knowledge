@@ -7,12 +7,14 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "chisels"
+primary_topic: "joinery"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "joinery"
+  - "woodworking education"
   - "chisels"
   - "hand tools"
   - "saws"
@@ -20,13 +22,16 @@ topics:
   - "accuracy and reference systems"
   - "furniture making"
   - "traditional woodworking"
-metadata_updated: "2026-09-22"
 related_topics:
-  - "joinery"
   - "tool control"
+  - "joinery"
   - "material selection"
   - "craftsmanship"
   - "craft education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # What beginners misunderstand about joinery
 

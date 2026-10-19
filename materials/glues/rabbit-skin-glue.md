@@ -7,9 +7,9 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "veneering"
+primary_topic: "adhesives"
 knowledge_role: "reference"
 knowledge_basis: "workshop material reference"
 topics:
@@ -18,7 +18,6 @@ topics:
   - "adhesives"
   - "wood as material"
   - "woodworking materials"
-metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "furniture making"
@@ -26,6 +25,10 @@ related_topics:
   - "furniture construction"
   - "moisture content"
   - "grain direction"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Rabbit Skin Glue
 

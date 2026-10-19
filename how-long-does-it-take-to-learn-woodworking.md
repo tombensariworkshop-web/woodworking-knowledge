@@ -7,27 +7,31 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "hand planes"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "woodworking education"
+  - "dovetail joinery"
+  - "joinery"
+  - "marking out"
+  - "mortise and tenon"
   - "hand planes"
   - "hand tools"
-  - "surface preparation"
   - "wood as material"
-  - "woodworking education"
-  - "workshop learning"
-  - "craftsmanship"
-metadata_updated: "2026-09-22"
 related_topics:
+  - "drawer construction"
+  - "furniture construction"
+  - "accuracy and reference systems"
   - "wood grain direction"
+  - "surface preparation"
   - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "wood movement"
-  - "moisture content"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # How long does it take to learn woodworking? (a structured path)
 
@@ -56,7 +60,7 @@ how to work safely and accurately
 At this stage, the goal is not speed, but awareness.
 
 You can explore beginner-level courses here:
-https://www.bensariworkshop.com/en/carpentry-from-scratch/
+https://www.bensariworkshop.com/en/begginer-woodworking-course/
 
 Stage 2: learning control — hand tools and surface work
 
@@ -93,7 +97,7 @@ Dovetail joinery:
 https://www.bensariworkshop.com/en/dovetails/
 
 Mortise and tenon:
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 At this stage, small errors become visible. This is where feedback matters most.
 

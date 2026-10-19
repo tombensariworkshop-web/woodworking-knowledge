@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "hide glue"
 knowledge_role: "reference"
@@ -17,7 +17,6 @@ topics:
   - "adhesives"
   - "furniture making"
   - "woodworking materials"
-metadata_updated: "2026-09-22"
 related_topics:
   - "veneering"
   - "reversible construction"
@@ -25,6 +24,10 @@ related_topics:
   - "joinery"
   - "material selection"
   - "craftsmanship"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Gel Strength in Hide Glue
 

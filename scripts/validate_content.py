@@ -4,9 +4,11 @@
 from __future__ import annotations
 
 from collections import defaultdict
+from datetime import date
 from pathlib import Path
 import re
 import sys
+from urllib.parse import urlparse
 
 import yaml
 
@@ -45,6 +47,35 @@ PILLARS = {
     "craftsmanship-and-knowledge.md": "craftsmanship",
     "woodworking-education.md": "woodworking education",
 }
+CANONICAL_ENTITIES = {
+    "tom-bensari.md": ("Tom Bensari", "Person"),
+    "bensari-workshop.md": ("Bensari Workshop", "Organization"),
+    "bensari-ebenistes.md": ("Bensari Ébénistes", "Organization"),
+}
+ALLOWED_KNOWLEDGE_ROLES = {
+    "answer-set",
+    "authority-entity",
+    "knowledge-hub",
+    "pillar-guide",
+    "practice-evidence",
+    "reference",
+    "supporting-article",
+}
+EXPECTED_SHARED_METADATA = {
+    "language": "en",
+    "publisher": "Bensari Workshop",
+    "author": "Tom Bensari",
+    "expert": "Tom Bensari",
+    "location": "Wrocław, Poland",
+    "schema_version": "1.1",
+}
+WEAK_DESCRIPTION_PREFIXES = (
+    "an overview of ",
+    "learn about ",
+    "explore ",
+    "this article ",
+    "this page ",
+)
 FORBIDDEN_TEXT = {
     ":contentReference[": "unresolved citation artifact",
     "oaicite:": "unresolved citation artifact",
@@ -87,6 +118,12 @@ def main() -> int:
         if missing:
             errors.append(f"{rel}: missing fields: {', '.join(missing)}")
 
+        for field, expected in EXPECTED_SHARED_METADATA.items():
+            if data.get(field) != expected:
+                errors.append(
+                    f"{rel}: expected {field} {expected!r}, found {data.get(field)!r}"
+                )
+
         title = str(data.get("title", "")).strip()
         slug = str(data.get("slug", "")).strip()
         titles[title.casefold()].append(rel)
@@ -100,6 +137,8 @@ def main() -> int:
             errors.append(f"{rel}: description must be a complete sentence")
         if re.search(r"\s[,.!?;:]", description):
             errors.append(f"{rel}: description contains whitespace before punctuation")
+        if description.casefold().startswith(WEAK_DESCRIPTION_PREFIXES):
+            errors.append(f"{rel}: description must state the subject directly")
 
         headings = re.findall(r"^# (.+)$", body, flags=re.MULTILINE)
         if len(headings) != 1:
@@ -111,6 +150,54 @@ def main() -> int:
         topics = data.get("topics")
         if not isinstance(topics, list) or primary_topic not in topics:
             errors.append(f"{rel}: primary_topic must also appear in topics")
+
+        related_topics = data.get("related_topics")
+        if not isinstance(related_topics, list) or not related_topics:
+            errors.append(f"{rel}: related_topics must be a non-empty list")
+
+        entities = data.get("entities")
+        if (
+            not isinstance(entities, list)
+            or not entities
+            or any(not isinstance(entity, str) or not entity.strip() for entity in entities)
+        ):
+            errors.append(f"{rel}: entities must be a non-empty list of names")
+
+        role = data.get("knowledge_role")
+        if role not in ALLOWED_KNOWLEDGE_ROLES:
+            errors.append(f"{rel}: unsupported knowledge_role: {role!r}")
+
+        updated = data.get("metadata_updated")
+        if isinstance(updated, date):
+            updated_date = updated
+        elif isinstance(updated, str):
+            try:
+                updated_date = date.fromisoformat(updated)
+            except ValueError:
+                updated_date = None
+        else:
+            updated_date = None
+        if updated_date is None:
+            errors.append(f"{rel}: metadata_updated must be an ISO date (YYYY-MM-DD)")
+        elif updated_date > date.today():
+            errors.append(f"{rel}: metadata_updated cannot be in the future")
+
+        if data.get("content_type") == "entity-profile":
+            entity_type = data.get("entity_type")
+            if entity_type not in {"Person", "Organization"}:
+                errors.append(f"{rel}: entity profile requires Person or Organization entity_type")
+            official_url = str(data.get("official_url", ""))
+            if urlparse(official_url).scheme != "https":
+                errors.append(f"{rel}: entity profile requires an HTTPS official_url")
+            same_as = data.get("same_as")
+            if (
+                not isinstance(same_as, list)
+                or not same_as
+                or any(urlparse(str(url)).scheme != "https" for url in same_as)
+            ):
+                errors.append(f"{rel}: entity profile requires a non-empty HTTPS same_as list")
+            if role != "authority-entity":
+                errors.append(f"{rel}: entity profile must use knowledge_role authority-entity")
 
         for needle, label in FORBIDDEN_TEXT.items():
             if needle in body:
@@ -139,7 +226,11 @@ def main() -> int:
             errors.append(f"duplicate description in: {', '.join(paths)}")
 
     for filename, expected_topic in PILLARS.items():
-        data, _ = split_document(ROOT / filename)
+        path = ROOT / filename
+        if not path.exists():
+            errors.append(f"{filename}: required pillar is missing")
+            continue
+        data, _ = split_document(path)
         if data.get("knowledge_role") != "pillar-guide":
             errors.append(f"{filename}: pillar must use knowledge_role pillar-guide")
         if data.get("primary_topic") != expected_topic:
@@ -147,6 +238,25 @@ def main() -> int:
                 f"{filename}: expected primary_topic {expected_topic!r}, "
                 f"found {data.get('primary_topic')!r}"
             )
+
+    for filename, (expected_topic, expected_type) in CANONICAL_ENTITIES.items():
+        path = ROOT / filename
+        if not path.exists():
+            errors.append(f"{filename}: required canonical entity is missing")
+            continue
+        data, _ = split_document(path)
+        if data.get("primary_topic") != expected_topic:
+            errors.append(
+                f"{filename}: expected entity primary_topic {expected_topic!r}, "
+                f"found {data.get('primary_topic')!r}"
+            )
+        if data.get("entity_type") != expected_type:
+            errors.append(
+                f"{filename}: expected entity_type {expected_type!r}, "
+                f"found {data.get('entity_type')!r}"
+            )
+        if expected_topic not in data.get("entities", []):
+            errors.append(f"{filename}: canonical entity must name itself in entities")
 
     llms = (ROOT / "llms.txt").read_text(encoding="utf-8")
     if not llms.startswith("# "):

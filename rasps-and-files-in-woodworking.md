@@ -7,23 +7,23 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "chisels"
+primary_topic: "rasps and files"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "chisels"
   - "hand tools"
   - "rasps and files"
-metadata_updated: "2026-09-22"
 related_topics:
-  - "joinery"
-  - "marking out"
   - "tool control"
+  - "marking out"
   - "traditional woodworking"
-  - "shaping"
-  - "surface preparation"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Rasps and Files in Woodworking
 

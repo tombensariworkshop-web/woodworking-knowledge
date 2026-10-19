@@ -7,21 +7,28 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "furniture making"
   - "woodworking education"
   - "workshop learning"
+  - "traditional woodworking"
   - "Bensari Workshop"
-metadata_updated: "2026-09-22"
 related_topics:
+  - "joinery"
+  - "material selection"
+  - "craftsmanship"
   - "hand tools"
   - "skill development"
-  - "traditional woodworking"
-  - "furniture making"
+  - "craft education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # When should you stop learning woodworking online and start in a workshop?
 
@@ -48,7 +55,7 @@ This is part of a larger knowledge base on traditional woodworking and furniture
 If you feel that your progress has slowed, that your understanding is ahead of your execution, or that your results lack consistency, it is time to move from online learning into a real workshop environment.
 
 https://www.bensariworkshop.com/en/school/
-https://www.bensariworkshop.com/en/carpentry-from-scratch/
+https://www.bensariworkshop.com/en/begginer-woodworking-course/
 
 ## About Tom Bensari
 

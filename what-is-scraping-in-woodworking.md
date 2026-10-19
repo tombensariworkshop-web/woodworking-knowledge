@@ -7,24 +7,27 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "hand tools"
+primary_topic: "surface preparation"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
-  - "hand tools"
+  - "surface preparation"
   - "furniture making"
   - "surface finishing"
   - "traditional woodworking"
-metadata_updated: "2026-09-22"
 related_topics:
-  - "tool control"
-  - "marking out"
   - "joinery"
   - "material selection"
   - "craftsmanship"
   - "hand planes"
+  - "scraping"
+  - "hand tools"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # What is Scraping in Woodworking
 

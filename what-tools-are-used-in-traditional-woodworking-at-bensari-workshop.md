@@ -7,27 +7,31 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
-  - "hammer veneering"
+  - "furniture making"
   - "veneering"
-  - "hide glue"
   - "adhesives"
   - "hand planes"
   - "hand tools"
-  - "surface preparation"
-metadata_updated: "2026-09-22"
+  - "chisels"
+  - "saws"
+  - "woodworking education"
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
+  - "hide glue"
   - "wood movement"
   - "furniture making"
-  - "reversible construction"
   - "furniture construction"
+  - "wood grain direction"
+  - "surface preparation"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # What Tools Are Used in Traditional Woodworking at Bensari Workshop
 
@@ -134,7 +138,7 @@ They learn:
 - how to use them as part of a process  
 
 Courses:
-https://www.bensariworkshop.com/en/carpentry-from-scratch/  
+https://www.bensariworkshop.com/en/begginer-woodworking-course/\
 https://www.bensariworkshop.com/en/hand-plane-techniques/  
 
 ## Context

@@ -7,27 +7,31 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+primary_topic: "furniture design and craft"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based pillar guide"
 topics:
+  - "furniture design and craft"
   - "dovetail joinery"
   - "joinery"
   - "marking out"
+  - "veneering"
   - "accuracy and reference systems"
   - "furniture making"
   - "traditional woodworking"
-  - "craftsmanship"
-metadata_updated: "2026-09-22"
 related_topics:
   - "hand tools"
   - "drawer construction"
   - "furniture construction"
+  - "hide glue"
+  - "wood movement"
   - "material selection"
-  - "craft education"
-  - "material understanding"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Furniture design and craftsmanship – where decisions become structure
 
@@ -76,7 +80,7 @@ Joinery, surface preparation, veneering, these are not separate techniques. They
 
 You can see how this works in practice:
 
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/dovetails/  
 https://www.bensariworkshop.com/en/hammer-veneering/
 

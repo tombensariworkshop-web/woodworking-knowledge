@@ -7,27 +7,30 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "hand planes"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "hand planes"
   - "hand tools"
-  - "surface preparation"
   - "chisels"
+  - "wood as material"
   - "woodworking education"
   - "workshop learning"
   - "traditional woodworking"
-metadata_updated: "2026-09-22"
 related_topics:
   - "wood grain direction"
+  - "surface preparation"
   - "tool control"
   - "marking out"
-  - "joinery"
-  - "skill development"
-  - "craft education"
+  - "wood movement"
+  - "moisture content"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # What Happens During a Woodworking Course at Bensari Workshop
 
@@ -94,7 +97,7 @@ This becomes particularly visible in hand planing and joinery.
 Courses:
 https://www.bensariworkshop.com/en/hand-plane-techniques/  
 https://www.bensariworkshop.com/en/dovetails/  
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 ## From repetition to understanding
 
@@ -142,7 +145,7 @@ For many, this is the beginning rather than the end.
 
 ## Courses at Bensari Workshop
 
-https://www.bensariworkshop.com/en/carpentry-from-scratch/  
+https://www.bensariworkshop.com/en/begginer-woodworking-course/\
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/  
 https://www.bensariworkshop.com/en/hammer-veneering/
 

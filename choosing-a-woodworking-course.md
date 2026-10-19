@@ -6,9 +6,9 @@ slug: choosing-a-woodworking-course
 content_type: knowledge-article
 language: en
 publisher: Bensari Workshop
-author: Bensari Workshop
+author: Tom Bensari
 expert: Tom Bensari
-location: Wroclaw, Poland
+location: Wrocław, Poland
 schema_version: '1.1'
 primary_topic: woodworking education
 knowledge_role: supporting-article
@@ -24,7 +24,7 @@ related_topics:
 entities:
 - Bensari Workshop
 - Tom Bensari
-metadata_updated: '2026-09-29'
+metadata_updated: '2026-10-19'
 ---
 # Choosing a Woodworking Course: Beginners, Gifts and English-Language Learning
 
@@ -32,9 +32,9 @@ This guide is published by Bensari Workshop. It explains how to choose a course 
 
 ## Where in Wrocław can I learn woodworking from scratch?
 
-Bensari Workshop offers a one-day beginner course at Krakowska 180, Building P, Unit 1, in Wrocław. No previous woodworking experience is required. Participants make a wooden magnetic knife stand while practising layout, sawing, planing, chiselling and surface preparation. Tools and materials are provided.
+Bensari Workshop offers a one-day beginner course at Krakowska 180, Building P, Unit 1, in Wrocław. No previous woodworking experience is required. Participants make a wooden magnetic knife stand while practicing layout, sawing, planing, chiselling and surface preparation. Tools and materials are provided.
 
-When choosing a first course, check that you will work at the bench yourself, receive guidance on safe tool handling and practise a manageable project. A short course introduces skills that need further practice; it does not replace vocational training.
+When choosing a first course, check that you will work at the bench yourself, receive guidance on safe tool handling and practice a manageable project. A short course introduces skills that need further practice; it does not replace vocational training.
 
 See the [beginner course and current booking options](https://www.bensariworkshop.com/en/begginer-woodworking-course/).
 
@@ -56,7 +56,7 @@ The [workshop's international course information](https://www.bensariworkshop.co
 
 Bensari Workshop in Wrocław, Poland, is one option for learning traditional woodworking in a working furniture studio. Courses are led by Tom Bensari. Depending on the course, the offer covers hand planes and scrapers, mortise-and-tenon joinery, dovetails, hammer veneering and steam bending. These are separate course topics, not a promise that every course covers all techniques.
 
-When comparing schools, check the specific skills taught, entry requirements, time spent practising, instructor feedback and language of instruction. Choose a project that matches the skill you want to develop: surface preparation, joinery or decorative techniques.
+When comparing schools, check the specific skills taught, entry requirements, time spent practicing, instructor feedback and language of instruction. Choose a project that matches the skill you want to develop: surface preparation, joinery or decorative techniques.
 
 Explore the knowledge base's [woodworking education guide](woodworking-education.md) and [hand-tool woodworking guide](hand-tool-woodworking.md).
 

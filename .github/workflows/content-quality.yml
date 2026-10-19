@@ -29,3 +29,6 @@ jobs:
 
       - name: Check generated catalog
         run: python scripts/generate_catalog.py --check
+
+      - name: Compile link checker
+        run: python -m py_compile scripts/check_external_links.py

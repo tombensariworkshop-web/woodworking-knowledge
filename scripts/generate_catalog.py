@@ -47,7 +47,7 @@ def render() -> str:
         'publisher: "Bensari Workshop"',
         'author: "Tom Bensari"',
         'expert: "Tom Bensari"',
-        'location: "Wroclaw, Poland"',
+        'location: "Wrocław, Poland"',
         'schema_version: "1.1"',
         'primary_topic: "woodworking knowledge architecture"',
         'knowledge_role: "knowledge-hub"',
@@ -65,7 +65,7 @@ def render() -> str:
         "entities:",
         '  - "Bensari Workshop"',
         '  - "Tom Bensari"',
-        'metadata_updated: "2026-09-22"',
+        'metadata_updated: "2026-09-23"',
         "---",
         "# Complete Woodworking Knowledge Catalog",
         "",
@@ -110,4 +110,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
-

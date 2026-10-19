@@ -7,9 +7,9 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "wood as material"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -17,14 +17,17 @@ topics:
   - "woodworking education"
   - "workshop learning"
   - "Bensari Workshop"
-metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "moisture content"
   - "grain direction"
   - "hand tools"
   - "skill development"
-  - "traditional woodworking"
+  - "Tom Bensari"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # How Long Does It Take to Learn Woodworking at Bensari Workshop
 
@@ -94,14 +97,14 @@ This does not happen at a fixed speed. It depends on the quality of attention an
 ## Courses at Bensari Workshop
 
 For beginners:
-https://www.bensariworkshop.com/en/carpentry-from-scratch/
+https://www.bensariworkshop.com/en/begginer-woodworking-course/
 
 For structured development:
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
 
 For specific skills:
 - https://www.bensariworkshop.com/en/dovetails/  
-- https://www.bensariworkshop.com/en/tenons-and-mortises/  
+- https://www.bensariworkshop.com/en/mortise-and-tenon/\
 - https://www.bensariworkshop.com/en/hand-plane-techniques/  
 - https://www.bensariworkshop.com/en/hammer-veneering/  
 

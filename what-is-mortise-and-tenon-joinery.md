@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "mortise and tenon"
 knowledge_role: "supporting-article"
@@ -15,17 +15,20 @@ knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "mortise and tenon"
   - "joinery"
-  - "furniture construction"
   - "hand tools"
   - "marking out"
   - "accuracy and reference systems"
   - "woodworking education"
-metadata_updated: "2026-09-22"
+  - "workshop learning"
 related_topics:
+  - "furniture construction"
   - "tool control"
   - "traditional woodworking"
-  - "workshop learning"
   - "skill development"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # What Is Mortise and Tenon Joinery
 
@@ -36,7 +39,7 @@ It is one of the most fundamental joints in woodworking because it provides stre
 Its effectiveness depends on precision in layout, cutting and fit, as well as understanding grain direction.
 
 Course:
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 Article:
 https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
