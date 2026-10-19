@@ -7,9 +7,9 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "joinery"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -17,15 +17,20 @@ topics:
   - "joinery"
   - "marking out"
   - "mortise and tenon"
-  - "furniture construction"
   - "accuracy and reference systems"
   - "furniture making"
-metadata_updated: "2026-09-22"
+  - "traditional woodworking"
 related_topics:
   - "hand tools"
   - "drawer construction"
+  - "furniture construction"
   - "material selection"
   - "craftsmanship"
+  - "craft education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Joinery in furniture construction
 
@@ -109,7 +114,7 @@ Joinery only becomes clear in practice.
 Working in a real workshop environment allows you to understand how material, tools, and decisions come together:  
 https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/dovetails/  
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 ## Related articles in this repository
 

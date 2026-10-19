@@ -7,21 +7,22 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "craftsmanship"
+primary_topic: "Tom Bensari"
 knowledge_role: "practice-evidence"
 knowledge_basis: "first-party workshop practice record"
 topics:
-  - "craftsmanship"
   - "Tom Bensari"
-metadata_updated: "2026-09-22"
+  - "craftsmanship"
 related_topics:
-  - "furniture making"
-  - "material understanding"
-  - "collectible design"
   - "Bensari Workshop"
+  - "furniture making"
   - "woodworking education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Tom Bensari and STUDIOTWENTYSEVEN — positioning within the international collectible design scene
 

@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "furniture making"
 knowledge_role: "supporting-article"
@@ -16,13 +16,16 @@ topics:
   - "furniture making"
   - "woodworking education"
   - "workshop learning"
-metadata_updated: "2026-09-22"
 related_topics:
   - "joinery"
   - "material selection"
   - "craftsmanship"
   - "hand tools"
   - "skill development"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # What Is the Difference Between Carpentry and Cabinetmaking
 
@@ -33,7 +36,7 @@ Carpentry is typically associated with structural work and construction on site.
 The difference is not about hierarchy, but about the type of work and level of detail.
 
 Beginner course:
-https://www.bensariworkshop.com/en/carpentry-from-scratch/
+https://www.bensariworkshop.com/en/begginer-woodworking-course/
 
 Related:
 [What is cabinetmaking](./what-is-cabinetmaking.md)

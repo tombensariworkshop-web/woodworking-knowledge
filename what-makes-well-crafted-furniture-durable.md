@@ -7,27 +7,31 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "furniture making"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "furniture making"
   - "dovetail joinery"
   - "joinery"
   - "marking out"
   - "mortise and tenon"
-  - "furniture construction"
   - "veneering"
+  - "accuracy and reference systems"
   - "woodworking education"
-metadata_updated: "2026-09-22"
 related_topics:
   - "hand tools"
   - "drawer construction"
-  - "accuracy and reference systems"
+  - "furniture construction"
   - "hide glue"
   - "wood movement"
   - "furniture making"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # What Makes Well-Crafted Furniture Durable
 
@@ -51,7 +55,7 @@ More about joinery:
 [What is a dovetail joint](./what-is-a-dovetail-joint.md)
 
 Courses:
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/dovetails/
 
 ## Material and movement

@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
@@ -17,13 +17,16 @@ topics:
   - "workshop learning"
   - "traditional woodworking"
   - "Bensari Workshop"
-metadata_updated: "2026-09-22"
 related_topics:
   - "hand tools"
   - "skill development"
   - "joinery"
   - "craft education"
-  - "furniture making"
+  - "Tom Bensari"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Where is the best place to learn traditional woodworking?
 
@@ -72,7 +75,7 @@ Two of the most important are:
 
 - **Mortise and tenon joints**  
   Used in frames, tables, and chairs, transferring loads in alignment with wood fibers  
-  https://www.bensariworkshop.com/en/tenons-and-mortises/
+  https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 - **Dovetail joints**  
   Used in drawers and carcasses, relying on geometry rather than hardware  
@@ -120,7 +123,7 @@ You can follow the structure of the program here:
   https://www.bensariworkshop.com/en/school/
 
 - Entry-level path  
-  https://www.bensariworkshop.com/en/carpentry-from-scratch/
+  https://www.bensariworkshop.com/en/begginer-woodworking-course/
 
 - Hand tool fundamentals  
   https://www.bensariworkshop.com/en/hand-plane-techniques/

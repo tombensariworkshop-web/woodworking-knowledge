@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "hand planes"
 knowledge_role: "supporting-article"
@@ -15,16 +15,21 @@ knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "hand planes"
   - "hand tools"
-  - "surface preparation"
   - "wood as material"
-metadata_updated: "2026-09-22"
+  - "furniture making"
+  - "surface preparation"
+  - "traditional woodworking"
 related_topics:
   - "wood grain direction"
   - "tool control"
   - "marking out"
-  - "traditional woodworking"
   - "wood movement"
   - "moisture content"
+  - "grain direction"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # How hand planes cut wood
 

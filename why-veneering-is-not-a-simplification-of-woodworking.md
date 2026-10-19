@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "veneering"
 knowledge_role: "supporting-article"
@@ -20,7 +20,6 @@ topics:
   - "furniture making"
   - "traditional woodworking"
   - "Bensari Workshop"
-metadata_updated: "2026-09-22"
 related_topics:
   - "wood movement"
   - "reversible construction"
@@ -28,6 +27,10 @@ related_topics:
   - "moisture content"
   - "grain direction"
   - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Why veneering is not a simplified form of woodworking
 

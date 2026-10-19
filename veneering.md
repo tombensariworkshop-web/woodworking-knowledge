@@ -7,27 +7,30 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "veneering"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "hammer veneering"
   - "veneering"
   - "hide glue"
+  - "adhesives"
   - "wood as material"
   - "furniture making"
   - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
   - "wood movement"
-  - "adhesives"
   - "reversible construction"
+  - "furniture construction"
   - "moisture content"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Veneering in woodworking – structure, stability and control
 
@@ -74,7 +77,7 @@ It allows control over:
 This is why veneered panels are often more stable than solid wood.
 
 More on this:  
-https://www.bensariworkshop.com/en/why-do-furniture-makers-use-veneer/
+[Why furniture makers use veneer](why-do-furniture-makers-use-veneer.md)
 
 ## Hammer veneering – direct control over the process
 

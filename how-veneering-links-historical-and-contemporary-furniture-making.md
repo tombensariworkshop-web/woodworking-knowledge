@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "veneering"
 knowledge_role: "supporting-article"
@@ -16,9 +16,8 @@ topics:
   - "veneering"
   - "furniture making"
   - "traditional woodworking"
-  - "craftsmanship"
   - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+  - "craftsmanship"
 related_topics:
   - "hide glue"
   - "wood movement"
@@ -26,6 +25,10 @@ related_topics:
   - "material selection"
   - "hand tools"
   - "craft education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # How does veneering connect historical and contemporary furniture making?
 

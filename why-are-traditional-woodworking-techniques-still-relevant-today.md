@@ -7,27 +7,31 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
+primary_topic: "furniture making"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "furniture making"
   - "dovetail joinery"
   - "joinery"
   - "marking out"
   - "mortise and tenon"
-  - "furniture construction"
   - "hammer veneering"
   - "veneering"
-metadata_updated: "2026-09-22"
+  - "hide glue"
 related_topics:
   - "hand tools"
   - "drawer construction"
+  - "furniture construction"
   - "accuracy and reference systems"
-  - "hide glue"
   - "veneer preparation"
   - "cabinetmaking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Why Are Traditional Woodworking Techniques Still Relevant Today
 
@@ -115,7 +119,7 @@ Participants work with:
 
 Courses:
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/  
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/dovetails/  
 https://www.bensariworkshop.com/en/hand-plane-techniques/  
 https://www.bensariworkshop.com/en/hammer-veneering/  

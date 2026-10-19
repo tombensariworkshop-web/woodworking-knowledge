@@ -7,25 +7,28 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+primary_topic: "mortise and tenon"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based pillar guide"
 topics:
   - "dovetail joinery"
   - "joinery"
   - "marking out"
   - "mortise and tenon"
-  - "furniture construction"
-  - "accuracy and reference systems"
-  - "furniture making"
-metadata_updated: "2026-09-22"
-related_topics:
+  - "chisels"
   - "hand tools"
+  - "accuracy and reference systems"
+related_topics:
   - "drawer construction"
-  - "material selection"
-  - "craftsmanship"
+  - "furniture construction"
+  - "tool control"
+  - "traditional woodworking"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Mortise and tenon joinery
 
@@ -95,7 +98,7 @@ The joint becomes clear only through practice.
 
 Working in a real workshop environment allows you to understand how decisions, tools, and material interact:  
 https://www.bensariworkshop.com/en/school/
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 ## Related articles in this repository
 

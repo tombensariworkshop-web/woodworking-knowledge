@@ -1,13 +1,13 @@
 ---
 title: "Why veneered panels need back veneers – balance, stress and structural stability"
-description: "This page answers the narrow question of why an invisible reverse face is veneered."
+description: "Back veneers balance moisture and stress across a panel, reducing the risk of cupping, bowing and long-term distortion."
 slug: "why-veneered-panels-need-back-veneers"
 content_type: "knowledge-article"
 language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "veneering"
 knowledge_role: "supporting-article"
@@ -19,7 +19,6 @@ topics:
   - "furniture making"
   - "traditional woodworking"
   - "Bensari Workshop"
-metadata_updated: "2026-09-22"
 related_topics:
   - "hide glue"
   - "wood movement"
@@ -27,6 +26,10 @@ related_topics:
   - "moisture content"
   - "grain direction"
   - "joinery"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Why veneered panels need back veneers – balance, stress and structural stability
 

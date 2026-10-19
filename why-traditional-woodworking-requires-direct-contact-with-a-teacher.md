@@ -7,23 +7,30 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "marking out"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "furniture making"
+  - "dovetail joinery"
+  - "joinery"
   - "marking out"
   - "accuracy and reference systems"
   - "woodworking education"
   - "workshop learning"
   - "traditional woodworking"
-metadata_updated: "2026-09-22"
 related_topics:
-  - "joinery"
   - "hand tools"
+  - "drawer construction"
+  - "furniture construction"
   - "skill development"
   - "craft education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Why traditional woodworking requires direct contact with a teacher
 
@@ -73,7 +80,7 @@ The workshop functions as a working atelier where furniture is designed and buil
 
 They work with fundamental joinery such as mortise and tenon and dovetail joints, and they see how these structures operate in real furniture:
 
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/\
 https://www.bensariworkshop.com/en/dovetails/
 
 They also engage with processes such as veneering, understanding not only how they are performed, but why they are used:

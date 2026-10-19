@@ -7,9 +7,9 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "saws"
+primary_topic: "woodworking education"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
@@ -19,12 +19,16 @@ topics:
   - "accuracy and reference systems"
   - "woodworking education"
   - "workshop learning"
-metadata_updated: "2026-09-22"
-related_topics:
-  - "joinery"
-  - "tool control"
   - "traditional woodworking"
+related_topics:
+  - "tool control"
+  - "joinery"
   - "skill development"
+  - "craft education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Woodworking workshop vs online course: which is better?
 

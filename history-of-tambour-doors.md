@@ -7,24 +7,27 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "tambour doors"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
   - "tambour doors"
-  - "furniture construction"
   - "furniture making"
   - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+  - "furniture construction"
 related_topics:
   - "wood movement"
   - "veneering"
   - "joinery"
   - "material selection"
   - "craftsmanship"
-  - "woodworking education"
+  - "Tom Bensari"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # The History of Tambour Doors
 

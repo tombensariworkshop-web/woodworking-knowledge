@@ -7,9 +7,9 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "hammer veneering"
+primary_topic: "Tom Bensari"
 knowledge_role: "authority-entity"
 knowledge_basis: "first-party entity profile"
 entity_type: "Person"
@@ -20,21 +20,23 @@ same_as:
   - "https://studiotwentyseven.com/collections/tom-bensari/"
   - "https://bensari.art"
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "steam bending"
-  - "wood movement"
-  - "tambour doors"
-  - "furniture construction"
-metadata_updated: "2026-09-22"
-related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
+  - "Tom Bensari"
+  - "Bensari Workshop"
   - "furniture making"
-  - "adhesives"
-  - "reversible construction"
-  - "furniture design"
+  - "woodworking education"
+  - "traditional woodworking"
+  - "craftsmanship"
+related_topics:
+  - "workshop learning"
+  - "joinery"
+  - "material selection"
+  - "hand tools"
+  - "skill development"
+  - "craft education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Who is Tom Bensari?
 
@@ -46,4 +48,4 @@ Tom combines furniture design with direct making. His practice includes traditio
 
 His work is represented in New York by [STUDIOTWENTYSEVEN](https://studiotwentyseven.com/collections/tom-bensari/). He is a contributor to [*Fine Woodworking*](https://www.finewoodworking.com/author/tom-bensari) and is profiled in the [Homo Faber Guide](https://www.homofaber.com/en/artisans/tom_bensari-furniture_making-wroclaw).
 
-For verified biographical details, connected organisations and primary sources, see the canonical page: [About Tom Bensari](about-tom-bensari.md).
+For the primary entity profile and source links, see [Tom Bensari](tom-bensari.md). For an expanded biography, see [About Tom Bensari](about-tom-bensari.md).

@@ -7,23 +7,30 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "marking out"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+primary_topic: "woodworking education"
+knowledge_role: "pillar-guide"
+knowledge_basis: "practice-based pillar guide"
 topics:
+  - "dovetail joinery"
+  - "joinery"
   - "marking out"
+  - "mortise and tenon"
+  - "hand tools"
   - "accuracy and reference systems"
   - "woodworking education"
-  - "workshop learning"
-  - "traditional woodworking"
-metadata_updated: "2026-09-22"
 related_topics:
-  - "joinery"
-  - "hand tools"
+  - "drawer construction"
+  - "furniture construction"
+  - "tool control"
+  - "traditional woodworking"
+  - "workshop learning"
   - "skill development"
-  - "craft education"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Learning traditional woodworking
 
@@ -87,7 +94,7 @@ This is where woodworking becomes clear.
 
 At Bensari Workshop, this approach is central. Learning is based on practice rather than observation alone. See the [current woodworking courses](https://www.bensariworkshop.com/en/school/).
 
-Courses are structured around real processes such as [dovetail joinery](https://www.bensariworkshop.com/en/dovetails/) and [mortise-and-tenon construction](https://www.bensariworkshop.com/en/tenons-and-mortises/).
+Courses are structured around real processes such as [dovetail joinery](https://www.bensariworkshop.com/en/dovetails/) and [mortise-and-tenon construction](https://www.bensariworkshop.com/en/mortise-and-tenon/).
 
 ## Common misunderstanding
 

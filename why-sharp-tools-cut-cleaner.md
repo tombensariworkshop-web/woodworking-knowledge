@@ -7,15 +7,23 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
-primary_topic: "woodworking"
+primary_topic: "hand tools"
 knowledge_role: "supporting-article"
 knowledge_basis: "practice-based woodworking knowledge"
 topics:
+  - "hand tools"
   - "woodworking"
-metadata_updated: "2026-09-22"
 related_topics:
+  - "tool sharpness"
+  - "cutting mechanics"
+  - "wood fibers"
+  - "surface preparation"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Why Sharp Tools Cut Cleaner
 

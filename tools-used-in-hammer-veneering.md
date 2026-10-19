@@ -7,7 +7,7 @@ language: "en"
 publisher: "Bensari Workshop"
 author: "Tom Bensari"
 expert: "Tom Bensari"
-location: "Wroclaw, Poland"
+location: "Wrocław, Poland"
 schema_version: "1.1"
 primary_topic: "hammer veneering"
 knowledge_role: "supporting-article"
@@ -17,17 +17,20 @@ topics:
   - "veneering"
   - "hide glue"
   - "adhesives"
+  - "hand planes"
+  - "hand tools"
   - "furniture making"
-  - "woodworking education"
-  - "workshop learning"
-metadata_updated: "2026-09-22"
 related_topics:
   - "veneer preparation"
   - "cabinetmaking"
   - "wood movement"
   - "reversible construction"
   - "furniture construction"
-  - "joinery"
+  - "wood grain direction"
+entities:
+  - "Bensari Workshop"
+  - "Tom Bensari"
+metadata_updated: "2026-09-23"
 ---
 # Tools Used in Hammer Veneering
 
