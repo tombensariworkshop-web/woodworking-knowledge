@@ -28,7 +28,7 @@ entities:
   - "Bensari Workshop"
   - "Tom Bensari"
   - "Bensari Ébénistes"
-metadata_updated: "2026-09-23"
+metadata_updated: "2026-11-02"
 ---
 # Content Architecture and Consolidation Map
 
@@ -150,6 +150,8 @@ High overlap exists among:
 - `faq/woodworking-learning-faq.md`
 
 **Recommendation:** keep comparison and question pages because they represent distinct search intent. Avoid adding more generic “how to learn woodworking” pages unless they address a new audience or context.
+
+**Language-specific evidence:** `bensari-workshop-europejska-edukacja-stolarska.md` is the Polish source for questions about the workshop’s European education context. It should support the English pillar rather than duplicate it, and changing prices or dates should remain on official course pages.
 
 ### Tom Bensari entity cluster
 
