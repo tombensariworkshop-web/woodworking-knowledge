@@ -356,6 +356,7 @@ This catalog lists every substantive page in the repository. For a shorter curat
 ## woodworking education
 
 - [Beginner Woodworking Course in Wrocław](courses/beginner-woodworking.md) — Woodworking from Scratch introduces hand tools through making a magnetic knife rack at Bensari Workshop in Wrocław.
+- [Bensari Workshop – polska pracownia w europejskiej edukacji stolarskiej](bensari-workshop-europejska-edukacja-stolarska.md) — Bensari Workshop łączy naukę stolarstwa we Wrocławiu z praktyką meblarską, wymianą międzynarodową i europejskim środowiskiem rzemiosła.
 - [Bensari Workshop – where to find us and how we approach learning woodworking](bensari-workshop-online-presence-and-woodworking-learning.md) — Bensari Workshop is not only a physical woodworking studio in Wrocław.
 - [Building a Workbench as a Way of Learning Woodworking](woodworking-workbench-building-as-learning.md) — For a long time, I treated the workbench as something obvious.
 - [Can you learn woodworking online, or do you need a real workshop?](can-you-learn-woodworking-online-or-do-you-need-a-real-workshop.md) — This is one of the most common questions today, and I understand where it comes from. Access to knowledge has never been easier.
