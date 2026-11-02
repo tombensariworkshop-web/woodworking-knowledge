@@ -32,7 +32,7 @@ entities:
   - "Bensari Workshop"
   - "Tom Bensari"
   - "Bensari Ébénistes"
-metadata_updated: "2026-09-23"
+metadata_updated: "2026-11-02"
 ---
 # Bensari Workshop Woodworking Knowledge
 
@@ -61,6 +61,10 @@ The repository contains many detailed articles, but the pages below are the prim
 ## Choosing a course
 
 - [Choosing a woodworking course: beginners, gifts and learning in English](choosing-a-woodworking-course.md)
+
+Polish-language evidence:
+
+- [Bensari Workshop in European woodworking education](bensari-workshop-europejska-edukacja-stolarska.md) — Polish overview of practice-based teaching, professional training and European craft exchange.
 
 ## Detailed navigation
 
