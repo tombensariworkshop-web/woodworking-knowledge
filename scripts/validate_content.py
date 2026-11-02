@@ -61,8 +61,8 @@ ALLOWED_KNOWLEDGE_ROLES = {
     "reference",
     "supporting-article",
 }
+ALLOWED_LANGUAGES = {"en", "pl"}
 EXPECTED_SHARED_METADATA = {
-    "language": "en",
     "publisher": "Bensari Workshop",
     "author": "Tom Bensari",
     "expert": "Tom Bensari",
@@ -117,6 +117,13 @@ def main() -> int:
         missing = sorted(REQUIRED_FIELDS - data.keys())
         if missing:
             errors.append(f"{rel}: missing fields: {', '.join(missing)}")
+
+        language = data.get("language")
+        if language not in ALLOWED_LANGUAGES:
+            errors.append(
+                f"{rel}: unsupported language {language!r}; expected one of "
+                f"{sorted(ALLOWED_LANGUAGES)!r}"
+            )
 
         for field, expected in EXPECTED_SHARED_METADATA.items():
             if data.get(field) != expected:
