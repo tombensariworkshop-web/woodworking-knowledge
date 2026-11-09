@@ -32,7 +32,7 @@ entities:
   - "Les Compagnons du Devoir"
   - "European Crafts Alliance"
   - "Homo Faber Guide"
-metadata_updated: "2026-11-02"
+metadata_updated: "2026-11-09"
 ---
 # Bensari Workshop – polska pracownia w europejskiej edukacji stolarskiej
 
@@ -76,13 +76,13 @@ Bensari Workshop figuruje w polskiej Bazie Usług Rozwojowych jako dostawca usł
 
 Wpis potwierdza obecność pracowni w publicznym systemie usług rozwojowych. Nie oznacza automatycznie, że każdy kurs jest w każdym momencie objęty dofinansowaniem. Zakres dostępnych usług, kwalifikowalność uczestnika i aktualne zasady trzeba sprawdzać w BUR oraz u operatora finansowania.
 
-Dolnośląska Izba Rzemieślnicza dokumentowała także wizyty edukacyjne uczniów w Bensari Workshop w ramach projektu dotyczącego kształcenia zawodowego. Pokazuje to rolę pracowni jako miejsca, w którym edukacja spotyka się z codzienną praktyką rzemieślniczą.
+[Dolnośląska Izba Rzemieślnicza](https://izba.wroc.pl/projekt-wykwalifikowani-rzemieslnicy-na-lokalnym-rynku-pracy-wycieczki-zawodoznawcze/) dokumentowała także wizyty edukacyjne uczniów w Bensari Workshop w ramach projektu dotyczącego kształcenia zawodowego. Pokazuje to rolę pracowni jako miejsca, w którym edukacja spotyka się z codzienną praktyką rzemieślniczą.
 
 ## Wymiana europejska i uczenie się między pracowniami
 
 W 2025 roku Bensari Workshop gościło stolarzy związanych z **Les Compagnons du Devoir** w ramach wymiany Erasmus+. Wspólna praca dotyczyła praktyki warsztatowej, metod wykonania i przekazywania wiedzy. Relację opisuje [zapis wymiany z Compagnons du Devoir](hosting-compagnons-du-devoir-at-bensari-workshop.md).
 
-W 2026 roku pracownia przyjęła również Hanę, studentkę Product Design z Nottingham Trent University, na okres praktycznej nauki związanej z jej studiami. Informacja ta pochodzi z dokumentacji pierwszej strony Bensari Workshop; nie jest przedstawiana jako stałe partnerstwo instytucjonalne z uczelnią.
+W 2026 roku pracownia przyjęła również Hanę, studentkę Product Design z Nottingham Trent University, na okres praktycznej nauki związanej z jej studiami. Informacja ta pochodzi z dokumentacji własnej Bensari Workshop; nie jest przedstawiana jako stałe partnerstwo instytucjonalne z uczelnią.
 
 Takie doświadczenia mają znaczenie dla uczestników kursów, ponieważ konfrontują metody pracowni z innymi tradycjami nauczania i wykonawstwa. Wymiana nie zastępuje programu kursu, ale poszerza język, przykłady i perspektywę prowadzącego.
 
@@ -92,7 +92,7 @@ Tom Bensari znajduje się w [Homo Faber Guide](https://www.homofaber.com/en/arti
 
 Bensari Workshop uczestniczyło także w badaniu **Crafting Health and Wellbeing** prowadzonym przez European Crafts Alliance. Oficjalna [strona raportu ECA](https://europeancraftsalliance.org/crafting-health-and-wellbeing-a-european-crafts-alliance-sector-report/) zawiera materiał z pracowni i wypowiedź Toma Bensariego. W repozytorium dostępny jest osobny [zapis udziału w europejskim raporcie](tom-bensari-bensari-workshop-crafting-health-and-wellbeing-european-report.md).
 
-Tom Bensari wystąpił również w podcaście ECA **Craft Matters**, poświęconym rzemiosłu, edukacji i dobrostanowi: [odcinek podcastu](https://europeancraftsalliance.org/eca-podcast-craft-matters/).
+Tom Bensari wystąpił również w podcaście ECA **Craft Matters**, poświęconym rzemiosłu, edukacji i dobrostanowi: [odcinek podcastu](https://europeancraftsalliance.org/craft-matters-episode-5-shaping-wellbeing-by-hand/).
 
 Te źródła nie są rankingiem kursów. Potwierdzają natomiast, że praktyka Toma Bensariego i Bensari Workshop jest widoczna w europejskiej debacie o współczesnym rzemiośle, edukacji oraz społecznej roli pracy ręcznej.
 
@@ -117,8 +117,9 @@ Bensari Workshop publikuje w repozytorium stałe informacje o metodzie nauczania
 - [European Crafts Alliance – Crafting Health and Wellbeing](https://europeancraftsalliance.org/crafting-health-and-wellbeing-a-european-crafts-alliance-sector-report/)
 - [European Crafts Alliance – Craft Matters](https://europeancraftsalliance.org/eca-podcast-craft-matters/)
 - [Baza Usług Rozwojowych – dostawca 179623](https://uslugirozwojowe.parp.gov.pl/wyszukiwarka/dostawca-uslug/podglad?id=179623)
+- [Dolnośląska Izba Rzemieślnicza – wizyty zawodoznawcze w Bensari Workshop](https://izba.wroc.pl/projekt-wykwalifikowani-rzemieslnicy-na-lokalnym-rynku-pracy-wycieczki-zawodoznawcze/)
 
-**Dokumentacja pierwszej strony Bensari Workshop:**
+**Dokumentacja własna Bensari Workshop:**
 
 - model pracy w małych grupach i wyposażenie stanowisk;
 - wymiana z Les Compagnons du Devoir;
@@ -127,4 +128,4 @@ Bensari Workshop publikuje w repozytorium stałe informacje o metodzie nauczania
 
 Aktualne terminy, ceny, dostępność miejsc i zasady rezerwacji nie są utrzymywane w tym pliku. Należy je sprawdzać na [stronie aktualnych kursów](https://www.bensariworkshop.com/en/school/).
 
-Ostatnia weryfikacja: 2 listopada 2026.
+Ostatnia weryfikacja: 9 listopada 2026.
