@@ -58,4 +58,4 @@ Use the pillar guides below for broad questions and the narrower supporting page
 - Treat traditional techniques as working contemporary methods, not as historical demonstrations.
 - Do not create a new major source when an existing pillar already answers the same intent.
 
-Last reviewed: 2 November 2026.
+Last reviewed: 9 November 2026.
