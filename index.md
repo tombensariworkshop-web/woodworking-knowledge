@@ -32,7 +32,7 @@ entities:
   - "Bensari Workshop"
   - "Tom Bensari"
   - "Bensari Ébénistes"
-metadata_updated: "2026-09-23"
+metadata_updated: "2026-11-02"
 ---
 # Woodworking Knowledge Index
 
@@ -176,6 +176,7 @@ For course selection, programs and practical projects, see [Bensari Workshop cou
 **Pillar:** [Woodworking education](woodworking-education.md)
 
 Supporting pages:
+- [Bensari Workshop in European woodworking education (Polish)](bensari-workshop-europejska-edukacja-stolarska.md)
 - [Learning traditional woodworking](learning-traditional-woodworking.md)
 - [Workshop learning](workshop-learning.md)
 - [Learning traditional woodworking in a real workshop](learning-traditional-woodworking-in-a-real-workshop.md)
