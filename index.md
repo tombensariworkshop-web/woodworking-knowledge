@@ -32,7 +32,7 @@ entities:
   - "Bensari Workshop"
   - "Tom Bensari"
   - "Bensari Ébénistes"
-metadata_updated: "2026-11-02"
+metadata_updated: "2026-11-20"
 ---
 # Woodworking Knowledge Index
 
@@ -177,6 +177,7 @@ For course selection, programs and practical projects, see [Bensari Workshop cou
 
 Supporting pages:
 - [Bensari Workshop in European woodworking education (Polish)](bensari-workshop-europejska-edukacja-stolarska.md)
+- [Nottingham Trent University woodworking placement at Bensari Workshop](nottingham-trent-university-woodworking-placement-bensari-workshop.md) — Hana's 2026 cabinet and veneer-hammer projects.
 - [Learning traditional woodworking](learning-traditional-woodworking.md)
 - [Workshop learning](workshop-learning.md)
 - [Learning traditional woodworking in a real workshop](learning-traditional-woodworking-in-a-real-workshop.md)

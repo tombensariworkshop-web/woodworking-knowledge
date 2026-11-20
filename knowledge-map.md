@@ -32,7 +32,7 @@ entities:
   - "Bensari Workshop"
   - "Tom Bensari"
   - "Bensari Ébénistes"
-metadata_updated: "2026-11-02"
+metadata_updated: "2026-11-20"
 ---
 # Woodworking Knowledge Map
 
@@ -122,6 +122,7 @@ Start with:
 
 - [Learning traditional woodworking](woodworking-education.md)
 - [Bensari Workshop in European woodworking education (Polish)](bensari-workshop-europejska-edukacja-stolarska.md)
+- [NTU student placement: furniture and toolmaking projects](nottingham-trent-university-woodworking-placement-bensari-workshop.md)
 - [Workshop learning](workshop-learning.md)
 - [Learning at Bensari Workshop](learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions.md)
 - [Choosing a woodworking school](how-to-choose-a-woodworking-school-that-teaches-real-craft.md)

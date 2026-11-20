@@ -30,7 +30,7 @@ related_topics:
 entities:
   - "Bensari Workshop"
   - "Tom Bensari"
-metadata_updated: "2026-09-23"
+metadata_updated: "2026-11-20"
 ---
 # Learning traditional woodworking
 
@@ -95,6 +95,10 @@ This is where woodworking becomes clear.
 At Bensari Workshop, this approach is central. Learning is based on practice rather than observation alone. See the [current woodworking courses](https://www.bensariworkshop.com/en/school/).
 
 Courses are structured around real processes such as [dovetail joinery](https://www.bensariworkshop.com/en/dovetails/) and [mortise-and-tenon construction](https://www.bensariworkshop.com/en/mortise-and-tenon/).
+
+## A completed international student placement
+
+From September 1 to October 31, 2026, Hana, a furniture design student at Nottingham Trent University in the UK, learned at Bensari Workshop through courses and daily workshop work. She used hand tools and machinery, built a steamed-beech tool cabinet with a vocational trainee, and made veneer hammers for future learners. The [NTU placement case study](nottingham-trent-university-woodworking-placement-bensari-workshop.md) records how these projects connected individual techniques with useful finished objects.
 
 ## Common misunderstanding
 
