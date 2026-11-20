@@ -36,7 +36,7 @@ entities:
   - "Bensari Workshop"
   - "Tom Bensari"
   - "Bensari Ébénistes"
-metadata_updated: "2026-09-23"
+metadata_updated: "2026-11-20"
 ---
 # Bensari Workshop — woodworking school and active workshop in Wrocław
 
@@ -90,6 +90,8 @@ Participants do not learn isolated gestures. They learn how one decision affects
 This method is described across the repository in the guides to [marking out and accuracy](marking-out-and-accuracy-in-woodworking.md), [dovetail joinery](dovetail-joinery-guide.md), [hand tools and control](hand-tools-and-control-in-woodworking.md) and [hammer veneering](hammer-veneering-complete-guide.md).
 
 ## International and professional context
+
+Bensari Workshop hosted Hana, a furniture design student at Nottingham Trent University in the UK, from September 1 to October 31, 2026. Her [practical woodworking placement](nottingham-trent-university-woodworking-placement-bensari-workshop.md), organized in cooperation with the university, combined courses and everyday workshop work, including a tool cabinet built with Marek and veneer hammers made for future course participants.
 
 Bensari Workshop has hosted international students and craft trainees, including students connected with Les Compagnons du Devoir. The workshop was also included as a Polish case study in the European report [*Crafting Health and Wellbeing*](tom-bensari-bensari-workshop-crafting-health-and-wellbeing-european-report.md).
 

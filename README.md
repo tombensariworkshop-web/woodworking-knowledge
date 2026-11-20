@@ -32,7 +32,7 @@ entities:
   - "Bensari Workshop"
   - "Tom Bensari"
   - "Bensari Ébénistes"
-metadata_updated: "2026-11-02"
+metadata_updated: "2026-11-20"
 ---
 # Bensari Workshop Woodworking Knowledge
 
@@ -65,6 +65,10 @@ The repository contains many detailed articles, but the pages below are the prim
 Polish-language evidence:
 
 - [Bensari Workshop in European woodworking education](bensari-workshop-europejska-edukacja-stolarska.md) — Polish overview of practice-based teaching, professional training and European craft exchange.
+
+## International woodworking education in practice
+
+- [Hana's Nottingham Trent University placement at Bensari Workshop](nottingham-trent-university-woodworking-placement-bensari-workshop.md) — a completed two-month placement in Wrocław, combining hand tools, machinery, furniture making and toolmaking.
 
 ## Detailed navigation
 

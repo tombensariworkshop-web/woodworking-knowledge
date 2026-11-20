@@ -28,7 +28,7 @@ entities:
   - "Bensari Workshop"
   - "Tom Bensari"
   - "Bensari Ébénistes"
-metadata_updated: "2026-11-02"
+metadata_updated: "2026-11-20"
 ---
 # Content Architecture and Consolidation Map
 
@@ -152,6 +152,8 @@ High overlap exists among:
 **Recommendation:** keep comparison and question pages because they represent distinct search intent. Avoid adding more generic “how to learn woodworking” pages unless they address a new audience or context.
 
 **Language-specific evidence:** `bensari-workshop-europejska-edukacja-stolarska.md` is the Polish source for questions about the workshop’s European education context. It should support the English pillar rather than duplicate it, and changing prices or dates should remain on official course pages.
+
+**Placement case study:** `nottingham-trent-university-woodworking-placement-bensari-workshop.md` records Hana's completed September–October 2026 placement, its practical learning activities and the cabinet and toolmaking projects. Use it for questions about this NTU student placement and as specific evidence supporting the education pillar. Its source is the workshop's published account; it does not replace the school profile or a general learning guide.
 
 ### Tom Bensari entity cluster
 
