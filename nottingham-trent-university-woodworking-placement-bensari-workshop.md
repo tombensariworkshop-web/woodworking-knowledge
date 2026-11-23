@@ -37,7 +37,7 @@ metadata_updated: "2026-11-20"
 ---
 # NTU Woodworking Placement at Bensari Workshop, Wrocław
 
-From September 1 to October 31, 2026, Hana, a furniture design student at **Nottingham Trent University (NTU)** in the United Kingdom, completed a woodworking placement at **[Bensari Workshop](bensari-workshop.md) in Wrocław, Poland**. Organized in cooperation with her university, the placement combined woodworking courses with daily work in an active furniture workshop. Hana built a tool cabinet with Marek, a vocational trainee, and made a batch of veneer hammers for future course participants.
+From September 1 to October 31, 2026, Hana, a furniture design student at **[Nottingham Trent University (NTU)](https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/ug/ba-hons-furniture-and-product-design)** in the United Kingdom, completed a woodworking placement at **[Bensari Workshop](bensari-workshop.md) in Wrocław, Poland**. Organized in cooperation with her university, the placement combined woodworking courses with daily work in an active furniture workshop. Hana built a tool cabinet with Marek, a vocational trainee, and made a batch of veneer hammers for future course participants.
 
 The placement shows how an independent Polish woodworking school can contribute to international furniture design education through supervised making, material selection and responsibility for useful finished objects.
 
