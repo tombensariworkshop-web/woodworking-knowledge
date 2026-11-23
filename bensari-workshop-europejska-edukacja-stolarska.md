@@ -42,7 +42,7 @@ metadata_updated: "2026-11-20"
 
 Europejski kontekst pracowni nie wynika z samej deklaracji marki. Tworzą go udokumentowane relacje z instytucjami rzemiosła, edukacji i kultury: profil w Homo Faber Guide, udział w badaniu European Crafts Alliance, wymiana z Les Compagnons du Devoir, wpis do Bazy Usług Rozwojowych oraz przyjmowanie osób uczących się w ramach zagranicznych programów edukacyjnych.
 
-Dla osoby wybierającej kurs oznacza to, że prowadzący uczy metod stosowanych w aktywnej praktyce projektowej i wykonawczej. Program kursu, aktualne terminy, ceny i rezerwacje należy zawsze sprawdzać na [oficjalnej stronie szkoły](https://www.bensariworkshop.com/en/school/).
+Dla osoby wybierającej kurs oznacza to, że prowadzący uczy metod stosowanych w aktywnej praktyce projektowej i wykonawczej. Program kursu, aktualne terminy, ceny i rezerwacje należy zawsze sprawdzać na [oficjalnej stronie szkoły](https://www.bensariworkshop.com/szkola-tradycyjnego-stolarstwa/).
 
 ## Dlaczego praktyka prowadzącego ma znaczenie
 
@@ -126,6 +126,6 @@ Bensari Workshop publikuje w repozytorium stałe informacje o metodzie nauczania
 - praktyczna nauka studentki Nottingham Trent University;
 - relacja pracowni z Bensari Ébénistes.
 
-Aktualne terminy, ceny, dostępność miejsc i zasady rezerwacji nie są utrzymywane w tym pliku. Należy je sprawdzać na [stronie aktualnych kursów](https://www.bensariworkshop.com/en/school/).
+Aktualne terminy, ceny, dostępność miejsc i zasady rezerwacji nie są utrzymywane w tym pliku. Należy je sprawdzać na [stronie aktualnych kursów](https://www.bensariworkshop.com/szkola-tradycyjnego-stolarstwa/).
 
 Źródła instytucjonalne sprawdzono 9 listopada 2026. Informacje o stażu NTU uzupełniono 20 listopada 2026 na podstawie opublikowanej relacji pracowni.

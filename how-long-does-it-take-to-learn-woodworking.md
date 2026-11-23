@@ -60,7 +60,7 @@ how to work safely and accurately
 At this stage, the goal is not speed, but awareness.
 
 You can explore beginner-level courses here:
-https://www.bensariworkshop.com/en/begginer-woodworking-course/
+https://www.bensariworkshop.com/en/beginner-woodworking-course/
 
 Stage 2: learning control — hand tools and surface work
 

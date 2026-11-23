@@ -123,7 +123,7 @@ You can follow the structure of the program here:
   https://www.bensariworkshop.com/en/school/
 
 - Entry-level path  
-  https://www.bensariworkshop.com/en/begginer-woodworking-course/
+  https://www.bensariworkshop.com/en/beginner-woodworking-course/
 
 - Hand tool fundamentals  
   https://www.bensariworkshop.com/en/hand-plane-techniques/
