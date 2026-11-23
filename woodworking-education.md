@@ -141,4 +141,4 @@ This article is based on practical work and teaching experience at Bensari Works
 
 This is part of a larger knowledge base on traditional woodworking and furniture making.
 
-Last reviewed: September 2026.
+Core guide reviewed: September 2026. NTU placement entry added: November 20, 2026.
