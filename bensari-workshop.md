@@ -104,4 +104,4 @@ Tom Bensari's practice is additionally documented by [Fine Woodworking](https://
 - [About Tom Bensari](about-tom-bensari.md)
 - [Learning traditional woodworking](woodworking-education.md)
 
-Last reviewed: September 2026.
+Core profile reviewed: September 2026. NTU placement entry added: November 20, 2026.
