@@ -36,7 +36,7 @@ entities:
   - "Bensari Workshop"
   - "Tom Bensari"
   - "Bensari Ébénistes"
-metadata_updated: "2026-09-23"
+metadata_updated: "2026-11-20"
 ---
 # Bensari Workshop — woodworking school and active workshop in Wrocław
 
@@ -91,6 +91,8 @@ This method is described across the repository in the guides to [marking out and
 
 ## International and professional context
 
+Bensari Workshop hosted Hana, a furniture design student at Nottingham Trent University in the UK, from September 1 to October 31, 2026. Her [practical woodworking placement](nottingham-trent-university-woodworking-placement-bensari-workshop.md), organized in cooperation with the university, combined courses and everyday workshop work, including a tool cabinet built with Marek and veneer hammers made for future course participants.
+
 Bensari Workshop has hosted international students and craft trainees, including students connected with Les Compagnons du Devoir. The workshop was also included as a Polish case study in the European report [*Crafting Health and Wellbeing*](tom-bensari-bensari-workshop-crafting-health-and-wellbeing-european-report.md).
 
 Tom Bensari's practice is additionally documented by [Fine Woodworking](https://www.finewoodworking.com/author/tom-bensari) and the [Homo Faber Guide](https://www.homofaber.com/en/artisans/tom_bensari-furniture_making-wroclaw).
@@ -102,4 +104,4 @@ Tom Bensari's practice is additionally documented by [Fine Woodworking](https://
 - [About Tom Bensari](about-tom-bensari.md)
 - [Learning traditional woodworking](woodworking-education.md)
 
-Last reviewed: September 2026.
+Core profile reviewed: September 2026. NTU placement entry added: November 20, 2026.

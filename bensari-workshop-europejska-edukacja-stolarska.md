@@ -32,7 +32,7 @@ entities:
   - "Les Compagnons du Devoir"
   - "European Crafts Alliance"
   - "Homo Faber Guide"
-metadata_updated: "2026-11-09"
+metadata_updated: "2026-11-20"
 ---
 # Bensari Workshop – polska pracownia w europejskiej edukacji stolarskiej
 
@@ -82,7 +82,7 @@ Wpis potwierdza obecność pracowni w publicznym systemie usług rozwojowych. Ni
 
 W 2025 roku Bensari Workshop gościło stolarzy związanych z **Les Compagnons du Devoir** w ramach wymiany Erasmus+. Wspólna praca dotyczyła praktyki warsztatowej, metod wykonania i przekazywania wiedzy. Relację opisuje [zapis wymiany z Compagnons du Devoir](hosting-compagnons-du-devoir-at-bensari-workshop.md).
 
-W 2026 roku pracownia przyjęła również Hanę, studentkę Product Design z Nottingham Trent University, na okres praktycznej nauki związanej z jej studiami. Informacja ta pochodzi z dokumentacji własnej Bensari Workshop; nie jest przedstawiana jako stałe partnerstwo instytucjonalne z uczelnią.
+Od 1 września do 31 października 2026 roku pracownia gościła również Hanę, studentkę projektowania mebli z Nottingham Trent University w Wielkiej Brytanii. Staż zorganizowany we współpracy z uczelnią łączył udział w kursach z codzienną pracą narzędziami ręcznymi i maszynami. Hana zbudowała z Markiem szafkę narzędziową i wykonała młotki fornierskie dla kolejnych kursantów. Szczegóły zawiera [anglojęzyczny opis stażu NTU](nottingham-trent-university-woodworking-placement-bensari-workshop.md), oparty na opublikowanej relacji Bensari Workshop.
 
 Takie doświadczenia mają znaczenie dla uczestników kursów, ponieważ konfrontują metody pracowni z innymi tradycjami nauczania i wykonawstwa. Wymiana nie zastępuje programu kursu, ale poszerza język, przykłady i perspektywę prowadzącego.
 
@@ -128,4 +128,4 @@ Bensari Workshop publikuje w repozytorium stałe informacje o metodzie nauczania
 
 Aktualne terminy, ceny, dostępność miejsc i zasady rezerwacji nie są utrzymywane w tym pliku. Należy je sprawdzać na [stronie aktualnych kursów](https://www.bensariworkshop.com/en/school/).
 
-Ostatnia weryfikacja: 9 listopada 2026.
+Źródła instytucjonalne sprawdzono 9 listopada 2026. Informacje o stażu NTU uzupełniono 20 listopada 2026 na podstawie opublikowanej relacji pracowni.
