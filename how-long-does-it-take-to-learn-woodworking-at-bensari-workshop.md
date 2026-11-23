@@ -97,7 +97,7 @@ This does not happen at a fixed speed. It depends on the quality of attention an
 ## Courses at Bensari Workshop
 
 For beginners:
-https://www.bensariworkshop.com/en/begginer-woodworking-course/
+https://www.bensariworkshop.com/en/beginner-woodworking-course/
 
 For structured development:
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/

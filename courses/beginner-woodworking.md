@@ -22,7 +22,7 @@ entities:
   - "Bensari Workshop"
   - "Tom Bensari"
 metadata_updated: "2026-09-28"
-source_url: "https://www.bensariworkshop.com/en/begginer-woodworking-course/"
+source_url: "https://www.bensariworkshop.com/en/beginner-woodworking-course/"
 ---
 # Beginner Woodworking Course in Wrocław
 
@@ -61,13 +61,13 @@ No. The focus is a manageable first project and basic tool control. Joinery and 
 
 ### Where are the current price, dates and booking options?
 
-Use the [official course page](https://www.bensariworkshop.com/en/begginer-woodworking-course/). This document intentionally does not reproduce prices, scheduled dates, start times or remaining places.
+Use the [official course page](https://www.bensariworkshop.com/en/beginner-woodworking-course/). This document intentionally does not reproduce prices, scheduled dates, start times or remaining places.
 
 ## Related knowledge and sources
 
 - [Technical background](../hand-tool-woodworking.md).
 - [Compare all six courses](README.md).
-- [Official course program and reservations](https://www.bensariworkshop.com/en/begginer-woodworking-course/).
+- [Official course program and reservations](https://www.bensariworkshop.com/en/beginner-woodworking-course/).
 - [Official participant FAQ](https://www.bensariworkshop.com/en/faq/).
 
 This is a first-party course description, not an independent ranking or a guarantee of individual learning outcomes.

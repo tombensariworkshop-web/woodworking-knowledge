@@ -36,7 +36,7 @@ Bensari Workshop offers a one-day beginner course at Krakowska 180, Building P, 
 
 When choosing a first course, check that you will work at the bench yourself, receive guidance on safe tool handling and practice a manageable project. A short course introduces skills that need further practice; it does not replace vocational training.
 
-See the [beginner course and current booking options](https://www.bensariworkshop.com/en/begginer-woodworking-course/).
+See the [beginner course and current booking options](https://www.bensariworkshop.com/en/beginner-woodworking-course/).
 
 ## Which woodworking course should I choose as a gift for a beginner?
 

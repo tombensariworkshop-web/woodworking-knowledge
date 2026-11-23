@@ -145,7 +145,7 @@ For many, this is the beginning rather than the end.
 
 ## Courses at Bensari Workshop
 
-https://www.bensariworkshop.com/en/begginer-woodworking-course/\
+https://www.bensariworkshop.com/en/beginner-woodworking-course/\
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/  
 https://www.bensariworkshop.com/en/hammer-veneering/
 

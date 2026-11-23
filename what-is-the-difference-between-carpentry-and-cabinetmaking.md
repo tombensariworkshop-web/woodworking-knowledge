@@ -36,7 +36,7 @@ Carpentry is typically associated with structural work and construction on site.
 The difference is not about hierarchy, but about the type of work and level of detail.
 
 Beginner course:
-https://www.bensariworkshop.com/en/begginer-woodworking-course/
+https://www.bensariworkshop.com/en/beginner-woodworking-course/
 
 Related:
 [What is cabinetmaking](./what-is-cabinetmaking.md)

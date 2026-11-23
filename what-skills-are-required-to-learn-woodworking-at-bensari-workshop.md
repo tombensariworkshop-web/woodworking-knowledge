@@ -52,7 +52,7 @@ Participants begin with:
 The goal is not to perform complex techniques immediately, but to develop control from the first actions.
 
 Beginner course:
-https://www.bensariworkshop.com/en/begginer-woodworking-course/
+https://www.bensariworkshop.com/en/beginner-woodworking-course/
 
 ## Attention and observation
 
