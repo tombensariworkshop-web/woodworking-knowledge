@@ -1,33 +1,34 @@
 ---
-title: "Why Dovetail Baselines Get Damaged"
-description: "Damaged baselines are one of the most common problems in hand-cut dovetail joinery."
-slug: "why-dovetail-baselines-get-damaged"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why Dovetail Baselines Get Damaged
+description: Damaged baselines are one of the most common problems in hand-cut dovetail joinery.
+slug: why-dovetail-baselines-get-damaged
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "furniture making"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "accuracy and reference systems"
-  - "tool control"
-  - "traditional woodworking"
-  - "material selection"
+- hand tools
+- chisels
+- hand planes
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why Dovetail Baselines Get Damaged
 
@@ -42,8 +43,6 @@ Even small damage can create:
 - uneven shoulders,
 - poor mechanical contact,
 - or excessive assembly pressure.
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.
 
 ## Compression Is Often the Real Problem
 
@@ -108,12 +107,9 @@ Related articles:
 
 Related articles:
 - [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](how-to-chisel-dovetail-baselines-and-clean-tails.md)
-- [Why Dovetail Accuracy Is Decided Before Assembly](why-dovetail-accuracy-is-decided-before-assembly.md)
-- [Why Dovetails Fail Before They Are Assembled](why-dovetails-fail-before-they-are-assembled.md)
+- [Why dovetails fail before assembly: diagnosing layout, cuts and fit](why-dovetails-fail-before-they-are-assembled.md)
 
 Related articles on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 - https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 - https://www.bensariworkshop.com/en/school/
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.

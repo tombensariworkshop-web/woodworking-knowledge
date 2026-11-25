@@ -1,31 +1,31 @@
 ---
-title: "How Wood Fibers Behave During Cutting"
-description: "Wood is composed of long cellular fibers that run primarily along the grain of the tree."
-slug: "how-wood-fibers-behave-during-cutting"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Wood Fibers Behave During Cutting
+description: Wood is composed of long cellular fibers that run primarily along the grain of the tree.
+slug: how-wood-fibers-behave-during-cutting
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: wood as material
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "chisels"
-  - "wood as material"
-metadata_updated: "2026-09-22"
+- wood as material
+- hand planes
+- hand tools
+- chisels
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "joinery"
-  - "wood movement"
+- hand planes
+- wood grain direction
+- traditional woodworking
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Wood Fibers Behave During Cutting
 
@@ -39,9 +39,9 @@ Wood is made of elongated cells that form bundles running along the grain. These
 
 When a cutting tool moves across the surface, it encounters these fibers and separates them from the surrounding structure. The way the fibers separate depends on several factors:
 
-- grain direction  
-- sharpness of the tool  
-- cutting angle  
+- grain direction
+- sharpness of the tool
+- cutting angle
 - thickness of the shaving
 
 Because wood is anisotropic, meaning its properties differ depending on direction, cutting across or against the grain produces different results.
@@ -54,7 +54,7 @@ The fibers bend slightly ahead of the blade and are then severed as the cutting 
 
 Tools such as hand planes, chisels and spokeshaves rely on this slicing action to produce clean results.
 
-Related article  
+Related article
 [How hand planes cut wood](how-hand-planes-cut-wood.md)
 
 ## Cutting Against the Grain
@@ -65,7 +65,7 @@ If the fibers split below the cutting line, the surface can tear away in small f
 
 Tear-out is most common when grain direction changes or when working wood with irregular grain patterns.
 
-Related article  
+Related article
 [Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)
 
 ## Controlling Fiber Separation
@@ -74,13 +74,13 @@ Traditional woodworking tools are designed to control how fibers separate during
 
 In hand planes, several elements help manage this process:
 
-- the cutting angle of the blade  
-- the position of the chipbreaker  
+- the cutting angle of the blade
+- the position of the chipbreaker
 - the mouth opening of the plane
 
 These features work together to limit how far fibers can lift ahead of the blade, reducing the risk of tear-out.
 
-Related articles  
+Related articles
 [How Chipbreakers Prevent Tear-Out](how-chipbreakers-prevent-tear-out.md)
 [How Blade Angle Affects Cutting](how-blade-angle-affects-cutting.md)
 
@@ -92,7 +92,7 @@ When fibers are sliced cleanly, the resulting surface is smooth and reflective. 
 
 This is one of the reasons why surfaces prepared with cutting tools often look different from surfaces prepared with sandpaper.
 
-Related article  
+Related article
 [Why Planed Surfaces Look Different Than Sanded Surfaces](why-planed-surfaces-look-different-than-sanded-surfaces.md)
 
 ## Understanding Wood in Craft Practice

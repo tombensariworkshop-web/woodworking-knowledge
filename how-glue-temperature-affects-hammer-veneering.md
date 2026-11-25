@@ -1,41 +1,37 @@
 ---
-title: "How glue temperature affects hammer veneering – working time, flow and control"
-description: "Hot hide glue behaves differently at each stage of temperature."
-slug: "how-glue-temperature-affects-hammer-veneering"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How glue temperature affects hammer veneering – working time, flow and control
+description: Hot hide glue behaves differently at each stage of temperature.
+slug: how-glue-temperature-affects-hammer-veneering
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- hammer veneering
+- veneering
+- hide glue
+- Bensari Workshop
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- hide glue
+- veneering
+- wood movement
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How glue temperature affects hammer veneering – working time, flow and control
 
 Hot hide glue behaves differently at each stage of temperature.
 
 In hammer veneering, this difference defines how the entire process unfolds.
-
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Temperature defines working time
 
@@ -47,9 +43,9 @@ This creates a limited working window.
 
 Within this window, the glue allows:
 
-- positioning of the veneer  
-- movement of material  
-- removal of air and excess glue  
+- positioning of the veneer
+- movement of material
+- removal of air and excess glue
 
 Once the glue begins to gel, this control is reduced.
 
@@ -61,9 +57,9 @@ It spreads evenly and can be worked across the surface.
 
 This is essential in hammer veneering, where glue must be:
 
-- pushed outward  
-- redistributed under pressure  
-- kept active during the process  
+- pushed outward
+- redistributed under pressure
+- kept active during the process
 
 If the glue is too cool, it thickens.
 
@@ -75,9 +71,9 @@ The veneer cannot be fully pressed into contact.
 
 When glue cools too quickly:
 
-- pressure becomes less effective  
-- air cannot be fully removed  
-- bonding becomes uneven  
+- pressure becomes less effective
+- air cannot be fully removed
+- bonding becomes uneven
 
 At this point, the process cannot be corrected without reheating or reworking.
 
@@ -101,9 +97,9 @@ This is not only about convenience.
 
 It is about maintaining control over:
 
-- working time  
-- consistency of the glue  
-- repeatability of the process  
+- working time
+- consistency of the glue
+- repeatability of the process
 
 Learn more:
 
@@ -117,9 +113,9 @@ It is a parameter that defines the process.
 
 It determines:
 
-- how fast you must work  
-- how much adjustment is possible  
-- how reliable the result will be  
+- how fast you must work
+- how much adjustment is possible
+- how reliable the result will be
 
 ## Conclusion
 
@@ -134,11 +130,9 @@ https://www.bensariworkshop.com/en/hammer-veneering/
 
 ## Related
 
-- [Hammer veneering in practice](hammer-veneering-in-practice.md)  
-- [Veneering](veneering.md)
+- [Hammer veneering in practice](hammer-veneering-in-practice.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

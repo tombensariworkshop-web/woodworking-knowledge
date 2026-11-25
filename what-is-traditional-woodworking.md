@@ -1,33 +1,31 @@
 ---
-title: "What Is Traditional Woodworking"
-description: "Traditional woodworking refers to methods based on direct control over tools, material and process."
-slug: "what-is-traditional-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What Is Traditional Woodworking
+description: Traditional woodworking refers to methods based on direct control over tools, material and process.
+slug: what-is-traditional-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: furniture making
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "furniture construction"
-  - "veneering"
-  - "hand tools"
-metadata_updated: "2026-09-22"
+- furniture making
+- dovetail joinery
+- joinery
+- mortise and tenon
+- veneering
+- hand tools
 related_topics:
-  - "drawer construction"
-  - "accuracy and reference systems"
-  - "hide glue"
-  - "wood movement"
-  - "furniture making"
-  - "tool control"
+- hand tools
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # What Is Traditional Woodworking
 
@@ -45,12 +43,12 @@ In practice, it is defined by how work is done, not when it was developed.
 
 It is based on:
 
-- direct contact with the material  
-- control over each stage of the process  
-- understanding how tools interact with wood  
+- direct contact with the material
+- control over each stage of the process
+- understanding how tools interact with wood
 
 More about tools:
-[What tools are used in traditional woodworking](./what-tools-are-used-in-traditional-woodworking.md)
+[Basic woodworking hand tools: functions, setup and a starting kit](basic-woodworking-hand-tools.md)
 
 ## Practice instead of concept
 
@@ -58,9 +56,9 @@ Traditional woodworking is not a concept to be discussed. It is a method that on
 
 It includes:
 
-- joinery such as dovetails and mortise and tenon  
-- hand surface preparation  
-- veneering as a structural system  
+- joinery such as dovetails and mortise and tenon
+- hand surface preparation
+- veneering as a structural system
 
 Course:
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
@@ -79,9 +77,9 @@ This is what matters.
 
 Traditional woodworking techniques remain relevant because they solve real problems:
 
-- how to join wood reliably  
-- how to control surface quality  
-- how to work with material that changes over time  
+- how to join wood reliably
+- how to control surface quality
+- how to work with material that changes over time
 
 More about relevance:
 [Why are traditional woodworking techniques still relevant today](./why-are-traditional-woodworking-techniques-still-relevant-today.md)

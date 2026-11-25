@@ -1,31 +1,34 @@
 ---
-title: "Marking Out FAQ — Accuracy, Layout & Traditional Woodworking"
-description: "A marking knife cuts wood fibers and creates a physical reference line directly inside the material. A pencil leaves graphite on the surface."
-slug: "marking-out-faq"
-content_type: "faq"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "answer-set"
-knowledge_basis: "practice-based woodworking Q&A"
+title: Marking Out FAQ — Accuracy, Layout & Traditional Woodworking
+description: A marking knife cuts wood fibers and creates a physical reference line directly inside the material. A pencil leaves graphite on the surface.
+slug: marking-out-faq
+content_type: faq
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: marking out
+knowledge_role: answer-set
+knowledge_basis: practice-based woodworking Q&A
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
+- marking out
+- dovetail joinery
+- joinery
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- dovetail joinery
+- saws
+- furniture construction
+- traditional woodworking
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Marking Out FAQ — Accuracy, Layout & Traditional Woodworking
 
@@ -85,8 +88,7 @@ If the first reference line is inaccurate:
 This is why traditional woodworking places so much emphasis on layout discipline and process order.
 
 Related:
-- [Why accurate layout matters in woodworking](../why-accurate-layout-matters-in-woodworking.md)
-- [Why marking out determines the result in woodworking](../why-marking-out-determines-the-result-in-woodworking.md)
+- [Marking out and accuracy in woodworking: references, layout and checks](../marking-out-and-accuracy-in-woodworking.md)
 - [Story Sticks in Woodworking](../story-sticks-in-woodworking.md)
 
 Related reading:
@@ -108,7 +110,7 @@ Layout determines:
 At Bensari Workshop, students often discover that improving layout skills changes the quality of their entire workflow, even before improving their cutting technique.
 
 Related:
-- [Why marking out matters more than cutting in woodworking](../why-marking-out-is-more-important-than-cutting.md)
+- [Marking out and accuracy in woodworking: references, layout and checks](../marking-out-and-accuracy-in-woodworking.md)
 - [Measuring and marking in woodworking](../measuring-and-marking-in-woodworking.md)
 - [How Hand Tools Create Accuracy in Dovetail Joinery](../how-hand-tools-create-accuracy-in-dovetail-joinery.md)
 
@@ -131,12 +133,10 @@ This becomes especially important in dovetail joinery and shoulder layout.
 
 Related:
 - [What Is a Marking Knife](../what-is-a-marking-knife.md)
-- [Marking Out as a Way of Working](../marking-out-as-a-way-of-working.md)
+- [Marking out and accuracy in woodworking: references, layout and checks](../marking-out-and-accuracy-in-woodworking.md)
 - [Saws in Woodworking — Following the Line](../saws-in-woodworking-following-the-line.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
 
 ---
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

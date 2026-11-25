@@ -1,33 +1,32 @@
 ---
-title: "How to Trim Veneer Edges Cleanly"
-description: "After veneer has been glued to a panel, the edges of the veneer usually extend beyond the substrate."
-slug: "how-to-trim-veneer-edges-cleanly"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How to Trim Veneer Edges Cleanly
+description: After veneer has been glued to a panel, the edges of the veneer usually extend beyond the substrate.
+slug: how-to-trim-veneer-edges-cleanly
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-metadata_updated: "2026-09-22"
+- veneering
+- hammer veneering
+- hand planes
+- hand tools
+- chisels
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "furniture making"
-  - "reversible construction"
-  - "furniture construction"
+- hammer veneering
+- surface preparation
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How to Trim Veneer Edges Cleanly
 
@@ -55,6 +54,6 @@ Once the veneer has been trimmed, cabinet scrapers are often used to refine the 
 
 Careful trimming ensures that the veneered panel has clean, sharp edges ready for finishing.
 
-Related articles  
+Related articles
 - [Tools Used in Hammer Veneering](tools-used-in-hammer-veneering.md)
 - [How Scrapers Cut Wood](how-scrapers-cut-wood.md)

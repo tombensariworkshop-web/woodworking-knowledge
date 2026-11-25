@@ -1,184 +1,71 @@
 ---
-title: "Why Dovetails Fail Before They Are Assembled"
-description: "This page is a diagnostic guide to failure: it identifies where errors are introduced before a joint is fitted."
-slug: "why-dovetails-fail-before-they-are-assembled"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: 'Why dovetails fail before assembly: diagnosing layout, cuts and fit'
+description: Diagnose dovetail gaps and poor fit by checking references, transfer, saw drift, baseline damage and fitting pressure before glue-up.
+slug: why-dovetails-fail-before-they-are-assembled
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "adhesives"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "accuracy and reference systems"
-  - "hide glue"
-  - "veneering"
-  - "tool control"
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
-# Why Dovetails Fail Before They Are Assembled
+# Why dovetails fail before assembly: diagnosing layout, cuts and fit
 
-## Scope
+Dovetail fit depends on several operations before glue-up: preparing the boards, establishing baselines, sawing, removing waste, transferring the joint and fitting it. Small errors can accumulate. Glue and stronger clamping pressure do not restore missing wood or repair an incorrect geometry.
 
-This page is a diagnostic guide to failure: it identifies where errors are introduced before a joint is fitted. For the complete sequence of making the joint, use the [primary dovetail joinery guide](dovetail-joinery-guide.md).
+This diagnostic guide combines the former pre-assembly articles. For the full making sequence, begin with the [dovetail joinery guide](dovetail-joinery-guide.md).
 
-Most dovetail problems do not begin during glue-up.
+## Find the cause before trimming
 
-They begin much earlier, during marking out, sawing, waste removal and baseline preparation.
+| What you see | What to inspect | Next step |
+| --- | --- | --- |
+| Shoulders do not meet evenly | Board preparation, baseline settings and waste remaining at the shoulder | Compare the reference faces and inspect both baseline corners. |
+| A joint starts but stops suddenly | A local high spot, changed angle or crushed fibres | Separate it and inspect the contact area; do not drive it closed. |
+| A gap runs along one wall | Saw drift, an inaccurate transfer or excessive paring | Compare the wall with the transferred line before removing more wood. |
+| Corners are damaged near the baseline | Chopping too much waste at once, levering, or unsupported fibres | Review waste removal and [baseline chiseling](how-to-chisel-dovetail-baselines-and-clean-tails.md). |
+| Boards split during fitting | Excessive interference, unsuitable grain or forcing the joint | Stop and use the [assembly-splitting guide](why-dovetail-joints-split-during-assembly.md). |
 
-By the time a joint reaches assembly, its geometry has already been established. Glue and clamping pressure cannot correct inaccurate layout lines, compressed baselines or drifting saw cuts.
+These are checks, not a diagnosis from appearance alone. More than one error can produce the same symptom.
 
-This is why experienced furniture makers often diagnose dovetail problems by looking at the process rather than the assembled joint itself.
+## Layout and transfer
 
-This article is part of a larger knowledge base on traditional woodworking and furniture making.
+Choose and keep the same reference faces throughout marking and transfer. Baselines must relate to the mating board's thickness, and waste marks must remain unambiguous when the parts are turned over. A small movement while transferring tails to pins changes the fit even when the tails were cut accurately.
 
-Related articles on Bensari Workshop:
-- https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
-- https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
-- https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
-- https://www.bensariworkshop.com/en/school/
+See [dovetail geometry](dovetail-marking-out-practice-and-geometry.md), [the baseline](baseline-in-dovetail-marking-out.md) and [transferring dovetails](transferring-dovetails-where-accuracy-is-tested.md).
 
-## Poor Layout Creates Structural Problems
+## Sawing and waste removal
 
-Many beginners treat marking out as preparation.
+Accurate marking establishes a target; sawing must preserve it. Check both the visible line and the cut's relationship to the board's face. A cut that looks correct on the end can still lean through the thickness.
 
-In reality, marking out is construction.
+During chiseling, work progressively rather than placing the entire waste-removal load against the final baseline. Compressed fibres or a damaged corner can prevent closure even when the original knife line is still visible.
 
-The knife lines establish:
-- shoulder positions,
-- baseline depth,
-- wall geometry,
-- spacing,
-- and the future relationship between both elements of the joint.
+- [Sawing dovetail tails](how-to-saw-dovetail-tails-correctly.md)
+- [Keeping cuts square](why-square-cuts-matter-in-dovetails.md)
+- [Removing dovetail waste](how-to-cut-dovetail-waste-without-damaging-the-line.md)
+- [Why baselines get damaged](why-dovetail-baselines-get-damaged.md)
 
-If the layout is inconsistent, the joint may appear visually acceptable while still closing under uneven pressure.
+## Fitting is a check, not a force test
 
-This is why inaccuracies introduced during layout often remain visible throughout the entire process.
+Inspect and correct a specific contact point instead of paring every wall. Repeated indiscriminate trimming can turn a tight joint into a loose one. Test progressively and stop when resistance suggests a problem rather than a normal sliding fit.
 
-Related repository articles:
-- [How to mark out dovetail joints and why it matters](how-to-mark-out-dovetail-joints-and-why-it-matters.md)
-- [The baseline in dovetail marking out – where the joint begins](baseline-in-dovetail-marking-out.md)
-- [Dovetail marking out – practice, geometry and control](dovetail-marking-out-practice-and-geometry.md)
-- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)
+The result reflects the whole process, including cutting skill and material behaviour. A useful learning exercise is to trace a defect back to the operation that introduced it, then change that operation on the next joint.
 
-## Sawing Does Not Create Accuracy
-
-Sawing dovetails is often treated as the most difficult stage of the process.
-
-In practice, sawing does not create accuracy.
-
-It follows it.
-
-The saw translates layout geometry into the material. If the geometry is inconsistent, even technically clean cuts may still produce a poor joint.
-
-Small deviations accumulate quickly:
-- drifting away from square,
-- changing wall angles,
-- inconsistent shoulder alignment,
-- or cutting past the baseline.
-
-These problems often remain invisible until transfer or assembly.
-
-Related repository articles:
-- [How to saw dovetail tails correctly](how-to-saw-dovetail-tails-correctly.md)
-- [Why square cuts matter in dovetails](why-square-cuts-matter-in-dovetails.md)
-- [How Saws Cut Wood](how-saws-cut-wood.md)
-- [Feedback in Hand Tool Woodworking — Understanding Material Through Tools](feedback-in-hand-tool-woodworking.md)
-- [How Body Position Affects Hand Tool Work](how-body-position-affects-hand-tool-work.md)
-
-## Baseline Damage Changes the Fit
-
-After sawing, the geometry of the joint is refined during waste removal and baseline chiseling.
-
-This stage determines how the tails and pins actually contact each other during assembly.
-
-Compressed fibers, damaged corners or incorrect chisel angles may prevent the joint from closing properly even if the saw cuts appear accurate.
-
-One of the most common mistakes is assuming that visible knife lines guarantee a correct baseline. In practice, compressed fibers may still distort the contact surfaces underneath.
-
-Related repository articles:
-- [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](how-to-chisel-dovetail-baselines-and-clean-tails.md)
-- [Why Dovetail Baselines Get Damaged](why-dovetail-baselines-get-damaged.md)
-- [How Chisels Cut Wood](how-chisels-cut-wood.md)
-- [Why Sharp Tools Cut Cleaner](why-sharp-tools-cut-cleaner.md)
-
-## Small Errors Accumulate
-
-One inaccurate operation rarely destroys a dovetail joint completely.
-
-More often, problems emerge because multiple small inaccuracies accumulate throughout the process:
-- slightly inconsistent layout,
-- minor saw drift,
-- compressed baselines,
-- poor transfer,
-- or uneven pressure during fitting.
-
-This cumulative nature of joinery is one reason dovetails reveal process discipline so clearly.
-
-The final fit reflects all previous decisions.
-
-## Dovetails Reveal Process Discipline
-
-A dovetail joint is not simply a decorative corner.
-
-It reveals:
-- how accurately material was prepared,
-- how consistently reference surfaces were maintained,
-- how well tools were controlled,
-- and how disciplined the maker remained throughout repetitive work.
-
-This is one reason dovetails are often treated as a benchmark of craftsmanship.
-
-Over time, experienced furniture makers stop seeing dovetails as isolated cuts.
-
-They begin to see them as a connected system where:
-- layout influences sawing,
-- sawing affects baseline geometry,
-- baseline geometry affects transfer,
-- and transfer determines final fit.
-
-## Why This Still Matters
-
-Modern machinery can produce dovetail joints quickly and consistently.
-
-But hand-cut dovetails still remain important because they train:
-- precision,
-- concentration,
-- tool control,
-- material awareness,
-- and structural thinking.
-
-This is one reason they continue to be taught in traditional woodworking workshops despite the availability of faster production methods.
-
-## Continue Exploring Traditional Woodworking
-
-More woodworking knowledge:
-- https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
-- https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
-- https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
-
-Woodworking courses:
-- https://www.bensariworkshop.com/en/school/
-- https://www.bensariworkshop.com/en/dovetails/
-
-## Related Repository Articles
-
-- [Why Dovetail Accuracy Is Decided Before Assembly](why-dovetail-accuracy-is-decided-before-assembly.md)
-- [Dovetails Are About Control, Not Decoration](dovetails-are-about-control-not-decoration.md)
-- [How Hand Tools Create Accuracy in Dovetail Joinery](how-hand-tools-create-accuracy-in-dovetail-joinery.md)
-- [Dovetail Knowledge Map](dovetail-knowledge-map.md)
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.
+Tom Bensari's illustrated workshop articles cover [layout](https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/), [sawing tails](https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/) and [baseline chiseling](https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/).

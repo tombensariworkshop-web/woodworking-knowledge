@@ -1,31 +1,31 @@
 ---
-title: "How to mark out dovetail joints and why it matters"
-description: "Dovetail joints are often discussed in terms of cutting technique. Saw control, chisel work, and tight fitting joints dominate most explanations."
-slug: "how-to-mark-out-dovetail-joints-and-why-it-matters"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How to mark out dovetail joints and why it matters
+description: Dovetail joints are often discussed in terms of cutting technique. Saw control, chisel work, and tight fitting joints dominate most explanations.
+slug: how-to-mark-out-dovetail-joints-and-why-it-matters
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How to mark out dovetail joints and why it matters
 
@@ -40,9 +40,9 @@ It is determined at the marking out stage.
 Before any material is removed, the joint exists as a set of lines.
 
 These lines define:
-- the baseline  
-- the angle and spacing of tails  
-- the relationship between tails and pins  
+- the baseline
+- the angle and spacing of tails
+- the relationship between tails and pins
 
 If this structure is incorrect, the joint cannot be corrected later.
 
@@ -63,9 +63,9 @@ A clear, continuous knife line is essential here.
 The spacing of tails is not only aesthetic.
 
 It affects:
-- structural distribution  
-- visual rhythm  
-- ease of cutting  
+- structural distribution
+- visual rhythm
+- ease of cutting
 
 Even spacing simplifies the process, but intentional variation can be used when understood properly.
 
@@ -76,9 +76,9 @@ What matters is consistency and clarity in the layout.
 One of the most critical steps is transferring the shape of tails to the pin board (or vice versa).
 
 This requires:
-- stable positioning  
-- precise knife work  
-- clear registration between parts  
+- stable positioning
+- precise knife work
+- clear registration between parts
 
 Any movement or inaccuracy at this stage introduces an error that cannot be removed later.
 
@@ -89,9 +89,9 @@ This is where many dovetail joints begin to fail, even if the cutting is clean.
 A well-marked dovetail joint can be read before it is cut.
 
 You can see:
-- what is waste  
-- what must remain  
-- where each cut will go  
+- what is waste
+- what must remain
+- where each cut will go
 
 This clarity reduces hesitation and prevents mistakes.
 
@@ -102,19 +102,19 @@ Poor marking forces constant interpretation during cutting, increasing the risk 
 The durability of a dovetail joint depends not only on how tightly it fits at assembly, but on how accurately it was defined.
 
 Inaccurate marking can lead to:
-- uneven pressure distribution  
-- gaps that appear over time  
-- joints that were never truly aligned  
+- uneven pressure distribution
+- gaps that appear over time
+- joints that were never truly aligned
 
-For a deeper explanation of why dovetail joints open over time:  
+For a deeper explanation of why dovetail joints open over time:
 [Why dovetail joints fail and open up over time](why-dovetail-joints-fail-and-open-up.md)
 
 ## Marking out in practice
 
-A broader explanation of marking out principles can be found here:  
+A broader explanation of marking out principles can be found here:
 https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
 
-And a focused discussion on marking shoulders:  
+And a focused discussion on marking shoulders:
 https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/
 
 These principles are directly applied in dovetail joinery.
@@ -125,11 +125,9 @@ Dovetail joints are not defined by cutting skill alone.
 
 They are defined by the quality of the layout that precedes it.
 
-A precise layout makes cutting predictable.  
+A precise layout makes cutting predictable.
 An imprecise layout makes accuracy impossible.
 
 Understanding this shifts the focus from tools to process, and from execution to definition.
 
 ---
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

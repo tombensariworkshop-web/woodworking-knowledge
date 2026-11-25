@@ -1,39 +1,37 @@
 ---
-title: "Reference edges in woodworking – where accuracy is built"
-description: "In woodworking, accuracy is often associated with measurement, but in practice it depends much more on consistency."
-slug: "reference-edges-in-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Reference edges in woodworking – where accuracy is built
+description: In woodworking, accuracy is often associated with measurement, but in practice it depends much more on consistency.
+slug: reference-edges-in-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: marking out
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- marking out
+- dovetail joinery
+- joinery
+- traditional woodworking
+- Bensari Workshop
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "material selection"
-  - "craftsmanship"
-  - "craft education"
+- dovetail joinery
+- furniture making
+- hand tools
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Reference edges in woodworking – where accuracy is built
 
 In woodworking, accuracy is often associated with measurement, but in practice it depends much more on consistency. That consistency is built on reference edges, even if at first they seem like a minor technical detail.
-
-This article is part of a structured knowledge base on traditional woodworking, joinery, and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## One face, one edge
 
@@ -70,8 +68,8 @@ Reference edges only work if the tools follow them consistently.
 
 Squares, marking gauges, and knives are not only measuring tools. They are tools that allow you to maintain alignment across the entire process:
 
-https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/  
-https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/  
+https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
+https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/
 https://www.bensariworkshop.com/en/hand-tools-in-practice-stanley-combination-square/
 
 Without this consistency, even precise measurements lose their meaning.
@@ -86,9 +84,9 @@ https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-
 
 ## Internal links
 
-- [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)  
-- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)  
-- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
+- [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)
+- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)
+- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
 
 ## Related hub
 
@@ -97,5 +95,3 @@ https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

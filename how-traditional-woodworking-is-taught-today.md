@@ -1,33 +1,35 @@
 ---
-title: "How Traditional Woodworking Is Taught Today"
-description: "Learning woodworking has always been closely connected with practice."
-slug: "how-traditional-woodworking-is-taught-today"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Traditional Woodworking Is Taught Today
+description: Learning woodworking has always been closely connected with practice.
+slug: how-traditional-woodworking-is-taught-today
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "chisels"
-  - "wood as material"
-  - "furniture making"
-  - "woodworking education"
-metadata_updated: "2026-09-22"
+- woodworking education
+- hand planes
+- hand tools
+- chisels
+- wood as material
+- furniture making
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "joinery"
-  - "wood movement"
+- wood grain direction
+- surface preparation
+- marking out
+- traditional woodworking
+- wood movement
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Traditional Woodworking Is Taught Today
 

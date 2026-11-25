@@ -1,28 +1,30 @@
 ---
-title: "How Wood Is Selected for Furniture Making"
-description: "Selecting the right wood is one of the first steps in furniture making."
-slug: "how-wood-is-selected-for-furniture-making"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "wood as material"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Wood Is Selected for Furniture Making
+description: Selecting the right wood is one of the first steps in furniture making.
+slug: how-wood-is-selected-for-furniture-making
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: wood as material
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "wood as material"
-  - "furniture making"
-metadata_updated: "2026-09-22"
+- wood as material
+- furniture making
 related_topics:
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
+- wood movement
+- moisture content
+- grain direction
+- material selection
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Wood Is Selected for Furniture Making
 

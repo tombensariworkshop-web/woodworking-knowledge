@@ -1,29 +1,28 @@
 ---
-title: "Choosing a Rasp for Woodworking"
-description: "Selecting the right rasp depends on the type of work being performed and the shape of the surfaces being shaped."
-slug: "choosing-a-rasp-for-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "rasps and files"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Choosing a Rasp for Woodworking
+description: Selecting the right rasp depends on the type of work being performed and the shape of the surfaces being shaped.
+slug: choosing-a-rasp-for-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: rasps and files
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "rasps and files"
-  - "hand tools"
-  - "furniture making"
-metadata_updated: "2026-09-22"
+- rasps and files
+- hand tools
+- furniture making
 related_topics:
-  - "shaping"
-  - "surface preparation"
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "joinery"
+- hand tools
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Choosing a Rasp for Woodworking
 

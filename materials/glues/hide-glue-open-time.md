@@ -1,30 +1,29 @@
 ---
-title: "Open Time of Hide Glue"
-description: "Open time refers to the period during which an adhesive remains workable after it has been applied."
-slug: "hide-glue-open-time"
-content_type: "material-reference"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hide glue"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
+title: Open Time of Hide Glue
+description: Open time refers to the period during which an adhesive remains workable after it has been applied.
+slug: hide-glue-open-time
+content_type: material-reference
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hide glue
+knowledge_role: reference
+knowledge_basis: workshop material reference
 topics:
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
-  - "woodworking materials"
-metadata_updated: "2026-09-22"
+- hide glue
+- adhesives
+- wood as material
 related_topics:
-  - "veneering"
-  - "reversible construction"
-  - "furniture construction"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
+- adhesives
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Open Time of Hide Glue
 

@@ -1,33 +1,36 @@
 ---
-title: "Dovetail joinery: a practical guide to layout, sawing, waste removal, and fit"
-description: "A dovetail is a mechanically interlocking joint used most often in drawers, boxes and casework."
-slug: "dovetail-joinery-guide"
-content_type: "guide"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "pillar-guide"
-knowledge_basis: "practice-based woodworking guide"
+title: 'Dovetail joinery: a practical guide to layout, sawing, waste removal, and fit'
+description: A dovetail is a mechanically interlocking joint used most often in drawers, boxes and casework.
+slug: dovetail-joinery-guide
+content_type: guide
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: pillar-guide
+knowledge_basis: practice-based woodworking guide
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "saws"
-  - "hand tools"
-  - "accuracy and reference systems"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- saws
+- hand tools
+- Bensari Workshop
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
-  - "woodworking education"
-  - "furniture making"
+- joinery
+- marking out
+- saws
+- hand tools
+- furniture making
+- drawer construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Dovetail joinery: a practical guide to layout, sawing, waste removal, and fit
 
@@ -57,7 +60,7 @@ Dovetails are used because they combine mechanical strength with precise alignme
 
 In my teaching, this is always the real beginning. Layout is not preparation for woodworking. It is already woodworking.
 
-- [What is marking out in woodworking and why it determines accuracy](what-is-marking-out-in-woodworking-and-why-it-determines-accuracy.md)
+- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 - [Dovetail marking out: practice and geometry](dovetail-marking-out-practice-and-geometry.md)
 - [Baseline in dovetail marking out](baseline-in-dovetail-marking-out.md)
 - [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)
@@ -71,7 +74,7 @@ The tails are often where students first begin to understand that accuracy is cu
 
 - [How to mark dovetail tails step by step](how-to-mark-dovetail-tails-step-by-step-hand-tools.md)
 - [How to divide dovetails by eye](how-to-divide-dovetails-by-eye.md)
-- [Why marking out is more important than cutting](why-marking-out-is-more-important-than-cutting.md)
+- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 
 This stage is not about speed. It is about establishing geometry that can still be trusted once the saw enters the wood.
 
@@ -143,7 +146,3 @@ My aim here is not to present dovetails as a romantic symbol of handwork. The ai
 - [Hand tools and control in woodworking](hand-tools-and-control-in-woodworking.md)
 - [Furniture-making process](furniture-making-process.md)
 - [Dovetail layout: a complete workshop-based explanation](https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/)
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
-
-Last reviewed: September 2026.

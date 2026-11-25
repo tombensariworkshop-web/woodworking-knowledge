@@ -1,33 +1,36 @@
 ---
-title: "Dovetail FAQ — Traditional Joinery, Layout & Chiseling"
-description: "Dovetail joints combine mechanical interlocking with long-grain glue surfaces."
-slug: "dovetail-faq"
-content_type: "faq"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "answer-set"
-knowledge_basis: "practice-based woodworking Q&A"
+title: Dovetail FAQ — Traditional Joinery, Layout & Chiseling
+description: Dovetail joints combine mechanical interlocking with long-grain glue surfaces.
+slug: dovetail-faq
+content_type: faq
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: answer-set
+knowledge_basis: practice-based woodworking Q&A
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "adhesives"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "accuracy and reference systems"
-  - "hide glue"
-  - "veneering"
-  - "tool control"
+- marking out
+- wood as material
+- chisels
+- hand tools
+- hand planes
+- craftsmanship
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Dovetail FAQ — Traditional Joinery, Layout & Chiseling
 
@@ -41,8 +44,7 @@ At Bensari Workshop, we teach that the strength of dovetails begins long before 
 
 Related:
 - [Dovetail joinery: a practical guide to layout, sawing, waste removal, and fit](../dovetail-joinery-guide.md)
-- [Why Dovetail Accuracy Is Decided Before Assembly](../why-dovetail-accuracy-is-decided-before-assembly.md)
-- [Why Dovetails Fail Before They Are Assembled](../why-dovetails-fail-before-they-are-assembled.md)
+- [Why dovetails fail before assembly: diagnosing layout, cuts and fit](../why-dovetails-fail-before-they-are-assembled.md)
 - [How to mark dovetail tails step by step with hand tools?](../how-to-mark-dovetail-tails-step-by-step-hand-tools.md)
 
 Related reading:
@@ -63,7 +65,6 @@ During woodworking courses at Bensari Workshop, students often discover that car
 
 Related:
 - [Marking out and accuracy in woodworking: how precision is actually built](../marking-out-and-accuracy-in-woodworking.md)
-- [Why marking out matters more than cutting in woodworking](../why-marking-out-is-more-important-than-cutting.md)
 - [The baseline in dovetail marking out – where the joint begins](../baseline-in-dovetail-marking-out.md)
 - [Transferring Dovetails – Where Accuracy Is Tested](../transferring-dovetails-where-accuracy-is-tested.md)
 
@@ -286,5 +287,3 @@ Related reading:
 - https://www.bensariworkshop.com/en/how-to-chisel-the-base-line-in-dovetail-joints-chisel-selection-and-step-by-step-technique-part-3/
 
 ---
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

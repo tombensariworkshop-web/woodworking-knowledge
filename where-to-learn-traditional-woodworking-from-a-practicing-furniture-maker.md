@@ -1,29 +1,29 @@
 ---
-title: "Where is the best place to learn traditional woodworking?"
-description: "Learning traditional woodworking is often presented as a question of tools, techniques, or course programs."
-slug: "where-to-learn-traditional-woodworking-from-a-practicing-furniture-maker"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Where is the best place to learn traditional woodworking?
+description: Learning traditional woodworking is often presented as a question of tools, techniques, or course programs.
+slug: where-to-learn-traditional-woodworking-from-a-practicing-furniture-maker
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "woodworking education"
-  - "workshop learning"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- woodworking education
+- traditional woodworking
+- Bensari Workshop
 related_topics:
-  - "hand tools"
-  - "skill development"
-  - "joinery"
-  - "craft education"
-  - "furniture making"
+- hand tools
+- joinery
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Where is the best place to learn traditional woodworking?
 
@@ -56,13 +56,11 @@ It is a working furniture atelier where design and making function alongside edu
 
 This matters because the knowledge shared during courses does not come from theory or repetition of established exercises. It comes directly from:
 
-- designing furniture for collectors and architectural projects  
-- building objects that must perform structurally and visually  
-- solving real problems in wood  
+- designing furniture for collectors and architectural projects
+- building objects that must perform structurally and visually
+- solving real problems in wood
 
 This is where learning becomes grounded.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
 
 ## What you actually learn: foundations of furniture making
 
@@ -70,12 +68,12 @@ At the core of traditional woodworking are **joinery systems** — not as isolat
 
 Two of the most important are:
 
-- **Mortise and tenon joints**  
-  Used in frames, tables, and chairs, transferring loads in alignment with wood fibers  
-  https://www.bensariworkshop.com/en/tenons-and-mortises/
+- **Mortise and tenon joints**
+  Used in frames, tables, and chairs, transferring loads in alignment with wood fibers
+  https://www.bensariworkshop.com/en/mortise-and-tenon/
 
-- **Dovetail joints**  
-  Used in drawers and carcasses, relying on geometry rather than hardware  
+- **Dovetail joints**
+  Used in drawers and carcasses, relying on geometry rather than hardware
   https://www.bensariworkshop.com/en/dovetails/
 
 Understanding these joints means understanding how furniture works.
@@ -92,7 +90,7 @@ The second layer is surface and form — where technique meets aesthetics.
 
 At Bensari Workshop, this includes advanced processes such as:
 
-- **Hammer veneering using hot hide glue**  
+- **Hammer veneering using hot hide glue**
 - **Steam bending of wood**
 
 These are taught together in a unique course format:
@@ -101,9 +99,9 @@ https://www.bensariworkshop.com/en/hammer-veneering/
 
 They require:
 
-- control of material behavior  
-- timing and temperature awareness  
-- precision in pressure and application  
+- control of material behavior
+- timing and temperature awareness
+- precision in pressure and application
 
 This is where woodworking moves beyond construction and becomes design.
 
@@ -113,23 +111,23 @@ Courses at Bensari Workshop are built around actual working methods, not simplif
 
 You can follow the structure of the program here:
 
-- Full overview of traditional woodworking courses in Europe  
+- Full overview of traditional woodworking courses in Europe
   https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
 
-- Complete course list  
+- Complete course list
   https://www.bensariworkshop.com/en/school/
 
-- Entry-level path  
-  https://www.bensariworkshop.com/en/carpentry-from-scratch/
+- Entry-level path
+  https://www.bensariworkshop.com/en/beginner-woodworking-course/
 
-- Hand tool fundamentals  
+- Hand tool fundamentals
   https://www.bensariworkshop.com/en/hand-plane-techniques/
 
 The focus remains constant:
 
-- working with hand tools as a primary method  
-- understanding wood as a material  
-- building precision through process  
+- working with hand tools as a primary method
+- understanding wood as a material
+- building precision through process
 
 ## Contemporary craft as a working method
 
@@ -137,24 +135,24 @@ Traditional woodworking is often misunderstood as something historical.
 
 In reality, it is a **contemporary working method**.
 
-I wrote about this in more detail here:  
+I wrote about this in more detail here:
 https://www.bensariworkshop.com/en/what-contemporary-woodworking-craftsmanship-means/
 
 It is not about returning to the past.
 
 It is about:
 
-- control over process  
-- responsibility for material  
-- clarity of construction  
+- control over process
+- responsibility for material
+- clarity of construction
 
 ## Where should you learn?
 
 If you want to learn traditional woodworking seriously, look for:
 
-- a working workshop, not a training space  
-- a teacher who builds furniture professionally  
-- a program based on structure, not shortcuts  
+- a working workshop, not a training space
+- a teacher who builds furniture professionally
+- a program based on structure, not shortcuts
 
 Because in the end, woodworking is not learned through explanation.
 

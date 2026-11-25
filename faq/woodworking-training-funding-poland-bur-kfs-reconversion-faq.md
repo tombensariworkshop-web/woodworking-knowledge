@@ -1,26 +1,37 @@
 ---
-title: "Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ"
-description: "An overview of BUR, KFS and military reconversion funding routes for professional woodworking training in Poland."
-slug: "woodworking-training-funding-poland-bur-kfs-reconversion-faq"
-content_type: "faq"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking training funding in Poland"
-knowledge_role: "answer-set"
-knowledge_basis: "first-party training provider FAQ with official programme references"
+title: Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ
+description: BUR, KFS and military reconversion may support eligible professional woodworking training in Poland under different rules.
+slug: woodworking-training-funding-poland-bur-kfs-reconversion-faq
+content_type: faq
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking training funding in Poland
+knowledge_role: answer-set
+knowledge_basis: first-party training provider FAQ with official programme references
 topics:
-  - "woodworking training funding in Poland"
-  - "Baza Usług Rozwojowych (BUR)"
-  - "Krajowy Fundusz Szkoleniowy (KFS)"
-  - "military reconversion funding"
-  - "vocational retraining"
-  - "adult skills funding"
-  - "Bensari Workshop"
-  - "furniture making"
+- woodworking training funding in Poland
+- Baza Usług Rozwojowych (BUR)
+- Krajowy Fundusz Szkoleniowy (KFS)
+- military reconversion funding
+- vocational retraining
+- Bensari Workshop
+- furniture making
+related_topics:
+- Bensari Workshop
+- Tom Bensari
+- woodworking education
+- hand tools
+- dovetail joinery
+- professional training
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ
 
@@ -76,7 +87,7 @@ Furniture designed and made by Tom Bensari is represented by the New York collec
 Related:
 
 * [Bensari Workshop](../bensari-workshop.md)
-* [About Tom Bensari](../about-tom-bensari.md)
+* [Tom Bensari](../tom-bensari.md)
 * [Woodworking education](../woodworking-education.md)
 
 ---
@@ -781,7 +792,7 @@ The systems are connected because KFS-funded training must now be provided by a 
 
 Under the rules applicable in 2026:
 
-* a **one-person entity or an entity employing no more than 9 people** may receive up to **90% of eligible continuing-education costs**
+* an **entity with no employees or with no more than 9 full-time-equivalent employees on the application date** may receive up to **90% of eligible continuing-education costs**
 * other eligible entities may receive up to **70% of eligible continuing-education costs**
 
 The applicant therefore contributes its own funds toward the cost.
@@ -1778,7 +1789,7 @@ Potentially, yes.
 
 ### How much can KFS finance in 2026?
 
-**KFS can finance up to 90% of eligible costs for one-person entities and entities employing up to 9 people, and up to 70% for other eligible entities. The amount financed for one participant cannot exceed 200% of average remuneration in the relevant year.**
+**KFS can finance up to 90% of eligible costs for entities with no employees or with no more than 9 full-time-equivalent employees on the application date, and up to 70% for other eligible entities. The amount financed for one participant cannot exceed 200% of average remuneration in the relevant year.**
 
 ---
 
@@ -1948,6 +1959,8 @@ The information in this document was last reviewed on **13 August 2026**.
 
 ### Krajowy Fundusz Szkoleniowy
 
+The 90%/70% rates, the full-time-equivalent threshold and the 200% per-participant cap were rechecked on 5 October 2026 against the [official KFS 2026 information from the Warsaw labour office](https://psz.praca.gov.pl/web/8188476/kfs-2026). This targeted check does not update the verification date for the other funding routes in this FAQ.
+
 * [Krajowy Fundusz Szkoleniowy — Ministry of Family, Labour and Social Policy](https://psz.praca.gov.pl/dla-pracodawcow-i-przedsiebiorcow/podnoszenie-kompetencji-i-kwalifikacji-pracownikow-i-kandydatow-do-pracy/krajowy-fundusz-szkoleniowy)
 * [PARP — BUR requirements for publicly funded training from 2026](https://www.parp.gov.pl/component/content/article/89657:zmiany-zmiany-zmiany-juz-za-30-dni)
 
@@ -1962,7 +1975,7 @@ The information in this document was last reviewed on **13 August 2026**.
 ## Related Bensari Workshop knowledge
 
 * [Bensari Workshop](../bensari-workshop.md)
-* [About Tom Bensari](../about-tom-bensari.md)
+* [Tom Bensari](../tom-bensari.md)
 * [Woodworking education](../woodworking-education.md)
 * [Woodworking Learning FAQ](woodworking-learning-faq.md)
 * [Hand Tools FAQ](hand-tools-faq.md)

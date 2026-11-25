@@ -1,32 +1,31 @@
 ---
-title: "Why Is Hand Planing Still Used in Woodworking"
-description: "Hand planing is still used because it offers precise control over surface and geometry."
-slug: "why-is-hand-planing-still-used-in-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why Is Hand Planing Still Used in Woodworking
+description: Hand planing is still used because it offers precise control over surface and geometry.
+slug: why-is-hand-planing-still-used-in-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand planes
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "wood as material"
-  - "surface finishing"
-  - "traditional woodworking"
-metadata_updated: "2026-09-22"
+- hand planes
+- hand tools
+- wood as material
+- surface preparation
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "marking out"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
+- hand tools
+- surface preparation
+- wood grain direction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why Is Hand Planing Still Used in Woodworking
 
@@ -40,14 +39,14 @@ A hand plane cuts wood fibers cleanly rather than abrading them.
 
 This results in a surface that:
 
-- reflects light differently  
-- reveals the natural structure of the wood  
-- does not require further processing to achieve clarity  
+- reflects light differently
+- reveals the natural structure of the wood
+- does not require further processing to achieve clarity
 
 At the same time, planing allows the maker to control flatness and geometry with precision.
 
 More about tools:
-[What tools are used in traditional woodworking](./what-tools-are-used-in-traditional-woodworking.md)
+[Basic woodworking hand tools: functions, setup and a starting kit](basic-woodworking-hand-tools.md)
 
 ## Beyond sanding
 
@@ -57,9 +56,9 @@ It smooths the surface, but does not control it with the same precision.
 
 Hand planing allows:
 
-- correction of small irregularities  
-- precise fitting of elements  
-- controlled removal of material  
+- correction of small irregularities
+- precise fitting of elements
+- controlled removal of material
 
 ## Plane and scraper as a system
 
@@ -69,9 +68,9 @@ A hand plane defines the geometry and prepares the surface. A scraper refines it
 
 This combination allows:
 
-- precise control over flatness  
-- removal of minor irregularities  
-- achieving a surface ready for finishing without sanding  
+- precise control over flatness
+- removal of minor irregularities
+- achieving a surface ready for finishing without sanding
 
 The plane establishes the surface. The scraper completes it.
 
@@ -97,9 +96,9 @@ This is why I continue to use it.
 
 Hand planing requires control over:
 
-- tool setup  
-- body position  
-- pressure and direction  
+- tool setup
+- body position
+- pressure and direction
 
 Course:
 https://www.bensariworkshop.com/en/hand-plane-techniques/

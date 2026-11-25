@@ -1,29 +1,29 @@
 ---
-title: "Rasps and Files in Woodworking"
-description: "Rasps and files are shaping tools used to remove material and refine surfaces in woodworking."
-slug: "rasps-and-files-in-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "chisels"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Rasps and Files in Woodworking
+description: Rasps and files are shaping tools used to remove material and refine surfaces in woodworking.
+slug: rasps-and-files-in-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: rasps and files
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "chisels"
-  - "hand tools"
-  - "rasps and files"
-metadata_updated: "2026-09-22"
+- rasps and files
+- chisels
+- hand tools
 related_topics:
-  - "joinery"
-  - "marking out"
-  - "tool control"
-  - "traditional woodworking"
-  - "shaping"
-  - "surface preparation"
+- hand tools
+- traditional woodworking
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Rasps and Files in Woodworking
 

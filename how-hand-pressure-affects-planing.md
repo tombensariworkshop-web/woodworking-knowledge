@@ -1,30 +1,29 @@
 ---
-title: "How Hand Pressure Affects Planing"
-description: "Hand planes remove wood by slicing thin shavings from the surface of a board."
-slug: "how-hand-pressure-affects-planing"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Hand Pressure Affects Planing
+description: Hand planes remove wood by slicing thin shavings from the surface of a board.
+slug: how-hand-pressure-affects-planing
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand planes
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "woodworking education"
-  - "workshop learning"
-metadata_updated: "2026-09-22"
+- hand planes
+- hand tools
+- woodworking education
+- surface preparation
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "skill development"
+- hand tools
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Hand Pressure Affects Planing
 
@@ -50,7 +49,7 @@ If too much pressure is applied at the rear of the plane at the beginning of the
 
 Learning to shift pressure smoothly during the stroke helps maintain flat, even surfaces.
 
-Related article  
+Related article
 [How hand planes cut wood](how-hand-planes-cut-wood.md)
 
 ## Tool Feedback
@@ -61,5 +60,5 @@ This feedback allows adjustments to be made during the cut, improving accuracy a
 
 Understanding how pressure affects planing is therefore an important part of developing skill with hand tools.
 
-Related article  
+Related article
 [Why hand tools still matter in woodworking](why-hand-tools-still-matter-in-woodworking.md)

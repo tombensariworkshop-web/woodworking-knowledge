@@ -1,39 +1,35 @@
 ---
-title: "How to Divide Dovetails by Eye – Working with Proportion Instead of Formula"
-description: "There is a moment in marking out dovetails when many people start looking for a rule. How many tails, what spacing, what proportion."
-slug: "how-to-divide-dovetails-by-eye"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How to Divide Dovetails by Eye – Working with Proportion Instead of Formula
+description: There is a moment in marking out dovetails when many people start looking for a rule. How many tails, what spacing, what proportion.
+slug: how-to-divide-dovetails-by-eye
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- traditional woodworking
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "material selection"
-  - "craftsmanship"
-  - "craft education"
+- marking out
+- hand tools
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How to Divide Dovetails by Eye – Working with Proportion Instead of Formula
 
 There is a moment in marking out dovetails when many people start looking for a rule. How many tails, what spacing, what proportion. It is a natural question, but in practice it often leads away from understanding the joint.
-
-This article is part of a structured knowledge base on traditional woodworking, joinery, and furniture making developed through daily workshop practice at Bensari Workshop.
 
 Over time I stopped relying on fixed formulas. Not because they are wrong, but because they do not really respond to the material or the object I am making.
 
@@ -43,10 +39,10 @@ Working by eye is often misunderstood as approximation. In reality it is a form 
 
 There is also a structural aspect to this. Adding more tails does not automatically make the joint stronger. At some point the pins become too thin, and the joint becomes more difficult to execute without gaining anything in performance.
 
-This is something that becomes clearer when you watch the process as it happens, when the division is made in relation to the actual piece rather than a diagram:  
-https://www.youtube.com/watch?v=ahbU-GnlVXM&t=24s  
+This is something that becomes clearer when you watch the process as it happens, when the division is made in relation to the actual piece rather than a diagram:
+https://www.youtube.com/watch?v=ahbU-GnlVXM&t=24s
 
-And I describe my full approach to layout, including spacing, here:  
+And I describe my full approach to layout, including spacing, here:
 https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
 With time, this way of working becomes natural. You stop counting and start seeing.
@@ -54,7 +50,7 @@ With time, this way of working becomes natural. You stop counting and start seei
 ## Internal links
 
 - [Dovetail marking out – practice, geometry and control](dovetail-marking-out-practice-and-geometry.md)
-- [Marking Out as a Way of Working](marking-out-as-a-way-of-working.md)
+- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 
 ## Tags
 

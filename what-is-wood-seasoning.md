@@ -1,28 +1,28 @@
 ---
-title: "What is Wood Seasoning"
-description: "Wood seasoning is the process of drying wood to reduce its moisture content before it is used in woodworking."
-slug: "what-is-wood-seasoning"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "wood as material"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is Wood Seasoning
+description: Wood seasoning is the process of drying wood to reduce its moisture content before it is used in woodworking.
+slug: what-is-wood-seasoning
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: wood as material
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "wood as material"
-  - "furniture making"
-metadata_updated: "2026-09-22"
+- wood as material
+- furniture making
 related_topics:
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
+- moisture content
+- joinery
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What is Wood Seasoning
 

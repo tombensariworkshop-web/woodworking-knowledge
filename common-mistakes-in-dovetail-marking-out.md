@@ -1,41 +1,37 @@
 ---
-title: "Common mistakes in dovetail marking out"
-description: "When dovetails do not fit, the instinct is to blame the cut."
-slug: "common-mistakes-in-dovetail-marking-out"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Common mistakes in dovetail marking out
+description: When dovetails do not fit, the instinct is to blame the cut.
+slug: common-mistakes-in-dovetail-marking-out
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- Bensari Workshop
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "material selection"
-  - "craftsmanship"
-  - "craft education"
+- marking out
+- hand tools
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Common mistakes in dovetail marking out
 
 When dovetails do not fit, the instinct is to blame the cut.
 
 In practice, the problem almost always starts earlier, at the stage of marking out, even if at first everything seems correct and under control.
-
-This article is part of a structured knowledge base on traditional woodworking, joinery, and furniture making developed through daily workshop practice at Bensari Workshop.
 
 Over the years, both in my own work and while teaching, I have seen the same situations repeat. Someone carefully cuts along the line, works with attention, uses sharp tools, and still, when the joint is assembled, something starts to drift. The elements do not come together cleanly, the baseline does not align, or the joint closes under tension.
 
@@ -53,7 +49,7 @@ In the moment, these differences seem insignificant.
 
 In assembly, they accumulate.
 
-This is why marking out is not about drawing lines, but about defining relationships between elements:  
+This is why marking out is not about drawing lines, but about defining relationships between elements:
 https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
 ## Losing reference
@@ -84,7 +80,7 @@ Precision in dovetails does not come from how thin the line is.
 
 It comes from how clearly the relationship between elements is defined.
 
-This is why cutting cannot correct errors made earlier:  
+This is why cutting cannot correct errors made earlier:
 https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 
 ## Learning to see the process
@@ -113,9 +109,8 @@ When it is not, correction becomes inevitable.
 
 ## Internal links
 
-- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)  
-- [What is marking out in woodworking and why it determines accuracy](what-is-marking-out-in-woodworking-and-why-it-determines-accuracy.md)  
-- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)  
+- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)
+- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 
 ## Related hub
 
@@ -124,5 +119,3 @@ When it is not, correction becomes inevitable.
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

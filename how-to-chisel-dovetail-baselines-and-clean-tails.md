@@ -1,31 +1,32 @@
 ---
-title: "Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique"
-description: "A practical method for chiselling dovetail baselines, removing waste and cleaning tails without damaging the joint's reference line."
-slug: "how-to-chisel-dovetail-baselines-and-clean-tails"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: 'Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique'
+description: A practical method for chiselling dovetail baselines, removing waste and cleaning tails without damaging the joint's reference line.
+slug: how-to-chisel-dovetail-baselines-and-clean-tails
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- furniture construction
+- traditional woodworking
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique
 
@@ -34,8 +35,6 @@ Hand-cut dovetails are often associated with sawing accuracy, but in practice, t
 In traditional woodworking, the chisel is one of the most precise tools in the workshop, but also one of the most difficult to control. Unlike a plane or a saw, it has no fence, no sole, and no mechanical guidance. Everything depends on body position, grip, concentration, and understanding how the tool behaves inside the wood.
 
 This article explains how I approach baseline chiseling in dovetail joinery, how I select chisels for different sections of the joint, and which mistakes most commonly destroy otherwise well-cut dovetails.
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.
 
 ## Related articles
 
@@ -260,8 +259,6 @@ Related articles:
 
 Additional woodworking knowledge:
 - https://www.bensariworkshop.com/en/school/
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.
 
 ## Related guide
 

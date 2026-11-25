@@ -1,32 +1,30 @@
 ---
-title: "How Veneer Seams Are Aligned"
-description: "When multiple veneer sheets are used on a single panel, the seams between sheets must be aligned carefully."
-slug: "how-veneer-seams-are-aligned"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Veneer Seams Are Aligned
+description: When multiple veneer sheets are used on a single panel, the seams between sheets must be aligned carefully.
+slug: how-veneer-seams-are-aligned
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-metadata_updated: "2026-09-22"
+- veneering
+- hammer veneering
+- furniture making
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- hammer veneering
+- cabinetmaking
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How Veneer Seams Are Aligned
 
@@ -40,6 +38,6 @@ During hammer veneering, the veneer hammer helps press the joined sheets evenly 
 
 Once the glue has set, the seams become part of a continuous surface.
 
-Related articles  
-- [Why Bookmatching Is Used in Veneering](why-bookmatching-is-used-in-veneering.md)
+Related articles
+- [What is Bookmatching in Veneering](what-is-bookmatching-in-veneering.md)
 - [How glue is forced out during hammer veneering – flow, pressure and material interaction](how-glue-is-forced-out-during-hammer-veneering.md)

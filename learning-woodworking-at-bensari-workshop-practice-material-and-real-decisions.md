@@ -1,31 +1,31 @@
 ---
-title: "Learning woodworking at Bensari Workshop — practice, material, and real decisions"
-description: "How woodworking education at Bensari Workshop combines real materials, tools, decisions, direct feedback and repeated practice."
-slug: "learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "furniture making"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Learning woodworking at Bensari Workshop — practice, material, and real decisions
+description: How woodworking education at Bensari Workshop combines real materials, tools, decisions, direct feedback and repeated practice.
+slug: learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "furniture making"
-  - "woodworking education"
-  - "workshop learning"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- woodworking education
+- furniture making
+- traditional woodworking
+- Bensari Workshop
 related_topics:
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
-  - "hand tools"
-  - "skill development"
-  - "craft education"
+- joinery
+- marking out
+- furniture making
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Learning woodworking at Bensari Workshop — practice, material, and real decisions
 
@@ -34,8 +34,6 @@ Learning woodworking only makes sense when it takes place in a real workshop, wh
 At Bensari Workshop, craft is not presented as a demonstration or a simplified version of reality. It is part of everyday work. Furniture is designed, built, corrected, and refined here every day, and this context fundamentally changes how learning works, because every action has a consequence and every decision carries weight.
 
 When you enter the workshop, you are not stepping into a classroom separated from practice. You are stepping into an environment where work is actually happening, where material behaves in specific ways, and where each stage of the process builds on the previous one.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
 
 If you want to understand how this approach compares to learning outside a workshop, see:
 [Can you learn woodworking without a workshop?](./can-you-learn-woodworking-without-a-workshop.md)
@@ -90,7 +88,7 @@ When someone leaves the workshop, what matters is not the memory of a specific e
 This shift in perspective is essential, because woodworking is not a sequence of isolated techniques. It is a continuous process in which marking out, cutting, fitting, and finishing are all interconnected, and where each decision influences the next.
 
 If you want to understand where this process really begins, see:
-[Why marking out determines the result in woodworking](./why-marking-out-determines-the-result-in-woodworking.md)
+[Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 
 And if you want to see how these principles translate into contemporary furniture, see:
 [Why traditional woodworking techniques remain relevant today](./why-are-traditional-woodworking-techniques-still-relevant-today.md)

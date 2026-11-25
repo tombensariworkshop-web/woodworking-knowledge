@@ -1,46 +1,35 @@
 ---
-title: "Elm in Furniture Making"
-description: "Elm is a hardwood historically used in furniture making and structural woodworking."
-slug: "elm-in-furniture-making"
-content_type: "material-reference"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand tools"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
+title: Elm in Furniture Making
+description: Elm is a hardwood historically used in furniture making and structural woodworking.
+slug: elm-in-furniture-making
+content_type: redirect
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: wood as material
+knowledge_role: redirect
+knowledge_basis: consolidated article alias
 topics:
-  - "hand tools"
-  - "wood as material"
-  - "wood species"
-  - "material selection"
-  - "furniture making"
-metadata_updated: "2026-09-22"
+- wood as material
+- material selection
+- furniture making
 related_topics:
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
+- wood movement
+- grain direction
+- joinery
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+layout: redirect
+sitemap: false
+redirect_to: /wood-species-for-furniture-making.html
+consolidated_into: wood-species-for-furniture-making.md
+last_modified_at: '2026-11-25'
 ---
 # Elm in Furniture Making
 
-Elm is a hardwood historically used in furniture making and structural woodworking.
-
-The wood is known for its interlocking grain structure, which gives it a distinctive visual character and makes it highly resistant to splitting.
-
-Because of this property, elm has traditionally been used in applications where durability and resistance to cracking are important. It was commonly used for chair seats, wheel hubs and structural furniture components.
-
-Elm typically displays a warm brown tone with pronounced grain patterns that can create visually dynamic surfaces in finished furniture.
-
-Although the interlocking grain can make the wood more challenging to plane with hand tools, it also contributes to the material's strength and resilience.
-
-In furniture design elm is appreciated for both its structural qualities and the expressive patterns created by its grain.
-
-## Related guide
-
-This page is part of the broader [wood-as-material guide](wood-as-material.md).
+This article has been consolidated into [Wood species for furniture making: European context and practical selection](wood-species-for-furniture-making.md). The maintained article contains the explanation and related practical references.

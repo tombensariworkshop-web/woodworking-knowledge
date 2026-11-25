@@ -1,41 +1,36 @@
 ---
-title: "Why PVA glues behave differently than hide glue – flexibility, creep and control"
-description: "PVA adhesives and hide glue behave differently because they create fundamentally different types of glue lines."
-slug: "why-pva-glues-behave-differently-than-hide-glue"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why PVA glues behave differently than hide glue – flexibility, creep and control
+description: PVA adhesives and hide glue behave differently because they create fundamentally different types of glue lines.
+slug: why-pva-glues-behave-differently-than-hide-glue
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hide glue
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- hide glue
+- hammer veneering
+- veneering
+- adhesives
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- adhesives
+- wood movement
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why PVA glues behave differently than hide glue – flexibility, creep and control
 
 PVA adhesives and hide glue behave differently because they create fundamentally different types of glue lines.
 
 This difference affects both the process and long-term performance.
-
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Flexibility vs rigidity
 
@@ -53,8 +48,8 @@ Rigid glue lines resist them.
 
 This leads to different outcomes:
 
-- PVA can accommodate slight shifts  
-- hide glue maintains precise geometry  
+- PVA can accommodate slight shifts
+- hide glue maintains precise geometry
 
 Neither is universally better.
 
@@ -78,9 +73,9 @@ Hide glue offers something different.
 
 It allows:
 
-- reactivation with heat  
-- adjustment during application  
-- direct control in techniques such as hammer veneering  
+- reactivation with heat
+- adjustment during application
+- direct control in techniques such as hammer veneering
 
 PVA adhesives, by contrast, are more predictable but less adjustable once applied.
 
@@ -90,15 +85,15 @@ The choice depends on the application.
 
 PVA adhesives are often used for:
 
-- general veneering  
-- vacuum bag pressing  
-- non-structural laminations  
+- general veneering
+- vacuum bag pressing
+- non-structural laminations
 
 Hide glue is used where:
 
-- control during application matters  
-- reversibility is important  
-- traditional techniques are applied  
+- control during application matters
+- reversibility is important
+- traditional techniques are applied
 
 ## Structural applications
 
@@ -115,7 +110,3 @@ The difference between PVA and hide glue is not about preference.
 It is about behavior.
 
 Understanding this difference allows for better control of both process and outcome.
-
-## Context
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

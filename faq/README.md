@@ -1,33 +1,38 @@
 ---
-title: "Bensari Workshop Woodworking FAQ"
-description: "Frequently asked questions about traditional woodworking, cabinetmaking, hand tools, dovetail joinery, veneering and workshop learning."
-slug: "faq-index"
-content_type: "index"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "knowledge-hub"
-knowledge_basis: "first-party knowledge navigation"
+title: Bensari Workshop Woodworking FAQ
+description: Frequently asked questions about traditional woodworking, cabinetmaking, hand tools, dovetail joinery, veneering and workshop learning.
+slug: faq-index
+content_type: index
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking knowledge architecture
+knowledge_role: knowledge-hub
+knowledge_basis: first-party knowledge navigation
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-metadata_updated: "2026-09-22"
+- woodworking knowledge architecture
+- dovetail joinery
+- joinery
+- marking out
+- hammer veneering
+- veneering
+- hide glue
+- chisels
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "accuracy and reference systems"
-  - "veneer preparation"
-  - "cabinetmaking"
+- hand tools
+- drawer construction
+- furniture construction
+- accuracy and reference systems
+- veneer preparation
+- cabinetmaking
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Bensari Workshop Woodworking FAQ
 
@@ -82,9 +87,7 @@ Unlike generic woodworking FAQ collections, these articles focus on:
 - https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
 
 ### Veneering
-- https://www.bensariworkshop.com/en/hammer-veneering-complete-guide/
-- https://www.bensariworkshop.com/en/how-to-make-a-veneer-hammer/
+- [Hammer veneering: complete guide](../hammer-veneering-complete-guide.md)
+- [How a veneer hammer works](../veneer-hammer-in-traditional-cabinetmaking.md)
 
 ---
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

@@ -1,33 +1,30 @@
 ---
-title: "How air bubbles are avoided in hammer veneering – pressure, glue and sequence"
-description: "Air bubbles are one of the most common problems in veneering."
-slug: "how-air-bubbles-are-avoided-in-hammer-veneering"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How air bubbles are avoided in hammer veneering – pressure, glue and sequence
+description: Air bubbles are one of the most common problems in veneering.
+slug: how-air-bubbles-are-avoided-in-hammer-veneering
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- hammer veneering
+- veneering
+- Bensari Workshop
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- veneering
+- wood movement
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How air bubbles are avoided in hammer veneering – pressure, glue and sequence
 
@@ -36,8 +33,6 @@ Air bubbles are one of the most common problems in veneering.
 They do not appear by accident.
 
 They are the result of how pressure, glue and sequence are controlled during the process.
-
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Air is always present
 
@@ -57,9 +52,9 @@ It is used to move material.
 
 Pressure is applied to:
 
-- push glue outward  
-- displace air  
-- bring veneer into full contact with the substrate  
+- push glue outward
+- displace air
+- bring veneer into full contact with the substrate
 
 This movement is directional, not static.
 
@@ -71,14 +66,14 @@ Veneer is pressed starting from the center of the panel and moving toward the ed
 
 This creates a path for:
 
-- glue to escape  
-- air to be expelled  
+- glue to escape
+- air to be expelled
 
 If pressure is applied without sequence, air becomes trapped and forms bubbles.
 
 Learn more:
 
-- [How glue is forced out during hammer veneering](how-glue-is-forced-out-during-hammer-veneering.md)  
+- [How glue is forced out during hammer veneering](how-glue-is-forced-out-during-hammer-veneering.md)
 - [How pressure is controlled in hammer veneering](how-pressure-is-controlled-in-hammer-veneering.md)
 
 ## Timing and glue behavior
@@ -87,9 +82,9 @@ Glue must remain active during the process.
 
 If it begins to gel too early:
 
-- movement is restricted  
-- air cannot be fully removed  
-- bonding becomes uneven  
+- movement is restricted
+- air cannot be fully removed
+- bonding becomes uneven
 
 This is why timing is critical.
 
@@ -101,9 +96,9 @@ Hammer veneering relies on direct feedback.
 
 The maker can feel:
 
-- resistance under the tool  
-- areas where contact is incomplete  
-- changes in the behavior of the glue  
+- resistance under the tool
+- areas where contact is incomplete
+- changes in the behavior of the glue
 
 This allows immediate correction during the process.
 
@@ -115,9 +110,9 @@ They are a symptom.
 
 They indicate:
 
-- uneven pressure  
-- incorrect sequence  
-- loss of control over glue behavior  
+- uneven pressure
+- incorrect sequence
+- loss of control over glue behavior
 
 Solving the problem means correcting the process, not only the result.
 
@@ -131,11 +126,9 @@ This is what creates a stable and uniform bond.
 
 ## Related
 
-- [Hammer veneering in practice](hammer-veneering-in-practice.md)  
-- [Veneering](veneering.md)
+- [Hammer veneering in practice](hammer-veneering-in-practice.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

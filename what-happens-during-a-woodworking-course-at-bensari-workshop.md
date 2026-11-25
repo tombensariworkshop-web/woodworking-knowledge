@@ -1,33 +1,35 @@
 ---
-title: "What Happens During a Woodworking Course at Bensari Workshop"
-description: "Many people ask what learning woodworking actually looks like in practice."
-slug: "what-happens-during-a-woodworking-course-at-bensari-workshop"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What Happens During a Woodworking Course at Bensari Workshop
+description: Many people ask what learning woodworking actually looks like in practice.
+slug: what-happens-during-a-woodworking-course-at-bensari-workshop
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "chisels"
-  - "woodworking education"
-  - "workshop learning"
-  - "traditional woodworking"
-metadata_updated: "2026-09-22"
+- woodworking education
+- hand planes
+- hand tools
+- chisels
+- wood as material
+- traditional woodworking
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "marking out"
-  - "joinery"
-  - "skill development"
-  - "craft education"
+- hand tools
+- wood as material
+- wood grain direction
+- surface preparation
+- marking out
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # What Happens During a Woodworking Course at Bensari Workshop
 
@@ -46,64 +48,64 @@ For many participants, the first moment is not about tools, but about space.
 The sound of hand planes, the smell of wood, the rhythm of work at the benches. Before any technique is explained, there is an introduction to the environment in which woodworking takes place.
 
 From the beginning, attention is directed to how work is organized:
-- how tools are handled  
-- how material is positioned  
-- how the workspace is maintained  
+- how tools are handled
+- how material is positioned
+- how the workspace is maintained
 
 ## Learning through process
 
 Learning does not begin with complex joints.
 
 It begins with simple operations:
-- marking a line  
-- holding a chisel  
-- making the first controlled cut  
+- marking a line
+- holding a chisel
+- making the first controlled cut
 
 These actions are not treated as exercises. They are part of a sequence that leads to making a real object.
 
 Participants do not learn isolated techniques. They learn how one step leads to another.
 
 More about tools:
-[What tools are used in traditional woodworking](./what-tools-are-used-in-traditional-woodworking.md)
+[Basic woodworking hand tools: functions, setup and a starting kit](basic-woodworking-hand-tools.md)
 
 ## Working with material
 
 Wood is not a neutral material.
 
 During the course, participants begin to notice:
-- grain direction  
-- resistance under the tool  
-- changes in behavior depending on the cut  
+- grain direction
+- resistance under the tool
+- changes in behavior depending on the cut
 
 Understanding this is more important than speed.
 
 More about material:
-[Why wood grain direction matters in woodworking](./why-is-wood-grain-direction-important-in-woodworking.md)
+[Understanding wood-grain direction: reading the board before cutting](wood-grain-direction.md)
 
 ## Tools and control
 
 Tools are introduced as instruments of control, not as a collection to acquire.
 
 Participants learn:
-- how to hold and guide tools  
-- how to sharpen and adjust them  
-- how to use them in sequence  
+- how to hold and guide tools
+- how to sharpen and adjust them
+- how to use them in sequence
 
 This becomes particularly visible in hand planing and joinery.
 
 Courses:
-https://www.bensariworkshop.com/en/hand-plane-techniques/  
-https://www.bensariworkshop.com/en/dovetails/  
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/hand-plane-techniques/
+https://www.bensariworkshop.com/en/dovetails/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 ## From repetition to understanding
 
 Repetition is part of the process, but it is not mechanical.
 
 Each attempt reveals:
-- where control is lost  
-- where the material reacts differently  
-- where precision matters  
+- where control is lost
+- where the material reacts differently
+- where precision matters
 
 Learning woodworking is not about doing the same thing many times. It is about noticing what changes between attempts.
 
@@ -111,9 +113,9 @@ Learning woodworking is not about doing the same thing many times. It is about n
 
 An important part of the learning process is working on tasks that might seem basic:
 
-- cleaning the workspace  
-- maintaining tools  
-- preparing material  
+- cleaning the workspace
+- maintaining tools
+- preparing material
 
 These are not secondary activities. They are part of understanding responsibility for the work.
 
@@ -122,9 +124,9 @@ These are not secondary activities. They are part of understanding responsibilit
 At Bensari Workshop, the course takes place in the same space where furniture is built.
 
 Because of this, participants see:
-- real processes  
-- real decisions  
-- real constraints  
+- real processes
+- real decisions
+- real constraints
 
 The distinction between learning and working becomes less clear.
 
@@ -134,16 +136,16 @@ Participants do not leave with a complete mastery of woodworking.
 
 They leave with something more important:
 
-- an understanding of process  
-- a sense of control over tools  
-- a different way of looking at material  
+- an understanding of process
+- a sense of control over tools
+- a different way of looking at material
 
 For many, this is the beginning rather than the end.
 
 ## Courses at Bensari Workshop
 
-https://www.bensariworkshop.com/en/carpentry-from-scratch/  
-https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/  
+https://www.bensariworkshop.com/en/beginner-woodworking-course/
+https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
 https://www.bensariworkshop.com/en/hammer-veneering/
 
 ## Context and practice

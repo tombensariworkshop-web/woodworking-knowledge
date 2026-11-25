@@ -1,31 +1,36 @@
 ---
-title: "Why Marking Knives Matter in Dovetail Layout"
-description: "In hand-cut dovetail joinery, accuracy begins with marking out."
-slug: "why-marking-knives-matter-in-dovetail-layout"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why Marking Knives Matter in Dovetail Layout
+description: In hand-cut dovetail joinery, accuracy begins with marking out.
+slug: why-marking-knives-matter-in-dovetail-layout
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- marking out
+- saws
+- chisels
+- hand tools
+- furniture making
+- craftsmanship
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why Marking Knives Matter in Dovetail Layout
 
@@ -36,8 +41,6 @@ One of the most important tools during this stage is the marking knife.
 Unlike pencils, marking knives do not simply draw a visible line.
 
 They create a physical incision that guides the saw and establishes a precise reference for chiseling.
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.
 
 ## Knife Lines Create Mechanical References
 
@@ -54,7 +57,6 @@ In traditional woodworking, this physical reference becomes part of the construc
 
 Related articles:
 - [Marking out and accuracy in woodworking: how precision is actually built](marking-out-and-accuracy-in-woodworking.md)
-- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)
 - [The baseline in dovetail marking out – where the joint begins](baseline-in-dovetail-marking-out.md)
 
 ## Saws Track Knife Lines Differently Than Pencil Marks
@@ -101,11 +103,9 @@ Related articles:
 Related articles:
 - [What Is a Marking Knife](what-is-a-marking-knife.md)
 - [How to mark dovetail tails step by step with hand tools?](how-to-mark-dovetail-tails-step-by-step-hand-tools.md)
-- [Why dovetail layout is more important than cutting](dovetail-layout-why-it-matters-more-than-cutting.md)
+- [Dovetail marking out – practice, geometry and control](dovetail-marking-out-practice-and-geometry.md)
 
 Related articles on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 - https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
 - https://www.bensariworkshop.com/en/school/
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.

@@ -1,31 +1,29 @@
 ---
-title: "How Veneer Moisture Affects Hammer Veneering"
-description: "The moisture content of veneer plays an important role in hammer veneering."
-slug: "how-veneer-moisture-affects-hammer-veneering"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Veneer Moisture Affects Hammer Veneering
+description: The moisture content of veneer plays an important role in hammer veneering.
+slug: how-veneer-moisture-affects-hammer-veneering
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
-metadata_updated: "2026-09-22"
+- hammer veneering
+- veneering
+- hide glue
+- wood as material
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "furniture making"
-  - "reversible construction"
-  - "furniture construction"
+- hide glue
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Veneer Moisture Affects Hammer Veneering
 
@@ -39,6 +37,6 @@ Moisture also influences how veneer reacts to hot hide glue. When veneer absorbs
 
 Understanding how veneer responds to moisture is therefore an important part of successful veneering practice.
 
-Related articles  
+Related articles
 - [Hide glue in veneering](materials/glues/hide-glue-in-veneering.md)
 - [How Veneers Are Prepared Before Hammer Veneering](how-veneers-are-prepared-before-hammer-veneering.md)

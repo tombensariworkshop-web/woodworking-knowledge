@@ -1,33 +1,33 @@
 ---
-title: "What Is Cabinetmaking"
-description: "Cabinetmaking is the branch of woodworking focused on the construction of furniture and precise interior elements."
-slug: "what-is-cabinetmaking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What Is Cabinetmaking
+description: Cabinetmaking is the branch of woodworking focused on the construction of furniture and precise interior elements.
+slug: what-is-cabinetmaking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: furniture making
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "furniture construction"
-  - "veneering"
-  - "furniture making"
-metadata_updated: "2026-09-22"
+- furniture making
+- dovetail joinery
+- joinery
+- mortise and tenon
+- veneering
+- Bensari Workshop
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "accuracy and reference systems"
-  - "hide glue"
-  - "wood movement"
-  - "material selection"
+- veneering
+- mortise and tenon
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # What Is Cabinetmaking
 
@@ -39,8 +39,8 @@ At Bensari Workshop, cabinetmaking is based on traditional methods such as dovet
 
 Related:
 [What is furniture making](./what-is-furniture-making.md)
-[Veneering in woodworking](./veneering.md)
-[What is mortise and tenon joinery](./what-is-mortise-and-tenon-joinery.md)
+[Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
+[Mortise and tenon joinery](mortise-and-tenon.md)
 
 Context:
 https://www.bensariworkshop.com/en/from-french-ebenistes-to-contemporary-design-my-article-in-fine-woodworking/

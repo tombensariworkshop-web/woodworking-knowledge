@@ -1,21 +1,27 @@
 ---
-title: "What is Furniture Proportion"
-description: "Furniture proportion refers to the relationship between the dimensions of different parts of an object."
-slug: "what-is-furniture-proportion"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is Furniture Proportion
+description: Furniture proportion refers to the relationship between the dimensions of different parts of an object.
+slug: what-is-furniture-proportion
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: furniture making
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "woodworking"
-metadata_updated: "2026-09-22"
+- furniture making
 related_topics:
+- furniture design and craft
+- furniture design
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What is Furniture Proportion
 

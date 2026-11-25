@@ -1,27 +1,27 @@
 ---
-title: "What Is a Try Square"
-description: "A try square is a measuring and layout tool used to mark and verify right angles in woodworking."
-slug: "what-is-a-try-square"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "marking out"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What Is a Try Square
+description: A try square is a measuring and layout tool used to mark and verify right angles in woodworking.
+slug: what-is-a-try-square
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: marking out
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-metadata_updated: "2026-09-22"
+- marking out
+- furniture making
 related_topics:
-  - "joinery"
-  - "hand tools"
-  - "material selection"
-  - "craftsmanship"
+- joinery
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What Is a Try Square
 

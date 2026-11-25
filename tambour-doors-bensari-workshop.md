@@ -1,32 +1,33 @@
 ---
-title: "Tambour Doors – Craft in Motion at Bensari Workshop"
-description: "A tambour door is a flexible furniture closure made from narrow connected elements that travel through a curved track."
-slug: "tambour-doors-bensari-workshop"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Tambour Doors – Craft in Motion at Bensari Workshop
+description: A tambour door is a flexible furniture closure made from narrow connected elements that travel through a curved track.
+slug: tambour-doors-bensari-workshop
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: tambour doors
+knowledge_role: pillar-guide
+knowledge_basis: practice-based pillar guide
 topics:
-  - "veneering"
-  - "tambour doors"
-  - "furniture construction"
-  - "wood as material"
-  - "craftsmanship"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- tambour doors
+- wood as material
+- furniture making
+- Bensari Workshop
+- furniture construction
+- craftsmanship
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "furniture making"
-  - "moisture content"
-  - "grain direction"
-  - "material understanding"
+- furniture making
+- wood movement
+- veneering
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Tambour Doors – Craft in Motion at Bensari Workshop
 

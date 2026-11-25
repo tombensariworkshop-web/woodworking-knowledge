@@ -1,31 +1,37 @@
 ---
-title: "Wood as a Material in Furniture Making"
-description: "Wood is not a uniform industrial material. It is directional, hygroscopic and structurally variable."
-slug: "wood-as-material"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "chisels"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Wood as a Material in Furniture Making
+description: Wood is not a uniform industrial material. It is directional, hygroscopic and structurally variable.
+slug: wood-as-material
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: wood as material
+knowledge_role: pillar-guide
+knowledge_basis: practice-based pillar guide
 topics:
-  - "chisels"
-  - "hand tools"
-  - "wood as material"
-  - "furniture making"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- wood as material
+- wood grain
+- wood movement
+- moisture content
+- material selection
+- furniture making
+- Bensari Workshop
 related_topics:
-  - "joinery"
-  - "marking out"
-  - "tool control"
-  - "traditional woodworking"
-  - "wood movement"
-  - "moisture content"
+- hand tools
+- hand planes
+- mortise and tenon
+- dovetail joinery
+- marking out
+- veneering
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Wood as a Material in Furniture Making
 
@@ -70,7 +76,7 @@ Before a component is cut, a furniture maker considers:
 - how the material will respond to planing, scraping, bending or veneering;
 - whether a defect is harmless, useful or structurally dangerous.
 
-This selection process is described in [how wood is selected for furniture making](how-wood-is-selected-for-furniture-making.md). The species reference pages explain common workshop characteristics of oak, walnut, ash, beech, birch, cherry, elm, mahogany, maple and pine.
+This selection process is described in [how wood is selected for furniture making](how-wood-is-selected-for-furniture-making.md). The [wood-species selection reference](wood-species-for-furniture-making.md) compares common furniture woods in a European context, distinguishes commercial names and links to documented workshop examples.
 
 ## Material and hand tools
 

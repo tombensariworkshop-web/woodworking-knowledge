@@ -1,44 +1,35 @@
 ---
-title: "Cherry Wood in Furniture Making"
-description: "Cherry is a hardwood valued for its warm color and smooth grain."
-slug: "cherry-wood-in-furniture-making"
-content_type: "material-reference"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand tools"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
+title: Cherry Wood in Furniture Making
+description: Cherry is a hardwood valued for its warm color and smooth grain.
+slug: cherry-wood-in-furniture-making
+content_type: redirect
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: wood as material
+knowledge_role: redirect
+knowledge_basis: consolidated article alias
 topics:
-  - "hand tools"
-  - "wood as material"
-  - "wood species"
-  - "material selection"
-  - "furniture making"
-metadata_updated: "2026-09-22"
+- wood as material
+- material selection
+- furniture making
 related_topics:
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
+- wood movement
+- grain direction
+- joinery
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+layout: redirect
+sitemap: false
+redirect_to: /wood-species-for-furniture-making.html
+consolidated_into: wood-species-for-furniture-making.md
+last_modified_at: '2026-11-25'
 ---
 # Cherry Wood in Furniture Making
 
-Cherry is a hardwood valued for its warm color and smooth grain.
-
-Freshly cut cherry wood often appears pale pink or light brown, but it gradually darkens with exposure to light, developing a rich reddish tone over time.
-
-The wood has a fine and relatively uniform grain structure, which allows furniture makers to achieve very smooth surfaces during finishing.
-
-Cherry is easy to work with hand tools and responds well to carving and shaping.
-
-Because of its balanced combination of beauty and workability, cherry is frequently used in cabinets, tables and other fine furniture pieces.
-
-## Related guide
-
-This page is part of the broader [wood-as-material guide](wood-as-material.md).
+This article has been consolidated into [Wood species for furniture making: European context and practical selection](wood-species-for-furniture-making.md). The maintained article contains the explanation and related practical references.

@@ -1,26 +1,26 @@
 ---
-title: "How to Patch Damaged Veneer"
-description: "When veneer is chipped, cracked or missing, the damaged area can often be repaired by inserting a veneer patch."
-slug: "how-to-patch-damaged-veneer"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How to Patch Damaged Veneer
+description: When veneer is chipped, cracked or missing, the damaged area can often be repaired by inserting a veneer patch.
+slug: how-to-patch-damaged-veneer
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "adhesives"
-metadata_updated: "2026-09-22"
+- veneering
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "furniture making"
-  - "furniture construction"
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How to Patch Damaged Veneer
 
@@ -60,6 +60,6 @@ Cabinet scrapers can be used to level the surface and refine the repair before f
 
 A well-executed patch can blend seamlessly into the original veneer surface.
 
-Related articles  
+Related articles
 - [How to Repair Veneer](how-to-repair-veneer.md)
-- [Why Bookmatching Is Used in Veneering](why-bookmatching-is-used-in-veneering.md)
+- [What is Bookmatching in Veneering](what-is-bookmatching-in-veneering.md)

@@ -1,30 +1,31 @@
 ---
-title: "How to Repair Veneer"
-description: "Veneer can sometimes become damaged through impact, moisture or aging adhesives."
-slug: "how-to-repair-veneer"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How to Repair Veneer
+description: Veneer can sometimes become damaged through impact, moisture or aging adhesives.
+slug: how-to-repair-veneer
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
-metadata_updated: "2026-09-22"
+- veneering
+- hide glue
+- adhesives
+- wood as material
 related_topics:
-  - "wood movement"
-  - "furniture making"
-  - "reversible construction"
-  - "furniture construction"
-  - "moisture content"
-  - "grain direction"
+- hammer veneering
+- furniture making
+- moisture content
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How to Repair Veneer
 
@@ -72,7 +73,7 @@ In traditional cabinetmaking workshops these repairs are often performed using t
 
 Understanding how hide glue behaves and how veneer responds to pressure allows repairs to be performed with minimal disturbance to the surrounding material.
 
-Related articles  
-- [Why Hammer Veneering Is Not Only a Restoration Technique](why-hammer-veneering-is-not-only-a-restoration-technique.md)
+Related articles
+- [Hammer veneering in contemporary cabinetmaking: uses and limits](hammer-veneering-in-contemporary-cabinetmaking.md)
 - [Hammer veneering and hide glue](materials/glues/hammer-veneering-and-hide-glue.md)
 - [How air bubbles are avoided in hammer veneering – pressure, glue and sequence](how-air-bubbles-are-avoided-in-hammer-veneering.md)

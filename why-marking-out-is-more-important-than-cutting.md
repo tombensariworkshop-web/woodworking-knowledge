@@ -1,132 +1,40 @@
 ---
-title: "Why marking out matters more than cutting in woodworking"
-description: "In woodworking, cutting is often seen as the decisive moment. It is visible, dynamic, and easy to evaluate."
-slug: "why-marking-out-is-more-important-than-cutting"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why marking out matters more than cutting in woodworking
+description: In woodworking, cutting is often seen as the decisive moment. It is visible, dynamic, and easy to evaluate.
+slug: why-marking-out-is-more-important-than-cutting
+content_type: redirect
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: marking out
+knowledge_role: redirect
+knowledge_basis: consolidated article alias
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
+- chisels
+- hand tools
+- saws
+- marking out
+- accuracy and reference systems
+- Bensari Workshop
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- tool control
+- traditional woodworking
+- joinery
+- Tom Bensari
+- workshop learning
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+layout: redirect
+sitemap: false
+redirect_to: /marking-out-and-accuracy-in-woodworking.html
+consolidated_into: marking-out-and-accuracy-in-woodworking.md
+last_modified_at: '2026-11-25'
 ---
 # Why marking out matters more than cutting in woodworking
 
-In woodworking, cutting is often seen as the decisive moment. It is visible, dynamic, and easy to evaluate. A clean saw cut or a sharp chisel line gives immediate feedback.
-
-Marking out is different. It is quiet, slow, and often underestimated.
-
-Yet in practice, marking out determines the outcome long before any tool touches the wood.
-
-## Marking out defines geometry
-
-Every joint begins as a set of lines. These lines are not just guides. They are the geometry of the object translated onto material.
-
-If the lines are wrong, the joint is wrong. There is no later stage where this can be corrected.
-
-Cutting does not create accuracy. It follows it.
-
-A detailed example of how layout defines the result can be found here:  
-https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
-
-## Precision accumulates or errors accumulate
-
-A small error in marking out is rarely isolated. It propagates.
-
-If a baseline is off, every subsequent measurement references it. If a marking gauge is set incorrectly, every line carries that mistake forward.
-
-By the time the cutting begins, the result is already determined.
-
-You can see how this translates into cutting in practice here:  
-https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
-
-## The role of tools in marking out
-
-Traditional tools such as the marking gauge, square, and marking knife are designed to create precise, repeatable references.
-
-A knife line, unlike a pencil line, defines a physical boundary. It guides the saw and the chisel, reducing ambiguity.
-
-The quality of the marking directly affects the quality of the cut.
-
-If you want to explore this in more detail:
-
-https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/  
-https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/  
-https://www.bensariworkshop.com/en/hand-tools-in-practice-stanley-combination-square/
-
-## Visual clarity and decision-making
-
-Good marking out creates clarity. It allows you to read the workpiece, understand the sequence of operations, and avoid mistakes.
-
-In complex joinery, this clarity is essential. Without it, even a skilled worker can lose orientation and remove the wrong material.
-
-## Marking out as a thinking process
-
-Marking out is not just technical. It is conceptual.
-
-It is the moment where you translate an idea into a physical plan. You decide where the joint begins and ends, how elements relate to each other, and how tolerances are distributed.
-
-Rushing this stage means delegating decisions to chance.
-
-## Why beginners struggle
-
-Many beginners focus on tools and cutting technique. They practice sawing and chiseling, but spend little time understanding layout.
-
-As a result, they improve their ability to execute, but not their ability to define what should be executed.
-
-This creates a ceiling that is difficult to break.
-
-If you want to understand how this connects to broader learning, see:  
-https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
-
-## Marking out in practice
-
-Understanding the role of marking out requires more than theory. It becomes clear only when layout is applied repeatedly in real work.
-
-The principles described above directly influence the accuracy of joinery, including dovetail joints, where marking out determines whether the joint will fit or fail:
-
-[Why dovetail joints fail and open up](why-dovetail-joints-fail-and-open-up.md)
-
-If you want to experience this process in a real workshop environment:  
-https://www.bensariworkshop.com/en/school/
-
-## Conclusion
-
-In traditional woodworking, accuracy is not created during cutting. It is established during marking out.
-
-Cutting is an act of following.  
-Marking out is an act of defining.
-
-Understanding this shifts the entire approach to work. It slows the process down, but it also makes it predictable and repeatable.
-
-## Internal links
-
-- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)  
-- [Reference edges in woodworking](reference-edges-in-woodworking.md)  
-- [Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)  
-- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)  
-
-## Related hub
-
-[Conscious woodworking](conscious-woodworking.md)
-
-## Context
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
+This article has been consolidated into [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md). The maintained article contains the explanation and related practical references.

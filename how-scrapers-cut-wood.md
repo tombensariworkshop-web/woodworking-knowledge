@@ -1,21 +1,29 @@
 ---
-title: "How Scrapers Cut Wood"
-description: "Cabinet scrapers remove wood using a small burr formed along the edge of the tool."
-slug: "how-scrapers-cut-wood"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Scrapers Cut Wood
+description: Cabinet scrapers remove wood using a small burr formed along the edge of the tool.
+slug: how-scrapers-cut-wood
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: surface preparation
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "woodworking"
-metadata_updated: "2026-09-22"
+- surface preparation
 related_topics:
+- hand planes
+- cabinet scrapers
+- tear-out
+- difficult grain
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Scrapers Cut Wood
 
@@ -31,5 +39,5 @@ A scraper works because a tiny hook is formed along its edge. This burr acts lik
 
 Scrapers are often used where planes struggle with tear-out.
 
-Related article  
+Related article
 [Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)

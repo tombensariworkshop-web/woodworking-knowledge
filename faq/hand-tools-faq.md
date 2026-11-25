@@ -1,32 +1,35 @@
 ---
-title: "Hand Tools FAQ — Traditional Woodworking Tools & Control"
-description: "Hand tools provide direct feedback from the material."
-slug: "hand-tools-faq"
-content_type: "faq"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "mortise and tenon"
-knowledge_role: "answer-set"
-knowledge_basis: "practice-based woodworking Q&A"
+title: Hand Tools FAQ — Traditional Woodworking Tools & Control
+description: Hand tools provide direct feedback from the material.
+slug: hand-tools-faq
+content_type: faq
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand tools
+knowledge_role: answer-set
+knowledge_basis: practice-based woodworking Q&A
 topics:
-  - "mortise and tenon"
-  - "joinery"
-  - "furniture construction"
-  - "chisels"
-  - "hand tools"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- hand tools
+- dovetail joinery
+- joinery
+- mortise and tenon
+- chisels
+- traditional woodworking
 related_topics:
-  - "marking out"
-  - "tool control"
-  - "craft education"
-  - "woodworking education"
-  - "furniture making"
+- chisels
+- hand planes
+- dovetail joinery
+- woodworking education
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Hand Tools FAQ — Traditional Woodworking Tools & Control
 
@@ -114,12 +117,9 @@ At Bensari Workshop, students quickly discover that many woodworking problems co
 
 Related:
 - [Building a Workbench as a Way of Learning Woodworking](../woodworking-workbench-building-as-learning.md)
-- [Building a Workbench as a Way of Learning Woodworking](../woodworking-workbench-building-as-learning.md)
 - [Ergonomics in Hand Tools — How Tools Shape the Way We Work](../ergonomics-in-hand-tools-woodworking.md)
 
 Related reading:
 - https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
 
 ---
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

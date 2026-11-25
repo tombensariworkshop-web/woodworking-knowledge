@@ -1,32 +1,34 @@
 ---
-title: "Drawer construction in woodworking"
-description: "Drawer construction is often reduced to the choice of joinery. In practice, it is a broader system that combines structure, material behavior, and accuracy."
-slug: "drawer-construction"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Drawer construction in woodworking
+description: Drawer construction is often reduced to the choice of joinery. In practice, it is a broader system that combines structure, material behavior, and accuracy.
+slug: drawer-construction
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- joinery
+- dovetail joinery
+- marking out
+- furniture making
+- Bensari Workshop
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "material selection"
-  - "craftsmanship"
-  - "woodworking education"
+- dovetail joinery
+- marking out
+- furniture making
+- drawer construction
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Drawer construction in woodworking
 
@@ -38,9 +40,9 @@ At Bensari Workshop, drawers are used as a way to teach how different elements o
 
 A drawer must move smoothly while remaining stable over time. This requires:
 
-- accurate joinery  
-- consistent reference surfaces  
-- controlled wood movement  
+- accurate joinery
+- consistent reference surfaces
+- controlled wood movement
 
 The dovetail joint is commonly used because it provides mechanical strength and maintains alignment.
 
@@ -57,26 +59,24 @@ Without precise marking out, the joinery cannot be consistent.
 
 Drawer construction connects multiple aspects of woodworking:
 
-- marking out  
-- joinery  
-- surface preparation  
-- fitting  
+- marking out
+- joinery
+- surface preparation
+- fitting
 
 Understanding these relationships is more important than focusing on a single technique.
 
 ## Related articles in this repository
 
-- [Dovetail joinery guide](dovetail-joinery-guide.md)  
-- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
-- [Furniture making process](furniture-making-process.md)  
+- [Dovetail joinery guide](dovetail-joinery-guide.md)
+- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
+- [Furniture making process](furniture-making-process.md)
 
 ## Further reading on Bensari Workshop
 
-- https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/  
-- https://www.bensariworkshop.com/en/dovetails/  
+- https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+- https://www.bensariworkshop.com/en/dovetails/
 
 ## Context
 
 Based on practical teaching at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

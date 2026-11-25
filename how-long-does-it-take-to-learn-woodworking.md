@@ -1,33 +1,34 @@
 ---
-title: "How long does it take to learn woodworking? (a structured path)"
-description: "The honest answer is: it depends on how you learn — and how your learning is structured."
-slug: "how-long-does-it-take-to-learn-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How long does it take to learn woodworking? (a structured path)
+description: 'The honest answer is: it depends on how you learn — and how your learning is structured.'
+slug: how-long-does-it-take-to-learn-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "wood as material"
-  - "woodworking education"
-  - "workshop learning"
-  - "craftsmanship"
-metadata_updated: "2026-09-22"
+- woodworking education
+- dovetail joinery
+- joinery
+- marking out
+- mortise and tenon
+- hand planes
+- hand tools
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "wood movement"
-  - "moisture content"
+- furniture construction
+- wood grain direction
+- surface preparation
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-23'
 ---
 # How long does it take to learn woodworking? (a structured path)
 
@@ -56,7 +57,7 @@ how to work safely and accurately
 At this stage, the goal is not speed, but awareness.
 
 You can explore beginner-level courses here:
-https://www.bensariworkshop.com/en/carpentry-from-scratch/
+https://www.bensariworkshop.com/en/beginner-woodworking-course/
 
 Stage 2: learning control — hand tools and surface work
 
@@ -93,7 +94,7 @@ Dovetail joinery:
 https://www.bensariworkshop.com/en/dovetails/
 
 Mortise and tenon:
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 At this stage, small errors become visible. This is where feedback matters most.
 

@@ -1,32 +1,30 @@
 ---
-title: "What is Frame and Panel Construction"
-description: "Frame and panel construction is a traditional woodworking method used to build doors, cabinets and furniture panels."
-slug: "what-is-frame-and-panel-construction"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "mortise and tenon"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is Frame and Panel Construction
+description: Frame and panel construction is a traditional woodworking method used to build doors, cabinets and furniture panels.
+slug: what-is-frame-and-panel-construction
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "mortise and tenon"
-  - "joinery"
-  - "furniture construction"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-metadata_updated: "2026-09-22"
+- joinery
+- mortise and tenon
+- furniture making
+- traditional woodworking
+- furniture construction
 related_topics:
-  - "marking out"
-  - "hand tools"
-  - "hide glue"
-  - "veneering"
-  - "material selection"
-  - "craftsmanship"
+- mortise and tenon
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What is Frame and Panel Construction
 

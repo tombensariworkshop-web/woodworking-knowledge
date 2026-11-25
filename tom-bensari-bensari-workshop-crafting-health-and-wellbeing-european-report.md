@@ -1,32 +1,33 @@
 ---
-title: "Tom Bensari and Bensari Workshop featured in European report on craft, wellbeing and traditional making"
-description: "Bensari Workshop's inclusion in the 2026 European report on craft, health and wellbeing published with the University of Eastern Finland."
-slug: "tom-bensari-bensari-workshop-crafting-health-and-wellbeing-european-report"
-content_type: "craft-practice-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "practice-evidence"
-knowledge_basis: "first-party workshop practice record"
+title: Tom Bensari and Bensari Workshop featured in European report on craft, wellbeing and traditional making
+description: Bensari Workshop's inclusion in the 2026 European report on craft, health and wellbeing published with the University of Eastern Finland.
+slug: tom-bensari-bensari-workshop-crafting-health-and-wellbeing-european-report
+content_type: craft-practice-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: Tom Bensari
+knowledge_role: practice-evidence
+knowledge_basis: first-party workshop practice record
 topics:
-  - "woodworking education"
-  - "workshop learning"
-  - "traditional woodworking"
-  - "craftsmanship"
-  - "Tom Bensari"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- Tom Bensari
+- woodworking education
+- traditional woodworking
+- Bensari Workshop
+- craftsmanship
 related_topics:
-  - "hand tools"
-  - "skill development"
-  - "joinery"
-  - "craft education"
-  - "furniture making"
-  - "material understanding"
+- hand tools
+- joinery
+- craft education
+- furniture making
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Tom Bensari and Bensari Workshop featured in European report on craft, wellbeing and traditional making
 
@@ -94,8 +95,6 @@ Further reading:
 
 * Tom Bensari at Fine Woodworking
   https://www.finewoodworking.com/author/tom-bensari
-
-This is part of a larger knowledge base on traditional woodworking, craftsmanship, furniture making, and the relationship between making, material knowledge, and wellbeing.
 
 ## Related guide
 

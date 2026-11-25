@@ -1,31 +1,32 @@
 ---
-title: "How to Build a Small Woodworking Tool Kit"
-description: "One of the most common questions asked by people who want to start woodworking is which tools they should buy first."
-slug: "how-to-build-a-small-woodworking-tool-kit"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How to Build a Small Woodworking Tool Kit
+description: One of the most common questions asked by people who want to start woodworking is which tools they should buy first.
+slug: how-to-build-a-small-woodworking-tool-kit
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand tools
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "furniture construction"
-  - "chisels"
-  - "hand tools"
-metadata_updated: "2026-09-22"
+- hand tools
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- saws
 related_topics:
-  - "drawer construction"
-  - "accuracy and reference systems"
-  - "tool control"
-  - "traditional woodworking"
+- furniture construction
+- traditional woodworking
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How to Build a Small Woodworking Tool Kit
 

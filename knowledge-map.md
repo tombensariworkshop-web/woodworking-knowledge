@@ -1,33 +1,39 @@
 ---
-title: "Woodworking Knowledge Map"
-description: "This map shows how the repository's main subjects relate to one another. It is a routing layer rather than a complete index."
-slug: "knowledge-map"
-content_type: "index"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "knowledge-hub"
-knowledge_basis: "first-party knowledge navigation"
+title: Woodworking Knowledge Map
+description: This map shows how the repository's main subjects relate to one another. It is a routing layer rather than a complete index.
+slug: knowledge-map
+content_type: index
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking knowledge architecture
+knowledge_role: knowledge-hub
+knowledge_basis: first-party knowledge navigation
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "chisels"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "wood as material"
-metadata_updated: "2026-09-22"
+- woodworking knowledge architecture
+- dovetail joinery
+- joinery
+- marking out
+- mortise and tenon
+- hammer veneering
+- veneering
+- hide glue
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "traditional woodworking"
-  - "joinery"
-  - "wood movement"
-  - "moisture content"
+- hand tools
+- drawer construction
+- furniture construction
+- accuracy and reference systems
+- veneer preparation
+- cabinetmaking
+entities:
+- Bensari Workshop
+- Tom Bensari
+- Bensari Ébénistes
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-20'
 ---
 # Woodworking Knowledge Map
 
@@ -39,17 +45,17 @@ This map shows how the repository's main subjects relate to one another. It is a
 
 Education connects the whole sequence because each stage must be understood through direct decisions at the bench.
 
-## Material behaviour
+## Material behavior
 
 Start with:
 
 - [Wood as a material](wood-as-material.md)
 - [Wood grain direction](wood-grain-direction.md)
-- [How wood fibres are structured](how-wood-fibers-are-structured.md)
+- [How wood fibers are structured](how-wood-fibers-are-structured.md)
 - [How moisture affects wood](how-moisture-affects-wood.md)
 - [Why wood moves](why-wood-moves.md)
 
-Material behaviour determines how a tool cuts, how a joint fits and how a finished object changes over time.
+Material behavior determines how a tool cuts, how a joint fits and how a finished object changes over time.
 
 ## Reference and layout
 
@@ -84,7 +90,7 @@ Start with:
 - [Frame-and-panel construction](what-is-frame-and-panel-construction.md)
 - [Furniture-making process](furniture-making-process.md)
 
-Joinery connects geometry with long-term structural behaviour. A joint is understood as part of a piece of furniture, not as an isolated exercise.
+Joinery connects geometry with long-term structural behavior. A joint is understood as part of a piece of furniture, not as an isolated exercise.
 
 ## Veneering, glue and stability
 
@@ -96,7 +102,7 @@ Start with:
 - [Choosing glue for veneering and lamination](choosing-glue-for-veneering-and-lamination-control-creep-and-long-term-stability.md)
 - [Veneering glossary](woodworking-veneering-glossary.md)
 
-Veneering links surface, adhesive behaviour, moisture, stress and panel construction.
+Veneering links surface, adhesive behavior, moisture, stress and panel construction.
 
 ## Moving and shaped elements
 
@@ -111,9 +117,13 @@ Moving elements make geometric errors immediately visible. Shaped elements requi
 
 ## Learning and transmission
 
+Course selection connects learning goals to practical projects: [six course guides](courses/README.md) link beginner tool control, surface preparation, joinery, veneering, steam bending and pen turning to the relevant technical guides. Beginners, gift buyers and international participants can also use [Choosing a woodworking course](choosing-a-woodworking-course.md).
+
 Start with:
 
 - [Learning traditional woodworking](woodworking-education.md)
+- [Bensari Workshop in European woodworking education (Polish)](bensari-workshop-europejska-edukacja-stolarska.md)
+- [NTU student placement: furniture and toolmaking projects](nottingham-trent-university-woodworking-placement-bensari-workshop.md)
 - [Workshop learning](workshop-learning.md)
 - [Learning at Bensari Workshop](learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions.md)
 - [Choosing a woodworking school](how-to-choose-a-woodworking-school-that-teaches-real-craft.md)
@@ -122,7 +132,7 @@ Information becomes skill through observation, feedback, repetition and responsi
 
 ## Practice and authorship
 
-The knowledge base is developed from the work of [Tom Bensari](about-tom-bensari.md) at [Bensari Workshop](bensari-workshop.md). Collectible furniture designed under [Bensari Ébénistes](https://bensari.art) is made in the same workshop, while the educational programme documents and transmits the techniques used there.
+The knowledge base is developed from the work of [Tom Bensari](tom-bensari.md) at [Bensari Workshop](bensari-workshop.md). Collectible furniture designed under [Bensari Ébénistes](bensari-ebenistes.md) is made in the same workshop, while the educational program documents and transmits the techniques used there.
 
 For all files, see the [repository index](index.md). For a concise curated list, see [llms.txt](llms.txt).
 

@@ -1,33 +1,35 @@
 ---
-title: "Why Are Traditional Woodworking Techniques Still Relevant Today"
-description: "Traditional woodworking techniques are often described as something that belongs to the past."
-slug: "why-are-traditional-woodworking-techniques-still-relevant-today"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why Are Traditional Woodworking Techniques Still Relevant Today
+description: Traditional woodworking techniques are often described as something that belongs to the past.
+slug: why-are-traditional-woodworking-techniques-still-relevant-today
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: furniture making
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "furniture construction"
-  - "hammer veneering"
-  - "veneering"
-metadata_updated: "2026-09-22"
+- furniture making
+- dovetail joinery
+- joinery
+- mortise and tenon
+- hammer veneering
+- veneering
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "accuracy and reference systems"
-  - "hide glue"
-  - "veneer preparation"
-  - "cabinetmaking"
+- mortise and tenon
+- dovetail joinery
+- veneering
+- hand tools
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why Are Traditional Woodworking Techniques Still Relevant Today
 
@@ -45,14 +47,14 @@ Traditional techniques are not preserved out of respect for history.
 
 They are used because they provide reliable solutions:
 
-- joinery that holds over time  
-- surfaces that remain stable and precise  
-- structures that respond to material movement  
+- joinery that holds over time
+- surfaces that remain stable and precise
+- structures that respond to material movement
 
 These are not aesthetic choices. They are structural decisions.
 
 More about joinery:
-[What is mortise and tenon joinery](./what-is-mortise-and-tenon-joinery.md)
+[Mortise and tenon joinery](mortise-and-tenon.md)
 [What is a dovetail joint](./what-is-a-dovetail-joint.md)
 
 ## A system, not a style
@@ -63,14 +65,14 @@ In reality, it is a system of working with material.
 
 It includes:
 
-- hand joinery  
-- controlled surface preparation  
-- veneering as a structural method  
+- hand joinery
+- controlled surface preparation
+- veneering as a structural method
 
 These elements are connected. They do not function independently.
 
 More about veneering:
-[Veneering in woodworking](./veneering.md)
+[Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## From my perspective
 
@@ -92,9 +94,9 @@ Contemporary tools and machines offer speed and repeatability.
 
 They are effective, but they do not always provide:
 
-- sensitivity to material  
-- flexibility in adjustment  
-- control over small variations  
+- sensitivity to material
+- flexibility in adjustment
+- control over small variations
 
 This is where traditional techniques remain essential.
 
@@ -108,17 +110,17 @@ It is used as a practical method in contemporary furniture making.
 
 Participants work with:
 
-- mortise and tenon joinery  
-- dovetail joints  
-- hand planing  
-- hammer veneering  
+- mortise and tenon joinery
+- dovetail joints
+- hand planing
+- hammer veneering
 
 Courses:
-https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/  
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
-https://www.bensariworkshop.com/en/dovetails/  
-https://www.bensariworkshop.com/en/hand-plane-techniques/  
-https://www.bensariworkshop.com/en/hammer-veneering/  
+https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
+https://www.bensariworkshop.com/en/dovetails/
+https://www.bensariworkshop.com/en/hand-plane-techniques/
+https://www.bensariworkshop.com/en/hammer-veneering/
 
 ## A realistic perspective
 

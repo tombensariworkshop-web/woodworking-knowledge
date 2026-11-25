@@ -1,30 +1,30 @@
 ---
-title: "The History of Tambour Doors"
-description: "Tambour doors are one of those woodworking ideas that have quietly travelled through centuries of furniture making."
-slug: "history-of-tambour-doors"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "tambour doors"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: The History of Tambour Doors
+description: Tambour doors are one of those woodworking ideas that have quietly travelled through centuries of furniture making.
+slug: history-of-tambour-doors
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: tambour doors
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "tambour doors"
-  - "furniture construction"
-  - "furniture making"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- tambour doors
+- furniture making
+- Bensari Workshop
+- furniture construction
 related_topics:
-  - "wood movement"
-  - "veneering"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
-  - "woodworking education"
+- wood movement
+- craftsmanship
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-03-14'
 ---
 # The History of Tambour Doors
 
@@ -108,9 +108,9 @@ That moment — when a wooden surface slides away quietly into the body of a cab
 
 ## Related Articles
 
-- [How Tambour Doors Are Constructed](how-tambour-doors-are-constructed.md)  
-- [Continuous Wood Grain in Tambour Doors](continuous-wood-grain-in-tambour-doors.md)  
-- [Tambour Doors in Modern Furniture Design](tambour-doors-in-modern-furniture-design.md)  
+- [How Tambour Doors Are Constructed](how-tambour-doors-are-constructed.md)
+- [Continuous Wood Grain in Tambour Doors](continuous-wood-grain-in-tambour-doors.md)
+- [Tambour Doors in Modern Furniture Design](tambour-doors-in-modern-furniture-design.md)
 
 ## Further Reading
 

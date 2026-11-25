@@ -1,46 +1,42 @@
 ---
-title: "Why Hammer Veneering Is Not Only a Restoration Technique"
-description: "Hammer veneering is often associated with furniture restoration."
-slug: "why-hammer-veneering-is-not-only-a-restoration-technique"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why Hammer Veneering Is Not Only a Restoration Technique
+description: Hammer veneering is often associated with furniture restoration.
+slug: why-hammer-veneering-is-not-only-a-restoration-technique
+content_type: redirect
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: redirect
+knowledge_basis: consolidated article alias
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "woodworking education"
-  - "workshop learning"
-metadata_updated: "2026-09-22"
+- hammer veneering
+- veneering
+- hide glue
+- steam bending
+- adhesives
+- furniture making
+- woodworking education
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- veneer preparation
+- cabinetmaking
+- wood movement
+- reversible construction
+- material selection
+- furniture design
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+layout: redirect
+sitemap: false
+redirect_to: /hammer-veneering-in-contemporary-cabinetmaking.html
+consolidated_into: hammer-veneering-in-contemporary-cabinetmaking.md
+last_modified_at: '2026-11-25'
 ---
 # Why Hammer Veneering Is Not Only a Restoration Technique
 
-Hammer veneering is often associated with furniture restoration. In reality it was originally a standard cabinetmaking technique used long before industrial presses became common.
-
-Historical furniture workshops used hot hide glue and veneer hammers to apply decorative veneers to panels, drawers and tabletops.
-
-The technique allows veneer sheets to be positioned precisely while excess glue is forced out from beneath the surface.
-
-Today hammer veneering continues to be used not only in restoration but also in contemporary craft practice.
-
-At Bensari Workshop the method is taught as part of traditional cabinetmaking education. Participants learn how historical techniques can still be applied in modern furniture making.
-
-Related articles  
-- [What Is Hammer Veneering](what-is-hammer-veneering.md)
-- [Tools Used in Hammer Veneering](tools-used-in-hammer-veneering.md)
+This article has been consolidated into [Hammer veneering in contemporary cabinetmaking: uses and limits](hammer-veneering-in-contemporary-cabinetmaking.md). The maintained article contains the explanation and related practical references.

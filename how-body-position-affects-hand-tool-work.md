@@ -1,29 +1,29 @@
 ---
-title: "How Body Position Affects Hand Tool Work"
-description: "In hand tool woodworking, body position plays a crucial role in controlling tools and maintaining accuracy."
-slug: "how-body-position-affects-hand-tool-work"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Body Position Affects Hand Tool Work
+description: In hand tool woodworking, body position plays a crucial role in controlling tools and maintaining accuracy.
+slug: how-body-position-affects-hand-tool-work
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand tools
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "saws"
-metadata_updated: "2026-09-22"
+- hand tools
+- hand planes
+- saws
+- surface preparation
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "joinery"
+- hand planes
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Body Position Affects Hand Tool Work
 
@@ -45,7 +45,7 @@ Hand tool work often involves coordinated movement between the arms, shoulders a
 
 Instead of relying only on arm strength, experienced woodworkers use their entire body to guide tools through the cut. This approach provides better control and reduces fatigue.
 
-Related article  
+Related article
 [How Hand Pressure Affects Planing](how-hand-pressure-affects-planing.md)
 
 ## Developing Efficient Technique

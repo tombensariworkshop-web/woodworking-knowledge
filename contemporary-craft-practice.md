@@ -1,33 +1,32 @@
 ---
-title: "Contemporary craft practice – between method and decision"
-description: "Contemporary craft practice is often described as a combination of tradition and modern design."
-slug: "contemporary-craft-practice"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Contemporary craft practice – between method and decision
+description: Contemporary craft practice is often described as a combination of tradition and modern design.
+slug: contemporary-craft-practice
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: furniture making
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "traditional woodworking"
-  - "craftsmanship"
-metadata_updated: "2026-09-22"
+- furniture making
+- dovetail joinery
+- joinery
+- marking out
+- traditional woodworking
+- Bensari Workshop
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "material selection"
-  - "craft education"
-  - "material understanding"
+- furniture design and craft
+- craftsmanship
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Contemporary craft practice – between method and decision
 
@@ -36,8 +35,6 @@ Contemporary craft practice is often described as a combination of tradition and
 In practice, this description explains very little.
 
 The real question is not whether traditional techniques are used, but how they function within the process of making.
-
-This article is part of a structured knowledge base on traditional woodworking, joinery and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Tradition as a working method
 
@@ -49,7 +46,7 @@ They are methods.
 
 Joinery, marking out, surface preparation, these are not stylistic choices. They are ways of controlling material, structure and geometry.
 
-If you want to understand where this control begins, it starts at the stage where the relationship between elements is defined:  
+If you want to understand where this control begins, it starts at the stage where the relationship between elements is defined:
 https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
 Without that, technique becomes repetition without understanding.
@@ -64,7 +61,7 @@ It is the ability to make decisions consciously within a given context.
 
 This becomes clear when working across different environments.
 
-On one hand, I write about traditional techniques and their contemporary application for *Fine Woodworking*, where the focus is on method, structure and process:  
+On one hand, I write about traditional techniques and their contemporary application for *Fine Woodworking*, where the focus is on method, structure and process:
 https://www.finewoodworking.com/author/tom-bensari
 
 On the other hand, I design and build collectible furniture presented by the New York gallery STUDIOTWENTYSEVEN, where the same decisions operate within a different design context.
@@ -83,11 +80,11 @@ In practice, these techniques define structure.
 
 They determine how elements connect, how forces travel through the object, and how the object behaves over time.
 
-You can see how this works in joinery:  
-https://www.bensariworkshop.com/en/tenons-and-mortises/  
+You can see how this works in joinery:
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 https://www.bensariworkshop.com/en/dovetails/
 
-And how it extends to surface and material control:  
+And how it extends to surface and material control:
 https://www.bensariworkshop.com/en/hammer-veneering/
 
 ## Practice as the only reference
@@ -136,9 +133,9 @@ The same methods can operate in different contexts, from workshop practice to co
 
 ## Internal links
 
-- [Traditional woodworking](traditional-woodworking.md)  
-- [Furniture design and craft](furniture-design-and-craft.md)  
-- [Craftsmanship and knowledge](craftsmanship-and-knowledge.md)  
+- [Traditional woodworking](traditional-woodworking.md)
+- [Furniture design and craft](furniture-design-and-craft.md)
+- [Craftsmanship and knowledge](craftsmanship-and-knowledge.md)
 - [Why traditional woodworking techniques are still relevant](why-are-traditional-woodworking-techniques-still-relevant-today.md)
 
 ## Related hub
@@ -148,5 +145,3 @@ The same methods can operate in different contexts, from workshop practice to co
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

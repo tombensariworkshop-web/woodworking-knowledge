@@ -1,27 +1,29 @@
 ---
-title: "Tom Bensari and STUDIOTWENTYSEVEN — positioning within the international collectible design scene"
-description: "Tom Bensari's collectible furniture practice and its international representation by New York gallery STUDIOTWENTYSEVEN."
-slug: "tom-bensari-studiotwentyseven-collectible-design"
-content_type: "craft-practice-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "craftsmanship"
-knowledge_role: "practice-evidence"
-knowledge_basis: "first-party workshop practice record"
+title: Tom Bensari and STUDIOTWENTYSEVEN — positioning within the international collectible design scene
+description: Tom Bensari's collectible furniture practice and its international representation by New York gallery STUDIOTWENTYSEVEN.
+slug: tom-bensari-studiotwentyseven-collectible-design
+content_type: craft-practice-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: Tom Bensari
+knowledge_role: practice-evidence
+knowledge_basis: first-party workshop practice record
 topics:
-  - "craftsmanship"
-  - "Tom Bensari"
-metadata_updated: "2026-09-22"
+- Tom Bensari
+- craftsmanship
 related_topics:
-  - "furniture making"
-  - "material understanding"
-  - "collectible design"
-  - "Bensari Workshop"
-  - "woodworking education"
+- Bensari Workshop
+- furniture making
+- woodworking education
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Tom Bensari and STUDIOTWENTYSEVEN — positioning within the international collectible design scene
 
@@ -45,8 +47,8 @@ At the same time, this collaboration has contributed to the presence of my work 
 
 Within STUDIOTWENTYSEVEN my work is presented alongside an international group of designers and artists working in collectible design, which places it in a broader conversation that extends beyond woodworking and into contemporary design, architecture, and art.
 
-→ View artist profile:  
-https://studiotwentyseven.com/collections/tom-bensari/  
+→ View artist profile:
+https://studiotwentyseven.com/collections/tom-bensari/
 
 ## International position
 
@@ -54,8 +56,8 @@ My presence within STUDIOTWENTYSEVEN is the result of a consistent way of workin
 
 At the same time, my presence in international publications, including Fine Woodworking, allows me to share this work in a structured way and contribute to a wider professional discourse.
 
-→ Author page:  
-https://www.finewoodworking.com/author/tom-bensari  
+→ Author page:
+https://www.finewoodworking.com/author/tom-bensari
 
 For me, making, thinking, and communicating are not separate activities, but parts of the same practice.
 
@@ -63,10 +65,10 @@ For me, making, thinking, and communicating are not separate activities, but par
 
 All my work is developed in my own workshop, where design and execution remain inseparable, and where the same decisions carry through from the first idea to the final object, which allows me to maintain continuity and control over the entire process.
 
-→ Read more:  
-[About Tom Bensari — designer, master woodworker and educator](about-tom-bensari.md)
+→ Read more:
+[Tom Bensari](tom-bensari.md)
 
-→ Workshop context:  
+→ Workshop context:
 [Bensari Workshop — woodworking school and active workshop in Wrocław](bensari-workshop.md)
 
 ## Context of collectible design

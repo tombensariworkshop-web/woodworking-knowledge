@@ -1,31 +1,36 @@
 ---
-title: "Hand tool woodworking – control, feedback and material understanding"
-description: "Hand tool woodworking is often defined as furniture making that relies on manual tools instead of machines."
-slug: "hand-tool-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Hand tool woodworking – control, feedback and material understanding
+description: Hand tool woodworking is often defined as furniture making that relies on manual tools instead of machines.
+slug: hand-tool-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand tools
+knowledge_role: pillar-guide
+knowledge_basis: practice-based pillar guide
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "chisels"
-  - "saws"
-  - "marking out"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
+- hand tools
+- hand planes
+- chisels
+- saws
+- marking out
+- furniture making
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "traditional woodworking"
-  - "joinery"
+- hand planes
+- chisels
+- dovetail joinery
+- veneering
+- wood grain direction
+- surface preparation
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Hand tool woodworking – control, feedback and material understanding
 
@@ -36,8 +41,6 @@ This definition is technically correct, but it misses the point.
 Working with hand tools is not only about the type of tools used.
 
 It is about the level of control and understanding they make possible.
-
-This article is part of a structured knowledge base on traditional woodworking, joinery and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Not about tools, but about control
 
@@ -69,7 +72,7 @@ It only follows.
 
 This is why accuracy is not created during cutting, but earlier, during marking out.
 
-To understand this more clearly:  
+To understand this more clearly:
 https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
 
 ## Precision as a sequence of decisions
@@ -80,9 +83,9 @@ In practice, it is more about sequence.
 
 Every step depends on the previous one:
 
-- marking defines geometry  
-- cutting follows the line  
-- fitting reveals accuracy  
+- marking defines geometry
+- cutting follows the line
+- fitting reveals accuracy
 
 If the first decision is incorrect, every following step will reflect it.
 
@@ -112,15 +115,15 @@ Furniture is designed and built using both machines and hand tools, depending on
 
 Hand tools are used where control matters most:
 
-- joinery  
-- fitting elements  
-- surface preparation  
+- joinery
+- fitting elements
+- surface preparation
 
 We also treat tools as part of the method.
 
 In some cases, tools are adapted or made in the workshop to match the process, not the other way around.
 
-I also write about traditional woodworking techniques and their application in contemporary furniture for *Fine Woodworking*:  
+I also write about traditional woodworking techniques and their application in contemporary furniture for *Fine Woodworking*:
 https://www.finewoodworking.com/author/tom-bensari
 
 The same approach connects practice, teaching and writing.
@@ -133,10 +136,10 @@ It is about developing control.
 
 At Bensari Workshop, participants learn:
 
-- how to work with marking tools  
-- how to control cutting  
-- how to understand material behavior  
-- how to make decisions before removing material  
+- how to work with marking tools
+- how to control cutting
+- how to understand material behavior
+- how to make decisions before removing material
 
 https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
 
@@ -150,10 +153,10 @@ Hand tools remain relevant not because of tradition.
 
 They remain relevant because they allow:
 
-- direct feedback  
-- precise adjustment  
-- control over material  
-- better understanding of structure  
+- direct feedback
+- precise adjustment
+- control over material
+- better understanding of structure
 
 They are not opposed to machines.
 
@@ -169,9 +172,9 @@ It changes how decisions are made, how material is understood and how furniture 
 
 ## Internal links
 
-- [Why hand tools still matter in woodworking](why-hand-tools-still-matter-in-woodworking.md)  
-- [Hand planes in woodworking control and surface](hand-planes-in-woodworking-control-and-surface.md)  
-- [How chisels cut wood](how-chisels-cut-wood.md)  
+- [Why hand tools still matter in woodworking](why-hand-tools-still-matter-in-woodworking.md)
+- [Hand planes in woodworking control and surface](hand-planes-in-woodworking-control-and-surface.md)
+- [How chisels cut wood](how-chisels-cut-wood.md)
 
 ## Related topics:
 
@@ -185,5 +188,3 @@ It changes how decisions are made, how material is understood and how furniture 
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

@@ -1,30 +1,34 @@
 ---
-title: "Learning through workshop practice"
-description: "Workshops have always been places where craft knowledge becomes real."
-slug: "workshop-learning"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Learning through workshop practice
+description: Workshops have always been places where craft knowledge becomes real.
+slug: workshop-learning
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "woodworking education"
-  - "workshop learning"
-metadata_updated: "2026-09-22"
+- woodworking education
+- dovetail joinery
+- joinery
+- marking out
+- workshop learning
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "skill development"
+- marking out
+- joinery
+- furniture making
+- hand tools
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Learning through workshop practice
 
@@ -42,10 +46,10 @@ Marking out leads to cutting. Cutting defines the fit. The fit determines whethe
 
 This is where learning changes.
 
-A clear example of how early decisions define the result can be seen here:  
+A clear example of how early decisions define the result can be seen here:
 https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
-And how those decisions translate into cutting here:  
+And how those decisions translate into cutting here:
 https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 
 ## Material as a teacher
@@ -62,10 +66,10 @@ In a workshop, tools are never separate from the process.
 
 They are used in relation to material, structure and intention. The same tool behaves differently depending on how it is applied and at what stage of the work.
 
-If you want to understand how tools are approached at the beginning:  
+If you want to understand how tools are approached at the beginning:
 https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
 
-And how they function in joinery:  
+And how they function in joinery:
 https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
 
 ## Learning the full process
@@ -74,11 +78,11 @@ One of the most important aspects of workshop learning is continuity.
 
 Students do not learn isolated techniques. They experience the full process:
 
-- defining geometry through marking out  
-- cutting and fitting joints  
-- adjusting elements to each other  
-- preparing surfaces  
-- understanding how the object comes together  
+- defining geometry through marking out
+- cutting and fitting joints
+- adjusting elements to each other
+- preparing surfaces
+- understanding how the object comes together
 
 This continuity is what builds real understanding.
 
@@ -90,7 +94,7 @@ It becomes about making decisions.
 
 You begin to see how a line influences a cut, how a cut influences a joint, and how the joint affects the structure of the object. This is where craftsmanship develops.
 
-This shift is at the core of traditional woodworking education:  
+This shift is at the core of traditional woodworking education:
 https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
 
 ## The role of a working atelier
@@ -105,8 +109,8 @@ Participants do not learn techniques in isolation. They observe how those techni
 
 They engage with fundamental structures such as:
 
-https://www.bensariworkshop.com/en/dovetails/  
-https://www.bensariworkshop.com/en/tenons-and-mortises/
+https://www.bensariworkshop.com/en/dovetails/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 And with processes that connect craft and design:
 
@@ -120,15 +124,15 @@ Understanding woodworking requires practice.
 
 Working in a workshop environment allows you to see how decisions, tools and material interact in real time.
 
-If you want to experience this approach:  
+If you want to experience this approach:
 https://www.bensariworkshop.com/en/school/
 
 ## Internal links
 
-- [Learning traditional woodworking](learning-traditional-woodworking.md)  
-- [Why traditional woodworking requires direct contact with a teacher](why-traditional-woodworking-requires-direct-contact-with-a-teacher.md)  
-- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
-- [Joinery in furniture](joinery-in-furniture.md)  
+- [Learning traditional woodworking](learning-traditional-woodworking.md)
+- [Learning woodworking online or in a workshop: choosing useful feedback](woodworking-workshop-vs-online-course-which-is-better.md)
+- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
+- [Joinery in furniture](joinery-in-furniture.md)
 
 ## Related hub
 
@@ -137,5 +141,3 @@ https://www.bensariworkshop.com/en/school/
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

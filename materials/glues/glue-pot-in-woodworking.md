@@ -1,32 +1,30 @@
 ---
-title: "Glue Pots in Traditional Woodworking"
-description: "A glue pot is a device used to heat and maintain hot hide glue at a stable working temperature."
-slug: "glue-pot-in-woodworking"
-content_type: "material-reference"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
+title: Glue Pots in Traditional Woodworking
+description: A glue pot is a device used to heat and maintain hot hide glue at a stable working temperature.
+slug: glue-pot-in-woodworking
+content_type: material-reference
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: adhesives
+knowledge_role: reference
+knowledge_basis: workshop material reference
 topics:
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "woodworking materials"
-metadata_updated: "2026-09-22"
+- adhesives
+- veneering
+- hide glue
+- furniture making
+- traditional woodworking
 related_topics:
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
+- joinery
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Glue Pots in Traditional Woodworking
 

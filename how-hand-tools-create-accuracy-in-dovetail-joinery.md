@@ -1,31 +1,35 @@
 ---
-title: "How Hand Tools Create Accuracy in Dovetail Joinery"
-description: "Many beginners assume that accuracy in woodworking comes primarily from machines."
-slug: "how-hand-tools-create-accuracy-in-dovetail-joinery"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Hand Tools Create Accuracy in Dovetail Joinery
+description: Many beginners assume that accuracy in woodworking comes primarily from machines.
+slug: how-hand-tools-create-accuracy-in-dovetail-joinery
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- marking out
+- saws
+- hand tools
+- furniture construction
+- traditional woodworking
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How Hand Tools Create Accuracy in Dovetail Joinery
 
@@ -34,8 +38,6 @@ Many beginners assume that accuracy in woodworking comes primarily from machines
 In reality, traditional hand tools can achieve extremely high precision when used correctly.
 
 This is especially visible in dovetail joinery, where accuracy depends less on automation and more on reference control, body mechanics, and direct feedback from the tool.
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.
 
 At Bensari Workshop, these stages are documented through a series of articles explaining:
 - dovetail layout and marking out,
@@ -94,5 +96,3 @@ More woodworking knowledge:
 
 Woodworking courses:
 - https://www.bensariworkshop.com/en/school/
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.

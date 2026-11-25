@@ -1,32 +1,30 @@
 ---
-title: "Hide Glue in Veneering"
-description: "Hide glue has historically been one of the most important adhesives used in traditional veneering."
-slug: "hide-glue-in-veneering"
-content_type: "material-reference"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
+title: Hide Glue in Veneering
+description: Hide glue has historically been one of the most important adhesives used in traditional veneering.
+slug: hide-glue-in-veneering
+content_type: material-reference
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hide glue
+knowledge_role: reference
+knowledge_basis: workshop material reference
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
-  - "woodworking materials"
-metadata_updated: "2026-09-22"
+- hide glue
+- hammer veneering
+- veneering
+- adhesives
+- wood as material
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "furniture making"
-  - "reversible construction"
-  - "furniture construction"
+- adhesives
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Hide Glue in Veneering
 

@@ -1,30 +1,29 @@
 ---
-title: "Preparing Hot Hide Glue"
-description: "Hot hide glue is traditionally prepared from dried glue granules."
-slug: "hot-hide-glue-preparation"
-content_type: "material-reference"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hide glue"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
+title: Preparing Hot Hide Glue
+description: Hot hide glue is traditionally prepared from dried glue granules.
+slug: hot-hide-glue-preparation
+content_type: material-reference
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hide glue
+knowledge_role: reference
+knowledge_basis: workshop material reference
 topics:
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
-  - "woodworking materials"
-metadata_updated: "2026-09-22"
+- hide glue
+- adhesives
+- wood as material
 related_topics:
-  - "veneering"
-  - "reversible construction"
-  - "furniture construction"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
+- adhesives
+- moisture content
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Preparing Hot Hide Glue
 

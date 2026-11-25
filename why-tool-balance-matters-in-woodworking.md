@@ -1,27 +1,28 @@
 ---
-title: "Why Tool Balance Matters in Woodworking"
-description: "Balance is rarely the first quality people pay attention to when choosing a tool."
-slug: "why-tool-balance-matters-in-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why Tool Balance Matters in Woodworking
+description: Balance is rarely the first quality people pay attention to when choosing a tool.
+slug: why-tool-balance-matters-in-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand tools
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "woodworking education"
-  - "workshop learning"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- hand tools
+- woodworking education
+- Bensari Workshop
 related_topics:
-  - "hand tools"
-  - "skill development"
-  - "traditional woodworking"
-  - "furniture making"
+- traditional woodworking
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why Tool Balance Matters in Woodworking
 
@@ -65,5 +66,3 @@ See:
 ## Conclusion
 
 When balance is right, it tends to go unnoticed, because the tool simply works as expected. It is only when it is slightly off that its impact becomes clear, often through fatigue and loss of precision over time.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

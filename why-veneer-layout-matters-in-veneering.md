@@ -1,33 +1,30 @@
 ---
-title: "Why veneer layout matters in veneering – composition, structure and control"
-description: "Before veneering begins, the sheets must be arranged."
-slug: "why-veneer-layout-matters-in-veneering"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why veneer layout matters in veneering – composition, structure and control
+description: Before veneering begins, the sheets must be arranged.
+slug: why-veneer-layout-matters-in-veneering
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "adhesives"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- veneering
+- marking out
+- Bensari Workshop
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "furniture construction"
-  - "joinery"
-  - "hand tools"
-  - "material selection"
+- wood movement
+- furniture construction
+- material selection
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why veneer layout matters in veneering – composition, structure and control
 
@@ -37,8 +34,6 @@ This stage is often treated as preparation.
 
 In practice, it defines the final surface.
 
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
-
 ## Layout defines the surface
 
 Veneer layout is not only about placing sheets next to each other.
@@ -47,9 +42,9 @@ It is about defining how the surface will behave visually and structurally.
 
 At this stage, the maker decides:
 
-- direction of the grain  
-- rhythm of the pattern  
-- relationship between elements  
+- direction of the grain
+- rhythm of the pattern
+- relationship between elements
 
 Once the veneer is glued, these decisions cannot be changed.
 
@@ -57,9 +52,9 @@ Once the veneer is glued, these decisions cannot be changed.
 
 Veneer layout is often associated with visual effects such as:
 
-- bookmatching  
-- slip matching  
-- continuous grain  
+- bookmatching
+- slip matching
+- continuous grain
 
 These are not only decorative choices.
 
@@ -71,7 +66,7 @@ A poorly planned one introduces tension and fragmentation.
 
 Explore:
 
-- [Why bookmatching is used in veneering](why-bookmatching-is-used-in-veneering.md)  
+- [What is Bookmatching in Veneering](what-is-bookmatching-in-veneering.md)
 - [How veneer seams are aligned](how-veneer-seams-are-aligned.md)
 
 ## Alignment before gluing
@@ -82,9 +77,9 @@ They must be arranged and joined before gluing begins.
 
 This stage determines:
 
-- how seams meet  
-- how patterns align  
-- how the surface will be read after finishing  
+- how seams meet
+- how patterns align
+- how the surface will be read after finishing
 
 Once the glue is applied, the layout becomes fixed.
 
@@ -96,9 +91,9 @@ Layout is one of the most critical.
 
 It connects:
 
-- material selection  
-- composition  
-- structure  
+- material selection
+- composition
+- structure
 
 This is why it cannot be treated as a preliminary step.
 
@@ -110,9 +105,9 @@ Veneer layout also affects how the material behaves during gluing.
 
 Grain direction influences:
 
-- movement  
-- tension  
-- interaction with the substrate  
+- movement
+- tension
+- interaction with the substrate
 
 A well-planned layout supports stability.
 
@@ -120,8 +115,8 @@ A poorly planned one can introduce internal stress.
 
 To understand this more broadly:
 
-- [How veneering controls wood movement](how-veneering-controls-wood-movement.md)  
-- [Veneering](veneering.md)
+- [Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Conclusion
 
@@ -134,5 +129,3 @@ It determines how the object will be seen, how it will behave and how coherent i
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

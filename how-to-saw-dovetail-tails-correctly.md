@@ -1,33 +1,30 @@
 ---
-title: "How to saw dovetail tails correctly"
-description: "Sawing dovetail tails is often described as a matter of hand control."
-slug: "how-to-saw-dovetail-tails-correctly"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How to saw dovetail tails correctly
+description: Sawing dovetail tails is often described as a matter of hand control.
+slug: how-to-saw-dovetail-tails-correctly
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "saws"
-  - "hand tools"
-  - "accuracy and reference systems"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- saws
+- Bensari Workshop
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
-  - "woodworking education"
-  - "furniture making"
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How to saw dovetail tails correctly
 
@@ -88,5 +85,3 @@ Understanding these relationships changes how the saw is used.
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

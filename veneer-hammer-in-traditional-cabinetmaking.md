@@ -1,33 +1,32 @@
 ---
-title: "Veneer Hammer in Traditional Cabinetmaking"
-description: "A veneer hammer is a specialized tool used in traditional woodworking to apply veneer using hot hide glue."
-slug: "veneer-hammer-in-traditional-cabinetmaking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Veneer Hammer in Traditional Cabinetmaking
+description: A veneer hammer is a specialized tool used in traditional woodworking to apply veneer using hot hide glue.
+slug: veneer-hammer-in-traditional-cabinetmaking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- hammer veneering
+- veneering
+- hide glue
+- adhesives
+- furniture making
+- traditional woodworking
+- Bensari Workshop
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- cabinetmaking
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Veneer Hammer in Traditional Cabinetmaking
 

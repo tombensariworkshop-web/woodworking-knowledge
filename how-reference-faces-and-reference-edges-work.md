@@ -1,26 +1,27 @@
 ---
-title: "How Reference Faces and Reference Edges Work"
-description: "Accurate woodworking depends on establishing consistent reference surfaces."
-slug: "how-reference-faces-and-reference-edges-work"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "marking out"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Reference Faces and Reference Edges Work
+description: Accurate woodworking depends on establishing consistent reference surfaces.
+slug: how-reference-faces-and-reference-edges-work
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: marking out
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "marking out"
-  - "accuracy and reference systems"
-  - "traditional woodworking"
-metadata_updated: "2026-09-22"
+- marking out
+- traditional woodworking
 related_topics:
-  - "joinery"
-  - "hand tools"
-  - "craft education"
+- joinery
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How Reference Faces and Reference Edges Work
 
@@ -38,7 +39,7 @@ One adjacent edge becomes the reference edge.
 
 Measurements and layout marks are then taken from these two surfaces.
 
-Related article  
+Related article
 [Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)
 
 ## Why Reference Surfaces Matter
@@ -47,8 +48,8 @@ If measurements are taken from different faces or edges, small inaccuracies can 
 
 Working consistently from reference surfaces prevents these errors.
 
-Related article  
-[Why accurate layout matters in woodworking](why-accurate-layout-matters-in-woodworking.md)
+Related article
+[Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 
 ## Reference Surfaces in Workshop Practice
 

@@ -1,55 +1,36 @@
 ---
-title: "How Veneer Backing Works"
-description: "In veneered furniture construction, the visible veneer surface is often accompanied by a backing veneer on the opposite side of the panel."
-slug: "how-veneer-backing-works"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Veneer Backing Works
+description: In veneered furniture construction, the visible veneer surface is often accompanied by a backing veneer on the opposite side of the panel.
+slug: how-veneer-backing-works
+content_type: redirect
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: redirect
+knowledge_basis: consolidated article alias
 topics:
-  - "veneering"
-  - "wood as material"
-  - "furniture making"
-  - "traditional woodworking"
-metadata_updated: "2026-09-22"
+- veneering
+- wood as material
+- furniture making
+- Bensari Workshop
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "joinery"
-  - "material selection"
+- wood movement
+- moisture content
+- grain direction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
+layout: redirect
+sitemap: false
+redirect_to: /how-balanced-veneering-prevents-panel-warping.html
+consolidated_into: how-balanced-veneering-prevents-panel-warping.md
 ---
 # How Veneer Backing Works
 
-In veneered furniture construction, the visible veneer surface is often accompanied by a backing veneer on the opposite side of the panel.
-
-This backing veneer is sometimes called a counter veneer or balancing veneer.
-
-Although it is usually not visible in the finished piece of furniture, it plays an important structural role.
-
-## Balancing Internal Stresses
-
-Wood responds to changes in humidity by expanding and contracting across the grain. When veneer is applied to only one face of a panel, this can introduce uneven stresses within the structure.
-
-A backing veneer helps balance these stresses.
-
-By placing veneer layers on both sides of the panel, the construction reacts more evenly to environmental changes.
-
-## Supporting Structural Stability
-
-Because veneer sheets are thin, they do not move as dramatically as solid wood boards. However, their interaction with the substrate can still influence how a panel behaves.
-
-Adding a backing veneer helps keep the panel flat and stable over time.
-
-For this reason traditional cabinetmaking often includes veneer on both faces of a panel, even when one side is not visible.
-
-Related articles  
-- [Why veneered surfaces are stable – structure, balance and material control](why-veneered-surfaces-are-stable.md)
-- [How balanced veneering prevents panel warping – symmetry, stress and material control](how-balanced-veneering-prevents-panel-warping.md)
+This article has been consolidated into [Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md). The maintained article contains the explanation and related practical references.

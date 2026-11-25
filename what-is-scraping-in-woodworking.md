@@ -1,30 +1,28 @@
 ---
-title: "What is Scraping in Woodworking"
-description: "Scraping is a woodworking technique used to refine wooden surfaces using a cabinet scraper."
-slug: "what-is-scraping-in-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand tools"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is Scraping in Woodworking
+description: Scraping is a woodworking technique used to refine wooden surfaces using a cabinet scraper.
+slug: what-is-scraping-in-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: surface preparation
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand tools"
-  - "furniture making"
-  - "surface finishing"
-  - "traditional woodworking"
-metadata_updated: "2026-09-22"
+- surface preparation
+- furniture making
 related_topics:
-  - "tool control"
-  - "marking out"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
-  - "hand planes"
+- hand tools
+- scraping
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What is Scraping in Woodworking
 

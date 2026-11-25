@@ -1,29 +1,35 @@
 ---
-title: "Conscious woodworking"
-description: "Conscious woodworking is not about choosing between hand tools and machines. It is about understanding when and why to use each of them."
-slug: "conscious-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Conscious woodworking
+description: Conscious woodworking is not about choosing between hand tools and machines. It is about understanding when and why to use each of them.
+slug: conscious-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: furniture making
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "hand tools"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
+- furniture making
+- dovetail joinery
+- joinery
+- marking out
+- hand tools
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- marking out
+- hand tools
+- dovetail joinery
+- mortise and tenon
+- joinery
+- woodworking education
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Conscious woodworking
 
@@ -37,10 +43,10 @@ In my experience, tools do not define the quality of the work. The person using 
 
 Conscious woodworking is based on:
 
-- experience built over time  
-- understanding material behavior  
-- knowledge of different techniques  
-- the ability to choose the right method for a specific situation  
+- experience built over time
+- understanding material behavior
+- knowledge of different techniques
+- the ability to choose the right method for a specific situation
 
 It is not a fixed approach. It is a way of thinking about the process.
 
@@ -68,9 +74,9 @@ Over time, this changes.
 
 Experience allows you to:
 
-- recognize the limitations of tools  
-- adapt methods to the material  
-- make decisions based on the project, not the equipment  
+- recognize the limitations of tools
+- adapt methods to the material
+- make decisions based on the project, not the equipment
 
 This shift from dependency to control is at the core of conscious woodworking.
 
@@ -79,21 +85,20 @@ This shift from dependency to control is at the core of conscious woodworking.
 Conscious woodworking connects multiple aspects of the craft:
 
 ### Marking out and accuracy
-- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
-- [Why marking out is more important than cutting](why-marking-out-is-more-important-than-cutting.md)  
+- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
 
 ### Tools and control
-- [Hand tool woodworking](hand-tool-woodworking.md)  
-- [Hand tools and control in woodworking](hand-tools-and-control-in-woodworking.md)  
+- [Hand tool woodworking](hand-tool-woodworking.md)
+- [Hand tools and control in woodworking](hand-tools-and-control-in-woodworking.md)
 
 ### Joinery and structure
-- [Dovetail joinery guide](dovetail-joinery-guide.md)  
-- [Mortise and tenon](mortise-and-tenon.md)  
-- [Joinery in furniture](joinery-in-furniture.md)  
+- [Dovetail joinery guide](dovetail-joinery-guide.md)
+- [Mortise and tenon](mortise-and-tenon.md)
+- [Joinery in furniture](joinery-in-furniture.md)
 
 ### Process and learning
-- [Furniture making process](furniture-making-process.md)  
-- [Learning woodworking in a real workshop](learning-traditional-woodworking-in-a-real-workshop.md)  
+- [Furniture making process](furniture-making-process.md)
+- [Learning woodworking in a real workshop](learning-traditional-woodworking-in-a-real-workshop.md)
 
 Each of these areas reflects a different aspect of the same idea: woodworking is a system of decisions, not a set of tools.
 
@@ -109,5 +114,3 @@ https://www.bensariworkshop.com/en/school/
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

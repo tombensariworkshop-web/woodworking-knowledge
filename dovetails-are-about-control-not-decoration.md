@@ -1,31 +1,36 @@
 ---
-title: "Dovetails Are About Control, Not Decoration"
-description: "Many people associate dovetails primarily with appearance."
-slug: "dovetails-are-about-control-not-decoration"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Dovetails Are About Control, Not Decoration
+description: Many people associate dovetails primarily with appearance.
+slug: dovetails-are-about-control-not-decoration
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- marking out
+- hand tools
+- furniture making
+- craftsmanship
+- furniture construction
+- traditional woodworking
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Dovetails Are About Control, Not Decoration
 
@@ -74,7 +79,7 @@ This makes dovetails an extremely effective exercise in precision and process di
 
 ## Related repository articles
 
-- [Why marking out matters more than cutting in woodworking](why-marking-out-is-more-important-than-cutting.md)
+- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 - [How to saw dovetail tails correctly](how-to-saw-dovetail-tails-correctly.md)
 - [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](how-to-chisel-dovetail-baselines-and-clean-tails.md)
 - [Feedback in Hand Tool Woodworking — Understanding Material Through Tools](feedback-in-hand-tool-woodworking.md)
@@ -103,5 +108,3 @@ More woodworking knowledge:
 
 Woodworking courses:
 - https://www.bensariworkshop.com/en/school/
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.

@@ -1,33 +1,31 @@
 ---
-title: "Why veneer thickness matters in hammer veneering – flexibility, control and stability"
-description: "Veneer thickness directly influences how the material behaves during hammer veneering."
-slug: "why-veneer-thickness-matters-in-hammer-veneering"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why veneer thickness matters in hammer veneering – flexibility, control and stability
+description: Veneer thickness directly influences how the material behaves during hammer veneering.
+slug: why-veneer-thickness-matters-in-hammer-veneering
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
-  - "furniture making"
-  - "woodworking education"
-metadata_updated: "2026-09-22"
+- hammer veneering
+- veneering
+- wood as material
+- woodworking education
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "moisture content"
+- veneering
+- wood movement
+- moisture content
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why veneer thickness matters in hammer veneering – flexibility, control and stability
 
@@ -37,18 +35,16 @@ At first glance, this may seem like a minor technical detail.
 
 In practice, it affects control, stability and the entire course of the process.
 
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
-
 ## Thickness defines behavior
 
 Veneer is not a uniform material.
 
 Its thickness determines how it responds to:
 
-- pressure  
-- moisture  
-- heat  
-- glue behavior  
+- pressure
+- moisture
+- heat
+- glue behavior
 
 Even small differences change how the veneer reacts during application.
 
@@ -60,9 +56,9 @@ It follows irregularities and allows precise surface definition.
 
 At the same time, it is more sensitive to:
 
-- moisture from the glue  
-- pressure during application  
-- changes in temperature  
+- moisture from the glue
+- pressure during application
+- changes in temperature
 
 This makes it more responsive, but also less forgiving.
 
@@ -84,9 +80,9 @@ It is a decision about how the process will behave.
 
 It affects:
 
-- how quickly the veneer reacts  
-- how much control is required  
-- how the surface will respond during gluing  
+- how quickly the veneer reacts
+- how much control is required
+- how the surface will respond during gluing
 
 This is why thickness is considered at the beginning of the process, not during it.
 
@@ -100,13 +96,13 @@ Thicker veneer requires more controlled pressure to ensure proper bonding.
 
 This relationship becomes especially important in hammer veneering, where:
 
-- glue is active only for a limited time  
-- pressure is applied manually  
-- adjustments happen in real time  
+- glue is active only for a limited time
+- pressure is applied manually
+- adjustments happen in real time
 
 Learn more:
 
-- [How pressure is controlled in hammer veneering](how-pressure-is-controlled-in-hammer-veneering.md)  
+- [How pressure is controlled in hammer veneering](how-pressure-is-controlled-in-hammer-veneering.md)
 - [How glue temperature affects hammer veneering](how-glue-temperature-affects-hammer-veneering.md)
 
 ## From flexibility to stability
@@ -121,8 +117,8 @@ Both can work well, but only if they are used within a balanced system.
 
 To understand this context:
 
-- [How veneering controls wood movement](how-veneering-controls-wood-movement.md)  
-- [Veneering](veneering.md)
+- [Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Conclusion
 
@@ -135,5 +131,3 @@ Understanding this relationship is essential for working with veneer.
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

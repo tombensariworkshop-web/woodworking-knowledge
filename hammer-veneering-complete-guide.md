@@ -1,31 +1,35 @@
 ---
-title: "Hammer veneering: material control, glue behavior, and surface stability"
-description: "Hammer veneering uses hot hide glue and a veneer hammer to press veneer directly onto a substrate."
-slug: "hammer-veneering-complete-guide"
-content_type: "guide"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "pillar-guide"
-knowledge_basis: "practice-based woodworking guide"
+title: 'Hammer veneering: material control, glue behavior, and surface stability'
+description: Hammer veneering uses hot hide glue and a veneer hammer to press veneer directly onto a substrate.
+slug: hammer-veneering-complete-guide
+content_type: guide
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: pillar-guide
+knowledge_basis: practice-based woodworking guide
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "traditional woodworking"
-metadata_updated: "2026-09-22"
+- hammer veneering
+- veneering
+- hide glue
+- wood as material
+- traditional woodworking
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "furniture making"
-  - "reversible construction"
-  - "furniture construction"
+- hide glue
+- veneering
+- veneer preparation
+- wood movement
+- furniture making
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Hammer veneering: material control, glue behavior, and surface stability
 
@@ -47,16 +51,15 @@ It is based on timing, temperature, and understanding how the glue behaves.
 
 ## 1. What hammer veneering is
 
-- [What is hammer veneering](what-is-hammer-veneering.md)  
-- [Hammer veneering](hammer-veneering.md)  
+- [Hammer veneering: how hot hide glue and a veneer hammer create a bond](hammer-veneering.md)
 
-This technique works by pressing hot glue through the veneer while it is still fluid.
+The hammer brings the veneer into contact with the substrate while the glue remains workable. Strokes direct excess glue and trapped air toward an open edge; the method does not depend on forcing glue through the veneer.
 
 ## 2. How hide glue behaves
 
-- [What is hide glue](what-is-hide-glue.md)  
-- [How hide glue penetrates wood fibers](how-hide-glue-penetrates-wood-fibers.md)  
-- [How glue temperature affects hammer veneering](how-glue-temperature-affects-hammer-veneering.md)  
+- [What is hide glue](what-is-hide-glue.md)
+- [How hide glue penetrates wood fibers](how-hide-glue-penetrates-wood-fibers.md)
+- [How glue temperature affects hammer veneering](how-glue-temperature-affects-hammer-veneering.md)
 
 Understanding glue is essential.
 
@@ -64,8 +67,8 @@ Without it, the process becomes unpredictable.
 
 ## 3. Controlling pressure and avoiding defects
 
-- [How pressure is controlled in hammer veneering](how-pressure-is-controlled-in-hammer-veneering.md)  
-- [How air bubbles are avoided in hammer veneering](how-air-bubbles-are-avoided-in-hammer-veneering.md)  
+- [How pressure is controlled in hammer veneering](how-pressure-is-controlled-in-hammer-veneering.md)
+- [How air bubbles are avoided in hammer veneering](how-air-bubbles-are-avoided-in-hammer-veneering.md)
 
 Pressure is not applied randomly.
 
@@ -73,17 +76,15 @@ It is directed and controlled.
 
 ## 4. Veneer preparation and structure
 
-- [How veneers are prepared before hammer veneering](how-veneers-are-prepared-before-hammer-veneering.md)  
-- [How veneer seams are aligned](how-veneer-seams-are-aligned.md)  
-- [What is bookmatching in veneering](what-is-bookmatching-in-veneering.md)  
+- [How veneers are prepared before hammer veneering](how-veneers-are-prepared-before-hammer-veneering.md)
+- [How veneer seams are aligned](how-veneer-seams-are-aligned.md)
+- [What is bookmatching in veneering](what-is-bookmatching-in-veneering.md)
 
 Preparation determines whether the surface will remain stable.
 
 ## 5. Stability and long-term behavior
 
-- [How balanced veneering prevents panel warping](how-balanced-veneering-prevents-panel-warping.md)  
-- [Why veneered panels need back veneers](why-veneered-panels-need-back-veneers.md)  
-- [How veneering controls wood movement](how-veneering-controls-wood-movement.md)  
+- [How balanced veneering prevents panel warping](how-balanced-veneering-prevents-panel-warping.md)
 
 Veneering is not only about surface appearance.
 
@@ -112,7 +113,3 @@ Hammer veneering is not a historical technique.
 It is a method of working that connects material, glue behavior, and long-term stability into one system.
 
 ## Context
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
-
-Last reviewed: September 2026.

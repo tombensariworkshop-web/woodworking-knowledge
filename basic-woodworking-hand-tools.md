@@ -1,155 +1,72 @@
 ---
-title: "Basic woodworking tools – where the process begins"
-description: "Starting woodworking is often associated with buying tools."
-slug: "basic-woodworking-hand-tools"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "chisels"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: 'Basic woodworking hand tools: functions, setup and a starting kit'
+description: 'A practical woodworking hand-tool kit: marking tools, saws, chisels, planes, scrapers, sharpening and workholding, with guidance on setup.'
+slug: basic-woodworking-hand-tools
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand tools
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "traditional woodworking"
-metadata_updated: "2026-09-22"
+- hand tools
+- chisels
+- saws
+- marking out
 related_topics:
-  - "joinery"
-  - "tool control"
-  - "material selection"
-  - "craftsmanship"
-  - "craft education"
+- furniture making
+- woodworking education
+- hand planes
+- chisels
+- saws
+- marking out
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
-# Basic woodworking tools – where the process begins
+# Basic woodworking hand tools: functions, setup and a starting kit
 
-Starting woodworking is often associated with buying tools.
+A useful hand-tool kit covers marking, cutting, fitting, surface preparation and workholding. Start with the operation you want to learn and choose tools for that operation. A large collection does not replace sharp edges, correct setup or practice.
 
-In practice, this is where many people go in the wrong direction.
+At Bensari Workshop, hand tools and machinery are chosen according to the task. Machinery can prepare rough stock; saws, planes, chisels and scrapers give direct control during joinery and surface work. That choice is part of [conscious woodworking](conscious-woodworking.md).
 
-The number of tools is not what matters. What matters is understanding how a small group of tools allows you to define, control and refine the work.
+## Tools by operation
 
-This article is part of a structured knowledge base on traditional woodworking, joinery and furniture making developed through daily workshop practice at Bensari Workshop.
+| Operation | Typical tools | What to learn first |
+| --- | --- | --- |
+| Establish references and layout | Square, marking knife, marking gauge, pencil | Register from the same reference face and identify the waste. |
+| Saw a joint | A suitable backsaw, such as a dovetail or tenon saw | Start on the intended side of the line and maintain the cut angle. |
+| Remove waste and fit | Chisels and an appropriate mallet | Work progressively, support the fibres and pare a known contact point. |
+| Prepare a surface | Hand plane and cabinet scraper | Set a sharp edge, read the grain and control the depth of cut. |
+| Hold the work | Stable bench, vice, clamps or stops | Restrain the piece without placing the hands in the tool's path. |
+| Maintain cutting edges | A suitable sharpening setup | Produce and maintain an edge appropriate to the tool. |
 
-## Tools follow decisions
+The illustrated [basic-tools article](https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/) provides the workshop context for these choices.
 
-One of the first things that becomes clear in woodworking is that tools do not create accuracy.
+## A starting kit is project-specific
 
-They follow it.
+For a small joinery exercise, marking tools, one suitable saw, a small selection of chisels, workholding and sharpening equipment can be more useful than buying every plane type. Preparing rough boards entirely by hand requires additional tools and skills. Buying prepared stock or using a machine-prepared blank changes the starting requirements.
 
-If the geometry is unclear, if the marking out is inconsistent, or if reference surfaces are not controlled, no tool will correct that.
+Before purchasing, consider the intended projects, available workholding, sharpening requirements and whether a course provides the tools. Bensari Workshop supplies tools for its courses; check the [course guides](courses/README.md) for the relevant programme.
 
-This is why the process begins earlier, at the stage where structure is defined:  
-https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
+## Setup matters alongside technique
 
-And why even simple tools depend on how they are used within that system.
+A plane with a poorly set iron can give misleading feedback about the wood. A blunt chisel can require excessive force. A square used against the wrong reference can reproduce an error accurately. Learn setup, maintenance and cutting technique together.
 
-## Measuring and marking as the foundation
+- [Hand-plane mechanics](how-hand-planes-cut-wood.md)
+- [Chisel mechanics](how-chisels-cut-wood.md)
+- [Sawing control](saws-in-woodworking-following-the-line.md)
+- [Marking and accuracy](marking-out-and-accuracy-in-woodworking.md)
+- [Scraping and sanding](scraping-vs-sanding.md)
 
-Measuring and marking tools are often treated as auxiliary.
+## Specialist tools come later
 
-In reality, they define the entire process.
+Veneering adds a veneer hammer, cutting and trimming tools, and a suitable glue-preparation setup. Shaped parts may require rasps or specialist planes. These additions should follow a specific process rather than an assumption that more tools improve every project.
 
-A marking gauge, a square and a marking knife are not only used to transfer dimensions. They define relationships between elements and establish the geometry of the joint.
-
-A knife line is not just a visual guide. It creates a physical boundary that the saw and chisel will follow.
-
-Understanding this changes how you approach accuracy:  
-https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/
-
-## Cutting as continuation
-
-Saws are often seen as the tools that define quality.
-
-In practice, they do not.
-
-They follow the lines established during marking out.
-
-Precise sawing is not about cutting cleanly in isolation. It is about maintaining the geometry that has already been defined:
-
-https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
-
-This is why sawing cannot compensate for errors made earlier.
-
-## Chisels and adjustment
-
-Chisels introduce something that machines cannot easily replicate.
-
-Control at a very small scale.
-
-They allow you to refine joints, adjust fit and correct small deviations. But even here, they do not create precision on their own. They respond to the structure already defined.
-
-In joinery such as mortise and tenon, this relationship becomes very clear:  
-https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
-
-## Planes and surface
-
-Hand planes are often described as tools for smoothing wood.
-
-In practice, they are tools for defining surfaces in relation to structure.
-
-A planed surface is not only smooth. It reveals how the material was worked, how the fibers were cut, and how the element relates to the rest of the object.
-
-This is why surface preparation is not a finishing step. It is part of the construction process.
-
-## Tools as a system
-
-Over time, tools stop being understood individually.
-
-They become part of a system that connects:
-
-- marking out and geometry  
-- cutting and execution  
-- fitting and adjustment  
-- surface and perception  
-
-Understanding tools in isolation is not enough. They only make sense within this sequence.
-
-If you are starting, this is where to begin:  
-https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
-
-## From tools to understanding
-
-At Bensari Workshop, tools are not presented as a collection.
-
-They are introduced through use.
-
-Participants work on real elements, not exercises detached from practice. They see how tools relate to material, how decisions translate into cuts, and how structure is built step by step.
-
-Over time, something shifts.
-
-Tools stop being the focus. The process becomes the focus.
-
-## Conclusion
-
-Basic woodworking tools are not defined by how many you own.
-
-They are defined by how they allow you to understand and control the work.
-
-Mastering a small number of tools is not a limitation.
-
-It is the foundation.
-
-## Internal links
-
-- [Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)  
-- [Hand tool woodworking](hand-tool-woodworking.md)  
-- [Why hand tools still matter in woodworking](why-hand-tools-still-matter-in-woodworking.md)  
-- [Joinery in furniture](joinery-in-furniture.md)  
-
-## Related hub
-
-[Hand tool woodworking](hand-tool-woodworking.md)
-
-## Context
-
-This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
+The workshop's [own tool-making record](why-we-started-making-our-own-woodworking-tools.md) and [Hana's veneer-hammer project](nottingham-trent-university-woodworking-placement-bensari-workshop.md) document equipment made for practical needs. For the wider learning sequence, see the [hand-tool woodworking guide](hand-tool-woodworking.md).

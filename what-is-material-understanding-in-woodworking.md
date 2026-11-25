@@ -1,28 +1,29 @@
 ---
-title: "What is Material Understanding in Woodworking"
-description: "Material understanding refers to the knowledge woodworkers develop about how wood behaves during cutting, shaping and assembly."
-slug: "what-is-material-understanding-in-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "wood as material"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is Material Understanding in Woodworking
+description: Material understanding refers to the knowledge woodworkers develop about how wood behaves during cutting, shaping and assembly.
+slug: what-is-material-understanding-in-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: wood as material
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "wood as material"
-  - "traditional woodworking"
-metadata_updated: "2026-09-22"
+- wood as material
+- traditional woodworking
 related_topics:
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "hand tools"
-  - "joinery"
-  - "craft education"
+- moisture content
+- grain direction
+- joinery
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What is Material Understanding in Woodworking
 

@@ -1,33 +1,30 @@
 ---
-title: "How glue is forced out during hammer veneering – flow, pressure and material interaction"
-description: "In hammer veneering, glue is not only used to bond veneer to the substrate."
-slug: "how-glue-is-forced-out-during-hammer-veneering"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How glue is forced out during hammer veneering – flow, pressure and material interaction
+description: In hammer veneering, glue is not only used to bond veneer to the substrate.
+slug: how-glue-is-forced-out-during-hammer-veneering
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- hammer veneering
+- veneering
+- hide glue
+- wood as material
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- wood movement
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How glue is forced out during hammer veneering – flow, pressure and material interaction
 
@@ -36,8 +33,6 @@ In hammer veneering, glue is not only used to bond veneer to the substrate.
 It is actively moved during the process.
 
 Understanding how glue is forced out is essential for achieving a stable and uniform surface.
-
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Glue is applied in excess
 
@@ -59,9 +54,9 @@ This movement is not random.
 
 Pressure forces the glue:
 
-- outward toward the edges  
-- across the surface  
-- into areas of incomplete contact  
+- outward toward the edges
+- across the surface
+- into areas of incomplete contact
 
 This creates a continuous glue layer between veneer and substrate.
 
@@ -73,9 +68,9 @@ The process starts at the center of the panel and moves outward.
 
 This creates a path for:
 
-- glue to escape  
-- air to be removed  
-- veneer to settle evenly  
+- glue to escape
+- air to be removed
+- veneer to settle evenly
 
 If pressure is applied without direction, glue becomes trapped.
 
@@ -104,13 +99,13 @@ This affects how it flows.
 
 If glue is too fluid:
 
-- control becomes difficult  
-- excess movement may occur  
+- control becomes difficult
+- excess movement may occur
 
 If glue is too thick:
 
-- flow is restricted  
-- pressure becomes ineffective  
+- flow is restricted
+- pressure becomes ineffective
 
 Proper temperature creates a balance between flow and control.
 
@@ -122,8 +117,8 @@ This excess must be removed.
 
 If it is not:
 
-- it can interfere with surface quality  
-- it can affect later finishing steps  
+- it can interfere with surface quality
+- it can affect later finishing steps
 
 Clean edges are part of the process.
 
@@ -135,9 +130,9 @@ It is a working medium.
 
 It allows:
 
-- redistribution of pressure  
-- elimination of air  
-- creation of uniform contact  
+- redistribution of pressure
+- elimination of air
+- creation of uniform contact
 
 This is what distinguishes hammer veneering from static pressing systems.
 
@@ -147,9 +142,9 @@ At Bensari Workshop, this process is taught through direct work.
 
 Participants learn to:
 
-- apply the correct amount of glue  
-- control its movement under pressure  
-- recognize when the glue is no longer active  
+- apply the correct amount of glue
+- control its movement under pressure
+- recognize when the glue is no longer active
 
 This builds an understanding of the process as a system.
 
@@ -171,5 +166,3 @@ Without controlled flow, the process cannot succeed.
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

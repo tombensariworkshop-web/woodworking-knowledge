@@ -3,41 +3,31 @@
 <link rel="alternate" type="text/markdown" href="https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/{{ page.path }}">
 {% endif %}
 
-{% if page.content_type == "entity-profile" and page.entity_type == "Person" %}
+{% if page.content_type == "entity-profile" %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "ProfilePage",
   "url": {{ page.url | absolute_url | jsonify }},
+  "inLanguage": {{ page.language | jsonify }},
+  "dateModified": {{ page.last_modified_at | date: '%Y-%m-%d' | jsonify }},
   "mainEntity": {
-    "@type": "Person",
-    "name": "Tom Bensari",
-    "url": {{ page.official_url | jsonify }},
-    "jobTitle": ["Designer", "Master woodworker", "Woodworking educator"]{% if page.same_as %},
-    "sameAs": {{ page.same_as | jsonify }}{% endif %}
-  }
-}
-</script>
-{% elsif page.content_type == "entity-profile" and page.entity_type == "Organization" %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ProfilePage",
-  "url": {{ page.url | absolute_url | jsonify }},
-  "mainEntity": {
-    "@type": "Organization",
-    "name": "Bensari Workshop",
-    "url": {{ page.official_url | jsonify }},
+    "@type": {{ page.entity_type | jsonify }},
+    "@id": {{ page.official_url | append: '#entity' | jsonify }},
+    "name": {{ page.entity_name | jsonify }},
+    "url": {{ page.official_url | jsonify }}{% if page.entity_type == "Person" %},
+    "jobTitle": ["Designer", "Master woodworker", "Woodworking educator"]{% else %},
     "founder": {
       "@type": "Person",
+      "@id": "https://www.bensariworkshop.com/en/about-us/#entity",
       "name": "Tom Bensari",
       "url": {{ '/tom-bensari.html' | absolute_url | jsonify }}
-    }{% if page.same_as %},
+    }{% endif %}{% if page.same_as %},
     "sameAs": {{ page.same_as | jsonify }}{% endif %}
   }
 }
 </script>
-{% elsif page.content_type and page.content_type != "index" %}
+{% elsif page.content_type and page.content_type != "index" and page.content_type != "redirect" %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -46,19 +36,21 @@
   "description": {{ page.description | jsonify }},
   "url": {{ page.url | absolute_url | jsonify }},
   "mainEntityOfPage": {{ page.url | absolute_url | jsonify }},
-  "about": {{ page.primary_topic | jsonify }},
-  "dateModified": {{ page.metadata_updated | jsonify }},
+  "inLanguage": {{ page.language | jsonify }},
+  "about": {"@type": "Thing", "name": {{ page.primary_topic | jsonify }}},
+  "dateModified": {{ page.last_modified_at | date: '%Y-%m-%d' | jsonify }},
   "author": {
     "@type": "Person",
+    "@id": "https://www.bensariworkshop.com/en/about-us/#entity",
     "name": "Tom Bensari",
     "url": {{ '/tom-bensari.html' | absolute_url | jsonify }}
   },
   "publisher": {
     "@type": "Organization",
+    "@id": "https://www.bensariworkshop.com/en/#entity",
     "name": "Bensari Workshop",
     "url": "https://www.bensariworkshop.com/en/"
   }
 }
 </script>
 {% endif %}
-

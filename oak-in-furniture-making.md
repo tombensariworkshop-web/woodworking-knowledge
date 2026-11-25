@@ -1,42 +1,35 @@
 ---
-title: "Oak in Furniture Making"
-description: "Oak is one of the most widely used hardwoods in furniture making."
-slug: "oak-in-furniture-making"
-content_type: "material-reference"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "wood as material"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
+title: Oak in Furniture Making
+description: Oak is one of the most widely used hardwoods in furniture making.
+slug: oak-in-furniture-making
+content_type: redirect
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: wood as material
+knowledge_role: redirect
+knowledge_basis: consolidated article alias
 topics:
-  - "wood as material"
-  - "wood species"
-  - "material selection"
-  - "furniture making"
-metadata_updated: "2026-09-22"
+- wood as material
+- material selection
+- furniture making
 related_topics:
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "joinery"
-  - "craftsmanship"
+- wood movement
+- grain direction
+- joinery
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+layout: redirect
+sitemap: false
+redirect_to: /wood-species-for-furniture-making.html
+consolidated_into: wood-species-for-furniture-making.md
+last_modified_at: '2026-11-25'
 ---
 # Oak in Furniture Making
 
-Oak is one of the most widely used hardwoods in furniture making.
-
-The wood is valued for its strength, durability and distinctive grain structure. Oak typically displays prominent growth rings and a clear grain pattern that becomes especially visible when the wood is finished with oil or wax.
-
-Two main varieties are commonly used in furniture making: red oak and white oak. White oak is generally preferred in fine furniture because it has greater resistance to moisture and a slightly tighter grain.
-
-Oak has been used in furniture construction for centuries. Historical European furniture, including many traditional cabinets and tables, was often made from oak because the material provides both structural stability and long-term durability.
-
-Because of its strength, oak is well suited for structural components such as legs, frames and tabletops.
-
-## Related guide
-
-This page is part of the broader [wood-as-material guide](wood-as-material.md).
+This article has been consolidated into [Wood species for furniture making: European context and practical selection](wood-species-for-furniture-making.md). The maintained article contains the explanation and related practical references.

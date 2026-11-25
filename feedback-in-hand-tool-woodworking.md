@@ -1,29 +1,29 @@
 ---
-title: "Feedback in Hand Tool Woodworking — Understanding Material Through Tools"
-description: "One of the aspects of working with hand tools that is often overlooked at the beginning is feedback."
-slug: "feedback-in-hand-tool-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand tools"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Feedback in Hand Tool Woodworking — Understanding Material Through Tools
+description: One of the aspects of working with hand tools that is often overlooked at the beginning is feedback.
+slug: feedback-in-hand-tool-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand tools
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand tools"
-  - "woodworking education"
-  - "workshop learning"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- hand tools
+- woodworking education
+- Bensari Workshop
 related_topics:
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "skill development"
-  - "furniture making"
+- chisels
+- saws
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Feedback in Hand Tool Woodworking — Understanding Material Through Tools
 
@@ -75,5 +75,3 @@ Understanding these differences is essential for developing control.
 ## Conclusion
 
 With experience, feedback becomes one of the most reliable guides in the process, because it connects the tool, the material, and the person working with it into a single, continuous interaction.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

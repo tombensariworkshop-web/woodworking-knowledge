@@ -1,31 +1,30 @@
 ---
-title: "Ergonomics in Hand Tools — How Tools Shape the Way We Work"
-description: "For a long time, I understood ergonomics in woodworking as something related mainly to comfort."
-slug: "ergonomics-in-hand-tools-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "chisels"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Ergonomics in Hand Tools — How Tools Shape the Way We Work
+description: For a long time, I understood ergonomics in woodworking as something related mainly to comfort.
+slug: ergonomics-in-hand-tools-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand tools
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "chisels"
-  - "hand tools"
-  - "woodworking education"
-  - "workshop learning"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- hand tools
+- chisels
+- woodworking education
+- Bensari Workshop
 related_topics:
-  - "joinery"
-  - "marking out"
-  - "tool control"
-  - "traditional woodworking"
-  - "skill development"
-  - "furniture making"
+- hand planes
+- marking out
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Ergonomics in Hand Tools — How Tools Shape the Way We Work
 
@@ -68,5 +67,3 @@ Every tool that follows is part of a sequence. If one of them introduces frictio
 ## Conclusion
 
 With time, it becomes clear that what we initially describe as comfort is in fact closely tied to control, because tools that sit naturally in the hand allow that control to be maintained consistently throughout the work.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

@@ -1,33 +1,33 @@
 ---
-title: "Hand Planes in Woodworking — Control and Surface"
-description: "Hand planes are often reduced to finishing tools, something you reach for at the very end of the process to make a surface look better."
-slug: "hand-planes-in-woodworking-control-and-surface"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Hand Planes in Woodworking — Control and Surface
+description: Hand planes are often reduced to finishing tools, something you reach for at the very end of the process to make a surface look better.
+slug: hand-planes-in-woodworking-control-and-surface
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand planes
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "saws"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- hand planes
+- hand tools
+- saws
+- marking out
+- Bensari Workshop
+- surface preparation
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "traditional woodworking"
-  - "joinery"
-  - "woodworking education"
-  - "furniture making"
+- chisels
+- woodworking education
+- wood grain direction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Hand Planes in Woodworking — Control and Surface
 
@@ -64,14 +64,12 @@ https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/
 
 For a broader understanding of how tools work together:
 
-- chisels and precision  
+- chisels and precision
 [How Chisels Cut Wood](how-chisels-cut-wood.md)
 
-- workbench and stability  
+- workbench and stability
 [Building a Workbench as a Way of Learning Woodworking](woodworking-workbench-building-as-learning.md)
 
 ## Conclusion
 
 A hand plane is not a finishing tool. It is a tool of control, and understanding that changes the way you approach the entire process.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

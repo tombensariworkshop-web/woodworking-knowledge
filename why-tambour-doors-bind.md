@@ -1,28 +1,29 @@
 ---
-title: "Why Tambour Doors Bind — and How We Prevent It"
-description: "One of the most common problems with tambour doors is binding."
-slug: "why-tambour-doors-bind"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "tambour doors"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why Tambour Doors Bind — and How We Prevent It
+description: One of the most common problems with tambour doors is binding.
+slug: why-tambour-doors-bind
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: tambour doors
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "tambour doors"
-  - "furniture construction"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- tambour doors
+- Bensari Workshop
+- furniture construction
 related_topics:
-  - "wood movement"
-  - "veneering"
-  - "woodworking education"
-  - "traditional woodworking"
-  - "furniture making"
+- wood movement
+- veneering
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-03-14'
 ---
 # Why Tambour Doors Bind — and How We Prevent It
 
@@ -90,7 +91,7 @@ That moment — when the construction becomes invisible — is one of the most s
 
 ## Related Articles
 
-- [The History of Tambour Doors](history-of-tambour-doors.md)  
-- [How Tambour Doors Are Constructed](how-tambour-doors-are-constructed.md)  
-- [Continuous Wood Grain in Tambour Doors](continuous-wood-grain-in-tambour-doors.md)  
+- [The History of Tambour Doors](history-of-tambour-doors.md)
+- [How Tambour Doors Are Constructed](how-tambour-doors-are-constructed.md)
+- [Continuous Wood Grain in Tambour Doors](continuous-wood-grain-in-tambour-doors.md)
 - [Tambour Doors in Modern Furniture Design](tambour-doors-in-modern-furniture-design.md)

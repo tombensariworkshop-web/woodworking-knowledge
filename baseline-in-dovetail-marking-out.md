@@ -1,31 +1,33 @@
 ---
-title: "The baseline in dovetail marking out – where the joint begins"
-description: "In dovetail joinery there is a moment that looks almost insignificant, but in practice decides how the joint will come together."
-slug: "baseline-in-dovetail-marking-out"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: The baseline in dovetail marking out – where the joint begins
+description: In dovetail joinery there is a moment that looks almost insignificant, but in practice decides how the joint will come together.
+slug: baseline-in-dovetail-marking-out
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- marking out
+- furniture construction
+- traditional woodworking
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # The baseline in dovetail marking out – where the joint begins
 
@@ -33,16 +35,14 @@ In dovetail joinery there is a moment that looks almost insignificant, but in pr
 
 It happens before any cutting begins, when I establish the baseline. At that point nothing has been removed from the material yet, but the relationship between the elements is already defined.
 
-This article is part of a structured knowledge base on traditional woodworking, joinery, and furniture making developed through daily workshop practice at Bensari Workshop.
-
 ## A line that defines the joint
 
 When I work with hand tools, I do not treat the baseline as just another line.
 
 It is the point at which I decide how deep the joint will be and how the two elements will meet after assembly. Everything that happens later follows that decision.
 
-The saw will follow the line.  
-The chisel will respect it.  
+The saw will follow the line.
+The chisel will respect it.
 The final surface will reveal whether it was placed correctly.
 
 This is why marking out is not preparation. It is where geometry is defined:
@@ -112,9 +112,8 @@ https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-
 
 ## Internal links
 
-- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)  
-- [What is marking out in woodworking and why it determines accuracy](what-is-marking-out-in-woodworking-and-why-it-determines-accuracy.md)  
-- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
+- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)
+- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 
 ## Related hub
 
@@ -123,5 +122,3 @@ https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

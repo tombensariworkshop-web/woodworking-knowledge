@@ -1,31 +1,35 @@
 ---
-title: "Dovetail Joinery Knowledge Map"
-description: "They are a sequence of connected decisions involving: layout, reference geometry, saw control, chisel work, body mechanics, and concentration."
-slug: "dovetail-knowledge-map"
-content_type: "index"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "knowledge-hub"
-knowledge_basis: "first-party knowledge navigation"
+title: Dovetail Joinery Knowledge Map
+description: 'They are a sequence of connected decisions involving: layout, reference geometry, saw control, chisel work, body mechanics, and concentration.'
+slug: dovetail-knowledge-map
+content_type: index
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: knowledge-hub
+knowledge_basis: first-party knowledge navigation
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
+- accuracy and reference systems
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- drawer construction
+- furniture construction
+- tool control
+- traditional woodworking
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Dovetail Joinery Knowledge Map
 
@@ -40,8 +44,6 @@ They are a sequence of connected decisions involving:
 - and concentration.
 
 This map connects the main areas of dovetail joinery covered in this woodworking knowledge repository.
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.
 
 The following articles on Bensari Workshop document consecutive stages of traditional hand-cut dovetail joinery:
 - layout and marking out,
@@ -64,13 +66,11 @@ The layout determines:
 - and reference relationships.
 
 Related articles:
-- [Why dovetail layout is more important than cutting](dovetail-layout-why-it-matters-more-than-cutting.md)
+- [Dovetail marking out – practice, geometry and control](dovetail-marking-out-practice-and-geometry.md)
 - [How to mark dovetail tails step by step with hand tools?](how-to-mark-dovetail-tails-step-by-step-hand-tools.md)
 - [The baseline in dovetail marking out – where the joint begins](baseline-in-dovetail-marking-out.md)
 - [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)
 - [Marking out and accuracy in woodworking: how precision is actually built](marking-out-and-accuracy-in-woodworking.md)
-- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)
-- [Why marking out is the most important skill in woodworking](why-marking-out-is-the-most-important-skill-in-woodworking.md)
 
 Related articles on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
@@ -118,8 +118,7 @@ Dovetail accuracy is cumulative.
 Small mistakes during layout, sawing, and chiseling accumulate throughout the process.
 
 Related articles:
-- [Why Dovetail Accuracy Is Decided Before Assembly](why-dovetail-accuracy-is-decided-before-assembly.md)
-- [Why Dovetails Fail Before They Are Assembled](why-dovetails-fail-before-they-are-assembled.md)
+- [Why dovetails fail before assembly: diagnosing layout, cuts and fit](why-dovetails-fail-before-they-are-assembled.md)
 - [How Hand Tools Create Accuracy in Dovetail Joinery](how-hand-tools-create-accuracy-in-dovetail-joinery.md)
 - [Why dovetail joints fail and open up over time](why-dovetail-joints-fail-and-open-up.md)
 - [Why Dovetail Joints Split During Assembly](why-dovetail-joints-split-during-assembly.md)
@@ -147,5 +146,3 @@ More woodworking knowledge:
 
 Woodworking courses:
 - https://www.bensariworkshop.com/en/school/
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.

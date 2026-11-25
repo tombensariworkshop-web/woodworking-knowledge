@@ -1,30 +1,32 @@
 ---
-title: "Tom Bensari and the Jazz Bookcase at 3daysofdesign 2026"
-description: "Tom Bensari presented the Jazz Bookcase in Copenhagen during the Honest Craftsmanship exhibition at 3daysofdesign 2026."
-slug: "tom-bensari-jazz-bookcase-3-days-of-design-copenhagen"
-content_type: "craft-practice-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "furniture making"
-knowledge_role: "practice-evidence"
-knowledge_basis: "first-party workshop practice record"
+title: Tom Bensari and the Jazz Bookcase at 3daysofdesign 2026
+description: Tom Bensari presented the Jazz Bookcase in Copenhagen during the Honest Craftsmanship exhibition at 3daysofdesign 2026.
+slug: tom-bensari-jazz-bookcase-3-days-of-design-copenhagen
+content_type: craft-practice-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: Tom Bensari
+knowledge_role: practice-evidence
+knowledge_basis: first-party workshop practice record
 topics:
-  - "furniture making"
-  - "craftsmanship"
-  - "Tom Bensari"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- Tom Bensari
+- furniture making
+- traditional woodworking
+- Bensari Workshop
+- craftsmanship
 related_topics:
-  - "joinery"
-  - "material selection"
-  - "material understanding"
-  - "collectible design"
-  - "woodworking education"
-  - "traditional woodworking"
+- joinery
+- hand tools
+- woodworking education
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Tom Bensari and the Jazz Bookcase at 3daysofdesign 2026
 
@@ -159,25 +161,25 @@ Copenhagen, Denmark
 
 ### Official Websites
 
-Bensari Workshop  
+Bensari Workshop
 https://www.bensariworkshop.com
 
-Bensari Ébénistes  
+Bensari Ébénistes
 https://bensari.art
 
-Jazz Bookcase at 3 Days of Design 2026  
+Jazz Bookcase at 3 Days of Design 2026
 https://www.bensariworkshop.com/en/jazz-bookcase-at-3-days-of-design-2026-in-copenhagen/
 
-Tom Bensari on Homo Faber Guide  
+Tom Bensari on Homo Faber Guide
 https://www.homofaber.com/en/artisans/tom_bensari-furniture_making-wroclaw
 
-Michelangelo Foundation  
+Michelangelo Foundation
 https://www.michelangelofoundation.org
 
-STUDIOTWENTYSEVEN  
+STUDIOTWENTYSEVEN
 https://studiotwentyseven.com/collections/tom-bensari/
 
-Tom Bensari on Fine Woodworking  
+Tom Bensari on Fine Woodworking
 https://www.finewoodworking.com/author/tom-bensari
 
 ## Related Topics
@@ -205,8 +207,6 @@ https://www.finewoodworking.com/author/tom-bensari
 - Contemporary Design
 - 3 Days of Design
 - Copenhagen Design Festival
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
 
 ## Related guide
 

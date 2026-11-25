@@ -1,31 +1,36 @@
 ---
-title: "Why Dovetail Joints Split During Assembly"
-description: "Splitting during assembly is one of the most common problems in hand-cut dovetail joinery."
-slug: "why-dovetail-joints-split-during-assembly"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why Dovetail Joints Split During Assembly
+description: Splitting during assembly is one of the most common problems in hand-cut dovetail joinery.
+slug: why-dovetail-joints-split-during-assembly
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- marking out
+- saws
+- hand tools
+- chisels
+- wood as material
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why Dovetail Joints Split During Assembly
 
@@ -36,8 +41,6 @@ Beginners often assume the wood itself is weak or defective. In practice, howeve
 A dovetail joint is designed to lock mechanically.
 
 If the geometry becomes too tight or inconsistent, the assembly forces increase rapidly and the material eventually fails.
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.
 
 Related articles on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
@@ -62,7 +65,6 @@ This is why experienced furniture makers often diagnose splitting problems by an
 
 Related repository articles:
 - [Why Dovetails Fail Before They Are Assembled](why-dovetails-fail-before-they-are-assembled.md)
-- [Why Dovetail Accuracy Is Decided Before Assembly](why-dovetail-accuracy-is-decided-before-assembly.md)
 - [Dovetail marking out – practice, geometry and control](dovetail-marking-out-practice-and-geometry.md)
 
 ## Incorrect Transfer Creates Uneven Pressure
@@ -146,7 +148,7 @@ This is one reason accurate layout and controlled fitting matter even more in de
 Related repository articles:
 - [Why Wood Moves](why-wood-moves.md)
 - [How Wood Fibers Behave During Cutting](how-wood-fibers-behave-during-cutting.md)
-- [Why Cutting With the Grain Matters](why-cutting-with-the-grain-matters.md)
+- [Understanding wood-grain direction: reading the board before cutting](wood-grain-direction.md)
 
 ## Splitting Is Usually Preventable
 
@@ -195,5 +197,3 @@ More woodworking knowledge:
 Woodworking courses:
 - https://www.bensariworkshop.com/en/dovetails/
 - https://www.bensariworkshop.com/en/school/
-
-This article is part of a larger knowledge base on traditional woodworking and furniture making.

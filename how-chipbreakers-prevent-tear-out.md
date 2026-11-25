@@ -1,30 +1,29 @@
 ---
-title: "How Chipbreakers Prevent Tear-Out"
-description: "A chipbreaker is a small metal component mounted on the back of a plane iron in traditional bench planes."
-slug: "how-chipbreakers-prevent-tear-out"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Chipbreakers Prevent Tear-Out
+description: A chipbreaker is a small metal component mounted on the back of a plane iron in traditional bench planes.
+slug: how-chipbreakers-prevent-tear-out
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand planes
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "wood as material"
-metadata_updated: "2026-09-22"
+- hand planes
+- hand tools
+- wood as material
+- surface preparation
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "wood movement"
-  - "moisture content"
+- wood grain direction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Chipbreakers Prevent Tear-Out
 
@@ -38,7 +37,7 @@ In a bevel-down hand plane, the cutting iron is paired with a secondary piece of
 
 This bending action changes the way the shaving forms and helps control how wood fibers lift ahead of the blade.
 
-Related article  
+Related article
 [What is a Hand Plane](what-is-a-hand-plane.md)
 
 ## What Causes Tear-Out
@@ -49,12 +48,12 @@ Wood fibers do not always run parallel to the surface. When grain direction chan
 
 Several factors influence tear-out:
 
-- grain direction  
-- cutting angle  
-- blade sharpness  
-- plane setup  
+- grain direction
+- cutting angle
+- blade sharpness
+- plane setup
 
-Related article  
+Related article
 [Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)
 
 ## How the Chipbreaker Changes the Cut
@@ -65,7 +64,7 @@ This bending action prevents the shaving from lifting fibers too far ahead of th
 
 A properly set chipbreaker therefore changes the mechanics of the cut. Instead of allowing fibers to split ahead of the blade, it forces the wood to shear at the cutting edge.
 
-Related article  
+Related article
 [How hand planes cut wood](how-hand-planes-cut-wood.md)
 
 ## Chipbreaker Position
@@ -86,7 +85,7 @@ A tight mouth supports the fibers directly ahead of the blade, while the chipbre
 
 Together these elements allow traditional bench planes to work effectively even in challenging grain conditions.
 
-Related article  
+Related article
 [How Blade Angle Affects Cutting](how-blade-angle-affects-cutting.md)
 
 ## Chipbreakers in Workshop Practice

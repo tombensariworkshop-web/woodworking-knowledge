@@ -1,31 +1,35 @@
 ---
-title: "Hand tools and control in woodworking: understanding how tools actually work"
-description: "Hand tools cut, pare, plane or scrape wood through direct control of an edge."
-slug: "hand-tools-and-control-in-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: 'Hand tools and control in woodworking: understanding how tools actually work'
+description: Hand tools cut, pare, plane or scrape wood through direct control of an edge.
+slug: hand-tools-and-control-in-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand tools
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "chisels"
-  - "saws"
-  - "traditional woodworking"
-metadata_updated: "2026-09-22"
+- hand tools
+- hand planes
+- chisels
+- saws
+- woodworking education
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "marking out"
-  - "joinery"
-  - "craft education"
+- hand planes
+- chisels
+- saws
+- surface preparation
+- wood grain direction
+- joinery
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Hand tools and control in woodworking: understanding how tools actually work
 
@@ -42,7 +46,7 @@ Students frequently ask which tools they should buy. The more useful question is
 ## 1. What hand tool woodworking means in practice
 
 - [Hand tool woodworking](hand-tool-woodworking.md)
-- [Traditional woodworking tools](traditional-woodworking-tools.md)
+- [Basic woodworking hand tools: functions, setup and a starting kit](basic-woodworking-hand-tools.md)
 
 Hand tools are not about rejecting machines. They are about controlling the material directly where it matters.
 
@@ -91,7 +95,3 @@ Buying more tools does not create control. A small set of sharp, correctly adjus
 ## Context of this approach
 
 This perspective comes from everyday work in the workshop and from teaching people who often arrive with no prior experience. The goal is not to simplify tools, but to explain how they actually work in practice.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
-
-Last reviewed: September 2026.

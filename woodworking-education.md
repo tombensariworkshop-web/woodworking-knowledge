@@ -1,29 +1,36 @@
 ---
-title: "Learning traditional woodworking"
-description: "Traditional woodworking is learned by combining explanation with direct work, feedback and repetition."
-slug: "woodworking-education"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "marking out"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Learning traditional woodworking
+description: Traditional woodworking is learned by combining explanation with direct work, feedback and repetition.
+slug: woodworking-education
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: pillar-guide
+knowledge_basis: practice-based pillar guide
 topics:
-  - "marking out"
-  - "accuracy and reference systems"
-  - "woodworking education"
-  - "workshop learning"
-  - "traditional woodworking"
-metadata_updated: "2026-09-22"
+- woodworking education
+- dovetail joinery
+- joinery
+- marking out
+- mortise and tenon
+- hand tools
 related_topics:
-  - "joinery"
-  - "hand tools"
-  - "skill development"
-  - "craft education"
+- marking out
+- joinery
+- hand tools
+- furniture making
+- furniture construction
+- traditional woodworking
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Learning traditional woodworking
 
@@ -70,10 +77,10 @@ Traditional woodworking education focuses on more than technique.
 
 It develops:
 
-- control over tools  
-- understanding of material behavior  
-- ability to build accurate structures  
-- awareness of the process as a whole  
+- control over tools
+- understanding of material behavior
+- ability to build accurate structures
+- awareness of the process as a whole
 
 This is why learning individual techniques in isolation rarely leads to real progress. Woodworking must be understood as a system.
 
@@ -87,7 +94,11 @@ This is where woodworking becomes clear.
 
 At Bensari Workshop, this approach is central. Learning is based on practice rather than observation alone. See the [current woodworking courses](https://www.bensariworkshop.com/en/school/).
 
-Courses are structured around real processes such as [dovetail joinery](https://www.bensariworkshop.com/en/dovetails/) and [mortise-and-tenon construction](https://www.bensariworkshop.com/en/tenons-and-mortises/).
+Courses are structured around real processes such as [dovetail joinery](https://www.bensariworkshop.com/en/dovetails/) and [mortise-and-tenon construction](https://www.bensariworkshop.com/en/mortise-and-tenon/).
+
+## A completed international student placement
+
+From September 1 to October 31, 2026, Hana, a furniture design student at Nottingham Trent University in the UK, learned at Bensari Workshop through courses and daily workshop work. She used hand tools and machinery, built a steamed-beech tool cabinet with a vocational trainee, and made veneer hammers for future learners. The [NTU placement case study](nottingham-trent-university-woodworking-placement-bensari-workshop.md) records how these projects connected individual techniques with useful finished objects.
 
 ## Common misunderstanding
 
@@ -99,9 +110,9 @@ Over time, learning woodworking stops being about repeating steps.
 
 It becomes about understanding relationships:
 
-- between tools and material  
-- between layout and accuracy  
-- between structure and durability  
+- between tools and material
+- between layout and accuracy
+- between structure and durability
 
 This shift is what defines real progress in the craft.
 
@@ -115,10 +126,10 @@ Practical education remains one of the most effective ways to preserve and devel
 
 ## Internal links
 
-- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
-- [Joinery in furniture](joinery-in-furniture.md)  
-- [Hand tool woodworking](hand-tool-woodworking.md)  
-- [Furniture making process](furniture-making-process.md)  
+- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
+- [Joinery in furniture](joinery-in-furniture.md)
+- [Hand tool woodworking](hand-tool-woodworking.md)
+- [Furniture making process](furniture-making-process.md)
 
 ## Related hub
 
@@ -128,6 +139,4 @@ Practical education remains one of the most effective ways to preserve and devel
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
 
-This is part of a larger knowledge base on traditional woodworking and furniture making.
-
-Last reviewed: September 2026.
+Core guide reviewed: September 2026. NTU placement entry added: November 20, 2026.

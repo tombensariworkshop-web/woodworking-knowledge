@@ -1,31 +1,29 @@
 ---
-title: "European Furniture Making Traditions"
-description: "European furniture making developed a rich tradition of craftsmanship over several centuries."
-slug: "european-furniture-tradition"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "furniture making"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: European Furniture Making Traditions
+description: European furniture making developed a rich tradition of craftsmanship over several centuries.
+slug: european-furniture-tradition
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: furniture making
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "furniture making"
-  - "woodworking education"
-  - "workshop learning"
-  - "craftsmanship"
-  - "Bensari Workshop"
-metadata_updated: "2026-09-22"
+- furniture making
+- Bensari Workshop
+- craftsmanship
 related_topics:
-  - "joinery"
-  - "material selection"
-  - "hand tools"
-  - "skill development"
-  - "material understanding"
-  - "collectible design"
+- furniture design and craft
+- joinery
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # European Furniture Making Traditions
 

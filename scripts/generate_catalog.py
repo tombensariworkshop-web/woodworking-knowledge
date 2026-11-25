@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 from collections import defaultdict
+from datetime import date
 from pathlib import Path
 import argparse
 import sys
@@ -26,13 +27,20 @@ def load_frontmatter(path: Path) -> dict:
     return yaml.safe_load(text.split("---\n", 2)[1])
 
 
-def render() -> str:
+def render(metadata_date: str | None = None, content_date: str | None = None) -> str:
+    existing = load_frontmatter(OUTPUT) if OUTPUT.exists() else {}
+    metadata_date = metadata_date or str(existing.get("metadata_updated", date.today().isoformat()))
+    content_date = content_date or str(existing.get("last_modified_at", date.today().isoformat()))
     groups: defaultdict[str, list[tuple[str, str, str]]] = defaultdict(list)
     for path in sorted(ROOT.rglob("*.md")):
         rel = path.relative_to(ROOT).as_posix()
+        if any(part in {".git", "_site", "vendor", ".jekyll-cache"} for part in path.relative_to(ROOT).parts):
+            continue
         if rel in EXCLUDED:
             continue
         data = load_frontmatter(path)
+        if data.get("content_type") == "redirect":
+            continue
         groups[str(data["primary_topic"])].append(
             (str(data["title"]), rel, str(data["description"]))
         )
@@ -47,7 +55,7 @@ def render() -> str:
         'publisher: "Bensari Workshop"',
         'author: "Tom Bensari"',
         'expert: "Tom Bensari"',
-        'location: "Wroclaw, Poland"',
+        'location: "Wrocław, Poland"',
         'schema_version: "1.1"',
         'primary_topic: "woodworking knowledge architecture"',
         'knowledge_role: "knowledge-hub"',
@@ -65,11 +73,12 @@ def render() -> str:
         "entities:",
         '  - "Bensari Workshop"',
         '  - "Tom Bensari"',
-        'metadata_updated: "2026-09-22"',
+        f'metadata_updated: "{metadata_date}"',
+        f'last_modified_at: "{content_date}"',
         "---",
         "# Complete Woodworking Knowledge Catalog",
         "",
-        "This catalog lists every substantive page in the repository. For a shorter curated route, begin with the [primary knowledge index](index.md).",
+        "This catalog lists the maintained pages in the repository. Consolidated aliases are excluded. For a shorter curated route, begin with the [primary knowledge index](index.md).",
         "",
     ]
 
@@ -92,6 +101,20 @@ def render() -> str:
     return "\n".join(lines)
 
 
+def write_catalog(today: str | None = None) -> bool:
+    """Update dates only when the generated metadata or body actually changes."""
+    today = today or date.today().isoformat()
+    content = render()
+    old = OUTPUT.read_text(encoding="utf-8") if OUTPUT.exists() else ""
+    if old == content:
+        return False
+    old_body = old.split("---\n", 2)[-1]
+    new_body = content.split("---\n", 2)[-1]
+    content_date = today if old_body != new_body else None
+    OUTPUT.write_text(render(metadata_date=today, content_date=content_date), encoding="utf-8")
+    return True
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--check", action="store_true")
@@ -103,11 +126,10 @@ def main() -> int:
             return 1
         print("catalog.md is up to date.")
         return 0
-    OUTPUT.write_text(content, encoding="utf-8")
-    print(f"Generated {OUTPUT.relative_to(ROOT)}")
+    changed = write_catalog()
+    print(f"Generated {OUTPUT.relative_to(ROOT)}" if changed else "catalog.md is up to date.")
     return 0
 
 
 if __name__ == "__main__":
     sys.exit(main())
-

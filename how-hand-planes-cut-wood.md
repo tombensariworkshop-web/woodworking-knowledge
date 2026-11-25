@@ -1,30 +1,32 @@
 ---
-title: "How hand planes cut wood"
-description: "A hand plane removes a controlled shaving by driving a sharpened iron through wood fibres."
-slug: "how-hand-planes-cut-wood"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How hand planes cut wood
+description: A hand plane removes a controlled shaving by driving a sharpened iron through wood fibres.
+slug: how-hand-planes-cut-wood
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand planes
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
-  - "wood as material"
-metadata_updated: "2026-09-22"
+- hand planes
+- hand tools
+- wood as material
+- surface preparation
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "wood movement"
-  - "moisture content"
+- wood as material
+- hand tools
+- wood grain direction
+- grain direction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How hand planes cut wood
 

@@ -1,37 +1,37 @@
 ---
-title: "How to cut dovetail waste without damaging the line"
-description: "Removing waste is one of the most delicate stages in dovetail work. The goal is not speed, but preserving the layout lines that define the joint."
-slug: "how-to-cut-dovetail-waste-without-damaging-the-line"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How to cut dovetail waste without damaging the line
+description: Removing waste is one of the most delicate stages in dovetail work. The goal is not speed, but preserving the layout lines that define the joint.
+slug: how-to-cut-dovetail-waste-without-damaging-the-line
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
-metadata_updated: "2026-09-22"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- marking out
+- chisels
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How to cut dovetail waste without damaging the line
 
 Removing waste is one of the most delicate stages in dovetail work. The goal is not speed, but preserving the layout lines that define the joint.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
 
 Start with [how to mark dovetail tails step by step with hand tools](./how-to-mark-dovetail-tails-step-by-step-hand-tools.md).
 
@@ -39,11 +39,11 @@ Start with [how to mark dovetail tails step by step with hand tools](./how-to-ma
 
 If the layout line is damaged:
 
-- the reference for fitting is lost  
-- the joint becomes inaccurate  
-- gaps may appear  
+- the reference for fitting is lost
+- the joint becomes inaccurate
+- gaps may appear
 
-This is why [marking out determines the result in woodworking](./why-marking-out-determines-the-result-in-woodworking.md).
+This is why [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md).
 
 ## Should you cut directly to the line?
 
@@ -57,9 +57,9 @@ The final precision is achieved later, not during rough waste removal.
 
 Common tools include:
 
-- coping saw or fret saw  
-- chisels  
-- sometimes a backsaw for external waste  
+- coping saw or fret saw
+- chisels
+- sometimes a backsaw for external waste
 
 See [tools used for dovetails](./tools-used-for-dovetails.md) and [what is a woodworking chisel](./what-is-a-woodworking-chisel.md).
 

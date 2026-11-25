@@ -1,31 +1,31 @@
 ---
-title: "What Is a Marking Knife"
-description: "A marking knife is a layout tool used in woodworking to mark precise cutting lines on wood."
-slug: "what-is-a-marking-knife"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wroclaw, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What Is a Marking Knife
+description: A marking knife is a layout tool used in woodworking to mark precise cutting lines on wood.
+slug: what-is-a-marking-knife
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: marking out
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "furniture construction"
-  - "chisels"
-  - "hand tools"
-metadata_updated: "2026-09-22"
+- marking out
+- dovetail joinery
+- joinery
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "accuracy and reference systems"
-  - "tool control"
-  - "traditional woodworking"
+- furniture construction
+entities:
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What Is a Marking Knife
 
