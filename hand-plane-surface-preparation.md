@@ -1,36 +1,33 @@
 ---
-title: "Surface Preparation with Hand Planes"
-description: "Hand planes are among the most important tools in traditional woodworking."
-slug: "hand-plane-surface-preparation"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Surface Preparation with Hand Planes
+description: Hand planes are among the most important tools in traditional woodworking.
+slug: hand-plane-surface-preparation
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand planes
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "wood as material"
-  - "furniture making"
-  - "woodworking education"
-  - "workshop learning"
-  - "surface finishing"
+- hand planes
+- hand tools
+- wood as material
+- furniture making
+- woodworking education
 related_topics:
-  - "wood grain direction"
-  - "surface preparation"
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "wood movement"
+- hand tools
+- wood grain direction
+- surface preparation
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Surface Preparation with Hand Planes
 

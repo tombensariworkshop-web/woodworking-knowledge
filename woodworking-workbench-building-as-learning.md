@@ -1,32 +1,31 @@
 ---
-title: "Building a Workbench as a Way of Learning Woodworking"
-description: "For a long time, I treated the workbench as something obvious."
-slug: "woodworking-workbench-building-as-learning"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Building a Workbench as a Way of Learning Woodworking
+description: For a long time, I treated the workbench as something obvious.
+slug: woodworking-workbench-building-as-learning
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand tools"
-  - "woodworking education"
-  - "workshop learning"
-  - "Bensari Workshop"
+- woodworking education
+- hand tools
+- Bensari Workshop
 related_topics:
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "skill development"
-  - "Tom Bensari"
+- Bensari Workshop
+- hand tools
+- marking out
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Building a Workbench as a Way of Learning Woodworking
 
@@ -102,5 +101,3 @@ The workbench absorbs force, stabilises the material, and allows tools to work a
 Building a workbench changes the way woodworking is understood, because it brings together material, structure, and process into a single, coherent experience.
 
 Working with the apprentices made this particularly clear, as the benches they built now carry a record of the work, discipline, and decisions that shaped them.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

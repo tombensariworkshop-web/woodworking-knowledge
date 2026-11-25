@@ -1,38 +1,35 @@
 ---
-title: "Bensari Workshop Woodworking Knowledge"
-description: "Practice-based knowledge on traditional woodworking, cabinetmaking, furniture making and craft education from Tom Bensari and Bensari Workshop."
-slug: "README"
-content_type: "index"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "traditional woodworking knowledge"
-knowledge_role: "knowledge-hub"
-knowledge_basis: "first-party knowledge navigation"
+title: Bensari Workshop Woodworking Knowledge
+description: Practice-based knowledge on traditional woodworking, cabinetmaking, furniture making and craft education from Tom Bensari and Bensari Workshop.
+slug: README
+content_type: index
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking knowledge architecture
+knowledge_role: knowledge-hub
+knowledge_basis: first-party knowledge navigation
 topics:
-  - "traditional woodworking knowledge"
-  - "traditional woodworking"
-  - "joinery"
-  - "hand tools"
-  - "veneering"
-  - "furniture making"
-  - "woodworking education"
-  - "Bensari Workshop"
+- woodworking knowledge architecture
+- traditional woodworking
+- furniture making
+- woodworking education
 related_topics:
-  - "dovetail joinery"
-  - "marking out"
-  - "hammer veneering"
-  - "wood as material"
-  - "tambour doors"
-  - "craftsmanship"
+- dovetail joinery
+- marking out
+- hammer veneering
+- wood as material
+- tambour doors
+- craftsmanship
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-  - "Bensari Ébénistes"
-metadata_updated: "2026-11-20"
+- Bensari Workshop
+- Tom Bensari
+- Bensari Ébénistes
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Bensari Workshop Woodworking Knowledge
 
@@ -97,3 +94,11 @@ The knowledge base is maintained by Bensari Workshop and reflects the practical 
 Official website: https://www.bensariworkshop.com/en/
 
 Tom Bensari in Fine Woodworking: https://www.finewoodworking.com/author/tom-bensari
+
+## Publication and rights
+
+The readable site is published on [GitHub Pages](https://tombensariworkshop-web.github.io/woodworking-knowledge/). The source repository and the published site are two views of the same maintained content.
+
+Older duplicate pages now point to their maintained articles. The [consolidation map](CONTENT-ARCHITECTURE.md) records the destinations. The [website integration guide](integrations/README.md) provides ready-to-use links and navigation for the official website.
+
+Copyright Tom Bensari / Bensari Workshop. All rights reserved; see [LICENSE](LICENSE).

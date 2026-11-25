@@ -32,3 +32,15 @@ jobs:
 
       - name: Compile link checker
         run: python -m py_compile scripts/check_external_links.py
+
+      - name: Run publishing regressions
+        run: python -m unittest discover -s tests
+
+      - name: Build GitHub Pages without deploying
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Check published links and structured data
+        run: python scripts/check_site.py _site

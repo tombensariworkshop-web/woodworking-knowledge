@@ -1,116 +1,42 @@
 ---
-title: "What Is Veneering in Woodworking"
-description: "Veneering is a woodworking technique that involves applying thin layers of wood (veneer) to a stable substrate, typically plywood."
-slug: "what-is-veneering"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What Is Veneering in Woodworking
+description: Veneering is a woodworking technique that involves applying thin layers of wood (veneer) to a stable substrate, typically plywood.
+slug: what-is-veneering
+content_type: redirect
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: redirect
+knowledge_basis: consolidated article alias
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "tambour doors"
-  - "wood as material"
-  - "furniture making"
-  - "woodworking education"
+- hammer veneering
+- veneering
+- hide glue
+- adhesives
+- wood as material
+- furniture making
+- traditional woodworking
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "adhesives"
-  - "reversible construction"
-  - "furniture construction"
+- veneer preparation
+- cabinetmaking
+- wood movement
+- reversible construction
+- furniture construction
+- moisture content
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+layout: redirect
+sitemap: false
+redirect_to: /veneering-in-woodworking.html
+consolidated_into: veneering-in-woodworking.md
+last_modified_at: '2026-11-25'
 ---
 # What Is Veneering in Woodworking
 
-Veneering is a woodworking technique that involves applying thin layers of wood (veneer) to a stable substrate, typically plywood.
-
-It is used not only for visual effect, but primarily to control material behavior and structural stability.
-
-## Veneering as a structural method
-
-In furniture making, veneering is a system.
-
-A veneered panel must be constructed as a balanced structure, where each layer is counteracted by a corresponding layer.
-
-Without this balance, internal stresses lead to deformation.
-
-More about veneering systems:
-[Veneering in woodworking](./veneering.md)
-
-## Why veneering is used
-
-Veneering allows for:
-
-- control over wood movement  
-- efficient use of material  
-- consistent surface quality  
-- integration of structure and design  
-
-More on why veneer is used:
-[Why do furniture makers use veneer](./why-do-furniture-makers-use-veneer.md)
-
-## Veneering and material behavior
-
-Wood reacts to humidity and temperature.
-
-Veneering makes it possible to control these changes by stabilizing the structure.
-
-Understanding wood behavior:
-[How moisture affects wood](./how-moisture-affects-wood.md)
-
-## Veneering in practice
-
-At Bensari Workshop, veneering is treated as a core technique in furniture making.
-
-It is used in:
-
-- panel construction  
-- tambour systems  
-- surface design  
-
-More about tambour:
-[Tambour in woodworking](./tambour.md)
-
-Practical introduction:
-https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/
-
-## Learning veneering
-
-Understanding veneering requires hands-on practice.
-
-Courses:
-- https://www.bensariworkshop.com/en/hammer-veneering/  
-- https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
-
-Educational approach:
-[Woodworking education](./woodworking-education.md)
-
-## Context and authorship
-
-Veneering is part of the broader cabinetmaking tradition, where material, structure and design are treated as a single system.
-
-More about this approach:
-https://www.bensariworkshop.com/en/from-french-ebenistes-to-contemporary-design-my-article-in-fine-woodworking/
-
-Author profile:
-https://www.finewoodworking.com/author/tom-bensari
-
-## Why veneering matters
-
-Veneering is not a surface technique.
-
-It is a method of working with material that allows for precision, stability and control.
-
-For this reason, it remains one of the fundamental techniques in furniture making.
+This article has been consolidated into [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md). The maintained article contains the explanation and related practical references.

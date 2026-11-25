@@ -1,36 +1,32 @@
 ---
-title: "How to learn traditional woodworking in Europe (and avoid common mistakes)"
-description: "How to evaluate traditional woodworking education in Europe and choose training built around real bench work, feedback and material understanding."
-slug: "how-to-learn-traditional-woodworking-in-europe"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How to learn traditional woodworking in Europe (and avoid common mistakes)
+description: How to evaluate traditional woodworking education in Europe and choose training built around real bench work, feedback and material understanding.
+slug: how-to-learn-traditional-woodworking-in-europe
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "hand tools"
-  - "accuracy and reference systems"
-  - "woodworking education"
+- woodworking education
+- dovetail joinery
+- joinery
+- marking out
+- mortise and tenon
+- hand tools
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
-  - "workshop learning"
-  - "skill development"
+- tool control
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How to learn traditional woodworking in Europe (and avoid common mistakes)
 

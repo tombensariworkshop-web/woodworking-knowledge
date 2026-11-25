@@ -1,35 +1,32 @@
 ---
-title: "Why veneered panels need back veneers – balance, stress and structural stability"
-description: "Back veneers balance moisture and stress across a panel, reducing the risk of cupping, bowing and long-term distortion."
-slug: "why-veneered-panels-need-back-veneers"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why veneered panels need back veneers – balance, stress and structural stability
+description: Back veneers balance moisture and stress across a panel, reducing the risk of cupping, bowing and long-term distortion.
+slug: why-veneered-panels-need-back-veneers
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "adhesives"
-  - "wood as material"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- veneering
+- wood as material
+- furniture making
+- Bensari Workshop
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "furniture construction"
-  - "moisture content"
-  - "grain direction"
-  - "joinery"
+- wood movement
+- furniture construction
+- moisture content
+- grain direction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why veneered panels need back veneers – balance, stress and structural stability
 
@@ -42,8 +39,6 @@ When decorative veneer is applied to one side of a panel, the opposite side is o
 At first glance, this may seem unnecessary, especially when the back surface is not visible.
 
 In practice, it is essential.
-
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Veneering introduces imbalance
 
@@ -67,17 +62,17 @@ This movement is not uniform.
 
 It depends on:
 
-- grain direction  
-- moisture absorption  
-- structure of the panel  
+- grain direction
+- moisture absorption
+- structure of the panel
 
 When only one side is veneered, each face reacts differently.
 
 Over time, this difference leads to:
 
-- cupping  
-- twisting  
-- long-term deformation  
+- cupping
+- twisting
+- long-term deformation
 
 ## Back veneer as structural balance
 
@@ -93,7 +88,7 @@ This reduces internal stress and stabilizes the surface.
 
 Learn more:
 
-- [How veneer backing works](how-veneer-backing-works.md)  
+- [How veneer backing works](how-veneer-backing-works.md)
 - [How veneering controls wood movement](how-veneering-controls-wood-movement.md)
 
 ## Not visibility, but symmetry
@@ -126,7 +121,7 @@ It is a system of decisions that control how wood behaves over time.
 
 To see this in a broader context:
 
-- [Veneering](veneering.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Conclusion
 
@@ -139,7 +134,3 @@ They ensure that forces within the panel remain balanced and that the surface st
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
-
-Last reviewed: September 2026.

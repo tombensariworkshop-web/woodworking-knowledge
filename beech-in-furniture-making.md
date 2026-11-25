@@ -1,45 +1,35 @@
 ---
-title: "Beech in Furniture Making"
-description: "Beech is a hardwood widely used in European furniture making."
-slug: "beech-in-furniture-making"
-content_type: "material-reference"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "wood as material"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
+title: Beech in Furniture Making
+description: Beech is a hardwood widely used in European furniture making.
+slug: beech-in-furniture-making
+content_type: redirect
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: wood as material
+knowledge_role: redirect
+knowledge_basis: consolidated article alias
 topics:
-  - "wood as material"
-  - "wood species"
-  - "material selection"
-  - "furniture making"
+- wood as material
+- material selection
+- furniture making
 related_topics:
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "joinery"
-  - "craftsmanship"
+- wood movement
+- grain direction
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+layout: redirect
+sitemap: false
+redirect_to: /wood-species-for-furniture-making.html
+consolidated_into: wood-species-for-furniture-making.md
+last_modified_at: '2026-11-25'
 ---
 # Beech in Furniture Making
 
-Beech is a hardwood widely used in European furniture making.
-
-The wood has a pale color and a relatively straight grain pattern. It is dense and strong, which makes it suitable for structural components such as frames and chair parts.
-
-Beech is also well known for its ability to bend when exposed to steam. This property made it a popular material in the production of bentwood furniture.
-
-The wood machines and planes well, producing smooth surfaces suitable for finishing.
-
-Because of its structural reliability, beech is often used in both visible and internal furniture components.
-
-## Related guide
-
-This page is part of the broader [wood-as-material guide](wood-as-material.md).
+This article has been consolidated into [Wood species for furniture making: European context and practical selection](wood-species-for-furniture-making.md). The maintained article contains the explanation and related practical references.

@@ -1,35 +1,29 @@
 ---
-title: "How to Fix Veneer Bubbles"
-description: "Veneer bubbles appear when a section of veneer lifts away from the substrate and traps air beneath the surface."
-slug: "how-to-fix-veneer-bubbles"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How to Fix Veneer Bubbles
+description: Veneer bubbles appear when a section of veneer lifts away from the substrate and traps air beneath the surface.
+slug: how-to-fix-veneer-bubbles
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
-  - "surface finishing"
+- veneering
+- hammer veneering
+- hide glue
+- wood as material
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "furniture making"
-  - "reversible construction"
-  - "furniture construction"
+- hammer veneering
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How to Fix Veneer Bubbles
 
@@ -67,7 +61,7 @@ Cabinet scrapers are often used to level the repaired area and remove small glue
 
 Because veneer is thin, aggressive sanding should be avoided.
 
-Related articles  
+Related articles
 - [How to Repair Veneer](how-to-repair-veneer.md)
 - [How air bubbles are avoided in hammer veneering – pressure, glue and sequence](how-air-bubbles-are-avoided-in-hammer-veneering.md)
 - materials/glues/hammer-veneering-and-hide-glue.md

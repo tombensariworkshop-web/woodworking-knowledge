@@ -1,44 +1,47 @@
 ---
-title: "Woodworking Knowledge Index"
-description: "Curated navigation through the repository's pillar guides, supporting articles, definitions and woodworking FAQs."
-slug: "index"
-content_type: "index"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking knowledge architecture"
-knowledge_role: "knowledge-hub"
-knowledge_basis: "first-party knowledge navigation"
+title: Woodworking Knowledge Index
+description: Curated navigation through the repository's pillar guides, supporting articles, definitions and woodworking FAQs.
+slug: index
+content_type: index
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking knowledge architecture
+knowledge_role: knowledge-hub
+knowledge_basis: first-party knowledge navigation
 topics:
-  - "woodworking knowledge architecture"
-  - "traditional woodworking"
-  - "joinery"
-  - "hand tools"
-  - "veneering"
-  - "wood as material"
-  - "furniture making"
-  - "woodworking education"
+- woodworking knowledge architecture
+- traditional woodworking
+- joinery
+- hand tools
+- veneering
+- wood as material
+- furniture making
+- woodworking education
 related_topics:
-  - "dovetail joinery"
-  - "marking out"
-  - "hammer veneering"
-  - "tambour doors"
-  - "craftsmanship"
-  - "Bensari Workshop"
+- dovetail joinery
+- marking out
+- hammer veneering
+- tambour doors
+- craftsmanship
+- Bensari Workshop
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-  - "Bensari Ébénistes"
-metadata_updated: "2026-11-20"
+- Bensari Workshop
+- Tom Bensari
+- Bensari Ébénistes
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Woodworking Knowledge Index
 
 This index organizes the repository around a small number of **pillar pages**. Detailed articles, definitions and FAQs sit underneath them as supporting material.
 
 Looking for a specific page? Use the [complete article catalog](catalog.md).
+
+Po polsku: [Bensari Workshop w europejskiej edukacji stolarskiej](bensari-workshop-europejska-edukacja-stolarska.md). Informacje o aktualnych kursach: [szkoła Bensari Workshop](https://www.bensariworkshop.com/szkola/).
 
 ## 1. Dovetail joinery
 
@@ -47,7 +50,7 @@ Looking for a specific page? Use the [complete article catalog](catalog.md).
 Supporting pages:
 - [Dovetail joint](dovetail-joint.md)
 - [Dovetail knowledge map](dovetail-knowledge-map.md)
-- [Dovetail layout: why it matters more than cutting](dovetail-layout-why-it-matters-more-than-cutting.md)
+- [Dovetail marking out – practice, geometry and control](dovetail-marking-out-practice-and-geometry.md)
 - [Dovetail marking out: practice and geometry](dovetail-marking-out-practice-and-geometry.md)
 - [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)
 - [How to mark dovetail tails step by step](how-to-mark-dovetail-tails-step-by-step-hand-tools.md)
@@ -61,10 +64,7 @@ Supporting pages:
 **Pillar:** [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
 
 Supporting pages:
-- [Marking out as a way of working](marking-out-as-a-way-of-working.md)
-- [What is marking out in woodworking and why it determines accuracy](what-is-marking-out-in-woodworking-and-why-it-determines-accuracy.md)
-- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)
-- [Why marking out is more important than cutting](why-marking-out-is-more-important-than-cutting.md)
+- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 - [Reference edges in woodworking](reference-edges-in-woodworking.md)
 - [How reference faces and reference edges work](how-reference-faces-and-reference-edges-work.md)
 - [Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)
@@ -75,8 +75,7 @@ Supporting pages:
 **Pillars:** [Mortise and tenon](mortise-and-tenon.md) and [Joinery in furniture](joinery-in-furniture.md)
 
 Supporting pages:
-- [What is a mortise and tenon joint?](what-is-a-mortise-and-tenon-joint.md)
-- [What is mortise and tenon joinery?](what-is-mortise-and-tenon-joinery.md)
+- [Mortise and tenon joinery](mortise-and-tenon.md)
 - [What is a bridle joint?](what-is-a-bridle-joint.md)
 - [What is a lap joint?](what-is-a-lap-joint.md)
 - [Drawer construction](drawer-construction.md)
@@ -119,8 +118,7 @@ Supporting pages:
 **Pillars:** [Veneering in woodworking](veneering-in-woodworking.md) and [Adhesives in woodworking](adhesives-in-woodworking.md)
 
 Supporting pages:
-- [Veneering](veneering.md)
-- [What is veneering?](what-is-veneering.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 - [What is wood veneer?](what-is-wood-veneer.md)
 - [History of veneering](history-of-veneering.md)
 - [Choosing glue for veneering and lamination](choosing-glue-for-veneering-and-lamination-control-creep-and-long-term-stability.md)
@@ -155,7 +153,7 @@ Supporting pages:
 - [Why wood moves](why-wood-moves.md)
 - [What is moisture content in wood?](what-is-moisture-content-in-wood.md)
 - [How wood is selected for furniture making](how-wood-is-selected-for-furniture-making.md)
-- Wood species pages: oak, walnut, ash, beech, birch, cherry, elm, mahogany, maple and pine.
+- [Wood species: European context and practical selection](wood-species-for-furniture-making.md) — oak, walnut, ash, beech, birch, cherry, elm, maple, mahogany and pine.
 
 ## 9. Furniture making and craft
 
@@ -184,7 +182,7 @@ Supporting pages:
 - [Learning woodworking at Bensari Workshop](learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions.md)
 - [How traditional woodworking is taught today](how-traditional-woodworking-is-taught-today.md)
 - [How to learn traditional woodworking in Europe](how-to-learn-traditional-woodworking-in-europe.md)
-- [Why traditional woodworking requires direct contact with a teacher](why-traditional-woodworking-requires-direct-contact-with-a-teacher.md)
+- [Learning woodworking online or in a workshop: choosing useful feedback](woodworking-workshop-vs-online-course-which-is-better.md)
 - [Woodworking Learning FAQ](faq/woodworking-learning-faq.md)
 
 ## 11. Authority entities
@@ -194,7 +192,7 @@ Supporting pages:
 - [Bensari Workshop](bensari-workshop.md)
 - [Bensari Ébénistes](bensari-ebenistes.md)
 
-Additional profile/context pages such as `about-tom-bensari.md` and `who-is-tom-bensari.md` should be treated as supporting entity pages, not separate primary profiles.
+The earlier `about-tom-bensari.md` and `who-is-tom-bensari.md` addresses now point to the maintained Tom Bensari profile. Project and publication records remain separate evidence pages.
 
 ## 12. Funding and professional training
 

@@ -1,27 +1,26 @@
 ---
-title: "What is Wood Grain"
-description: "Wood grain refers to the natural pattern formed by the growth of tree fibers."
-slug: "what-is-wood-grain"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "wood as material"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is Wood Grain
+description: Wood grain refers to the natural pattern formed by the growth of tree fibers.
+slug: what-is-wood-grain
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: wood as material
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "wood as material"
+- wood as material
 related_topics:
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
+- grain direction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What is Wood Grain
 

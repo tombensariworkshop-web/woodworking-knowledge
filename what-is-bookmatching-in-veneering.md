@@ -1,30 +1,27 @@
 ---
-title: "What is Bookmatching in Veneering"
-description: "Bookmatching is a veneering technique in which two consecutive sheets of veneer are opened like the pages of a book and placed side by side."
-slug: "what-is-bookmatching-in-veneering"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is Bookmatching in Veneering
+description: Bookmatching is a veneering technique in which two consecutive sheets of veneer are opened like the pages of a book and placed side by side.
+slug: what-is-bookmatching-in-veneering
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "furniture making"
+- veneering
+- furniture making
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # What is Bookmatching in Veneering
 
@@ -43,3 +40,9 @@ Bookmatched veneers are commonly seen on tabletops, cabinet fronts and decorativ
 ## Related guide
 
 This page is part of the broader [veneering guide](veneering-in-woodworking.md).
+
+## Check the match before gluing
+
+Lay out the consecutive leaves in their intended orientation and inspect the seam and figure together. Turning over alternate leaves can change how the surface reflects light, so a mirrored pattern does not guarantee an identical appearance from every viewing angle. Compare a slip match where visual consistency matters more than mirror symmetry.
+
+See [slip matching](what-is-slip-matching-in-veneering.md) and [aligning veneer seams](how-veneer-seams-are-aligned.md). Matching establishes the surface design; the substrate, adhesive and [balanced panel construction](how-balanced-veneering-prevents-panel-warping.md) still determine how the assembly behaves.

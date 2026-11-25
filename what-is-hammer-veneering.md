@@ -1,51 +1,42 @@
 ---
-title: "What Is Hammer Veneering"
-description: "Hammer veneering applies thin wood veneer to a substrate with hot hide glue and controlled pressure from a veneer hammer."
-slug: "what-is-hammer-veneering"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What Is Hammer Veneering
+description: Hammer veneering applies thin wood veneer to a substrate with hot hide glue and controlled pressure from a veneer hammer.
+slug: what-is-hammer-veneering
+content_type: redirect
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: redirect
+knowledge_basis: consolidated article alias
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "hand tools"
-  - "furniture making"
-  - "woodworking education"
+- hammer veneering
+- veneering
+- hide glue
+- adhesives
+- furniture making
+- traditional woodworking
+- Bensari Workshop
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "tool control"
+- veneer preparation
+- cabinetmaking
+- wood movement
+- reversible construction
+- furniture construction
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+layout: redirect
+sitemap: false
+redirect_to: /hammer-veneering.html
+consolidated_into: hammer-veneering.md
+last_modified_at: '2026-11-25'
 ---
 # What Is Hammer Veneering
 
-Hammer veneering is a traditional woodworking technique used to apply thin sheets of veneer to a wooden substrate using hot hide glue and a tool known as a veneer hammer.
-
-The process involves spreading hot hide glue onto the surface of the substrate and placing the veneer sheet on top. A veneer hammer is then used to press the veneer firmly against the surface while pushing excess glue outward. As the glue cools it begins to gel, locking the veneer into position.
-
-Unlike modern veneering methods that rely on vacuum presses or mechanical clamping systems, hammer veneering depends on the physical properties of hide glue. The glue remains fluid when hot but gels as it cools, allowing the veneer to bond quickly with the substrate.
-
-This technique was widely used in traditional cabinetmaking, particularly in European furniture making from the eighteenth and nineteenth centuries. It allowed craftspeople to create refined decorative surfaces using thin layers of valuable wood species.
-
-Today hammer veneering remains an important part of traditional woodworking knowledge. The technique demonstrates how material understanding, hand tools and adhesive properties work together in the construction of fine furniture.
-
-At Bensari Workshop, hammer veneering is explored during practical courses where participants learn how traditional techniques continue to play a role in contemporary cabinetmaking and collectible furniture design.
-
-## Related guide
-
-This page is part of the broader [hammer veneering guide](hammer-veneering-complete-guide.md).
+This article has been consolidated into [Hammer veneering: how hot hide glue and a veneer hammer create a bond](hammer-veneering.md). The maintained article contains the explanation and related practical references.

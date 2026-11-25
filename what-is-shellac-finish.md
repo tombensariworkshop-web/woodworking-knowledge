@@ -1,30 +1,27 @@
 ---
-title: "What is Shellac Finish"
-description: "Shellac is a traditional wood finish made from natural resin secreted by the lac insect."
-slug: "what-is-shellac-finish"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "surface finishing"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is Shellac Finish
+description: Shellac is a traditional wood finish made from natural resin secreted by the lac insect.
+slug: what-is-shellac-finish
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: surface finishing
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "furniture making"
-  - "surface finishing"
+- surface finishing
+- furniture making
 related_topics:
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
-  - "hand planes"
-  - "scraping"
+- hand tools
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What is Shellac Finish
 

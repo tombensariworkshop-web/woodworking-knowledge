@@ -1,43 +1,35 @@
 ---
-title: "When to use urea formaldehyde in woodworking – rigidity, stability and structural performance"
-description: "Urea formaldehyde adhesives are used when rigidity and long-term stability are required."
-slug: "when-to-use-urea-formaldehyde-in-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "adhesives"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: When to use urea formaldehyde in woodworking – rigidity, stability and structural performance
+description: Urea formaldehyde adhesives are used when rigidity and long-term stability are required.
+slug: when-to-use-urea-formaldehyde-in-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: adhesives
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- adhesives
+- hide glue
 related_topics:
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
+- hide glue
+- wood movement
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # When to use urea formaldehyde in woodworking – rigidity, stability and structural performance
 
 Urea formaldehyde adhesives are used when rigidity and long-term stability are required.
 
 They create a hard, inflexible glue line that performs differently from both PVA adhesives and hide glue.
-
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Why rigidity matters
 
@@ -47,9 +39,9 @@ Movement must be minimized.
 
 This is especially true in:
 
-- laminated structural elements  
-- large panels under stress  
-- components that must retain precise geometry  
+- laminated structural elements
+- large panels under stress
+- components that must retain precise geometry
 
 In these cases, a rigid glue line provides stability.
 
@@ -57,9 +49,9 @@ In these cases, a rigid glue line provides stability.
 
 Urea formaldehyde adhesives:
 
-- cure to a hard, brittle state  
-- resist long-term deformation  
-- maintain alignment under load  
+- cure to a hard, brittle state
+- resist long-term deformation
+- maintain alignment under load
 
 This makes them suitable for applications where cold creep would be unacceptable.
 
@@ -67,9 +59,9 @@ This makes them suitable for applications where cold creep would be unacceptable
 
 Compared to other systems:
 
-- PVA → flexible, can creep  
-- hide glue → rigid, but process-dependent  
-- urea formaldehyde → rigid and stable over time  
+- PVA → flexible, can creep
+- hide glue → rigid, but process-dependent
+- urea formaldehyde → rigid and stable over time
 
 Each system defines a different type of behavior.
 
@@ -77,9 +69,9 @@ Each system defines a different type of behavior.
 
 In my own work, I use urea formaldehyde for:
 
-- structural laminations  
-- elements exposed to long-term stress  
-- components that are not mechanically constrained  
+- structural laminations
+- elements exposed to long-term stress
+- components that are not mechanically constrained
 
 Where movement cannot be controlled by design, it must be controlled by the adhesive.
 
@@ -89,13 +81,13 @@ Adhesive choice is part of the structure.
 
 It defines:
 
-- how the material behaves  
-- how the object ages  
-- how stable it remains over time  
+- how the material behaves
+- how the object ages
+- how stable it remains over time
 
 To understand adhesive behavior:
 
-- [Why PVA glues behave differently than hide glue](why-pva-glues-behave-differently-than-hide-glue.md)  
+- [Why PVA glues behave differently than hide glue](why-pva-glues-behave-differently-than-hide-glue.md)
 - [What is cold creep in woodworking](what-is-cold-creep-in-woodworking.md)
 
 ## Conclusion
@@ -105,7 +97,3 @@ Urea formaldehyde is not a general-purpose adhesive.
 It is a structural choice.
 
 It is used when stability cannot be compromised.
-
-## Context
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

@@ -1,36 +1,34 @@
 ---
-title: "Hammer veneering: how hot hide glue and a veneer hammer create a bond"
-description: "Hammer veneering bonds veneer with hot hide glue while a veneer hammer moves excess glue and air from beneath the surface."
-slug: "hammer-veneering"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: 'Hammer veneering: how hot hide glue and a veneer hammer create a bond'
+description: Hammer veneering bonds veneer with hot hide glue while a veneer hammer moves excess glue and air from beneath the surface.
+slug: hammer-veneering
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- hammer veneering
+- veneering
+- hide glue
+- furniture making
+- Bensari Workshop
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- hide glue
+- veneering
+- cabinetmaking
+- wood movement
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-10-12"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Hammer veneering: how hot hide glue and a veneer hammer create a bond
 
@@ -79,4 +77,4 @@ The current workshop format and booking information are maintained on the [Bensa
 - [How glue is forced out during hammer veneering](how-glue-is-forced-out-during-hammer-veneering.md)
 - [How pressure is controlled in hammer veneering](how-pressure-is-controlled-in-hammer-veneering.md)
 - [How veneers are prepared before hammer veneering](how-veneers-are-prepared-before-hammer-veneering.md)
-- [Veneering knowledge hub](veneering.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)

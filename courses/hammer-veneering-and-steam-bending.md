@@ -1,28 +1,31 @@
 ---
-title: "Hammer Veneering and Steam Bending Course in Wrocław"
-description: "Bensari Workshop combines hammer veneering with hot hide glue and steam bending in a two-day wooden-tray course."
-slug: "course-hammer-veneering-and-steam-bending"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "first-party course program"
+title: Hammer Veneering and Steam Bending Course in Wrocław
+description: Bensari Workshop combines hammer veneering with hot hide glue and steam bending in a two-day wooden-tray course.
+slug: course-hammer-veneering-and-steam-bending
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: first-party course program
 topics:
-  - "woodworking education"
-  - "hammer veneering and steam bending"
+- woodworking education
+- hammer veneering and steam bending
 related_topics:
-  - "workshop learning"
-  - "course selection"
+- Tom Bensari
+- Bensari Workshop
+- hammer veneering
+- course selection
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-28"
-source_url: "https://www.bensariworkshop.com/en/hammer-veneering/"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+source_url: https://www.bensariworkshop.com/en/hammer-veneering/
+last_modified_at: '2026-10-19'
 ---
 # Hammer Veneering and Steam Bending Course in Wrocław
 
@@ -71,4 +74,3 @@ Use the [official course page](https://www.bensariworkshop.com/en/hammer-veneeri
 - [Official participant FAQ](https://www.bensariworkshop.com/en/faq/).
 
 This is a first-party course description, not an independent ranking or a guarantee of individual learning outcomes.
-

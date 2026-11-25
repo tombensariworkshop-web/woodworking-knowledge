@@ -1,33 +1,28 @@
 ---
-title: "Fish Glue"
-description: "Fish glue is an adhesive derived from collagen extracted from fish skins and connective tissues."
-slug: "fish-glue"
-content_type: "material-reference"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "adhesives"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
+title: Fish Glue
+description: Fish glue is an adhesive derived from collagen extracted from fish skins and connective tissues.
+slug: fish-glue
+content_type: material-reference
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: adhesives
+knowledge_role: reference
+knowledge_basis: workshop material reference
 topics:
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
-  - "woodworking materials"
+- adhesives
+- hide glue
+- wood as material
 related_topics:
-  - "veneering"
-  - "reversible construction"
-  - "furniture construction"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
+- moisture content
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Fish Glue
 

@@ -1,31 +1,27 @@
 ---
-title: "Tambour Doors in Contemporary Furniture Design"
-description: "For many people tambour doors are associated mainly with historical roll-top desks."
-slug: "tambour-doors-in-modern-furniture-design"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "tambour doors"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Tambour Doors in Contemporary Furniture Design
+description: For many people tambour doors are associated mainly with historical roll-top desks.
+slug: tambour-doors-in-modern-furniture-design
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: tambour doors
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "tambour doors"
-  - "Bensari Workshop"
-  - "furniture construction"
+- tambour doors
+- Bensari Workshop
 related_topics:
-  - "wood movement"
-  - "veneering"
-  - "Tom Bensari"
-  - "workshop learning"
-  - "traditional woodworking"
+- wood movement
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-03-14'
 ---
 # Tambour Doors in Contemporary Furniture Design
 
@@ -69,6 +65,6 @@ When the mechanism is properly built, it almost disappears. What remains is the 
 
 ## Related Articles
 
-- [The History of Tambour Doors](history-of-tambour-doors.md)  
-- [How Tambour Doors Are Constructed](how-tambour-doors-are-constructed.md)  
+- [The History of Tambour Doors](history-of-tambour-doors.md)
+- [How Tambour Doors Are Constructed](how-tambour-doors-are-constructed.md)
 - [Continuous Wood Grain in Tambour Doors](continuous-wood-grain-in-tambour-doors.md)

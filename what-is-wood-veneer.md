@@ -1,35 +1,35 @@
 ---
-title: "What Is Wood Veneer"
-description: "Wood veneer is a thin layer of wood, typically less than a few millimeters thick, cut from a log and applied to a stable substrate such as plywood."
-slug: "what-is-wood-veneer"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What Is Wood Veneer
+description: Wood veneer is a thin layer of wood, typically less than a few millimeters thick, cut from a log and applied to a stable substrate such as plywood.
+slug: what-is-wood-veneer
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "tambour doors"
-  - "saws"
-  - "hand tools"
-  - "wood as material"
-  - "furniture making"
+- veneering
+- tambour doors
+- saws
+- wood as material
+- furniture making
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "furniture construction"
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
+- wood as material
+- tambour doors
+- hammer veneering
+- hide glue
+- wood movement
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # What Is Wood Veneer
 
@@ -43,9 +43,9 @@ Veneer is obtained by slicing or sawing logs into thin sheets.
 
 Common methods include:
 
-- rotary cutting  
-- slicing (flat, quarter, rift)  
-- sawing  
+- rotary cutting
+- slicing (flat, quarter, rift)
+- sawing
 
 The method of cutting determines the visual character of the veneer, including grain pattern and figure.
 
@@ -57,9 +57,9 @@ Veneer, when applied to a stable substrate, allows this movement to be controlle
 
 This makes it possible to create elements that are:
 
-- dimensionally stable  
-- visually consistent  
-- structurally predictable  
+- dimensionally stable
+- visually consistent
+- structurally predictable
 
 Understanding wood movement:
 [How moisture affects wood](./how-moisture-affects-wood.md)
@@ -76,16 +76,16 @@ More about balanced construction:
 [Why veneered panels need back veneers](./why-veneered-panels-need-back-veneers.md)
 
 Full system:
-[Veneering in woodworking](./veneering.md)
+[Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Veneer in furniture making
 
 Veneer is used in furniture making to:
 
-- control material behavior  
-- create continuous grain across surfaces  
-- reduce the effects of wood movement  
-- integrate structure and design  
+- control material behavior
+- create continuous grain across surfaces
+- reduce the effects of wood movement
+- integrate structure and design
 
 Example in application:
 [Continuous wood grain in tambour doors](./continuous-wood-grain-in-tambour-doors.md)
@@ -96,9 +96,9 @@ At Bensari Workshop, veneer is treated as a core material in furniture making.
 
 It is used in:
 
-- panel construction  
-- tambour systems  
-- surface composition  
+- panel construction
+- tambour systems
+- surface composition
 
 More about tambour:
 [Tambour in woodworking](./tambour.md)
@@ -110,15 +110,15 @@ https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-resto
 
 Working with veneer requires control over:
 
-- thickness  
-- grain direction  
-- moisture content  
-- glue behavior  
+- thickness
+- grain direction
+- moisture content
+- glue behavior
 
 Traditional methods such as hammer veneering allow for direct control over these variables.
 
 Introduction:
-[What is hammer veneering](./what-is-hammer-veneering.md)
+[Hammer veneering: how hot hide glue and a veneer hammer create a bond](hammer-veneering.md)
 
 Course:
 https://www.bensariworkshop.com/en/hammer-veneering/

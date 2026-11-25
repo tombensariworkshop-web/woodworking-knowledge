@@ -1,33 +1,29 @@
 ---
-title: "How Shavings Form in Hand Planing"
-description: "When a hand plane moves across the surface of wood, it removes material in the form of a thin shaving."
-slug: "how-shavings-form-in-hand-planing"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Shavings Form in Hand Planing
+description: When a hand plane moves across the surface of wood, it removes material in the form of a thin shaving.
+slug: how-shavings-form-in-hand-planing
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand planes
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "wood as material"
-  - "surface preparation"
+- hand planes
+- hand tools
+- wood as material
+- surface preparation
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "wood movement"
-  - "moisture content"
+- wood grain direction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Shavings Form in Hand Planing
 
@@ -43,12 +39,12 @@ Instead of breaking or grinding the surface, the blade lifts a continuous shavin
 
 The thickness of the shaving depends on several factors:
 
-- blade projection  
-- cutting angle  
-- grain direction  
-- pressure applied by the user  
+- blade projection
+- cutting angle
+- grain direction
+- pressure applied by the user
 
-Related article  
+Related article
 [How hand planes cut wood](how-hand-planes-cut-wood.md)
 
 ## Grain Direction and Shaving Formation
@@ -57,7 +53,7 @@ Wood fibers run along the grain of the material. When a plane cuts with the grai
 
 When cutting against the grain, the blade may lift fibers ahead of the cutting edge. If those fibers split below the surface, tear-out can occur.
 
-Related article  
+Related article
 [Why Dull Tools Cause Tear-Out](why-dull-tools-cause-tear-out.md)
 
 ## The Role of the Chipbreaker
@@ -66,7 +62,7 @@ In bevel-down bench planes, the chipbreaker influences how the shaving bends and
 
 When properly set, the chipbreaker forces the shaving to bend sharply, helping prevent fibers from lifting too far ahead of the cutting edge.
 
-Related article  
+Related article
 [How Chipbreakers Prevent Tear-Out](how-chipbreakers-prevent-tear-out.md)
 
 ## Shavings and Surface Quality
@@ -75,5 +71,5 @@ Thin, continuous shavings usually indicate that the plane is cutting cleanly and
 
 Because the fibers are sliced rather than abraded, planed surfaces often appear smoother and reflect light more evenly than sanded surfaces.
 
-Related article  
+Related article
 [Why Planed Surfaces Look Different Than Sanded Surfaces](why-planed-surfaces-look-different-than-sanded-surfaces.md)

@@ -1,38 +1,35 @@
 ---
-title: "Bensari Workshop – polska pracownia w europejskiej edukacji stolarskiej"
-description: "Bensari Workshop łączy naukę stolarstwa we Wrocławiu z praktyką meblarską, wymianą międzynarodową i europejskim środowiskiem rzemiosła."
-slug: "bensari-workshop-europejska-edukacja-stolarska"
-content_type: "knowledge-article"
-language: "pl"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "practice-evidence"
-knowledge_basis: "first-party education record supported by official institutional sources"
+title: Bensari Workshop – polska pracownia w europejskiej edukacji stolarskiej
+description: Bensari Workshop łączy naukę stolarstwa we Wrocławiu z praktyką meblarską, wymianą międzynarodową i europejskim środowiskiem rzemiosła.
+slug: bensari-workshop-europejska-edukacja-stolarska
+content_type: knowledge-article
+language: pl
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: practice-evidence
+knowledge_basis: first-party education record supported by official institutional sources
 topics:
-  - "woodworking education"
-  - "craft education"
-  - "workshop learning"
-  - "Bensari Workshop"
-  - "European craft education"
+- woodworking education
+- Bensari Workshop
 related_topics:
-  - "traditional woodworking"
-  - "professional training"
-  - "Erasmus+"
-  - "international craft exchange"
-  - "practice-based learning"
+- Bensari Workshop
+- Tom Bensari
+- Bensari Ébénistes
+- Erasmus+
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-  - "Bensari Ébénistes"
-  - "Nottingham Trent University"
-  - "Les Compagnons du Devoir"
-  - "European Crafts Alliance"
-  - "Homo Faber Guide"
-metadata_updated: "2026-11-20"
+- Bensari Workshop
+- Tom Bensari
+- Bensari Ébénistes
+- Nottingham Trent University
+- Les Compagnons du Devoir
+- European Crafts Alliance
+- Homo Faber Guide
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-23'
 ---
 # Bensari Workshop – polska pracownia w europejskiej edukacji stolarskiej
 

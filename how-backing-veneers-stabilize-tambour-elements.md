@@ -1,35 +1,30 @@
 ---
-title: "How backing veneers stabilize tambour elements – balance, flexibility and controlled movement"
-description: "Tambour doors are built from a series of narrow slats that form a flexible surface."
-slug: "how-backing-veneers-stabilize-tambour-elements"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "tambour doors"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How backing veneers stabilize tambour elements – balance, flexibility and controlled movement
+description: Tambour doors are built from a series of narrow slats that form a flexible surface.
+slug: how-backing-veneers-stabilize-tambour-elements
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: tambour doors
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "tambour doors"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-  - "furniture construction"
+- tambour doors
+- veneering
+- Bensari Workshop
+- furniture construction
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
-  - "hand tools"
+- veneering
+- wood movement
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How backing veneers stabilize tambour elements – balance, flexibility and controlled movement
 
@@ -39,8 +34,6 @@ These elements move along curved tracks, which means they must remain dimensiona
 
 This combination creates a specific challenge.
 
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
-
 ## Flexibility requires stability
 
 Tambour slats are thin.
@@ -49,9 +42,9 @@ Because of this, they react quickly to changes in humidity.
 
 Even small variations can lead to:
 
-- twisting  
-- cupping  
-- loss of alignment  
+- twisting
+- cupping
+- loss of alignment
 
 In a static panel, this is a problem.
 
@@ -63,9 +56,9 @@ Tambour doors rely on smooth, continuous movement.
 
 Each slat must:
 
-- maintain its shape  
-- follow the track precisely  
-- interact correctly with adjacent elements  
+- maintain its shape
+- follow the track precisely
+- interact correctly with adjacent elements
 
 If a single slat deforms, it affects the entire system.
 
@@ -100,9 +93,9 @@ In tambour slats, everything is amplified.
 
 Because the material is thin:
 
-- reactions are faster  
-- deformation is more visible  
-- tolerances are smaller  
+- reactions are faster
+- deformation is more visible
+- tolerances are smaller
 
 Balanced construction becomes essential.
 
@@ -112,8 +105,8 @@ In tambour construction, veneer is not only a surface layer.
 
 It defines both:
 
-- how the element looks  
-- how it behaves  
+- how the element looks
+- how it behaves
 
 Backing veneer is part of this system.
 
@@ -127,9 +120,9 @@ Slats are designed as balanced structures, where both sides contribute to stabil
 
 This allows:
 
-- smooth movement in curved tracks  
-- consistent geometry  
-- controlled long-term behavior  
+- smooth movement in curved tracks
+- consistent geometry
+- controlled long-term behavior
 
 ## Veneering as system logic
 
@@ -141,8 +134,8 @@ It is a method of controlling material behavior, especially in elements where pr
 
 To understand this more broadly:
 
-- [Why veneered surfaces are stable](why-veneered-surfaces-are-stable.md)  
-- [Veneering](veneering.md)
+- [Why veneered surfaces are stable](why-veneered-surfaces-are-stable.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Conclusion
 
@@ -155,5 +148,3 @@ With it, the system remains controlled.
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

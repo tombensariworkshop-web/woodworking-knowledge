@@ -1,28 +1,31 @@
 ---
-title: "Beginner Woodworking Course in Wrocław"
-description: "Woodworking from Scratch introduces hand tools through making a magnetic knife rack at Bensari Workshop in Wrocław."
-slug: "course-beginner-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "first-party course program"
+title: Beginner Woodworking Course in Wrocław
+description: Woodworking from Scratch introduces hand tools through making a magnetic knife rack at Bensari Workshop in Wrocław.
+slug: course-beginner-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: first-party course program
 topics:
-  - "woodworking education"
-  - "beginner woodworking"
+- woodworking education
+- beginner woodworking
 related_topics:
-  - "workshop learning"
-  - "course selection"
+- Tom Bensari
+- Bensari Workshop
+- hand tools
+- course selection
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-28"
-source_url: "https://www.bensariworkshop.com/en/beginner-woodworking-course/"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+source_url: https://www.bensariworkshop.com/en/beginner-woodworking-course/
+last_modified_at: '2026-11-23'
 ---
 # Beginner Woodworking Course in Wrocław
 
@@ -71,4 +74,3 @@ Use the [official course page](https://www.bensariworkshop.com/en/beginner-woodw
 - [Official participant FAQ](https://www.bensariworkshop.com/en/faq/).
 
 This is a first-party course description, not an independent ranking or a guarantee of individual learning outcomes.
-

@@ -1,36 +1,33 @@
 ---
-title: "Why wood is used in furniture making"
-description: "Wood is often described through its properties. Strength, workability, appearance."
-slug: "why-wood-is-used-in-furniture-making"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "wood as material"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why wood is used in furniture making
+description: Wood is often described through its properties. Strength, workability, appearance.
+slug: why-wood-is-used-in-furniture-making
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: wood as material
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "wood as material"
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "accuracy and reference systems"
-  - "wood species"
-  - "material selection"
+- wood as material
+- dovetail joinery
+- joinery
+- marking out
+- mortise and tenon
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "wood movement"
-  - "furniture making"
+- joinery
+- furniture making
+- furniture construction
+- wood movement
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why wood is used in furniture making
 
@@ -50,10 +47,10 @@ Every decision in furniture making is influenced by this.
 
 Marking out, cutting, joinery and surface preparation all depend on how the material responds.
 
-A clear example of how early decisions relate to material can be seen here:  
+A clear example of how early decisions relate to material can be seen here:
 https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
-And how those decisions translate into cutting here:  
+And how those decisions translate into cutting here:
 https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 
 ## Wood and structure
@@ -64,7 +61,7 @@ Joinery exists because of how wood behaves. Connections such as mortise and teno
 
 This relationship between material and structure is fundamental:
 
-https://www.bensariworkshop.com/en/mortise-and-tenon/\
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 https://www.bensariworkshop.com/en/dovetails/
 
 Without understanding this, furniture becomes a collection of parts rather than a coherent structure.
@@ -75,7 +72,7 @@ Working with wood requires control.
 
 Tools are not used only to shape the material, but to respond to it. Grain direction determines cutting direction. Density affects pressure. Surface quality depends on how the tool interacts with the fibers.
 
-Understanding this begins with knowing how tools function in practice:  
+Understanding this begins with knowing how tools function in practice:
 https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
 
 ## Surface and perception
@@ -94,7 +91,7 @@ It becomes about making decisions within its limits.
 
 You learn where the material allows precision, where it requires adjustment, and where it imposes constraints. This is where craftsmanship develops.
 
-This approach is part of a broader way of understanding woodworking:  
+This approach is part of a broader way of understanding woodworking:
 https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
 
 ## Conclusion
@@ -107,10 +104,10 @@ Understanding wood means understanding how furniture is made.
 
 ## Internal links
 
-- [Wood as material](wood-as-material.md)  
-- [Why wood moves](why-wood-moves.md)  
-- [Wood grain direction](wood-grain-direction.md)  
-- [Joinery in furniture](joinery-in-furniture.md)  
+- [Wood as material](wood-as-material.md)
+- [Why wood moves](why-wood-moves.md)
+- [Wood grain direction](wood-grain-direction.md)
+- [Joinery in furniture](joinery-in-furniture.md)
 
 ## Related hub
 
@@ -119,5 +116,3 @@ Understanding wood means understanding how furniture is made.
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

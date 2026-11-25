@@ -1,44 +1,37 @@
 ---
-title: "Dovetail marking out – practice, geometry and control"
-description: "When people struggle with dovetails, they usually look at the saw."
-slug: "dovetail-marking-out-practice-and-geometry"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Dovetail marking out – practice, geometry and control
+description: When people struggle with dovetails, they usually look at the saw.
+slug: dovetail-marking-out-practice-and-geometry
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "saws"
-  - "hand tools"
-  - "accuracy and reference systems"
-  - "furniture making"
+- dovetail joinery
+- joinery
+- marking out
+- saws
+- hand tools
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
-  - "material selection"
-  - "craftsmanship"
+- marking out
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Dovetail marking out – practice, geometry and control
 
 When people struggle with dovetails, they usually look at the saw.
 
 In my experience, that is the wrong place to start.
-
-This article is part of a structured knowledge base on traditional woodworking, joinery, and furniture making developed through daily workshop practice at Bensari Workshop.
 
 The real problems appear earlier, at the moment when the geometry of the joint is defined through marking out.
 
@@ -147,9 +140,8 @@ Everything that follows is execution.
 
 ## Internal links
 
-- [What is marking out in woodworking and why it determines accuracy](what-is-marking-out-in-woodworking-and-why-it-determines-accuracy.md)  
-- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)  
-- [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)  
+- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
+- [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)
 
 ## Related hub
 
@@ -158,5 +150,3 @@ Everything that follows is execution.
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

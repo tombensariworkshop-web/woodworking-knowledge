@@ -1,47 +1,40 @@
 ---
-title: "What is a Mortise and Tenon Joint"
-description: "The mortise and tenon joint is one of the oldest and most widely used joints in woodworking."
-slug: "what-is-a-mortise-and-tenon-joint"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "mortise and tenon"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is a Mortise and Tenon Joint
+description: The mortise and tenon joint is one of the oldest and most widely used joints in woodworking.
+slug: what-is-a-mortise-and-tenon-joint
+content_type: redirect
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: mortise and tenon
+knowledge_role: redirect
+knowledge_basis: consolidated article alias
 topics:
-  - "mortise and tenon"
-  - "joinery"
-  - "adhesives"
-  - "furniture making"
-  - "furniture construction"
+- dovetail joinery
+- joinery
+- marking out
+- mortise and tenon
+- chisels
+- hand tools
+- accuracy and reference systems
 related_topics:
-  - "marking out"
-  - "hand tools"
-  - "accuracy and reference systems"
-  - "hide glue"
-  - "veneering"
-  - "material selection"
+- drawer construction
+- furniture construction
+- tool control
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+layout: redirect
+sitemap: false
+redirect_to: /mortise-and-tenon.html
+consolidated_into: mortise-and-tenon.md
+last_modified_at: '2026-11-25'
 ---
 # What is a Mortise and Tenon Joint
 
-The mortise and tenon joint is one of the oldest and most widely used joints in woodworking.
-
-The joint consists of a projecting element called a tenon that fits into a corresponding cavity called a mortise. When properly fitted, the joint creates a strong and stable connection between two wooden components.
-
-Mortise and tenon joints are commonly used in frame constructions such as tables, chairs and doors. They provide excellent resistance to both compression and lateral forces.
-
-Traditional furniture makers often secure the joint with glue or wooden pins, creating a durable connection that can last for generations.
-
-Because of its structural reliability and simplicity, the mortise and tenon joint remains a fundamental technique in cabinetmaking and furniture design.
-
-## Related guide
-
-This page is part of the broader [mortise-and-tenon guide](mortise-and-tenon.md).
+This article has been consolidated into [Mortise and tenon joinery](mortise-and-tenon.md). The maintained article contains the explanation and related practical references.

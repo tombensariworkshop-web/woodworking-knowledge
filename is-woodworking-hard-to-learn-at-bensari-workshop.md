@@ -1,30 +1,28 @@
 ---
-title: "Is Woodworking Hard to Learn at Bensari Workshop"
-description: "Many people hesitate before starting woodworking because they assume it is difficult."
-slug: "is-woodworking-hard-to-learn-at-bensari-workshop"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Is Woodworking Hard to Learn at Bensari Workshop
+description: Many people hesitate before starting woodworking because they assume it is difficult.
+slug: is-woodworking-hard-to-learn-at-bensari-workshop
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "woodworking education"
-  - "workshop learning"
-  - "Bensari Workshop"
+- woodworking education
+- Bensari Workshop
 related_topics:
-  - "hand tools"
-  - "skill development"
-  - "Tom Bensari"
-  - "traditional woodworking"
+- hand tools
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Is Woodworking Hard to Learn at Bensari Workshop
 
@@ -38,9 +36,9 @@ But not in the way most people expect.
 
 At the beginning, woodworking can feel challenging because it requires:
 
-- working with unfamiliar tools  
-- controlling movements with precision  
-- understanding a material that does not behave uniformly  
+- working with unfamiliar tools
+- controlling movements with precision
+- understanding a material that does not behave uniformly
 
 Unlike many activities, wood does not respond the same way every time. This can create uncertainty in the first stages of learning.
 
@@ -50,9 +48,9 @@ The real difficulty in woodworking is not strength or complexity.
 
 It is:
 
-- maintaining attention  
-- working step by step  
-- accepting that precision takes time  
+- maintaining attention
+- working step by step
+- accepting that precision takes time
 
 These are not obstacles. They are part of the process.
 
@@ -62,9 +60,9 @@ With practice, the same actions begin to feel more natural.
 
 Participants start to notice:
 
-- how tools respond in the hand  
-- how wood behaves under the cut  
-- how small adjustments improve results  
+- how tools respond in the hand
+- how wood behaves under the cut
+- how small adjustments improve results
 
 What initially feels difficult becomes predictable.
 
@@ -81,9 +79,9 @@ This changes the perception of difficulty.
 
 Instead of trying to master everything at once, participants focus on:
 
-- one step at a time  
-- one tool at a time  
-- one operation at a time  
+- one step at a time
+- one tool at a time
+- one operation at a time
 
 More about the experience:
 [What happens during a woodworking course at Bensari Workshop](./what-happens-during-a-woodworking-course-at-bensari-workshop.md)
@@ -94,9 +92,9 @@ Woodworking does not require previous experience.
 
 What matters more is the approach:
 
-- willingness to learn  
-- patience  
-- consistency  
+- willingness to learn
+- patience
+- consistency
 
 More about required skills:
 [What skills are required to learn woodworking at Bensari Workshop](./what-skills-are-required-to-learn-woodworking-at-bensari-workshop.md)
@@ -112,12 +110,12 @@ At the beginning, tools may feel unfamiliar or difficult to control.
 
 With guidance, participants learn:
 
-- how to hold tools correctly  
-- how to guide them with precision  
-- how to adjust them for better performance  
+- how to hold tools correctly
+- how to guide them with precision
+- how to adjust them for better performance
 
 More about tools:
-[What tools are used in traditional woodworking](./what-tools-are-used-in-traditional-woodworking.md)
+[Basic woodworking hand tools: functions, setup and a starting kit](basic-woodworking-hand-tools.md)
 
 ## A different perspective
 
@@ -131,12 +129,12 @@ Difficulty decreases as understanding increases.
 
 ## Courses at Bensari Workshop
 
-https://www.bensariworkshop.com/en/beginner-woodworking-course/\
-https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/  
-https://www.bensariworkshop.com/en/dovetails/  
-https://www.bensariworkshop.com/en/mortise-and-tenon/\
-https://www.bensariworkshop.com/en/hand-plane-techniques/  
-https://www.bensariworkshop.com/en/hammer-veneering/  
+https://www.bensariworkshop.com/en/beginner-woodworking-course/
+https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
+https://www.bensariworkshop.com/en/dovetails/
+https://www.bensariworkshop.com/en/mortise-and-tenon/
+https://www.bensariworkshop.com/en/hand-plane-techniques/
+https://www.bensariworkshop.com/en/hammer-veneering/
 
 ## Context and practice
 

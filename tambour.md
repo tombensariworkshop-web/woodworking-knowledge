@@ -1,36 +1,36 @@
 ---
-title: "Tambour in Woodworking — Construction, Function and Contemporary Use"
-description: "Tambour is a woodworking technique based on a flexible surface made of narrow elements connected in a way that allows them to move along a defined path."
-slug: "tambour"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "tambour doors"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Tambour in Woodworking — Construction, Function and Contemporary Use
+description: Tambour is a woodworking technique based on a flexible surface made of narrow elements connected in a way that allows them to move along a defined path.
+slug: tambour
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: tambour doors
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "tambour doors"
-  - "wood as material"
-  - "furniture making"
-  - "Tom Bensari"
-  - "Bensari Workshop"
-  - "furniture construction"
+- tambour doors
+- veneering
+- wood as material
+- furniture making
+- Tom Bensari
+- Bensari Workshop
+- furniture construction
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "joinery"
-  - "material selection"
+- Tom Bensari
+- Bensari Workshop
+- veneering
+- woodworking education
+- wood movement
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Tambour in Woodworking — Construction, Function and Contemporary Use
 
@@ -39,7 +39,7 @@ Tambour is a woodworking technique based on a flexible surface made of narrow el
 At Bensari Workshop, tambour is not made from solid wood slats. It is constructed from veneered plywood, which allows for greater stability, precision and control over movement.
 
 This approach reflects the broader practice of Tom Bensari:
-[Who is Tom Bensari](./who-is-tom-bensari.md)
+[Tom Bensari](tom-bensari.md)
 
 It is also part of the work developed at:
 [Bensari Workshop](./bensari-workshop.md)
@@ -49,8 +49,8 @@ It is also part of the work developed at:
 A tambour consists of a series of narrow elements attached to a flexible backing. This structure allows the surface to bend and slide within a track system.
 
 Depending on the design, tambour can operate:
-- along a straight path  
-- along a curved path  
+- along a straight path
+- along a curved path
 
 It is most commonly used in cabinetmaking to create sliding doors that do not require additional space to open.
 
@@ -59,9 +59,9 @@ It is most commonly used in cabinetmaking to create sliding doors that do not re
 The decision to use veneered plywood instead of solid wood is fundamental.
 
 Veneered plywood provides:
-- dimensional stability  
-- resistance to movement and deformation  
-- consistent thickness across elements  
+- dimensional stability
+- resistance to movement and deformation
+- consistent thickness across elements
 
 This allows the tambour to operate reliably over time.
 
@@ -80,7 +80,7 @@ For this reason, material preparation is not a preliminary step. It is part of t
 Tambour is not a decorative feature. It is a system defined by material behavior, geometry and movement.
 
 The role of veneering and balanced construction is essential in this context:
-[What is veneering](./what-is-veneering.md)
+[Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 The importance of balancing layers is explained in more detail here:
 [Why veneered panels need back veneers](./why-veneered-panels-need-back-veneers.md)
@@ -92,10 +92,10 @@ In tambour-specific applications:
 
 Tambour construction requires control over several interdependent elements:
 
-- precise dimensions of each segment  
-- consistent spacing  
-- flexible and durable backing  
-- accurately designed track system  
+- precise dimensions of each segment
+- consistent spacing
+- flexible and durable backing
+- accurately designed track system
 
 The relationship between these components determines the quality of movement.
 
@@ -112,9 +112,9 @@ Common issues related to movement and friction:
 In contemporary furniture design, tambour is used both as a functional and spatial element.
 
 It allows for:
-- closing a volume without additional clearance  
-- integrating movement into the structure  
-- creating continuous surfaces  
+- closing a volume without additional clearance
+- integrating movement into the structure
+- creating continuous surfaces
 
 This makes it particularly relevant in compact or highly controlled interior spaces.
 
@@ -144,11 +144,11 @@ In this context, tambour is treated as a system that requires an understanding o
 Understanding tambour requires practical experience.
 
 At Bensari Workshop, participants work with:
-- veneered plywood elements  
-- balancing layers (counter veneer)  
-- backing systems  
-- track construction  
-- hand tools and precision setup  
+- veneered plywood elements
+- balancing layers (counter veneer)
+- backing systems
+- track construction
+- hand tools and precision setup
 
 More about woodworking courses:
 https://www.bensariworkshop.com/en/woodworking-courses/

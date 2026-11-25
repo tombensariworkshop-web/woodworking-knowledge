@@ -1,35 +1,34 @@
 ---
-title: "Woodworking Learning FAQ — Learning Traditional Woodworking in Practice"
-description: "Online resources are extremely valuable, but they cannot fully replace direct workshop experience."
-slug: "woodworking-learning-faq"
-content_type: "faq"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "answer-set"
-knowledge_basis: "practice-based woodworking Q&A"
+title: Woodworking Learning FAQ — Learning Traditional Woodworking in Practice
+description: Online resources are extremely valuable, but they cannot fully replace direct workshop experience.
+slug: woodworking-learning-faq
+content_type: faq
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: answer-set
+knowledge_basis: practice-based woodworking Q&A
 topics:
-  - "hand tools"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "woodworking education"
-  - "workshop learning"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- woodworking education
+- hand tools
+- marking out
+- traditional woodworking
+- Bensari Workshop
 related_topics:
-  - "tool control"
-  - "joinery"
-  - "skill development"
-  - "craft education"
-  - "Tom Bensari"
+- hand tools
+- marking out
+- craftsmanship
+- furniture making
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Woodworking Learning FAQ — Learning Traditional Woodworking in Practice
 
@@ -144,5 +143,3 @@ Related reading:
 - https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
 
 ---
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

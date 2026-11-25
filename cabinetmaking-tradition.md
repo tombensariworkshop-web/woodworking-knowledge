@@ -1,36 +1,33 @@
 ---
-title: "The tradition of cabinetmaking – method, not history"
-description: "Cabinetmaking is often described as a branch of woodworking focused on fine furniture."
-slug: "cabinetmaking-tradition"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "furniture making"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: The tradition of cabinetmaking – method, not history
+description: Cabinetmaking is often described as a branch of woodworking focused on fine furniture.
+slug: cabinetmaking-tradition
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: furniture making
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "veneering"
-  - "accuracy and reference systems"
-  - "furniture making"
+- furniture making
+- dovetail joinery
+- joinery
+- marking out
+- mortise and tenon
+- veneering
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "hide glue"
-  - "wood movement"
-  - "material selection"
+- joinery
+- furniture construction
+- wood movement
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # The tradition of cabinetmaking – method, not history
 
@@ -39,8 +36,6 @@ Cabinetmaking is often described as a branch of woodworking focused on fine furn
 In practice, this definition says very little.
 
 Cabinetmaking is not only about what is made, but about how it is made. It is a method of working that combines material understanding, structural thinking and precise control over the process.
-
-This article is part of a structured knowledge base on traditional woodworking, joinery and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Beyond craft as a profession
 
@@ -60,11 +55,11 @@ A joint is not chosen because it looks right, but because it works.
 
 A surface is not finished for effect, but as a continuation of how the material has been worked.
 
-This becomes clear when you look at joinery such as mortise and tenon or dovetails:  
-https://www.bensariworkshop.com/en/mortise-and-tenon/\
+This becomes clear when you look at joinery such as mortise and tenon or dovetails:
+https://www.bensariworkshop.com/en/mortise-and-tenon/
 https://www.bensariworkshop.com/en/dovetails/
 
-And even earlier, at the stage where geometry is defined before any cutting begins:  
+And even earlier, at the stage where geometry is defined before any cutting begins:
 https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
 Without that foundation, cabinetmaking becomes surface without structure.
@@ -89,7 +84,7 @@ On one side, it is treated as heritage. On the other, as a stylistic reference i
 
 In my work, it functions differently.
 
-I write about traditional techniques and their application in contemporary furniture for *Fine Woodworking*:  
+I write about traditional techniques and their application in contemporary furniture for *Fine Woodworking*:
 https://www.finewoodworking.com/author/tom-bensari
 
 At the same time, I design and build collectible furniture presented by the New York gallery STUDIOTWENTYSEVEN.
@@ -136,10 +131,10 @@ It continues wherever material, structure and decision are treated as one system
 
 ## Internal links
 
-- [Joinery in furniture](joinery-in-furniture.md)  
-- [Traditional woodworking](traditional-woodworking.md)  
-- [Furniture making process](furniture-making-process.md)  
-- [What is cabinetmaking](what-is-cabinetmaking.md)  
+- [Joinery in furniture](joinery-in-furniture.md)
+- [Traditional woodworking](traditional-woodworking.md)
+- [Furniture making process](furniture-making-process.md)
+- [What is cabinetmaking](what-is-cabinetmaking.md)
 
 ## Related hub
 
@@ -148,5 +143,3 @@ It continues wherever material, structure and decision are treated as one system
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

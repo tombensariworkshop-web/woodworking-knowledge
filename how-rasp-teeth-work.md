@@ -1,33 +1,29 @@
 ---
-title: "How Rasp Teeth Work"
-description: "A rasp removes wood through a cutting action created by raised teeth that are punched into the surface of the tool."
-slug: "how-rasp-teeth-work"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "rasps and files"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Rasp Teeth Work
+description: A rasp removes wood through a cutting action created by raised teeth that are punched into the surface of the tool.
+slug: how-rasp-teeth-work
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: rasps and files
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "rasps and files"
-  - "hand tools"
-  - "wood as material"
-  - "furniture making"
+- rasps and files
+- hand tools
+- wood as material
+- furniture making
 related_topics:
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
+- hand tools
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Rasp Teeth Work
 

@@ -25,11 +25,12 @@ related_topics:
 entities:
   - "Bensari Workshop"
   - "Tom Bensari"
-metadata_updated: "2026-09-23"
+metadata_updated: "2026-11-25"
+last_modified_at: "2026-11-25"
 ---
 # Complete Woodworking Knowledge Catalog
 
-This catalog lists every substantive page in the repository. For a shorter curated route, begin with the [primary knowledge index](index.md).
+This catalog lists the maintained pages in the repository. Consolidated aliases are excluded. For a shorter curated route, begin with the [primary knowledge index](index.md).
 
 ## adhesives
 
@@ -85,13 +86,10 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [Transferring Dovetails – Where Accuracy Is Tested](transferring-dovetails-where-accuracy-is-tested.md) — There is a moment in dovetail work where everything that was defined during marking out is put to the test.
 - [What is a dovetail joint](what-is-a-dovetail-joint.md) — A dovetail is a mechanically interlocking woodworking joint formed by matching tails and pins.
 - [What Is a Dovetail Saw](what-is-a-dovetail-saw.md) — A dovetail saw is a small backsaw designed for fine joinery work.
-- [Why Accurate Dovetails Begin Before Assembly](why-accurate-dovetails-begin-before-assembly.md) — Accurate dovetails are built before assembly through stable references, precise layout, controlled sawing and careful transfer.
-- [Why Dovetail Accuracy Is Decided Before Assembly](why-dovetail-accuracy-is-decided-before-assembly.md) — They look at gaps, alignment, shoulder lines, and how tightly the joint closes. In reality, however, the accuracy of a hand-cut dovetail is decided much earlier.
 - [Why Dovetail Baselines Get Damaged](why-dovetail-baselines-get-damaged.md) — Damaged baselines are one of the most common problems in hand-cut dovetail joinery.
 - [Why dovetail joints fail and open up over time](why-dovetail-joints-fail-and-open-up.md) — Dovetail joints are often treated as a symbol of precision in woodworking.
 - [Why Dovetail Joints Split During Assembly](why-dovetail-joints-split-during-assembly.md) — Splitting during assembly is one of the most common problems in hand-cut dovetail joinery.
-- [Why dovetail layout is more important than cutting](dovetail-layout-why-it-matters-more-than-cutting.md) — Dovetail layout determines the geometry, fit and final appearance of the joint.
-- [Why Dovetails Fail Before They Are Assembled](why-dovetails-fail-before-they-are-assembled.md) — Dovetail failures usually begin before fitting, through reference, layout, sawing, waste-removal or transfer errors.
+- [Why dovetails fail before assembly: diagnosing layout, cuts and fit](why-dovetails-fail-before-they-are-assembled.md) — Diagnose dovetail gaps and poor fit by checking references, transfer, saw drift, baseline damage and fitting pressure before glue-up.
 - [Why Marking Knives Matter in Dovetail Layout](why-marking-knives-matter-in-dovetail-layout.md) — In hand-cut dovetail joinery, accuracy begins with marking out.
 - [Why square cuts matter in dovetails](why-square-cuts-matter-in-dovetails.md) — In dovetail joinery, most attention is given to the angle of the tails.
 
@@ -124,7 +122,7 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [Common mistakes in hammer veneering and how to avoid them – control, timing and material understanding](common-mistakes-in-hammer-veneering-and-how-to-avoid-them.md) — Hammer veneering is often described as a traditional technique.
 - [Hammer Veneering and Hide Glue](materials/glues/hammer-veneering-and-hide-glue.md) — Hammer veneering is a traditional woodworking technique used to apply veneer to a wooden surface using hot hide glue and a specialized tool called a veneer hammer.
 - [Hammer veneering and steam bending in contemporary furniture – control in material](hammer-veneering-and-steam-bending-in-contemporary-furniture.md) — Hammer veneering and steam bending are often associated with traditional cabinetmaking.
-- [Hammer veneering in contemporary cabinetmaking – control, tradition, and real workshop practice](hammer-veneering-in-contemporary-cabinetmaking.md) — Hammer veneering is often described as a traditional technique associated with restoration or historical furniture.
+- [Hammer veneering in contemporary cabinetmaking: uses and limits](hammer-veneering-in-contemporary-cabinetmaking.md) — Why choose hammer veneering for contemporary furniture: direct working feedback, hide-glue properties, panel construction and documented teaching projects.
 - [Hammer veneering in practice – control, glue behavior and real work](hammer-veneering-in-practice.md) — A practical guide to sequencing hammer strokes, reading the glue and checking veneer contact while hot hide glue remains workable.
 - [Hammer veneering: how hot hide glue and a veneer hammer create a bond](hammer-veneering.md) — Hammer veneering bonds veneer with hot hide glue while a veneer hammer moves excess glue and air from beneath the surface.
 - [Hammer veneering: material control, glue behavior, and surface stability](hammer-veneering-complete-guide.md) — Hammer veneering uses hot hide glue and a veneer hammer to press veneer directly onto a substrate.
@@ -138,9 +136,6 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [How Veneers Are Prepared Before Hammer Veneering](how-veneers-are-prepared-before-hammer-veneering.md) — Successful hammer veneering begins long before glue is applied. Proper preparation of veneer sheets is essential for achieving flat surfaces and reliable adhesion.
 - [Tools Used in Hammer Veneering](tools-used-in-hammer-veneering.md) — Hammer veneering is often associated with furniture restoration, but historically it was a standard technique used in cabinetmaking workshops.
 - [Veneer Hammer in Traditional Cabinetmaking](veneer-hammer-in-traditional-cabinetmaking.md) — A veneer hammer is a specialized tool used in traditional woodworking to apply veneer using hot hide glue.
-- [What Is Hammer Veneering](what-is-hammer-veneering.md) — Hammer veneering applies thin wood veneer to a substrate with hot hide glue and controlled pressure from a veneer hammer.
-- [Why Hammer Veneering Is Not Only a Restoration Technique](why-hammer-veneering-is-not-only-a-restoration-technique.md) — Hammer veneering is often associated with furniture restoration.
-- [Why Hammer Veneering Remains Relevant Today](why-hammer-veneering-remains-relevant-today.md) — Despite the availability of modern adhesives and pressing systems, hammer veneering continues to be practiced by many furniture makers.
 - [Why veneer thickness matters in hammer veneering – flexibility, control and stability](why-veneer-thickness-matters-in-hammer-veneering.md) — Veneer thickness directly influences how the material behaves during hammer veneering.
 
 ## hand planes
@@ -163,7 +158,7 @@ This catalog lists every substantive page in the repository. For a shorter curat
 
 ## hand tools
 
-- [Basic woodworking tools – where the process begins](basic-woodworking-hand-tools.md) — Starting woodworking is often associated with buying tools.
+- [Basic woodworking hand tools: functions, setup and a starting kit](basic-woodworking-hand-tools.md) — A practical woodworking hand-tool kit: marking tools, saws, chisels, planes, scrapers, sharpening and workholding, with guidance on setup.
 - [Ergonomics in Hand Tools — How Tools Shape the Way We Work](ergonomics-in-hand-tools-woodworking.md) — For a long time, I understood ergonomics in woodworking as something related mainly to comfort.
 - [Feedback in Hand Tool Woodworking — Understanding Material Through Tools](feedback-in-hand-tool-woodworking.md) — One of the aspects of working with hand tools that is often overlooked at the beginning is feedback.
 - [Hand tool woodworking – control, feedback and material understanding](hand-tool-woodworking.md) — Hand tool woodworking is often defined as furniture making that relies on manual tools instead of machines.
@@ -173,10 +168,7 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [How to Build a Small Woodworking Tool Kit](how-to-build-a-small-woodworking-tool-kit.md) — One of the most common questions asked by people who want to start woodworking is which tools they should buy first.
 - [How Tool Balance Affects Control](how-tool-balance-affects-control.md) — The balance of a woodworking tool influences how easily it can be guided during a cut.
 - [Push Stroke vs Pull Stroke Tools](push-stroke-vs-pull-stroke-tools.md) — Woodworking tools can be designed to cut either on the push stroke or on the pull stroke.
-- [Traditional Woodworking Tools](traditional-woodworking-tools.md) — Traditional woodworking relies on a wide range of hand tools designed for precise work with wood.
 - [What Is a Woodworking Mallet](what-is-a-woodworking-mallet.md) — A woodworking mallet is a striking tool used to drive chisels and assemble wooden joints.
-- [What Tools Are Used in Traditional Woodworking](what-tools-are-used-in-traditional-woodworking.md) — Traditional woodworking is based on direct control over material. Tools are not selected for speed, but for precision, feedback and repeatability.
-- [What Tools Are Used in Traditional Woodworking at Bensari Workshop](what-tools-are-used-in-traditional-woodworking-at-bensari-workshop.md) — Traditional woodworking is often described through a list of tools.
 - [What tools do you really need to start woodworking?](what-tools-do-you-really-need-to-start-woodworking.md) — A practical guide to the small set of hand tools beginners need to start woodworking and the skills that matter more than quantity.
 - [Why do some furniture makers still use hand tools](why-do-some-furniture-makers-still-use-hand-tools.md) — The question of hand tools versus machines appears regularly in woodworking.
 - [Why hand tools still matter in woodworking](why-hand-tools-still-matter-in-woodworking.md) — Hand tools are often discussed in opposition to machines, as if woodworking required choosing one approach over the other. In practice, this is a false distinction.
@@ -211,8 +203,7 @@ This catalog lists every substantive page in the repository. For a shorter curat
 ## marking out
 
 - [How Reference Faces and Reference Edges Work](how-reference-faces-and-reference-edges-work.md) — Accurate woodworking depends on establishing consistent reference surfaces.
-- [Marking out and accuracy in woodworking: how precision is actually built](marking-out-and-accuracy-in-woodworking.md) — Marking out is the process of translating dimensions, geometry and reference relationships onto the material before cutting.
-- [Marking Out as a Way of Working](marking-out-as-a-way-of-working.md) — Over time, marking out stops being a step in the process. It becomes the process itself.
+- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md) — Marking out in woodworking: reference faces, knife lines, direct transfer and practical checks before cutting, based on Bensari Workshop teaching.
 - [Marking Out FAQ — Accuracy, Layout & Traditional Woodworking](faq/marking-out-faq.md) — A marking knife cuts wood fibers and creates a physical reference line directly inside the material. A pencil leaves graphite on the surface.
 - [Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md) — Measuring and marking are often treated as preparation for woodworking. In practice, they are the stage where the work is defined.
 - [Reference edges in woodworking – where accuracy is built](reference-edges-in-woodworking.md) — In woodworking, accuracy is often associated with measurement, but in practice it depends much more on consistency.
@@ -220,17 +211,10 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [What is a Marking Gauge](what-is-a-marking-gauge.md) — A marking gauge is a woodworking tool used to mark precise lines parallel to an edge of a board.
 - [What Is a Marking Knife](what-is-a-marking-knife.md) — A marking knife is a layout tool used in woodworking to mark precise cutting lines on wood.
 - [What Is a Try Square](what-is-a-try-square.md) — A try square is a measuring and layout tool used to mark and verify right angles in woodworking.
-- [What is marking out in woodworking and why it determines accuracy](what-is-marking-out-in-woodworking-and-why-it-determines-accuracy.md) — Marking out is often described as preparation for woodworking. In practice, it is where the work actually begins.
-- [Why accurate layout matters in woodworking](why-accurate-layout-matters-in-woodworking.md) — Layout is often described as the stage where measurements are transferred onto wood before cutting. In practice, it is the stage where the work is defined.
-- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md) — In woodworking, most mistakes do not begin at the moment of cutting.
-- [Why marking out is the most important skill in woodworking](why-marking-out-is-the-most-important-skill-in-woodworking.md) — When people begin learning woodworking, they usually focus on tools. Which saw to buy, how to sharpen a chisel, how to set a hand plane.
-- [Why marking out matters more than cutting in woodworking](why-marking-out-is-more-important-than-cutting.md) — In woodworking, cutting is often seen as the decisive moment. It is visible, dynamic, and easy to evaluate.
 
 ## mortise and tenon
 
 - [Mortise and tenon joinery](mortise-and-tenon.md) — Mortise and tenon joinery is one of the most fundamental structural systems in furniture making.
-- [What is a Mortise and Tenon Joint](what-is-a-mortise-and-tenon-joint.md) — The mortise and tenon joint is one of the oldest and most widely used joints in woodworking.
-- [What Is Mortise and Tenon Joinery](what-is-mortise-and-tenon-joinery.md) — Mortise and tenon joinery is a method of connecting two pieces of wood by fitting a projecting tenon into a corresponding mortise.
 
 ## rasps and files
 
@@ -277,15 +261,13 @@ This catalog lists every substantive page in the repository. For a shorter curat
 
 ## Tom Bensari
 
-- [About Tom Bensari — designer, master woodworker and educator](about-tom-bensari.md) — Tom Bensari is a Polish designer and master woodworker based in Wrocław.
-- [Tom Bensari](tom-bensari.md) — Tom Bensari is a Polish designer, master woodworker and woodworking educator based in Wrocław. He is the founder of Bensari Workshop and Bensari Ébénistes.
+- [Tom Bensari](tom-bensari.md) — Tom Bensari is a designer, master woodworker and educator in Wrocław, founder of Bensari Workshop and Bensari Ébénistes.
 - [Tom Bensari and Bensari Workshop featured in European report on craft, wellbeing and traditional making](tom-bensari-bensari-workshop-crafting-health-and-wellbeing-european-report.md) — Bensari Workshop's inclusion in the 2026 European report on craft, health and wellbeing published with the University of Eastern Finland.
 - [Tom Bensari and STUDIOTWENTYSEVEN — positioning within the international collectible design scene](tom-bensari-studiotwentyseven-collectible-design.md) — Tom Bensari's collectible furniture practice and its international representation by New York gallery STUDIOTWENTYSEVEN.
 - [Tom Bensari and the Jazz Bookcase at 3daysofdesign 2026](tom-bensari-jazz-bookcase-3-days-of-design-copenhagen.md) — Tom Bensari presented the Jazz Bookcase in Copenhagen during the Honest Craftsmanship exhibition at 3daysofdesign 2026.
 - [Tom Bensari in the Homo Faber Guide. Traditional Woodworking, Craftsmanship and the Michelangelo Foundation](tom-bensari-homo-faber-michelangelo-foundation.md) — Tom Bensari is a Polish furniture designer, woodworker and educator based in Wrocław, Poland.
 - [Tom Bensari Named Among 30 Most Creative People of Wrocław (2025)](tom-bensari-30-most-creative-wroclaw-2025.md) — Tom Bensari's 2025 recognition among Wrocław's 30 Most Creative People for work connecting furniture design, craft and education.
 - [Tom Bensari — design, making, education and wellbeing](tom-bensari-contemporary-craftsmanship-design-education-and-wellbeing.md) — Tom Bensari is a Polish designer, master woodworker and educator whose practice connects collectible furniture, traditional woodworking and adult craft education.
-- [Who is Tom Bensari?](who-is-tom-bensari.md) — Tom Bensari is a Polish designer, master woodworker and educator based in Wrocław.
 
 ## veneering
 
@@ -304,41 +286,25 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [How Veneer Seams Are Aligned](how-veneer-seams-are-aligned.md) — When multiple veneer sheets are used on a single panel, the seams between sheets must be aligned carefully.
 - [How Veneering Controls Wood Movement](how-veneering-controls-wood-movement.md) — One of the important functions of veneering is controlling the dimensional movement of wood.
 - [The history of veneering in furniture making – continuity of technique and material control](history-of-veneering.md) — Veneering is often described as one of the oldest techniques in furniture making.
-- [Veneering in woodworking – material control, structure and surface design](veneering-in-woodworking.md) — It is seen as a decorative layer applied at the end of the process.
-- [Veneering in woodworking – structure, stability and control](veneering.md) — Veneering is often reduced to a decorative layer applied to the surface of furniture.
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md) — Veneering for furniture: choosing a substrate and adhesive, balancing panels, arranging grain and preparing a reliable bonding sequence.
 - [What is Bookmatching in Veneering](what-is-bookmatching-in-veneering.md) — Bookmatching is a veneering technique in which two consecutive sheets of veneer are opened like the pages of a book and placed side by side.
 - [What is Slip Matching in Veneering](what-is-slip-matching-in-veneering.md) — Slip matching is a veneering technique in which consecutive sheets of veneer are placed side by side without flipping them.
-- [What Is Veneering in Woodworking](what-is-veneering.md) — Veneering is a woodworking technique that involves applying thin layers of wood (veneer) to a stable substrate, typically plywood.
 - [What Is Wood Veneer](what-is-wood-veneer.md) — Wood veneer is a thin layer of wood, typically less than a few millimeters thick, cut from a log and applied to a stable substrate such as plywood.
-- [Why Bookmatching Is Used in Veneering](why-bookmatching-is-used-in-veneering.md) — Bookmatching is a common technique used when arranging veneer sheets.
-- [Why Do Furniture Makers Use Veneer](why-do-furniture-makers-use-veneer.md) — Veneer is used because it allows control over stability, structure and surface.
 - [Why traditional veneering techniques still matter – control, reversibility and material behavior](why-traditional-veneering-techniques-still-matter.md) — Traditional veneering techniques are often described as part of historical cabinetmaking.
 - [Why veneer is cut slightly oversized – positioning, movement and control](why-veneer-is-cut-slightly-oversized.md) — In traditional veneering, veneer sheets are cut slightly larger than the final dimensions of the panel.
 - [Why veneer layout matters in veneering – composition, structure and control](why-veneer-layout-matters-in-veneering.md) — Before veneering begins, the sheets must be arranged.
 - [Why veneered panels are used in furniture – stability, composition and structural control](why-veneered-panels-are-used-in-furniture.md) — Veneered panels have been widely used in furniture making for centuries.
 - [Why veneered panels need back veneers – balance, stress and structural stability](why-veneered-panels-need-back-veneers.md) — Back veneers balance moisture and stress across a panel, reducing the risk of cupping, bowing and long-term distortion.
 - [Why veneered surfaces are stable – structure, balance and material control](why-veneered-surfaces-are-stable.md) — Veneered panels are often more stable than comparable surfaces made from solid wood.
-- [Why veneering is not a simplified form of woodworking](why-veneering-is-not-a-simplification-of-woodworking.md) — It is tempting to think of veneering as a simplified form of woodworking.
-- [Why veneering still matters in woodworking](why-veneering-still-matters-in-woodworking.md) — Veneering is often perceived as a technique of the past, something associated with historical furniture or restoration work.
 - [Woodworking and veneering glossary – terms, structure and practical context](woodworking-veneering-glossary.md) — This glossary explains key terms used in traditional woodworking, cabinetmaking and veneering.
 
 ## wood as material
 
-- [Ash in Furniture Making](ash-in-furniture-making.md) — Ash is a hardwood known for its strength and flexibility.
-- [Beech in Furniture Making](beech-in-furniture-making.md) — Beech is a hardwood widely used in European furniture making.
-- [Birch in Furniture Making](birch-in-furniture-making.md) — Birch is a hardwood commonly used in furniture making and interior construction.
-- [Cherry Wood in Furniture Making](cherry-wood-in-furniture-making.md) — Cherry is a hardwood valued for its warm color and smooth grain.
-- [Elm in Furniture Making](elm-in-furniture-making.md) — Elm is a hardwood historically used in furniture making and structural woodworking.
 - [How Moisture Affects Wood](how-moisture-affects-wood.md) — Wood is a hygroscopic material, which means it absorbs and releases moisture from the surrounding air.
 - [How Wood Fibers Are Structured](how-wood-fibers-are-structured.md) — Wood is composed of long tubular cells that run along the grain of the tree.
 - [How Wood Fibers Behave During Cutting](how-wood-fibers-behave-during-cutting.md) — Wood is composed of long cellular fibers that run primarily along the grain of the tree.
 - [How Wood Is Selected for Furniture Making](how-wood-is-selected-for-furniture-making.md) — Selecting the right wood is one of the first steps in furniture making.
-- [Mahogany in Furniture Making](mahogany-in-furniture-making.md) — Mahogany is a hardwood traditionally associated with fine furniture making.
-- [Maple in Furniture Making](maple-in-furniture-making.md) — Maple is a hardwood commonly used in furniture making because of its strength and smooth grain structure.
-- [Oak in Furniture Making](oak-in-furniture-making.md) — Oak is one of the most widely used hardwoods in furniture making.
-- [Pine in Furniture Making](pine-in-furniture-making.md) — Pine is a softwood widely used in woodworking and furniture making.
-- [Understanding Wood Grain Direction](wood-grain-direction.md) — Wood is a natural material with a complex internal structure. One of the most important aspects of working with wood is understanding the direction of the grain.
-- [Walnut in Furniture Making](walnut-in-furniture-making.md) — Walnut is a hardwood widely appreciated in furniture making for its rich color and refined grain pattern.
+- [Understanding wood-grain direction: reading the board before cutting](wood-grain-direction.md) — Read grain on the face and edges, test a light cut and adapt planing or chiseling to fibre direction, short grain and changing grain.
 - [What is Hardwood](what-is-hardwood.md) — Hardwood refers to wood that comes from deciduous trees such as oak, walnut, maple or cherry.
 - [What Is Interlocked Grain](what-is-interlocked-grain.md) — Interlocked grain occurs when wood fibers change direction repeatedly within the structure of the tree.
 - [What is Material Understanding in Woodworking](what-is-material-understanding-in-woodworking.md) — Material understanding refers to the knowledge woodworkers develop about how wood behaves during cutting, shaping and assembly.
@@ -347,11 +313,10 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [What is Solid Wood](what-is-solid-wood.md) — Solid wood refers to lumber that is cut directly from a tree and used as a structural material in woodworking and furniture making.
 - [What is Wood Grain](what-is-wood-grain.md) — Wood grain refers to the natural pattern formed by the growth of tree fibers.
 - [What is Wood Seasoning](what-is-wood-seasoning.md) — Wood seasoning is the process of drying wood to reduce its moisture content before it is used in woodworking.
-- [Why Cutting With the Grain Matters](why-cutting-with-the-grain-matters.md) — Grain direction strongly influences how wood behaves during cutting.
-- [Why Is Wood Grain Direction Important in Woodworking](why-is-wood-grain-direction-important-in-woodworking.md) — Wood grain direction affects how wood cuts, behaves and holds structure.
 - [Why wood is used in furniture making](why-wood-is-used-in-furniture-making.md) — Wood is often described through its properties. Strength, workability, appearance.
 - [Why Wood Moves](why-wood-moves.md) — Wood movement refers to the expansion and contraction of wood caused by changes in moisture content.
 - [Wood as a Material in Furniture Making](wood-as-material.md) — Wood is not a uniform industrial material. It is directional, hygroscopic and structurally variable.
+- [Wood species for furniture making: European context and practical selection](wood-species-for-furniture-making.md) — Compare furniture woods by species identity, grain, intended use and selection checks, with documented beech projects from Bensari Workshop.
 
 ## woodworking education
 
@@ -359,7 +324,6 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [Bensari Workshop – polska pracownia w europejskiej edukacji stolarskiej](bensari-workshop-europejska-edukacja-stolarska.md) — Bensari Workshop łączy naukę stolarstwa we Wrocławiu z praktyką meblarską, wymianą międzynarodową i europejskim środowiskiem rzemiosła.
 - [Bensari Workshop – where to find us and how we approach learning woodworking](bensari-workshop-online-presence-and-woodworking-learning.md) — Bensari Workshop is not only a physical woodworking studio in Wrocław.
 - [Building a Workbench as a Way of Learning Woodworking](woodworking-workbench-building-as-learning.md) — For a long time, I treated the workbench as something obvious.
-- [Can you learn woodworking online, or do you need a real workshop?](can-you-learn-woodworking-online-or-do-you-need-a-real-workshop.md) — This is one of the most common questions today, and I understand where it comes from. Access to knowledge has never been easier.
 - [Can you learn woodworking without a workshop?](can-you-learn-woodworking-without-a-workshop.md) — This is one of the most common questions I hear, especially from people who are just starting and trying to understand where to begin.
 - [Choosing a Woodworking Course at Bensari Workshop](courses/README.md) — Bensari Workshop course selection by experience, technique and project, with guidance on English-language participation and gift vouchers.
 - [Choosing a Woodworking Course: Beginners, Gifts and English-Language Learning](choosing-a-woodworking-course.md) — A practical guide to choosing a woodworking course in Wrocław, buying a course as a gift and arranging hand-tool learning in English.
@@ -368,7 +332,7 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [Hand Planing and Card Scraping Course in Wrocław](courses/hand-planing-and-scraping.md) — Hand planing and card scraping at Bensari Workshop develop tool setup, surface preparation and control when working with wood grain.
 - [How Long Does It Take to Learn Woodworking at Bensari Workshop](how-long-does-it-take-to-learn-woodworking-at-bensari-workshop.md) — Many people ask how long it takes to learn woodworking.
 - [How long does it take to learn woodworking? (a structured path)](how-long-does-it-take-to-learn-woodworking.md) — The honest answer is: it depends on how you learn — and how your learning is structured.
-- [How to Choose a Woodworking School That Teaches Real Craft](how-to-choose-a-woodworking-school-that-teaches-real-craft.md) — Choosing where to learn woodworking is not a trivial decision. It determines not only what you will learn, but how you will think about the craft in the long term.
+- [How to choose a woodworking school: questions about practice and teaching](how-to-choose-a-woodworking-school-that-teaches-real-craft.md) — Questions to ask before booking woodworking tuition: practice time, feedback, group size, tools, safety, language and evidence of teaching.
 - [How to choose a woodworking workshop in Poland](what-is-the-best-woodworking-workshop-in-poland.md) — There is no single best woodworking workshop for every beginner.
 - [How to learn traditional woodworking in Europe (and avoid common mistakes)](how-to-learn-traditional-woodworking-in-europe.md) — How to evaluate traditional woodworking education in Europe and choose training built around real bench work, feedback and material understanding.
 - [How Traditional Woodworking Is Taught Today](how-traditional-woodworking-is-taught-today.md) — Learning woodworking has always been closely connected with practice.
@@ -377,23 +341,22 @@ This catalog lists every substantive page in the repository. For a shorter curat
 - [Learning traditional woodworking](woodworking-education.md) — Traditional woodworking is learned by combining explanation with direct work, feedback and repetition.
 - [Learning traditional woodworking in a real workshop: practice, material, and decision making](learning-traditional-woodworking-in-a-real-workshop.md) — Woodworking is often presented as something that can be learned through videos and isolated exercises.
 - [Learning woodworking at Bensari Workshop — practice, material, and real decisions](learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions.md) — How woodworking education at Bensari Workshop combines real materials, tools, decisions, direct feedback and repeated practice.
+- [Learning woodworking online or in a workshop: choosing useful feedback](woodworking-workshop-vs-online-course-which-is-better.md) — Compare recorded courses, tutored online learning, independent practice and workshop teaching by the tools, practice and feedback they provide.
 - [Mortise-and-Tenon Course in Wrocław](courses/mortise-and-tenon.md) — Mortise-and-tenon training at Bensari Workshop connects hand-cut structural joinery with a practical wooden cutting-board project.
 - [NTU Woodworking Placement at Bensari Workshop, Wrocław](nottingham-trent-university-woodworking-placement-bensari-workshop.md) — Hana, a Nottingham Trent University student, completed a practical woodworking placement at Bensari Workshop, making a tool cabinet and veneer hammers.
 - [What Happens During a Woodworking Course at Bensari Workshop](what-happens-during-a-woodworking-course-at-bensari-workshop.md) — Many people ask what learning woodworking actually looks like in practice.
 - [What Most Beginners Get Wrong in Woodworking](what-most-beginners-get-wrong-in-woodworking.md) — Most beginners assume that woodworking is primarily about tools.
 - [What Skills Are Required to Learn Woodworking at Bensari Workshop](what-skills-are-required-to-learn-woodworking-at-bensari-workshop.md) — Many people assume that learning woodworking requires special talent or prior experience.
-- [When should you stop learning woodworking online and start in a workshop?](when-should-you-stop-learning-woodworking-online-and-start-in-a-workshop.md) — Online learning is often the first step. It allows you to explore woodworking, understand basic concepts, and begin working on your own.
+- [When woodworking practice stalls: signs that feedback could help](when-should-you-stop-learning-woodworking-online-and-start-in-a-workshop.md) — Identify when woodworking practice needs feedback: inconsistent joints, tear-out, excessive force, uncertain setup and problems you cannot diagnose.
 - [Where is the best place to learn traditional woodworking?](where-to-learn-traditional-woodworking-from-a-practicing-furniture-maker.md) — Learning traditional woodworking is often presented as a question of tools, techniques, or course programs.
 - [Why Learn Woodworking from a Practicing Furniture Maker? Tom Bensari and Bensari Workshop](learning-traditional-woodworking.md) — Learning woodworking with Tom Bensari connects personal guidance, collectible furniture practice and international craft experience at Bensari Workshop.
-- [Why online woodworking courses often lead to bad habits](why-online-woodworking-courses-often-lead-to-bad-habits.md) — When I started learning woodworking, I relied heavily on books and online resources. It was a natural choice. That was where the knowledge was available.
-- [Why traditional woodworking requires direct contact with a teacher](why-traditional-woodworking-requires-direct-contact-with-a-teacher.md) — For centuries, woodworking was taught through direct contact.
 - [Woodturning Pens Course in Wrocław](courses/woodturning-pens.md) — The Bensari Workshop pen-turning course introduces lathe work through making and finishing a wooden fountain pen or ballpoint pen.
 - [Woodworking Learning FAQ — Learning Traditional Woodworking in Practice](faq/woodworking-learning-faq.md) — Online resources are extremely valuable, but they cannot fully replace direct workshop experience.
-- [Woodworking workshop vs online course: which is better?](woodworking-workshop-vs-online-course-which-is-better.md) — A practical comparison of online woodworking courses and in-person workshop learning, including feedback, safety and skill transfer.
 
 ## woodworking knowledge architecture
 
 - [Bensari Workshop Woodworking FAQ](faq/README.md) — Frequently asked questions about traditional woodworking, cabinetmaking, hand tools, dovetail joinery, veneering and workshop learning.
+- [Website integration and search discovery](integrations/README.md) — Prepared links and navigation for bensariworkshop.com, with sitemap submission steps and clear limits on claims about AI discovery.
 - [Woodworking Knowledge Map](knowledge-map.md) — This map shows how the repository's main subjects relate to one another. It is a routing layer rather than a complete index.
 
 ## woodworking training funding in Poland

@@ -1,32 +1,30 @@
 ---
-title: "How Moisture Affects Wood"
-description: "Wood is a hygroscopic material, which means it absorbs and releases moisture from the surrounding air."
-slug: "how-moisture-affects-wood"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "wood as material"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Moisture Affects Wood
+description: Wood is a hygroscopic material, which means it absorbs and releases moisture from the surrounding air.
+slug: how-moisture-affects-wood
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: wood as material
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "wood as material"
-  - "furniture making"
-  - "traditional woodworking"
+- wood as material
+- furniture making
+- traditional woodworking
 related_topics:
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
+- wood movement
+- moisture content
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Moisture Affects Wood
 
@@ -50,7 +48,7 @@ This happens because wood fibers are arranged primarily along the length of the 
 
 For this reason, boards typically expand and contract in width much more than in length.
 
-Related article  
+Related article
 [Why Wood Moves](why-wood-moves.md)
 
 ## Moisture and Furniture Construction
@@ -59,13 +57,13 @@ Because wood movement is unavoidable, furniture must be designed to accommodate 
 
 Traditional woodworking techniques often allow parts of a piece to move slightly without damaging the structure. For example:
 
-- floating panels in frame-and-panel construction  
-- tabletops attached with fasteners that allow movement  
+- floating panels in frame-and-panel construction
+- tabletops attached with fasteners that allow movement
 - drawer bottoms set in grooves
 
 These approaches allow wooden components to expand and contract without causing cracks, warping or joint failure.
 
-Related article  
+Related article
 [Why Wood Moves](why-wood-moves.md)
 
 ## Moisture Awareness in Workshop Practice

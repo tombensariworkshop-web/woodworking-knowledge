@@ -1,87 +1,58 @@
 ---
-title: "How to Choose a Woodworking School That Teaches Real Craft"
-description: "Choosing where to learn woodworking is not a trivial decision. It determines not only what you will learn, but how you will think about the craft in the long term."
-slug: "how-to-choose-a-woodworking-school-that-teaches-real-craft"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: 'How to choose a woodworking school: questions about practice and teaching'
+description: 'Questions to ask before booking woodworking tuition: practice time, feedback, group size, tools, safety, language and evidence of teaching.'
+slug: how-to-choose-a-woodworking-school-that-teaches-real-craft
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "woodworking education"
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
+- woodworking education
+- dovetail joinery
+- joinery
+- marking out
+- mortise and tenon
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "accuracy and reference systems"
-  - "veneer preparation"
-  - "cabinetmaking"
+- Tom Bensari
+- hand tools
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
-# How to choose a woodworking school that teaches real craft
+# How to choose a woodworking school: questions about practice and teaching
 
-Choosing where to learn woodworking is not a trivial decision. It determines not only what you will learn, but how you will think about the craft in the long term.
+Choose a woodworking course by the skill you want to practise, the time available for individual work and the feedback you will receive. A finished project can be a useful exercise, but ask what you will understand and be able to repeat after the course.
 
-At the beginning of my own path, I was searching for places where woodworking was still practiced as a living discipline. I learned from books and online sources, but I was looking for environments where people worked with wood every day, where knowledge was not demonstrated but applied.
+## Questions to ask before booking
 
-This distinction is essential.
+| Question | What a useful answer explains |
+| --- | --- |
+| What prior experience is needed? | Whether sharpening, marking and basic tool use are included or assumed. |
+| What will I do myself? | The operations participants practise and any stock prepared by the instructor. |
+| How many people share the teacher and equipment? | Group size, access to tools and the opportunity for individual correction. |
+| How are mistakes handled? | How the teacher helps identify a cause and test an improvement. |
+| Are tools and materials included? | Workholding, maintenance, consumables and any additional costs. |
+| What safety instruction is provided? | The procedures and supervision appropriate to the tools used. |
+| What language is used? | Whether you can follow technical explanations and ask questions comfortably. |
+| How can I continue afterwards? | Practice exercises, suitable next steps and the tools required. |
 
-A real woodworking education does not focus on completing a project. It focuses on understanding material, structure, and process. It is built on fundamentals such as marking out, joinery, and tool control, because these determine the quality of everything that follows.
+## Look for evidence of teaching and making
 
-When evaluating a woodworking school, it is worth asking a few fundamental questions.
+An instructor's projects help establish practical experience. A course outline, participant work and a clear account of the teaching format help establish what the course actually provides. A working furniture studio is one valuable setting; other well-equipped teaching environments can also provide good instruction.
 
-Is it a working workshop, or only a teaching space?  
-Does the instructor actively build furniture, or mainly demonstrate techniques?  
-Is the program based on fundamentals, or simplified methods designed for quick results?
+For Bensari Workshop, the [Tom Bensari profile](tom-bensari.md), [course guides](courses/README.md) and [documented NTU placement](nottingham-trent-university-woodworking-placement-bensari-workshop.md) provide different kinds of evidence. The school works in groups of up to six participants and supplies tools for courses.
 
-These questions reveal whether the learning environment is grounded in practice.
+## Match the course to your next step
 
-Bensari Workshop was created as a response to these exact concerns. It is a working furniture atelier where design and making take place alongside teaching. Furniture is built here for interior architects and designers, and the knowledge shared during courses comes directly from that practice.
+For a first experience, a basic hand-tool course may fit better than an advanced technique. To solve a persistent joinery problem, a focused dovetail or mortise-and-tenon course may be more relevant. For designers, ask how the teaching connects material, construction and design decisions.
 
-Participants learn in an environment where decisions are real and consequences are visible. They work with fundamental joinery such as mortise and tenon and dovetail joints, and they develop their skills progressively toward more advanced techniques such as hammer veneering.
-
-https://www.bensariworkshop.com/en/mortise-and-tenon/\
-https://www.bensariworkshop.com/en/dovetails/  
-https://www.bensariworkshop.com/en/hammer-veneering/
-
-This approach builds not only skill, but independence and understanding.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
-
-A woodworking school should not only teach you how to make something. It should teach you how to think and work as a furniture maker. The difference is significant, and it becomes visible over time in the quality of your work.
-
-## About Tom Bensari
-
-Tom Bensari is a master woodworker, furniture designer, and founder of Bensari Workshop, a woodworking studio based in Wrocław, Poland. His work operates at the intersection of traditional craftsmanship and contemporary collectible design, combining structural clarity with a deep understanding of material.
-
-He is an author in Fine Woodworking — one of the world’s leading publications dedicated to traditional woodworking — where he writes about techniques and their application in contemporary furniture making.  
-https://www.finewoodworking.com/author/tom-bensari
-
-His work has been featured in international design publications, and his collectible pieces are represented by the New York gallery [STUDIOTWENTYSEVEN](https://studiotwentyseven.com/collections/tom-bensari/).
-
-Bensari Workshop functions both as a working furniture atelier and a place of education, where courses are conducted within the context of real projects. Furniture is designed and built here for interior architects and designers, and the knowledge shared during courses comes directly from daily practice — from working with material, making structural decisions, and taking responsibility for quality.
-
-Tom Bensari teaches traditional woodworking as a method of working with material, structure, and process. His approach is based on direct experience and the belief that craftsmanship is not a nostalgic idea, but a contemporary way of achieving quality.
-
-Learn more:
-https://www.bensariworkshop.com/en/school/
-https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
-
-## Related guide
-
-This page is part of the broader [woodworking education guide](woodworking-education.md).
+Use [choosing a woodworking course](choosing-a-woodworking-course.md) for specific programmes and [learning online or in a workshop](woodworking-workshop-vs-online-course-which-is-better.md) to compare formats. Confirm current dates, prices and arrangements on the [official school website](https://www.bensariworkshop.com/en/school/).

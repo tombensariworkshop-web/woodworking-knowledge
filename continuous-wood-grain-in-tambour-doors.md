@@ -1,36 +1,32 @@
 ---
-title: "Continuous Wood Grain in Tambour Doors"
-description: "One of the defining characteristics of the tambours produced at Bensari Workshop is the continuity of the wood grain across the entire surface."
-slug: "continuous-wood-grain-in-tambour-doors"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "tambour doors"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Continuous Wood Grain in Tambour Doors
+description: One of the defining characteristics of the tambours produced at Bensari Workshop is the continuity of the wood grain across the entire surface.
+slug: continuous-wood-grain-in-tambour-doors
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: tambour doors
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "tambour doors"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "wood as material"
-  - "Bensari Workshop"
-  - "furniture construction"
+- tambour doors
+- veneering
+- marking out
+- wood as material
+- Bensari Workshop
+- furniture construction
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "furniture making"
-  - "joinery"
-  - "hand tools"
-  - "moisture content"
+- wood movement
+- furniture making
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-03-14'
 ---
 # Continuous Wood Grain in Tambour Doors
 
@@ -66,6 +62,6 @@ That moment — when a continuous wooden surface reveals its hidden movement —
 
 ## Related Articles
 
-- [The History of Tambour Doors](history-of-tambour-doors.md)  
-- [How Tambour Doors Are Constructed](how-tambour-doors-are-constructed.md)  
+- [The History of Tambour Doors](history-of-tambour-doors.md)
+- [How Tambour Doors Are Constructed](how-tambour-doors-are-constructed.md)
 - [Tambour Doors in Modern Furniture Design](tambour-doors-in-modern-furniture-design.md)

@@ -1,193 +1,132 @@
 ---
-title: "Content Architecture and Consolidation Map"
-description: "Preferred content hierarchy, canonical pillars, supporting-page relationships and consolidation rules for this knowledge base."
-slug: "CONTENT-ARCHITECTURE"
-content_type: "index"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "content architecture"
-knowledge_role: "knowledge-hub"
-knowledge_basis: "first-party knowledge navigation"
+title: Content Architecture and Consolidation Map
+description: Editorial rules, canonical profiles, maintained guides and the completed consolidation map for the Bensari Workshop knowledge base.
+slug: CONTENT-ARCHITECTURE
+content_type: index
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking knowledge architecture
+knowledge_role: knowledge-hub
+knowledge_basis: first-party knowledge navigation
 topics:
-  - "content architecture"
-  - "knowledge graph"
-  - "AI discoverability"
-  - "internal linking"
-  - "Bensari Workshop"
+- woodworking knowledge architecture
+- traditional woodworking
+- woodworking education
 related_topics:
-  - "pillar pages"
-  - "topic clusters"
-  - "semantic search"
-  - "RAG"
-  - "LLM navigation"
+- joinery
+- hand tools
+- veneering
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-  - "Bensari Ébénistes"
-metadata_updated: "2026-11-20"
+- Bensari Workshop
+- Tom Bensari
+- Bensari Ébénistes
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Content Architecture and Consolidation Map
 
-This file defines the preferred content hierarchy of the repository. It is intended to reduce topical dilution while preserving narrow pages that answer specific questions.
+The knowledge base has one maintained article for each broad question and preserves narrower references where they answer a different practical question. The [catalog](catalog.md) lists maintained content; the [index](index.md) provides a shorter route through the main guides.
 
-The generated [complete article catalog](catalog.md) provides exhaustive navigation; this document defines which pages should lead each broad topic.
+## Canonical profiles
 
-## Primary rule
+- [Tom Bensari](tom-bensari.md): the person, biography and source links.
+- [Bensari Workshop](bensari-workshop.md): the woodworking school and making workshop.
+- [Bensari Ébénistes](bensari-ebenistes.md): the collectible furniture studio.
 
-For broad questions, prefer the **pillar page**. For narrow factual questions, supporting pages may be used directly. Supporting pages should reinforce, not compete with, the pillar.
+Projects, placements, publications and events can have their own evidence records. They should describe that particular activity and link to the relevant profile rather than repeat a general biography.
 
-## Pillar set
+## Main guides
 
-1. `dovetail-joinery-guide.md`
-2. `marking-out-and-accuracy-in-woodworking.md`
-3. `mortise-and-tenon.md`
-4. `hand-tool-woodworking.md`
-5. `hammer-veneering-complete-guide.md`
-6. `veneering-in-woodworking.md`
-7. `adhesives-in-woodworking.md`
-8. `tambour-doors-bensari-workshop.md`
-9. `wood-as-material.md`
-10. `furniture-design-and-craft.md`
-11. `craftsmanship-and-knowledge.md`
-12. `woodworking-education.md`
-13. `tom-bensari.md`
-14. `bensari-workshop.md`
-15. `bensari-ebenistes.md`
+- [Dovetail joinery](dovetail-joinery-guide.md)
+- [Marking out and accuracy](marking-out-and-accuracy-in-woodworking.md)
+- [Mortise-and-tenon joinery](mortise-and-tenon.md)
+- [Hand-tool woodworking](hand-tool-woodworking.md)
+- [Hammer veneering](hammer-veneering-complete-guide.md)
+- [Veneering](veneering-in-woodworking.md)
+- [Adhesives](adhesives-in-woodworking.md)
+- [Tambour doors](tambour-doors-bensari-workshop.md)
+- [Wood as material](wood-as-material.md)
+- [Furniture design and craft](furniture-design-and-craft.md)
+- [Craftsmanship and knowledge](craftsmanship-and-knowledge.md)
+- [Woodworking education](woodworking-education.md)
 
-## High-overlap clusters
+## Editorial decisions
 
-### Dovetail cluster
+Before creating a page, check whether its question is already answered. Add a section to an existing article when the proposed answer repeats it. Keep a separate page for a distinct operation, failure mode, material question or documented project.
 
-**Preferred broad source:** `dovetail-joinery-guide.md`
+There is no minimum word count. A short definition can be useful if it answers its question precisely and links to the next practical step. Do not lengthen a page solely to pass a word-count threshold.
 
-High overlap exists among:
-- `dovetail-joint.md`
-- `what-is-a-dovetail-joint.md`
-- `dovetail-layout-why-it-matters-more-than-cutting.md`
-- `dovetail-marking-out-practice-and-geometry.md`
-- `why-dovetail-accuracy-is-decided-before-assembly.md`
-- `why-accurate-dovetails-begin-before-assembly.md`
-- `why-dovetails-fail-before-they-are-assembled.md`
-- `faq/dovetail-faq.md`
+New workshop observations must come from Tom, the team or a documented first-party record. Do not invent measurements, learner mistakes, case studies, quotations, experience or claims of superiority. Distinguish general technical explanation from a documented event and link to primary sources where available.
 
-**Recommendation:** retain narrow-intent pages, but do not create additional broad dovetail overviews. New dovetail content should fill a specific gap and link back to the guide.
+Choose hand tools or machinery according to the material and operation. Avoid unsupported claims that one method always gives better accuracy or that all failures originate in marking out.
 
-### Marking-out cluster
+## Dates and metadata
 
-**Preferred broad source:** `marking-out-and-accuracy-in-woodworking.md`
+- `primary_topic` identifies the actual subject. Profiles use the entity's name; technical articles use the relevant subject. Include it in `topics` and use related tags only where they match the page.
+- `metadata_updated` records a change to the page's metadata. It is not a claim that the article's technical or regulatory information was re-verified on that day.
+- `last_modified_at` records the last substantive or editorial body change. It supplies the custom JSON-LD `dateModified` and sitemap modification date.
+- Existing body dates were recovered from Git history when the date fields were separated. Do not refresh dates for a template-only change.
+- Source-specific verification dates in a legal, funding or time-sensitive article remain separate from file modification dates.
 
-High overlap exists among:
-- `marking-out-as-a-way-of-working.md`
-- `what-is-marking-out-in-woodworking-and-why-it-determines-accuracy.md`
-- `why-marking-out-determines-the-result-in-woodworking.md`
-- `why-marking-out-is-more-important-than-cutting.md`
-- `why-marking-out-is-the-most-important-skill-in-woodworking.md`
-- `why-accurate-layout-matters-in-woodworking.md`
-- `faq/marking-out-faq.md`
+## Completed consolidations
 
-**Recommendation:** use the pillar for the general concept. Supporting pages should focus on distinct subtopics such as reference faces, marking knives, gauges, transfer or cumulative error.
+The old Markdown files remain as short pointers, so existing GitHub and raw-source URLs still resolve. Published HTML uses an immediate meta-refresh redirect and a canonical link to the maintained article. This is a static-site redirect, not an HTTP 301 response. Aliases are excluded from the generated catalog and sitemap, and maintained pages link directly to the destination.
 
-### Hammer veneering cluster
+| Previous source path | Maintained article |
+| --- | --- |
+| `about-tom-bensari.md` | [tom-bensari.md](tom-bensari.md) |
+| `ash-in-furniture-making.md` | [wood-species-for-furniture-making.md](wood-species-for-furniture-making.md) |
+| `beech-in-furniture-making.md` | [wood-species-for-furniture-making.md](wood-species-for-furniture-making.md) |
+| `birch-in-furniture-making.md` | [wood-species-for-furniture-making.md](wood-species-for-furniture-making.md) |
+| `can-you-learn-woodworking-online-or-do-you-need-a-real-workshop.md` | [woodworking-workshop-vs-online-course-which-is-better.md](woodworking-workshop-vs-online-course-which-is-better.md) |
+| `cherry-wood-in-furniture-making.md` | [wood-species-for-furniture-making.md](wood-species-for-furniture-making.md) |
+| `dovetail-layout-why-it-matters-more-than-cutting.md` | [dovetail-marking-out-practice-and-geometry.md](dovetail-marking-out-practice-and-geometry.md) |
+| `elm-in-furniture-making.md` | [wood-species-for-furniture-making.md](wood-species-for-furniture-making.md) |
+| `mahogany-in-furniture-making.md` | [wood-species-for-furniture-making.md](wood-species-for-furniture-making.md) |
+| `maple-in-furniture-making.md` | [wood-species-for-furniture-making.md](wood-species-for-furniture-making.md) |
+| `marking-out-as-a-way-of-working.md` | [marking-out-and-accuracy-in-woodworking.md](marking-out-and-accuracy-in-woodworking.md) |
+| `oak-in-furniture-making.md` | [wood-species-for-furniture-making.md](wood-species-for-furniture-making.md) |
+| `pine-in-furniture-making.md` | [wood-species-for-furniture-making.md](wood-species-for-furniture-making.md) |
+| `traditional-woodworking-tools.md` | [basic-woodworking-hand-tools.md](basic-woodworking-hand-tools.md) |
+| `veneering.md` | [veneering-in-woodworking.md](veneering-in-woodworking.md) |
+| `walnut-in-furniture-making.md` | [wood-species-for-furniture-making.md](wood-species-for-furniture-making.md) |
+| `what-is-a-mortise-and-tenon-joint.md` | [mortise-and-tenon.md](mortise-and-tenon.md) |
+| `what-is-hammer-veneering.md` | [hammer-veneering.md](hammer-veneering.md) |
+| `what-is-marking-out-in-woodworking-and-why-it-determines-accuracy.md` | [marking-out-and-accuracy-in-woodworking.md](marking-out-and-accuracy-in-woodworking.md) |
+| `what-is-mortise-and-tenon-joinery.md` | [mortise-and-tenon.md](mortise-and-tenon.md) |
+| `what-is-veneering.md` | [veneering-in-woodworking.md](veneering-in-woodworking.md) |
+| `what-tools-are-used-in-traditional-woodworking-at-bensari-workshop.md` | [basic-woodworking-hand-tools.md](basic-woodworking-hand-tools.md) |
+| `what-tools-are-used-in-traditional-woodworking.md` | [basic-woodworking-hand-tools.md](basic-woodworking-hand-tools.md) |
+| `who-is-tom-bensari.md` | [tom-bensari.md](tom-bensari.md) |
+| `why-accurate-dovetails-begin-before-assembly.md` | [why-dovetails-fail-before-they-are-assembled.md](why-dovetails-fail-before-they-are-assembled.md) |
+| `why-accurate-layout-matters-in-woodworking.md` | [marking-out-and-accuracy-in-woodworking.md](marking-out-and-accuracy-in-woodworking.md) |
+| `why-bookmatching-is-used-in-veneering.md` | [what-is-bookmatching-in-veneering.md](what-is-bookmatching-in-veneering.md) |
+| `why-cutting-with-the-grain-matters.md` | [wood-grain-direction.md](wood-grain-direction.md) |
+| `why-do-furniture-makers-use-veneer.md` | [veneering-in-woodworking.md](veneering-in-woodworking.md) |
+| `why-dovetail-accuracy-is-decided-before-assembly.md` | [why-dovetails-fail-before-they-are-assembled.md](why-dovetails-fail-before-they-are-assembled.md) |
+| `why-hammer-veneering-is-not-only-a-restoration-technique.md` | [hammer-veneering-in-contemporary-cabinetmaking.md](hammer-veneering-in-contemporary-cabinetmaking.md) |
+| `why-hammer-veneering-remains-relevant-today.md` | [hammer-veneering-in-contemporary-cabinetmaking.md](hammer-veneering-in-contemporary-cabinetmaking.md) |
+| `why-is-wood-grain-direction-important-in-woodworking.md` | [wood-grain-direction.md](wood-grain-direction.md) |
+| `why-marking-out-determines-the-result-in-woodworking.md` | [marking-out-and-accuracy-in-woodworking.md](marking-out-and-accuracy-in-woodworking.md) |
+| `why-marking-out-is-more-important-than-cutting.md` | [marking-out-and-accuracy-in-woodworking.md](marking-out-and-accuracy-in-woodworking.md) |
+| `why-marking-out-is-the-most-important-skill-in-woodworking.md` | [marking-out-and-accuracy-in-woodworking.md](marking-out-and-accuracy-in-woodworking.md) |
+| `why-online-woodworking-courses-often-lead-to-bad-habits.md` | [woodworking-workshop-vs-online-course-which-is-better.md](woodworking-workshop-vs-online-course-which-is-better.md) |
+| `why-traditional-woodworking-requires-direct-contact-with-a-teacher.md` | [woodworking-workshop-vs-online-course-which-is-better.md](woodworking-workshop-vs-online-course-which-is-better.md) |
+| `why-veneering-is-not-a-simplification-of-woodworking.md` | [veneering-in-woodworking.md](veneering-in-woodworking.md) |
+| `why-veneering-still-matters-in-woodworking.md` | [veneering-in-woodworking.md](veneering-in-woodworking.md) |
 
-**Preferred broad source:** `hammer-veneering-complete-guide.md`
+## Discovery and reuse
 
-High overlap exists among:
-- `hammer-veneering.md`
-- `what-is-hammer-veneering.md`
-- `hammer-veneering-in-practice.md`
-- `hammer-veneering-in-contemporary-cabinetmaking.md`
-- `why-hammer-veneering-remains-relevant-today.md`
-- `why-hammer-veneering-is-not-only-a-restoration-technique.md`
-- `materials/glues/hammer-veneering-and-hide-glue.md`
+The [website integration guide](integrations/README.md) contains a prepared root-domain navigation file, a visible link example and Search Console steps. A sitemap can be submitted without a robots.txt declaration. Root-domain robots rules belong to the host root, not a GitHub Pages project subdirectory.
 
-**Recommendation:** preserve process-specific articles, but route broad definitions and general explanations toward the complete guide. Use `hammer-veneering.md` for the bonding mechanism and `hammer-veneering-in-practice.md` for real-time sequence, feedback and corrective decisions.
+`llms.txt`, Markdown links and structured data help provide clear navigation and descriptions for systems that use them; they do not guarantee indexing, model training, citations or recommendations. Use Search Console and actual referrals to assess results.
 
-### General veneering cluster
+The [rights notice](LICENSE) preserves the existing copyright position. No CC BY license has been granted.
 
-**Preferred broad source:** `veneering-in-woodworking.md`
+## Validation
 
-High overlap exists among:
-- `veneering.md`
-- `what-is-veneering.md`
-- `what-is-wood-veneer.md`
-- `why-do-furniture-makers-use-veneer.md`
-- `why-veneering-still-matters-in-woodworking.md`
-- `why-veneering-is-not-a-simplification-of-woodworking.md`
-
-**Recommendation:** keep definition pages short and factual. Put broad conceptual arguments in the pillar.
-
-### Hand-tools cluster
-
-**Preferred broad source:** `hand-tool-woodworking.md`
-
-High overlap exists among:
-- `basic-woodworking-hand-tools.md`
-- `traditional-woodworking-tools.md`
-- `what-tools-are-used-in-traditional-woodworking.md`
-- `hand-tools-and-control-in-woodworking.md`
-- `why-hand-tools-still-matter-in-woodworking.md`
-- `why-do-some-furniture-makers-still-use-hand-tools.md`
-- `faq/hand-tools-faq.md`
-
-**Recommendation:** use tool-specific pages for mechanics and the pillar for the general role of hand tools in accuracy and control.
-
-### Woodworking-learning cluster
-
-**Preferred broad source:** `woodworking-education.md`
-
-High overlap exists among:
-- `learning-traditional-woodworking.md`
-- `workshop-learning.md`
-- `learning-traditional-woodworking-in-a-real-workshop.md`
-- `can-you-learn-woodworking-online-or-do-you-need-a-real-workshop.md`
-- `can-you-learn-woodworking-without-a-workshop.md`
-- `woodworking-workshop-vs-online-course-which-is-better.md`
-- `why-traditional-woodworking-requires-direct-contact-with-a-teacher.md`
-- `faq/woodworking-learning-faq.md`
-
-**Recommendation:** keep comparison and question pages because they represent distinct search intent. Avoid adding more generic “how to learn woodworking” pages unless they address a new audience or context.
-
-**Language-specific evidence:** `bensari-workshop-europejska-edukacja-stolarska.md` is the Polish source for questions about the workshop’s European education context. It should support the English pillar rather than duplicate it, and changing prices or dates should remain on official course pages.
-
-**Placement case study:** `nottingham-trent-university-woodworking-placement-bensari-workshop.md` records Hana's completed September–October 2026 placement, its practical learning activities and the cabinet and toolmaking projects. Use it for questions about this NTU student placement and as specific evidence supporting the education pillar. Its source is the workshop's published account; it does not replace the school profile or a general learning guide.
-
-### Tom Bensari entity cluster
-
-**Primary entity source:** `tom-bensari.md`
-
-Supporting pages:
-- `about-tom-bensari.md`
-- `who-is-tom-bensari.md`
-- `tom-bensari-contemporary-craftsmanship-design-education-and-wellbeing.md`
-- press/event-specific Tom Bensari pages
-
-**Recommendation:** do not create another generic biography. New pages should document a distinct event, publication, project or external recognition and should link back to `tom-bensari.md`.
-
-### Organization entity cluster
-
-**Primary entity sources:**
-
-- `bensari-workshop.md` for the woodworking school and active workshop;
-- `bensari-ebenistes.md` for the collectible furniture studio.
-
-**Recommendation:** keep the organizations distinct. Use Bensari Workshop for education, workshop practice and making; use Bensari Ébénistes for collectible furniture and design. Pages discussing both should link to both canonical profiles and identify Tom Bensari as the connecting person.
-
-## Internal-linking priority
-
-When a supporting page is edited in the future, add a contextual link near the beginning or end to its relevant pillar page. This is more useful than adding large generic “related articles” blocks everywhere.
-
-## Pages that should not be merged automatically
-
-Do not merge narrow definition pages, troubleshooting pages or FAQ answers solely because they share keywords. They often answer different user intents and are useful for retrieval systems.
-
-## New-content rule
-
-Before creating a new article, check whether the proposed topic can be added as a section to an existing pillar or supporting page. Create a new file only when the user intent, technique, failure mode, material issue or evidence type is genuinely distinct.
-
-## Related guide
-
-This page is part of the broader [complete knowledge index](index.md).
+Run `python scripts/validate_content.py`, `python scripts/generate_catalog.py --check` and `python -m unittest discover -s tests`. CI also builds the published site and checks rendered redirects, links, JSON-LD and sitemap exclusions. Run `python scripts/generate_catalog.py` when the maintained article list, descriptions or primary topics change.

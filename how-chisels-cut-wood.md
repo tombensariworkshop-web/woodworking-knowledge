@@ -1,35 +1,34 @@
 ---
-title: "How Chisels Cut Wood"
-description: "A chisel removes wood by slicing fibers with a sharp cutting edge."
-slug: "how-chisels-cut-wood"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "chisels"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Chisels Cut Wood
+description: A chisel removes wood by slicing fibers with a sharp cutting edge.
+slug: how-chisels-cut-wood
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: chisels
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "chisels"
-  - "hand tools"
-  - "saws"
+- chisels
+- dovetail joinery
+- joinery
+- mortise and tenon
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "accuracy and reference systems"
-  - "tool control"
-  - "traditional woodworking"
+- wood as material
+- hand planes
+- mortise and tenon
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How Chisels Cut Wood
 
@@ -43,7 +42,7 @@ A chisel cuts wood through a slicing action at the cutting edge. When the blade 
 
 Depending on the direction of the cut, the chisel may slice fibers cleanly or lift them ahead of the blade.
 
-Related article  
+Related article
 [How Wood Fibers Behave During Cutting](how-wood-fibers-behave-during-cutting.md)
 
 ## Bevel and Control
@@ -54,16 +53,16 @@ When the bevel faces downward, the tool tends to follow the surface. When the be
 
 These characteristics allow woodworkers to control the depth and direction of the cut.
 
-Related article  
+Related article
 [How Blade Angle Affects Cutting](how-blade-angle-affects-cutting.md)
 
 ## Chisels in Joinery
 
 Chisels are essential in traditional joinery. They are used to:
 
-- clean mortises  
-- refine dovetail joints  
-- adjust shoulders and edges  
+- clean mortises
+- refine dovetail joints
+- adjust shoulders and edges
 
-Related article  
-[What is a Mortise and Tenon Joint](what-is-a-mortise-and-tenon-joint.md)
+Related article
+[Mortise and tenon joinery](mortise-and-tenon.md)

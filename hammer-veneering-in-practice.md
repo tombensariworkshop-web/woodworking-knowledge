@@ -1,36 +1,33 @@
 ---
-title: "Hammer veneering in practice – control, glue behavior and real work"
-description: "A practical guide to sequencing hammer strokes, reading the glue and checking veneer contact while hot hide glue remains workable."
-slug: "hammer-veneering-in-practice"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Hammer veneering in practice – control, glue behavior and real work
+description: A practical guide to sequencing hammer strokes, reading the glue and checking veneer contact while hot hide glue remains workable.
+slug: hammer-veneering-in-practice
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- hammer veneering
+- veneering
+- hide glue
+- Bensari Workshop
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- hide glue
+- veneering
+- wood movement
+- furniture construction
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-10-12"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Hammer veneering in practice – control, glue behavior and real work
 
@@ -86,4 +83,4 @@ At Bensari Workshop this sequence is taught with the same type of hot hide glue 
 - [How pressure is controlled in hammer veneering](how-pressure-is-controlled-in-hammer-veneering.md)
 - [How veneers are prepared before hammer veneering](how-veneers-are-prepared-before-hammer-veneering.md)
 - [Hammer veneering and hide glue](materials/glues/hammer-veneering-and-hide-glue.md)
-- [Veneering knowledge hub](veneering.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)

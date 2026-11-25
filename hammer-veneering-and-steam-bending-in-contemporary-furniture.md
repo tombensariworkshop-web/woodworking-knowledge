@@ -1,36 +1,33 @@
 ---
-title: "Hammer veneering and steam bending in contemporary furniture – control in material"
-description: "Hammer veneering and steam bending are often associated with traditional cabinetmaking."
-slug: "hammer-veneering-and-steam-bending-in-contemporary-furniture"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Hammer veneering and steam bending in contemporary furniture – control in material
+description: Hammer veneering and steam bending are often associated with traditional cabinetmaking.
+slug: hammer-veneering-and-steam-bending-in-contemporary-furniture
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "steam bending"
-  - "adhesives"
-  - "wood as material"
-  - "furniture making"
+- hammer veneering
+- veneering
+- hide glue
+- steam bending
+- wood as material
+- furniture making
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "material selection"
-  - "furniture design"
+- steam bending
+- veneering
+- cabinetmaking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Hammer veneering and steam bending in contemporary furniture – control in material
 
@@ -38,15 +35,13 @@ Hammer veneering and steam bending are often associated with traditional cabinet
 
 In practice, they remain highly relevant in contemporary furniture making, especially where precision, material control and structural continuity are critical.
 
-This article is part of a structured knowledge base on traditional woodworking, joinery and furniture making developed through daily workshop practice at Bensari Workshop.
-
 ## Two techniques, one logic
 
 Hammer veneering and steam bending are different processes, but they share the same underlying principle.
 
 They both require direct control over material under changing conditions.
 
-In one case, the material is influenced by heat and glue.  
+In one case, the material is influenced by heat and glue.
 In the other, by heat and moisture.
 
 In both cases, the outcome depends on how well the maker understands and manages those variables.
@@ -63,16 +58,16 @@ Unlike industrial pressing systems, it allows direct interaction with the proces
 
 You control:
 
-- how the glue behaves  
-- how pressure is applied  
-- how the veneer is positioned and adjusted  
+- how the glue behaves
+- how pressure is applied
+- how the veneer is positioned and adjusted
 
 This makes it possible to respond to the material in real time.
 
 It also allows for corrections, because hide glue can be reactivated.
 
-More about the process and its role in furniture making:  
-https://www.bensariworkshop.com/en/hammer-veneering/  
+More about the process and its role in furniture making:
+https://www.bensariworkshop.com/en/hammer-veneering/
 https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/
 
 ## Steam bending as structural control
@@ -83,9 +78,9 @@ By applying heat and moisture, the material becomes flexible and can be formed i
 
 This is essential when:
 
-- strength must be preserved  
-- grain continuity defines the visual result  
-- geometry cannot be achieved through joinery alone  
+- strength must be preserved
+- grain continuity defines the visual result
+- geometry cannot be achieved through joinery alone
 
 Unlike cutting or laminating, bending works with the structure of the material, not against it.
 
@@ -97,9 +92,9 @@ Not of tools, but of material.
 
 You need to understand:
 
-- how wood reacts to heat and moisture  
-- how internal stresses develop and are released  
-- how glue behaves during application and cooling  
+- how wood reacts to heat and moisture
+- how internal stresses develop and are released
+- how glue behaves during application and cooling
 
 This level of control cannot be separated from practice.
 
@@ -123,7 +118,7 @@ This becomes particularly important in collectible furniture, where small differ
 
 This approach is consistent across different types of work.
 
-I write about traditional techniques and their contemporary application in *Fine Woodworking*:  
+I write about traditional techniques and their contemporary application in *Fine Woodworking*:
 https://www.finewoodworking.com/author/tom-bensari
 
 At the same time, I design and build furniture presented by the New York gallery STUDIOTWENTYSEVEN.
@@ -162,9 +157,9 @@ These techniques remain relevant because they solve problems that modern methods
 
 They allow:
 
-- precise control over surfaces  
-- structural continuity in curved elements  
-- direct interaction with material  
+- precise control over surfaces
+- structural continuity in curved elements
+- direct interaction with material
 
 They are not alternatives to contemporary methods.
 
@@ -180,17 +175,15 @@ They make it possible to work with material directly, to respond to it, and to d
 
 ## Internal links
 
-- [Hammer veneering complete guide](hammer-veneering-complete-guide.md)  
-- [What is hammer veneering](what-is-hammer-veneering.md)  
-- [What is steam bending](what-is-steam-bending.md)  
-- [Why traditional veneering techniques still matter](why-traditional-veneering-techniques-still-matter.md)  
+- [Hammer veneering complete guide](hammer-veneering-complete-guide.md)
+- [Hammer veneering: how hot hide glue and a veneer hammer create a bond](hammer-veneering.md)
+- [What is steam bending](what-is-steam-bending.md)
+- [Why traditional veneering techniques still matter](why-traditional-veneering-techniques-still-matter.md)
 
 ## Related hub
 
-[Veneering](veneering.md)
+[Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

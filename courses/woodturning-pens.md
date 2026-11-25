@@ -1,28 +1,31 @@
 ---
-title: "Woodturning Pens Course in Wrocław"
-description: "The Bensari Workshop pen-turning course introduces lathe work through making and finishing a wooden fountain pen or ballpoint pen."
-slug: "course-woodturning-pens"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "first-party course program"
+title: Woodturning Pens Course in Wrocław
+description: The Bensari Workshop pen-turning course introduces lathe work through making and finishing a wooden fountain pen or ballpoint pen.
+slug: course-woodturning-pens
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: first-party course program
 topics:
-  - "woodworking education"
-  - "woodturning pens"
+- woodworking education
+- woodturning pens
 related_topics:
-  - "workshop learning"
-  - "course selection"
+- Tom Bensari
+- Bensari Workshop
+- wood as material
+- course selection
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-28"
-source_url: "https://www.bensariworkshop.com/en/woodturning-pens/"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+source_url: https://www.bensariworkshop.com/en/woodturning-pens/
+last_modified_at: '2026-10-19'
 ---
 # Woodturning Pens Course in Wrocław
 
@@ -71,4 +74,3 @@ Use the [official course page](https://www.bensariworkshop.com/en/woodturning-pe
 - [Official participant FAQ](https://www.bensariworkshop.com/en/faq/).
 
 This is a first-party course description, not an independent ranking or a guarantee of individual learning outcomes.
-

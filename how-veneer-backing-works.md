@@ -1,33 +1,28 @@
 ---
-title: "How Veneer Backing Works"
-description: "In veneered furniture construction, the visible veneer surface is often accompanied by a backing veneer on the opposite side of the panel."
-slug: "how-veneer-backing-works"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Veneer Backing Works
+description: In veneered furniture construction, the visible veneer surface is often accompanied by a backing veneer on the opposite side of the panel.
+slug: how-veneer-backing-works
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "wood as material"
-  - "furniture making"
-  - "traditional woodworking"
+- veneering
+- wood as material
+- furniture making
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "joinery"
-  - "material selection"
+- wood movement
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Veneer Backing Works
 
@@ -53,6 +48,6 @@ Adding a backing veneer helps keep the panel flat and stable over time.
 
 For this reason traditional cabinetmaking often includes veneer on both faces of a panel, even when one side is not visible.
 
-Related articles  
+Related articles
 - [Why veneered surfaces are stable – structure, balance and material control](why-veneered-surfaces-are-stable.md)
 - [How balanced veneering prevents panel warping – symmetry, stress and material control](how-balanced-veneering-prevents-panel-warping.md)

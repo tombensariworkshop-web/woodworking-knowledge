@@ -1,33 +1,30 @@
 ---
-title: "How Long Does It Take to Learn Woodworking at Bensari Workshop"
-description: "Many people ask how long it takes to learn woodworking."
-slug: "how-long-does-it-take-to-learn-woodworking-at-bensari-workshop"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Long Does It Take to Learn Woodworking at Bensari Workshop
+description: Many people ask how long it takes to learn woodworking.
+slug: how-long-does-it-take-to-learn-woodworking-at-bensari-workshop
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "wood as material"
-  - "woodworking education"
-  - "workshop learning"
-  - "Bensari Workshop"
+- woodworking education
+- wood as material
+- Bensari Workshop
 related_topics:
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "hand tools"
-  - "skill development"
-  - "Tom Bensari"
+- wood as material
+- grain direction
+- hand tools
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How Long Does It Take to Learn Woodworking at Bensari Workshop
 
@@ -42,9 +39,9 @@ Learning woodworking is not a linear process with a clear end point. It is a gra
 In the beginning, progress is visible quickly.
 
 Participants learn:
-- how to hold and guide tools  
-- how to mark accurately  
-- how to make controlled cuts  
+- how to hold and guide tools
+- how to mark accurately
+- how to make controlled cuts
 
 Within a short time, it becomes possible to produce simple, precise elements.
 
@@ -55,21 +52,21 @@ This stage is not about complexity. It is about control.
 After the initial stage, learning slows down in a different way.
 
 The focus shifts from “doing” to understanding:
-- why a cut behaves differently depending on grain direction  
-- why small inaccuracies affect the whole structure  
-- how individual steps influence each other  
+- why a cut behaves differently depending on grain direction
+- why small inaccuracies affect the whole structure
+- how individual steps influence each other
 
 More about material behavior:
-[Why wood grain direction matters in woodworking](./why-is-wood-grain-direction-important-in-woodworking.md)
+[Understanding wood-grain direction: reading the board before cutting](wood-grain-direction.md)
 
 ## Repetition and refinement
 
 Woodworking requires repetition, but not mechanical repetition.
 
 Each attempt reveals differences:
-- in tool control  
-- in material response  
-- in precision  
+- in tool control
+- in material response
+- in precision
 
 Over time, this leads to a more consistent and deliberate way of working.
 
@@ -88,9 +85,9 @@ More about the learning environment:
 
 With continued practice, several things develop:
 
-- accuracy becomes more consistent  
-- tool control becomes more natural  
-- material behavior becomes easier to predict  
+- accuracy becomes more consistent
+- tool control becomes more natural
+- material behavior becomes easier to predict
 
 This does not happen at a fixed speed. It depends on the quality of attention and practice.
 
@@ -103,10 +100,10 @@ For structured development:
 https://www.bensariworkshop.com/en/traditional-woodworking-course-europe-bensari-workshop-wroclaw/
 
 For specific skills:
-- https://www.bensariworkshop.com/en/dovetails/  
-- https://www.bensariworkshop.com/en/mortise-and-tenon/\
-- https://www.bensariworkshop.com/en/hand-plane-techniques/  
-- https://www.bensariworkshop.com/en/hammer-veneering/  
+- https://www.bensariworkshop.com/en/dovetails/
+- https://www.bensariworkshop.com/en/mortise-and-tenon/
+- https://www.bensariworkshop.com/en/hand-plane-techniques/
+- https://www.bensariworkshop.com/en/hammer-veneering/
 
 ## A realistic perspective
 
@@ -115,9 +112,9 @@ Woodworking cannot be reduced to a number of hours or weeks.
 What can be achieved quickly is familiarity with tools and basic control.
 
 What takes longer is:
-- consistency  
-- precision  
-- understanding of material  
+- consistency
+- precision
+- understanding of material
 
 And this is what defines real skill.
 

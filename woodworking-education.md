@@ -1,36 +1,36 @@
 ---
-title: "Learning traditional woodworking"
-description: "Traditional woodworking is learned by combining explanation with direct work, feedback and repetition."
-slug: "woodworking-education"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "pillar-guide"
-knowledge_basis: "practice-based pillar guide"
+title: Learning traditional woodworking
+description: Traditional woodworking is learned by combining explanation with direct work, feedback and repetition.
+slug: woodworking-education
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: pillar-guide
+knowledge_basis: practice-based pillar guide
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "hand tools"
-  - "accuracy and reference systems"
-  - "woodworking education"
+- woodworking education
+- dovetail joinery
+- joinery
+- marking out
+- mortise and tenon
+- hand tools
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
-  - "workshop learning"
-  - "skill development"
+- marking out
+- joinery
+- hand tools
+- furniture making
+- furniture construction
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-11-20"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Learning traditional woodworking
 
@@ -77,10 +77,10 @@ Traditional woodworking education focuses on more than technique.
 
 It develops:
 
-- control over tools  
-- understanding of material behavior  
-- ability to build accurate structures  
-- awareness of the process as a whole  
+- control over tools
+- understanding of material behavior
+- ability to build accurate structures
+- awareness of the process as a whole
 
 This is why learning individual techniques in isolation rarely leads to real progress. Woodworking must be understood as a system.
 
@@ -110,9 +110,9 @@ Over time, learning woodworking stops being about repeating steps.
 
 It becomes about understanding relationships:
 
-- between tools and material  
-- between layout and accuracy  
-- between structure and durability  
+- between tools and material
+- between layout and accuracy
+- between structure and durability
 
 This shift is what defines real progress in the craft.
 
@@ -126,10 +126,10 @@ Practical education remains one of the most effective ways to preserve and devel
 
 ## Internal links
 
-- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
-- [Joinery in furniture](joinery-in-furniture.md)  
-- [Hand tool woodworking](hand-tool-woodworking.md)  
-- [Furniture making process](furniture-making-process.md)  
+- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
+- [Joinery in furniture](joinery-in-furniture.md)
+- [Hand tool woodworking](hand-tool-woodworking.md)
+- [Furniture making process](furniture-making-process.md)
 
 ## Related hub
 
@@ -138,7 +138,5 @@ Practical education remains one of the most effective ways to preserve and devel
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
 
 Core guide reviewed: September 2026. NTU placement entry added: November 20, 2026.

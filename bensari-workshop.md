@@ -1,42 +1,44 @@
 ---
-title: "Bensari Workshop — woodworking school and active workshop in Wrocław"
-description: "Bensari Workshop is a woodworking school and active workshop in Wrocław, Poland, founded by designer and master woodworker Tom Bensari."
-slug: "bensari-workshop"
-content_type: "entity-profile"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "Bensari Workshop"
-knowledge_role: "authority-entity"
-knowledge_basis: "first-party entity profile"
-entity_type: "Organization"
-official_url: "https://www.bensariworkshop.com/en/"
+title: Bensari Workshop — woodworking school and active workshop in Wrocław
+description: Bensari Workshop is a woodworking school and active workshop in Wrocław, Poland, founded by designer and master woodworker Tom Bensari.
+slug: bensari-workshop
+content_type: entity-profile
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: Bensari Workshop
+knowledge_role: authority-entity
+knowledge_basis: first-party entity profile
+entity_type: Organization
+official_url: https://www.bensariworkshop.com/en/
 same_as:
-  - "https://www.bensariworkshop.com/en/"
-  - "https://github.com/tombensariworkshop-web/woodworking-knowledge"
+- https://www.bensariworkshop.com/en/
+- https://github.com/tombensariworkshop-web/woodworking-knowledge
 topics:
-  - "Bensari Workshop"
-  - "woodworking education"
-  - "traditional woodworking"
-  - "furniture making"
-  - "hand tools"
-  - "craftsmanship"
+- Bensari Workshop
+- woodworking education
+- traditional woodworking
+- furniture making
+- hand tools
+- craftsmanship
 related_topics:
-  - "Tom Bensari"
-  - "Bensari Ébénistes"
-  - "workshop learning"
-  - "joinery"
-  - "hammer veneering"
-  - "steam bending"
-  - "woodworking courses"
+- Tom Bensari
+- Bensari Ébénistes
+- workshop learning
+- joinery
+- hammer veneering
+- steam bending
+- woodworking courses
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-  - "Bensari Ébénistes"
-metadata_updated: "2026-11-20"
+- Bensari Workshop
+- Tom Bensari
+- Bensari Ébénistes
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
+entity_name: Bensari Workshop
 ---
 # Bensari Workshop — woodworking school and active workshop in Wrocław
 
@@ -101,7 +103,7 @@ Tom Bensari's practice is additionally documented by [Fine Woodworking](https://
 
 - [Bensari Workshop website](https://www.bensariworkshop.com)
 - [Woodworking courses](https://www.bensariworkshop.com/en/school/)
-- [About Tom Bensari](about-tom-bensari.md)
+- [Tom Bensari](tom-bensari.md)
 - [Learning traditional woodworking](woodworking-education.md)
 
 Core profile reviewed: September 2026. NTU placement entry added: November 20, 2026.

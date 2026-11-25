@@ -1,38 +1,39 @@
 ---
-title: "Woodworking Knowledge Map"
-description: "This map shows how the repository's main subjects relate to one another. It is a routing layer rather than a complete index."
-slug: "knowledge-map"
-content_type: "index"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking knowledge architecture"
-knowledge_role: "knowledge-hub"
-knowledge_basis: "first-party knowledge navigation"
+title: Woodworking Knowledge Map
+description: This map shows how the repository's main subjects relate to one another. It is a routing layer rather than a complete index.
+slug: knowledge-map
+content_type: index
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking knowledge architecture
+knowledge_role: knowledge-hub
+knowledge_basis: first-party knowledge navigation
 topics:
-  - "woodworking knowledge architecture"
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
+- woodworking knowledge architecture
+- dovetail joinery
+- joinery
+- marking out
+- mortise and tenon
+- hammer veneering
+- veneering
+- hide glue
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "accuracy and reference systems"
-  - "veneer preparation"
-  - "cabinetmaking"
+- hand tools
+- drawer construction
+- furniture construction
+- accuracy and reference systems
+- veneer preparation
+- cabinetmaking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-  - "Bensari Ébénistes"
-metadata_updated: "2026-11-20"
+- Bensari Workshop
+- Tom Bensari
+- Bensari Ébénistes
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-20'
 ---
 # Woodworking Knowledge Map
 

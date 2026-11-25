@@ -1,36 +1,30 @@
 ---
-title: "Why veneer is cut slightly oversized – positioning, movement and control"
-description: "In traditional veneering, veneer sheets are cut slightly larger than the final dimensions of the panel."
-slug: "why-veneer-is-cut-slightly-oversized"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why veneer is cut slightly oversized – positioning, movement and control
+description: In traditional veneering, veneer sheets are cut slightly larger than the final dimensions of the panel.
+slug: why-veneer-is-cut-slightly-oversized
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- veneering
+- hammer veneering
+- Bensari Workshop
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- hammer veneering
+- wood movement
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why veneer is cut slightly oversized – positioning, movement and control
 
@@ -39,8 +33,6 @@ In traditional veneering, veneer sheets are cut slightly larger than the final d
 This is not a precaution.
 
 It is part of how control is maintained during the process.
-
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Positioning before fixation
 
@@ -80,9 +72,9 @@ It is achieved after the glue has set.
 
 At this stage, the veneer can be trimmed flush with the substrate using:
 
-- planes  
-- knives  
-- scrapers  
+- planes
+- knives
+- scrapers
 
 This sequence is intentional.
 
@@ -96,9 +88,9 @@ In practice, it is an allowance for control.
 
 It creates space for:
 
-- adjustment  
-- movement  
-- refinement  
+- adjustment
+- movement
+- refinement
 
 Removing this allowance removes the ability to respond during the process.
 
@@ -114,8 +106,8 @@ This is why techniques based on direct control, such as hammer veneering, remain
 
 To understand this in a broader context:
 
-- [What is veneering](what-is-veneering.md)  
-- [Veneering](veneering.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Conclusion
 
@@ -128,5 +120,3 @@ This difference defines the entire process.
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

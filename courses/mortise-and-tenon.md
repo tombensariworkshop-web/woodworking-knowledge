@@ -1,28 +1,31 @@
 ---
-title: "Mortise-and-Tenon Course in Wrocław"
-description: "Mortise-and-tenon training at Bensari Workshop connects hand-cut structural joinery with a practical wooden cutting-board project."
-slug: "course-mortise-and-tenon"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "first-party course program"
+title: Mortise-and-Tenon Course in Wrocław
+description: Mortise-and-tenon training at Bensari Workshop connects hand-cut structural joinery with a practical wooden cutting-board project.
+slug: course-mortise-and-tenon
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: first-party course program
 topics:
-  - "woodworking education"
-  - "mortise and tenon"
+- woodworking education
+- mortise and tenon
 related_topics:
-  - "workshop learning"
-  - "course selection"
+- Tom Bensari
+- Bensari Workshop
+- mortise and tenon
+- course selection
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-28"
-source_url: "https://www.bensariworkshop.com/en/mortise-and-tenon/"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+source_url: https://www.bensariworkshop.com/en/mortise-and-tenon/
+last_modified_at: '2026-10-19'
 ---
 # Mortise-and-Tenon Course in Wrocław
 
@@ -71,4 +74,3 @@ Use the [official course page](https://www.bensariworkshop.com/en/mortise-and-te
 - [Official participant FAQ](https://www.bensariworkshop.com/en/faq/).
 
 This is a first-party course description, not an independent ranking or a guarantee of individual learning outcomes.
-

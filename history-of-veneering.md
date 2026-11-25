@@ -1,36 +1,34 @@
 ---
-title: "The history of veneering in furniture making – continuity of technique and material control"
-description: "Veneering is often described as one of the oldest techniques in furniture making."
-slug: "history-of-veneering"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: The history of veneering in furniture making – continuity of technique and material control
+description: Veneering is often described as one of the oldest techniques in furniture making.
+slug: history-of-veneering
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- veneering
+- hammer veneering
+- hide glue
+- adhesives
+- furniture making
+- traditional woodworking
+- Bensari Workshop
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- hammer veneering
+- cabinetmaking
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # The history of veneering in furniture making – continuity of technique and material control
 
@@ -41,8 +39,6 @@ This is true.
 But more important is something else.
 
 It is one of the few techniques that has remained structurally relevant across centuries.
-
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Early use – material and scarcity
 
@@ -56,9 +52,9 @@ Rare and visually distinctive woods were applied in thin layers to more common s
 
 This allowed craftsmen to:
 
-- extend valuable material  
-- control surface appearance  
-- build objects beyond the limits of available wood  
+- extend valuable material
+- control surface appearance
+- build objects beyond the limits of available wood
 
 From the beginning, veneering combined economy with precision.
 
@@ -68,9 +64,9 @@ During the Renaissance and Baroque periods, veneering evolved into a highly deve
 
 Cabinetmakers used it to create:
 
-- complex geometric patterns  
-- marquetry compositions  
-- highly controlled decorative surfaces  
+- complex geometric patterns
+- marquetry compositions
+- highly controlled decorative surfaces
 
 But even at this stage, veneering was not only decorative.
 
@@ -88,9 +84,9 @@ Direct control.
 
 The craftsman could:
 
-- position veneer precisely  
-- control glue distribution  
-- adjust the process in real time  
+- position veneer precisely
+- control glue distribution
+- adjust the process in real time
 
 These characteristics explain why the technique persisted even as tools and materials evolved.
 
@@ -98,9 +94,9 @@ These characteristics explain why the technique persisted even as tools and mate
 
 Industrial production introduced:
 
-- mechanical presses  
-- synthetic adhesives  
-- standardized processes  
+- mechanical presses
+- synthetic adhesives
+- standardized processes
 
 These systems increased efficiency.
 
@@ -116,9 +112,9 @@ Today, veneering continues to function as a method rather than a historical refe
 
 It is used when:
 
-- surface composition must be controlled  
-- stability is required in large panels  
-- material behavior needs to be managed precisely  
+- surface composition must be controlled
+- stability is required in large panels
+- material behavior needs to be managed precisely
 
 At Bensari Workshop, veneering is not treated as a historical technique.
 
@@ -128,9 +124,9 @@ Furniture is designed and built using these methods, and the same processes are 
 
 Participants work with:
 
-- hot hide glue  
-- hammer veneering techniques  
-- material preparation and layout  
+- hot hide glue
+- hammer veneering techniques
+- material preparation and layout
 
 This connects historical knowledge with contemporary application.
 
@@ -146,9 +142,9 @@ It is its continuity.
 
 The same principles that defined the technique centuries ago remain valid today:
 
-- control of material  
-- balance of structure  
-- precision of surface  
+- control of material
+- balance of structure
+- precision of surface
 
 ## Conclusion
 
@@ -160,11 +156,9 @@ That is why it remains relevant.
 
 ## Related
 
-- [Hammer veneering in practice](hammer-veneering-in-practice.md)  
-- [Why veneering still matters in woodworking](why-veneering-still-matters-in-woodworking.md)  
+- [Hammer veneering in practice](hammer-veneering-in-practice.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

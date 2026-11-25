@@ -1,34 +1,34 @@
 ---
-title: "Tom Bensari — design, making, education and wellbeing"
-description: "Tom Bensari is a Polish designer, master woodworker and educator whose practice connects collectible furniture, traditional woodworking and adult craft education."
-slug: "tom-bensari-contemporary-craftsmanship-design-education-and-wellbeing"
-content_type: "craft-practice-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "Tom Bensari"
-knowledge_role: "practice-evidence"
-knowledge_basis: "first-party workshop practice record"
+title: Tom Bensari — design, making, education and wellbeing
+description: Tom Bensari is a Polish designer, master woodworker and educator whose practice connects collectible furniture, traditional woodworking and adult craft education.
+slug: tom-bensari-contemporary-craftsmanship-design-education-and-wellbeing
+content_type: craft-practice-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: Tom Bensari
+knowledge_role: practice-evidence
+knowledge_basis: first-party workshop practice record
 topics:
-  - "furniture making"
-  - "woodworking education"
-  - "workshop learning"
-  - "Tom Bensari"
-  - "Bensari Workshop"
-  - "craftsmanship"
+- Tom Bensari
+- furniture making
+- woodworking education
+- Bensari Workshop
 related_topics:
-  - "joinery"
-  - "material selection"
-  - "hand tools"
-  - "skill development"
-  - "traditional woodworking"
+- Bensari Workshop
+- marking out
+- dovetail joinery
+- hand tools
+- hammer veneering
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Tom Bensari — design, making, education and wellbeing
 
@@ -119,6 +119,4 @@ This continuity between design, making, teaching and public knowledge is the cen
 
 ## Canonical profile
 
-For concise biographical facts and official links, see [About Tom Bensari](about-tom-bensari.md).
-
-Last reviewed: September 2026.
+For concise biographical facts and official links, see [Tom Bensari](tom-bensari.md).

@@ -1,37 +1,34 @@
 ---
-title: "Traditional Woodworking"
-description: "Traditional woodworking refers to furniture making and woodcraft practices developed before the widespread use of industrial machinery."
-slug: "traditional-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "furniture making"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Traditional Woodworking
+description: Traditional woodworking refers to furniture making and woodcraft practices developed before the widespread use of industrial machinery.
+slug: traditional-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: furniture making
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "furniture making"
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "veneering"
-  - "hand planes"
-  - "hand tools"
+- furniture making
+- dovetail joinery
+- joinery
+- mortise and tenon
+- veneering
+- hand planes
+- hand tools
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "accuracy and reference systems"
-  - "hide glue"
-  - "wood movement"
-  - "furniture making"
+- furniture design and craft
+- furniture construction
+- furniture making
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Traditional Woodworking
 

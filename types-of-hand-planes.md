@@ -1,32 +1,29 @@
 ---
-title: "Types of Hand Planes"
-description: "Different types of hand planes are used in woodworking depending on the task being performed."
-slug: "types-of-hand-planes"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hand planes"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Types of Hand Planes
+description: Different types of hand planes are used in woodworking depending on the task being performed.
+slug: types-of-hand-planes
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand planes
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "traditional woodworking"
-  - "surface preparation"
+- hand planes
+- hand tools
+- traditional woodworking
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "marking out"
-  - "joinery"
-  - "craft education"
+- hand tools
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Types of Hand Planes
 

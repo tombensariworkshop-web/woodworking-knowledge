@@ -1,36 +1,36 @@
 ---
-title: "Furniture-making process — from design to finished structure"
-description: "How design, material selection, reference preparation, joinery, assembly, surface preparation and finishing form one furniture-making process."
-slug: "furniture-making-process"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "furniture making"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Furniture-making process — from design to finished structure
+description: How design, material selection, reference preparation, joinery, assembly, surface preparation and finishing form one furniture-making process.
+slug: furniture-making-process
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: furniture making
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "hand tools"
-  - "furniture making"
-  - "woodworking education"
-  - "workshop learning"
-  - "Bensari Workshop"
-  - "traditional woodworking"
+- furniture making
+- veneering
+- hand tools
+- woodworking education
+- Bensari Workshop
+- traditional woodworking
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "tool control"
-  - "marking out"
-  - "joinery"
-  - "material selection"
+- wood as material
+- marking out
+- dovetail joinery
+- mortise and tenon
+- joinery
+- hand tools
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Furniture-making process — from design to finished structure
 

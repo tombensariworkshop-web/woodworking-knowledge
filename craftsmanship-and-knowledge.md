@@ -1,37 +1,36 @@
 ---
-title: "Craftsmanship and practical knowledge – understanding through making"
-description: "Craftsmanship is often described as knowledge gained through practice."
-slug: "craftsmanship-and-knowledge"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "craftsmanship"
-knowledge_role: "pillar-guide"
-knowledge_basis: "practice-based pillar guide"
+title: Craftsmanship and practical knowledge – understanding through making
+description: Craftsmanship is often described as knowledge gained through practice.
+slug: craftsmanship-and-knowledge
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: craftsmanship
+knowledge_role: pillar-guide
+knowledge_basis: practice-based pillar guide
 topics:
-  - "craftsmanship"
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- craftsmanship
+- dovetail joinery
+- joinery
+- marking out
+- furniture making
+- traditional woodworking
+- Bensari Workshop
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "material selection"
-  - "craftsmanship"
-  - "craft education"
+- woodworking education
+- marking out
+- furniture making
+- furniture construction
+- craftsmanship
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Craftsmanship and practical knowledge – understanding through making
 
@@ -40,8 +39,6 @@ Craftsmanship is often described as knowledge gained through practice.
 In reality, this description is incomplete.
 
 What defines craftsmanship is not only that knowledge comes from experience, but that it is inseparable from action. It exists in decisions made while working with material, not only in descriptions of how something should be done.
-
-This article is part of a structured knowledge base on traditional woodworking, joinery and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Knowledge that cannot be separated from action
 
@@ -53,7 +50,7 @@ But this does not mean you understand how the joint works.
 
 Understanding begins at the moment when decisions have consequences. When a line defines geometry. When a cut removes material that cannot be put back.
 
-This is why the process starts earlier than most people expect:  
+This is why the process starts earlier than most people expect:
 https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
 And why execution is always a continuation of those decisions.
@@ -96,7 +93,7 @@ It happens within a process.
 
 You observe how material behaves, how tools respond, how decisions are made, and how problems are solved in real time.
 
-This is why direct contact with a working environment remains essential:  
+This is why direct contact with a working environment remains essential:
 https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
 
 ## Practice at Bensari Workshop
@@ -139,10 +136,10 @@ Not as an alternative to theory, but as the only way to make it meaningful.
 
 ## Internal links
 
-- [Why traditional woodworking requires direct contact with a teacher](why-traditional-woodworking-requires-direct-contact-with-a-teacher.md)  
-- [Learning through workshop practice](learning-traditional-woodworking-in-a-real-workshop.md)  
-- [Marking out as a way of working](marking-out-as-a-way-of-working.md)  
-- [Furniture making process](furniture-making-process.md)  
+- [Learning woodworking online or in a workshop: choosing useful feedback](woodworking-workshop-vs-online-course-which-is-better.md)
+- [Learning through workshop practice](learning-traditional-woodworking-in-a-real-workshop.md)
+- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
+- [Furniture making process](furniture-making-process.md)
 
 ## Related hub
 
@@ -151,5 +148,3 @@ Not as an alternative to theory, but as the only way to make it meaningful.
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

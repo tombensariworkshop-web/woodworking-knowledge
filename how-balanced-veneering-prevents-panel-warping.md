@@ -1,34 +1,31 @@
 ---
-title: "How balanced veneering prevents panel warping – symmetry, stress and material control"
-description: "Balanced veneering applies veneer to both faces of a panel so that moisture, glue shrinkage and later environmental changes act more symmetrically."
-slug: "how-balanced-veneering-prevents-panel-warping"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How balanced veneering prevents panel warping – symmetry, stress and material control
+description: Balanced veneering applies veneer to both faces of a panel so that moisture, glue shrinkage and later environmental changes act more symmetrically.
+slug: how-balanced-veneering-prevents-panel-warping
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "wood as material"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- veneering
+- wood as material
+- furniture making
+- Bensari Workshop
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "joinery"
-  - "material selection"
+- wood movement
+- moisture content
+- grain direction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How balanced veneering prevents panel warping – symmetry, stress and material control
 
@@ -43,8 +40,6 @@ It means that veneer is applied to both sides of a panel, not only to the visibl
 At first glance, this may seem unnecessary.
 
 In practice, it defines whether the panel will remain stable.
-
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Wood movement creates stress
 
@@ -66,9 +61,9 @@ They accumulate.
 
 Over time, this leads to:
 
-- cupping  
-- warping  
-- distortion of flat surfaces  
+- cupping
+- warping
+- distortion of flat surfaces
 
 The panel does not fail immediately.
 
@@ -88,7 +83,7 @@ This balance reduces internal stress and keeps the panel flat.
 
 Learn more:
 
-- [Why veneered surfaces are stable](why-veneered-surfaces-are-stable.md)  
+- [Why veneered surfaces are stable](why-veneered-surfaces-are-stable.md)
 - [Why a hidden back veneer is structurally necessary](why-veneered-panels-need-back-veneers.md)
 
 ## Not decoration, but structure
@@ -111,9 +106,9 @@ Balanced veneering works as a system.
 
 Its effectiveness depends on:
 
-- relative thickness of veneers  
-- grain direction  
-- properties of the substrate  
+- relative thickness of veneers
+- grain direction
+- properties of the substrate
 
 These elements must work together.
 
@@ -141,13 +136,9 @@ It ensures that movement remains controlled and predictable.
 
 ## Related
 
-- [What is veneering](what-is-veneering.md)  
-- [Veneering](veneering.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
-
-Last reviewed: September 2026.

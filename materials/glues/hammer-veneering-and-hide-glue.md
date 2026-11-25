@@ -1,36 +1,36 @@
 ---
-title: "Hammer Veneering and Hide Glue"
-description: "Hammer veneering is a traditional woodworking technique used to apply veneer to a wooden surface using hot hide glue and a specialized tool called a veneer hammer."
-slug: "hammer-veneering-and-hide-glue"
-content_type: "material-reference"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
+title: Hammer Veneering and Hide Glue
+description: Hammer veneering is a traditional woodworking technique used to apply veneer to a wooden surface using hot hide glue and a specialized tool called a veneer hammer.
+slug: hammer-veneering-and-hide-glue
+content_type: material-reference
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: reference
+knowledge_basis: workshop material reference
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
-  - "furniture making"
-  - "traditional woodworking"
+- hammer veneering
+- veneering
+- hide glue
+- adhesives
+- wood as material
+- furniture making
+- traditional woodworking
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "moisture content"
+- hide glue
+- adhesives
+- cabinetmaking
+- furniture construction
+- moisture content
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Hammer Veneering and Hide Glue
 

@@ -1,31 +1,29 @@
 ---
-title: "What is Furniture Construction"
-description: "Furniture construction refers to the structural principles used to assemble wooden components into stable and durable objects."
-slug: "what-is-furniture-construction"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is Furniture Construction
+description: Furniture construction refers to the structural principles used to assemble wooden components into stable and durable objects.
+slug: what-is-furniture-construction
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "joinery"
-  - "furniture making"
-  - "traditional woodworking"
+- joinery
+- furniture making
 related_topics:
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
-  - "hand tools"
-  - "craft education"
+- mortise and tenon
+- joinery
+- material selection
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What is Furniture Construction
 

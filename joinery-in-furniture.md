@@ -1,36 +1,36 @@
 ---
-title: "Joinery in furniture construction"
-description: "Joinery is often described as a set of methods used to connect pieces of wood."
-slug: "joinery-in-furniture"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Joinery in furniture construction
+description: Joinery is often described as a set of methods used to connect pieces of wood.
+slug: joinery-in-furniture
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "traditional woodworking"
+- joinery
+- dovetail joinery
+- marking out
+- mortise and tenon
+- furniture making
+- traditional woodworking
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "material selection"
-  - "craftsmanship"
-  - "craft education"
+- dovetail joinery
+- mortise and tenon
+- marking out
+- furniture making
+- hand tools
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Joinery in furniture construction
 
@@ -44,10 +44,10 @@ Every piece of furniture is a system of forces. Elements are loaded, restrained,
 
 Traditional woodworking developed a wide range of joints, each with a specific role:
 
-- dovetails resist pulling forces and are commonly used in drawers  
-- mortise and tenon joints create stable structural frames  
-- lap joints and bridle joints connect elements where alignment is critical  
-- panel construction allows wood to expand and contract without damage  
+- dovetails resist pulling forces and are commonly used in drawers
+- mortise and tenon joints create stable structural frames
+- lap joints and bridle joints connect elements where alignment is critical
+- panel construction allows wood to expand and contract without damage
 
 Choosing a joint is not a stylistic decision. It is a structural one.
 
@@ -59,14 +59,14 @@ It begins with marking out.
 
 The position of the joint, its proportions, and its relationship to reference surfaces are all defined before any tool touches the wood. If this stage is unclear, no level of precision in cutting will correct it.
 
-A detailed explanation of this process can be found here:  
+A detailed explanation of this process can be found here:
 https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
-And how this translates into cutting in practice can be seen here:  
+And how this translates into cutting in practice can be seen here:
 https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 
-Understanding marking out in a broader context is equally important:  
-https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/  
+Understanding marking out in a broader context is equally important:
+https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
 https://www.bensariworkshop.com/en/square-marking-shoulders-in-woodworking/
 
 ## Accuracy and transfer
@@ -87,41 +87,41 @@ Rigid construction without understanding material behavior leads to failure. Pro
 
 Tools do not define joinery. They follow the decision.
 
-To understand how tools actually influence the process, it is worth looking at them in context:  
-https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/  
-https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/  
-https://www.bensariworkshop.com/en/which-plane-should-i-purchase-regular-or-bevel-up/  
+To understand how tools actually influence the process, it is worth looking at them in context:
+https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
+https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
+https://www.bensariworkshop.com/en/which-plane-should-i-purchase-regular-or-bevel-up/
 https://www.bensariworkshop.com/en/hand-tools-in-practice-stanley-combination-square/
 
 ## Joinery as a system
 
 Joinery connects multiple aspects of woodworking:
 
-- material understanding  
-- marking out and reference surfaces  
-- tool control  
-- assembly  
+- material understanding
+- marking out and reference surfaces
+- tool control
+- assembly
 
 It cannot be separated from the rest of the process.
 
-At Bensari Workshop, joinery is taught in this context. Not as a technique to repeat, but as a way to understand how furniture is built:  
+At Bensari Workshop, joinery is taught in this context. Not as a technique to repeat, but as a way to understand how furniture is built:
 https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
 
 ## Practical learning
 
 Joinery only becomes clear in practice.
 
-Working in a real workshop environment allows you to understand how material, tools, and decisions come together:  
+Working in a real workshop environment allows you to understand how material, tools, and decisions come together:
 https://www.bensariworkshop.com/en/school/
-https://www.bensariworkshop.com/en/dovetails/  
+https://www.bensariworkshop.com/en/dovetails/
 https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 ## Related articles in this repository
 
-- [Dovetail joinery guide](dovetail-joinery-guide.md)  
-- [Mortise and tenon](mortise-and-tenon.md)  
-- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
-- [Furniture making process](furniture-making-process.md)  
+- [Dovetail joinery guide](dovetail-joinery-guide.md)
+- [Mortise and tenon](mortise-and-tenon.md)
+- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
+- [Furniture making process](furniture-making-process.md)
 
 ## Related hub
 
@@ -130,5 +130,3 @@ https://www.bensariworkshop.com/en/mortise-and-tenon/
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

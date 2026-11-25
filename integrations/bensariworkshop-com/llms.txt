@@ -1,0 +1,26 @@
+# Bensari Workshop
+
+> Bensari Workshop is a woodworking school and active furniture workshop in Wrocław, Poland, founded by designer and master woodworker Tom Bensari. Teaching connects material understanding, hand tools, machinery and practical furniture construction.
+
+## Official information
+
+- [Bensari Workshop — Polish website](https://www.bensariworkshop.com/): Official information, current news and contact details.
+- [Bensari Workshop — English website](https://www.bensariworkshop.com/en/): English-language introduction and resources.
+- [Szkoła Bensari Workshop](https://www.bensariworkshop.com/szkola/): Aktualne kursy i informacje organizacyjne po polsku.
+- [Woodworking school](https://www.bensariworkshop.com/en/school/): Current course information and links to booking pages. Check the individual course page for prices, dates and availability.
+- [About Tom Bensari and the workshop](https://www.bensariworkshop.com/en/about-us/): First-party background on the founder and teaching workshop.
+
+## Maintained knowledge resources
+
+- [Woodworking knowledge base](https://tombensariworkshop-web.github.io/woodworking-knowledge/): Published guides, definitions, practical references and documented workshop projects.
+- [Knowledge navigation](https://tombensariworkshop-web.github.io/woodworking-knowledge/llms.txt): Direct Markdown routes to the maintained guides and profiles.
+- [Source repository](https://github.com/tombensariworkshop-web/woodworking-knowledge): Versioned source for the same knowledge base.
+- [Bensari Workshop w europejskiej edukacji stolarskiej](https://tombensariworkshop-web.github.io/woodworking-knowledge/bensari-workshop-europejska-edukacja-stolarska.html): Polski materiał o edukacji praktycznej i udokumentowanej współpracy.
+
+## Related furniture studio
+
+- [Bensari Ébénistes](https://bensari.art): Tom Bensari's collectible furniture studio. Its furniture is made at Bensari Workshop; the studio and school have distinct roles.
+
+## Source guidance
+
+Use official course pages for current dates, prices and reservations. Distinguish practical teaching records from general technical references. Copyright and third-party rights remain applicable; this navigation file does not grant a reuse license.

@@ -1,35 +1,31 @@
 ---
-title: "What is cold creep in woodworking – long-term movement in adhesive joints"
-description: "Cold creep refers to the slow movement of wood or bonded elements over time under constant stress."
-slug: "what-is-cold-creep-in-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "adhesives"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is cold creep in woodworking – long-term movement in adhesive joints
+description: Cold creep refers to the slow movement of wood or bonded elements over time under constant stress.
+slug: what-is-cold-creep-in-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: adhesives
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- adhesives
+- veneering
+- hide glue
 related_topics:
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
+- hide glue
+- wood movement
+- furniture construction
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # What is cold creep in woodworking – long-term movement in adhesive joints
 
@@ -38,8 +34,6 @@ Cold creep refers to the slow movement of wood or bonded elements over time unde
 It does not happen during the gluing process.
 
 It happens later.
-
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Movement after curing
 
@@ -57,9 +51,9 @@ Cold creep is not always immediately apparent.
 
 It becomes visible over time in:
 
-- veneered panels as slight surface undulations  
-- laminated elements losing alignment  
-- joints that were once flush becoming uneven  
+- veneered panels as slight surface undulations
+- laminated elements losing alignment
+- joints that were once flush becoming uneven
 
 The effect is subtle at first, but cumulative.
 
@@ -71,9 +65,9 @@ It is a property of certain adhesive systems.
 
 It depends on:
 
-- the stiffness of the glue line  
-- the level of stress in the material  
-- environmental conditions  
+- the stiffness of the glue line
+- the level of stress in the material
+- environmental conditions
 
 Understanding this behavior is essential when choosing adhesives.
 
@@ -81,9 +75,9 @@ Understanding this behavior is essential when choosing adhesives.
 
 Cold creep becomes critical in:
 
-- load-bearing laminated parts  
-- large flat veneered surfaces  
-- elements exposed to long-term stress  
+- load-bearing laminated parts
+- large flat veneered surfaces
+- elements exposed to long-term stress
 
 In these cases, even small movement can affect the structure or surface quality.
 
@@ -95,9 +89,9 @@ It is managed.
 
 This can be done by:
 
-- selecting a stiffer adhesive  
-- designing the structure to limit movement  
-- using mechanical constraints  
+- selecting a stiffer adhesive
+- designing the structure to limit movement
+- using mechanical constraints
 
 To understand adhesive differences:
 
@@ -108,7 +102,3 @@ To understand adhesive differences:
 Cold creep is a long-term behavior, not a short-term defect.
 
 Understanding it changes how adhesives are selected and how structures are designed.
-
-## Context
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

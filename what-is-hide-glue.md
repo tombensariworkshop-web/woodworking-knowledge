@@ -1,34 +1,32 @@
 ---
-title: "What is hide glue?"
-description: "Hide glue is a protein adhesive made from animal collagen. In traditional woodworking, dry glue granules are soaked in water and heated before use."
-slug: "what-is-hide-glue"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hide glue"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is hide glue?
+description: Hide glue is a protein adhesive made from animal collagen. In traditional woodworking, dry glue granules are soaked in water and heated before use.
+slug: what-is-hide-glue
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hide glue
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
-  - "furniture making"
-  - "traditional woodworking"
+- hide glue
+- wood as material
+- furniture making
+- traditional woodworking
 related_topics:
-  - "veneering"
-  - "reversible construction"
-  - "furniture construction"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
+- hammer veneering
+- veneering
+- furniture construction
+- moisture content
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What is hide glue?
 

@@ -1,37 +1,35 @@
 ---
-title: "Furniture design and craftsmanship – where decisions become structure"
-description: "Furniture design is often described as a balance between creativity and function."
-slug: "furniture-design-and-craft"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "furniture design and craft"
-knowledge_role: "pillar-guide"
-knowledge_basis: "practice-based pillar guide"
+title: Furniture design and craftsmanship – where decisions become structure
+description: Furniture design is often described as a balance between creativity and function.
+slug: furniture-design-and-craft
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: furniture design and craft
+knowledge_role: pillar-guide
+knowledge_basis: practice-based pillar guide
 topics:
-  - "furniture design and craft"
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "veneering"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "traditional woodworking"
+- furniture design and craft
+- dovetail joinery
+- joinery
+- marking out
+- veneering
+- furniture making
+- traditional woodworking
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "hide glue"
-  - "wood movement"
-  - "material selection"
+- furniture making
+- craftsmanship
+- joinery
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Furniture design and craftsmanship – where decisions become structure
 
@@ -42,8 +40,6 @@ In practice, this description is incomplete.
 Design in furniture making is not only about form. It is about decisions that must hold together in material, structure and use.
 
 Craftsmanship is what makes those decisions real.
-
-This article is part of a structured knowledge base on traditional woodworking, joinery and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Design is not separate from making
 
@@ -80,8 +76,8 @@ Joinery, surface preparation, veneering, these are not separate techniques. They
 
 You can see how this works in practice:
 
-https://www.bensariworkshop.com/en/mortise-and-tenon/\
-https://www.bensariworkshop.com/en/dovetails/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/
+https://www.bensariworkshop.com/en/dovetails/
 https://www.bensariworkshop.com/en/hammer-veneering/
 
 Without this control, design remains intention.
@@ -90,7 +86,7 @@ Without this control, design remains intention.
 
 This relationship between design and making becomes even clearer when working across different contexts.
 
-I write about traditional woodworking techniques and their application in contemporary furniture for *Fine Woodworking*:  
+I write about traditional woodworking techniques and their application in contemporary furniture for *Fine Woodworking*:
 https://www.finewoodworking.com/author/tom-bensari
 
 At the same time, I design and build collectible furniture presented by the New York gallery STUDIOTWENTYSEVEN.
@@ -109,10 +105,10 @@ In furniture making, it is closer to decision-making.
 
 You decide:
 
-- how elements are connected  
-- how the object will carry load  
-- how material will behave over time  
-- how proportions will be perceived  
+- how elements are connected
+- how the object will carry load
+- how material will behave over time
+- how proportions will be perceived
 
 These decisions are not made once.
 
@@ -138,10 +134,10 @@ Over time, the distinction between design and craftsmanship becomes less importa
 
 They form a single system in which:
 
-- design defines intention  
-- craft defines execution  
-- material defines constraints  
-- process defines the result  
+- design defines intention
+- craft defines execution
+- material defines constraints
+- process defines the result
 
 Understanding this relationship changes how furniture is made.
 
@@ -155,10 +151,10 @@ Craftsmanship is what allows those decisions to exist.
 
 ## Internal links
 
-- [Furniture making process](furniture-making-process.md)  
-- [Contemporary craft practice](contemporary-craft-practice.md)  
-- [Craftsmanship and knowledge](craftsmanship-and-knowledge.md)  
-- [Joinery in furniture](joinery-in-furniture.md)  
+- [Furniture making process](furniture-making-process.md)
+- [Contemporary craft practice](contemporary-craft-practice.md)
+- [Craftsmanship and knowledge](craftsmanship-and-knowledge.md)
+- [Joinery in furniture](joinery-in-furniture.md)
 
 ## Related hub
 
@@ -167,5 +163,3 @@ Craftsmanship is what allows those decisions to exist.
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

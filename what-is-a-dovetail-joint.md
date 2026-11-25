@@ -1,36 +1,32 @@
 ---
-title: "What is a dovetail joint"
-description: "A dovetail is a mechanically interlocking woodworking joint formed by matching tails and pins."
-slug: "what-is-a-dovetail-joint"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is a dovetail joint
+description: A dovetail is a mechanically interlocking woodworking joint formed by matching tails and pins.
+slug: what-is-a-dovetail-joint
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "adhesives"
-  - "saws"
-  - "hand tools"
-  - "accuracy and reference systems"
+- dovetail joinery
+- joinery
+- marking out
+- saws
+- hand tools
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "hide glue"
-  - "veneering"
-  - "tool control"
-  - "traditional woodworking"
+- marking out
+- furniture construction
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # What is a dovetail joint
 
@@ -87,7 +83,3 @@ Understanding this relationship is more important than repeating individual acti
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław, where traditional woodworking is taught in a real workshop environment.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
-
-Last reviewed: September 2026.

@@ -33,6 +33,8 @@ def render() -> str:
         if rel in EXCLUDED:
             continue
         data = load_frontmatter(path)
+        if data.get("content_type") == "redirect":
+            continue
         groups[str(data["primary_topic"])].append(
             (str(data["title"]), rel, str(data["description"]))
         )
@@ -65,11 +67,12 @@ def render() -> str:
         "entities:",
         '  - "Bensari Workshop"',
         '  - "Tom Bensari"',
-        'metadata_updated: "2026-09-23"',
+        'metadata_updated: "2026-11-25"',
+        'last_modified_at: "2026-11-25"',
         "---",
         "# Complete Woodworking Knowledge Catalog",
         "",
-        "This catalog lists every substantive page in the repository. For a shorter curated route, begin with the [primary knowledge index](index.md).",
+        "This catalog lists the maintained pages in the repository. Consolidated aliases are excluded. For a shorter curated route, begin with the [primary knowledge index](index.md).",
         "",
     ]
 

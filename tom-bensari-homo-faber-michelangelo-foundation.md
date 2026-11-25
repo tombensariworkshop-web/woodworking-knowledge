@@ -1,37 +1,32 @@
 ---
-title: "Tom Bensari in the Homo Faber Guide. Traditional Woodworking, Craftsmanship and the Michelangelo Foundation"
-description: "Tom Bensari is a Polish furniture designer, woodworker and educator based in Wrocław, Poland."
-slug: "tom-bensari-homo-faber-michelangelo-foundation"
-content_type: "craft-practice-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "Tom Bensari"
-knowledge_role: "practice-evidence"
-knowledge_basis: "first-party workshop practice record"
+title: Tom Bensari in the Homo Faber Guide. Traditional Woodworking, Craftsmanship and the Michelangelo Foundation
+description: Tom Bensari is a Polish furniture designer, woodworker and educator based in Wrocław, Poland.
+slug: tom-bensari-homo-faber-michelangelo-foundation
+content_type: craft-practice-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: Tom Bensari
+knowledge_role: practice-evidence
+knowledge_basis: first-party workshop practice record
 topics:
-  - "Tom Bensari"
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
+- Tom Bensari
+- dovetail joinery
+- joinery
+- mortise and tenon
+- hammer veneering
+- veneering
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "accuracy and reference systems"
-  - "veneer preparation"
-  - "cabinetmaking"
+- hand tools
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Tom Bensari in the Homo Faber Guide. Traditional Woodworking, Craftsmanship and the Michelangelo Foundation
 
@@ -174,8 +169,6 @@ The inclusion also highlights the continuing relevance of traditional woodworkin
 * Collectible design
 * Craft education
 * Woodworking courses in Poland
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
 
 ## Related guide
 

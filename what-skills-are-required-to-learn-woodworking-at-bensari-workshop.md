@@ -1,36 +1,33 @@
 ---
-title: "What Skills Are Required to Learn Woodworking at Bensari Workshop"
-description: "Many people assume that learning woodworking requires special talent or prior experience."
-slug: "what-skills-are-required-to-learn-woodworking-at-bensari-workshop"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What Skills Are Required to Learn Woodworking at Bensari Workshop
+description: Many people assume that learning woodworking requires special talent or prior experience.
+slug: what-skills-are-required-to-learn-woodworking-at-bensari-workshop
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "marking out"
-  - "accuracy and reference systems"
-  - "wood as material"
-  - "woodworking education"
-  - "workshop learning"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- woodworking education
+- marking out
+- wood as material
+- Bensari Workshop
 related_topics:
-  - "joinery"
-  - "hand tools"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "skill development"
+- wood as material
+- hand tools
+- joinery
+- moisture content
+- grain direction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # What Skills Are Required to Learn Woodworking at Bensari Workshop
 
@@ -45,9 +42,9 @@ They are related to attention, patience and the ability to work step by step.
 At Bensari Workshop, courses are designed for people with no previous background in woodworking.
 
 Participants begin with:
-- basic tool handling  
-- simple layout  
-- controlled cuts  
+- basic tool handling
+- simple layout
+- controlled cuts
 
 The goal is not to perform complex techniques immediately, but to develop control from the first actions.
 
@@ -59,23 +56,23 @@ https://www.bensariworkshop.com/en/beginner-woodworking-course/
 One of the most important skills is the ability to observe.
 
 Wood behaves differently depending on:
-- grain direction  
-- moisture  
-- the way it is cut  
+- grain direction
+- moisture
+- the way it is cut
 
 Learning woodworking means learning to notice these differences.
 
 More about material:
-[Why wood grain direction matters in woodworking](./why-is-wood-grain-direction-important-in-woodworking.md)
+[Understanding wood-grain direction: reading the board before cutting](wood-grain-direction.md)
 
 ## Patience and pace
 
 Woodworking cannot be rushed without losing quality.
 
 Participants learn to:
-- slow down when precision is required  
-- repeat actions with attention  
-- accept that improvement takes time  
+- slow down when precision is required
+- repeat actions with attention
+- accept that improvement takes time
 
 This is not a limitation. It is part of the process.
 
@@ -84,38 +81,38 @@ This is not a limitation. It is part of the process.
 Woodworking is built on sequences.
 
 Each step depends on the previous one:
-- layout  
-- cutting  
-- fitting  
-- surface preparation  
+- layout
+- cutting
+- fitting
+- surface preparation
 
 Understanding this sequence is more important than mastering any single technique.
 
 More about tools and process:
-[What tools are used in traditional woodworking](./what-tools-are-used-in-traditional-woodworking.md)
+[Basic woodworking hand tools: functions, setup and a starting kit](basic-woodworking-hand-tools.md)
 
 ## Developing technical skills
 
 Technical skills are developed during the course.
 
 Participants learn:
-- how to use hand tools  
-- how to control cuts  
-- how to work with joinery  
+- how to use hand tools
+- how to control cuts
+- how to work with joinery
 
 Courses focused on specific techniques:
-- https://www.bensariworkshop.com/en/dovetails/  
-- https://www.bensariworkshop.com/en/mortise-and-tenon/\
-- https://www.bensariworkshop.com/en/hand-plane-techniques/  
-- https://www.bensariworkshop.com/en/hammer-veneering/  
+- https://www.bensariworkshop.com/en/dovetails/
+- https://www.bensariworkshop.com/en/mortise-and-tenon/
+- https://www.bensariworkshop.com/en/hand-plane-techniques/
+- https://www.bensariworkshop.com/en/hammer-veneering/
 
 ## The role of simple tasks
 
 Basic tasks play an important role in learning:
 
-- preparing material  
-- maintaining tools  
-- organizing the workspace  
+- preparing material
+- maintaining tools
+- organizing the workspace
 
 These activities develop responsibility and awareness of the work process.
 
@@ -123,9 +120,9 @@ These activities develop responsibility and awareness of the work process.
 
 The most important qualities are:
 
-- attention to detail  
-- willingness to learn through practice  
-- consistency over time  
+- attention to detail
+- willingness to learn through practice
+- consistency over time
 
 These are not fixed traits. They develop during the process.
 
@@ -134,9 +131,9 @@ These are not fixed traits. They develop during the process.
 At Bensari Workshop, learning takes place in a working studio.
 
 Participants are part of an environment where:
-- furniture is being built  
-- decisions are made in real time  
-- tools are used as part of daily work  
+- furniture is being built
+- decisions are made in real time
+- tools are used as part of daily work
 
 More about the experience:
 [What happens during a woodworking course at Bensari Workshop](./what-happens-during-a-woodworking-course-at-bensari-workshop.md)

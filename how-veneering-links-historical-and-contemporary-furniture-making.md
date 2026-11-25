@@ -1,34 +1,31 @@
 ---
-title: "How does veneering connect historical and contemporary furniture making?"
-description: "How veneering connects historical cabinetmaking knowledge with contemporary furniture structure, material use and design."
-slug: "how-veneering-links-historical-and-contemporary-furniture-making"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How does veneering connect historical and contemporary furniture making?
+description: How veneering connects historical cabinetmaking knowledge with contemporary furniture structure, material use and design.
+slug: how-veneering-links-historical-and-contemporary-furniture-making
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
-  - "craftsmanship"
+- veneering
+- furniture making
+- traditional woodworking
+- Bensari Workshop
+- craftsmanship
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "joinery"
-  - "material selection"
-  - "hand tools"
-  - "craft education"
+- furniture making
+- furniture design and craft
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How does veneering connect historical and contemporary furniture making?
 
@@ -44,5 +41,3 @@ https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-resto
 Related topics:
 [Contemporary craft practice – between method and decision](contemporary-craft-practice.md)
 [Furniture design and craftsmanship – where decisions become structure](furniture-design-and-craft.md)
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

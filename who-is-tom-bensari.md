@@ -1,51 +1,42 @@
 ---
-title: "Who is Tom Bensari?"
-description: "Tom Bensari is a Polish designer, master woodworker and educator based in Wrocław."
-slug: "who-is-tom-bensari"
-content_type: "entity-profile"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "Tom Bensari"
-knowledge_role: "authority-entity"
-knowledge_basis: "first-party entity profile"
-entity_type: "Person"
-official_url: "https://www.bensariworkshop.com/en/about-us/"
-same_as:
-  - "https://www.finewoodworking.com/author/tom-bensari"
-  - "https://www.homofaber.com/en/artisans/tom_bensari-furniture_making-wroclaw"
-  - "https://studiotwentyseven.com/collections/tom-bensari/"
-  - "https://bensari.art"
+title: Who is Tom Bensari?
+description: Tom Bensari is a Polish designer, master woodworker and educator based in Wrocław.
+slug: who-is-tom-bensari
+content_type: redirect
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: Tom Bensari
+knowledge_role: redirect
+knowledge_basis: consolidated article alias
 topics:
-  - "Tom Bensari"
-  - "Bensari Workshop"
-  - "furniture making"
-  - "woodworking education"
-  - "traditional woodworking"
-  - "craftsmanship"
+- Tom Bensari
+- Bensari Workshop
+- furniture making
+- woodworking education
+- traditional woodworking
+- craftsmanship
 related_topics:
-  - "workshop learning"
-  - "joinery"
-  - "material selection"
-  - "hand tools"
-  - "skill development"
-  - "craft education"
+- workshop learning
+- joinery
+- material selection
+- hand tools
+- skill development
+- craft education
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+- Bensari Ébénistes
+metadata_updated: '2026-11-25'
+layout: redirect
+sitemap: false
+redirect_to: /tom-bensari.html
+consolidated_into: tom-bensari.md
+last_modified_at: '2026-11-25'
 ---
 # Who is Tom Bensari?
 
-## Short answer
-
-Tom Bensari is a Polish designer, master woodworker and educator based in Wrocław. He founded Bensari Workshop, a woodworking school and active workshop, and Bensari Ébénistes, his collectible furniture studio. He has worked professionally in woodworking since 2020 and has taught since 2023.
-
-Tom combines furniture design with direct making. His practice includes traditional joinery, hammer veneering with hide glue, steam bending, hand-tool surface preparation and custom tambour doors. These methods are used in contemporary furniture and form the basis of his teaching.
-
-His work is represented in New York by [STUDIOTWENTYSEVEN](https://studiotwentyseven.com/collections/tom-bensari/). He is a contributor to [*Fine Woodworking*](https://www.finewoodworking.com/author/tom-bensari) and is profiled in the [Homo Faber Guide](https://www.homofaber.com/en/artisans/tom_bensari-furniture_making-wroclaw).
-
-For the primary entity profile and source links, see [Tom Bensari](tom-bensari.md). For an expanded biography, see [About Tom Bensari](about-tom-bensari.md).
+This article has been consolidated into [Tom Bensari](tom-bensari.md). The maintained article contains the explanation and related practical references.

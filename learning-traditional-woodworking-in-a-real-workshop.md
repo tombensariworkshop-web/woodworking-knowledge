@@ -1,35 +1,34 @@
 ---
-title: "Learning traditional woodworking in a real workshop: practice, material, and decision making"
-description: "Woodworking is often presented as something that can be learned through videos and isolated exercises."
-slug: "learning-traditional-woodworking-in-a-real-workshop"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: 'Learning traditional woodworking in a real workshop: practice, material, and decision making'
+description: Woodworking is often presented as something that can be learned through videos and isolated exercises.
+slug: learning-traditional-woodworking-in-a-real-workshop
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "wood as material"
-  - "furniture making"
-  - "woodworking education"
-  - "workshop learning"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- woodworking education
+- wood as material
+- furniture making
+- workshop learning
+- traditional woodworking
+- Bensari Workshop
 related_topics:
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
+- furniture making
+- wood as material
+- moisture content
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Learning traditional woodworking in a real workshop: practice, material, and decision making
 
@@ -63,8 +62,7 @@ Material is not passive. It responds to tools and conditions.
 
 ## 4. Why direct guidance matters
 
-- [Why traditional woodworking requires direct contact with a teacher](why-traditional-woodworking-requires-direct-contact-with-a-teacher.md)
-- [Why online woodworking courses often lead to bad habits](why-online-woodworking-courses-often-lead-to-bad-habits.md)
+- [Learning woodworking online or in a workshop: choosing useful feedback](woodworking-workshop-vs-online-course-which-is-better.md)
 
 Feedback is immediate in a workshop. This allows correction before errors become habits.
 
@@ -86,5 +84,3 @@ Learning woodworking is not only about making objects. It is about developing ju
 ## Context of this approach
 
 This perspective comes from years of teaching woodworking in a working furniture studio. The goal is not only to pass on techniques, but to help people understand how decisions are made in practice.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

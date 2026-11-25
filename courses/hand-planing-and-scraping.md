@@ -1,28 +1,30 @@
 ---
-title: "Hand Planing and Card Scraping Course in Wrocław"
-description: "Hand planing and card scraping at Bensari Workshop develop tool setup, surface preparation and control when working with wood grain."
-slug: "course-hand-planing-and-scraping"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "first-party course program"
+title: Hand Planing and Card Scraping Course in Wrocław
+description: Hand planing and card scraping at Bensari Workshop develop tool setup, surface preparation and control when working with wood grain.
+slug: course-hand-planing-and-scraping
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: first-party course program
 topics:
-  - "woodworking education"
-  - "hand planing and scraping"
+- woodworking education
 related_topics:
-  - "workshop learning"
-  - "course selection"
+- Tom Bensari
+- Bensari Workshop
+- hand tools
+- course selection
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-28"
-source_url: "https://www.bensariworkshop.com/en/hand-plane-techniques/"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+source_url: https://www.bensariworkshop.com/en/hand-plane-techniques/
+last_modified_at: '2026-10-19'
 ---
 # Hand Planing and Card Scraping Course in Wrocław
 
@@ -71,4 +73,3 @@ Use the [official course page](https://www.bensariworkshop.com/en/hand-plane-tec
 - [Official participant FAQ](https://www.bensariworkshop.com/en/faq/).
 
 This is a first-party course description, not an independent ranking or a guarantee of individual learning outcomes.
-

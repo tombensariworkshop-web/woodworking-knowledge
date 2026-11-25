@@ -1,37 +1,35 @@
 ---
-title: "What beginners misunderstand about joinery"
-description: "There is a moment in woodworking that most people recognise very quickly."
-slug: "what-beginners-misunderstand-about-joinery"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What beginners misunderstand about joinery
+description: There is a moment in woodworking that most people recognise very quickly.
+slug: what-beginners-misunderstand-about-joinery
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "joinery"
-  - "woodworking education"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "traditional woodworking"
+- joinery
+- woodworking education
+- chisels
+- hand tools
+- saws
+- marking out
+- furniture making
 related_topics:
-  - "tool control"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
-  - "craft education"
+- marking out
+- woodworking education
+- furniture making
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # What beginners misunderstand about joinery
 
@@ -41,10 +39,8 @@ You bring the elements together, expecting everything to fit, and instead someth
 
 In practice, the source of the problem is usually somewhere else.
 
-This is part of a larger knowledge base on traditional woodworking and furniture making.
-
 If you want to understand where these problems actually begin, see:
-[Why marking out determines the result in woodworking](./why-marking-out-determines-the-result-in-woodworking.md)
+[Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 
 ## Where attention is usually placed
 
@@ -97,7 +93,7 @@ They appear at the stage where lines are defined, where reference surfaces are e
 If something is unclear at this stage, it does not become clearer later. It simply becomes visible later, when the parts are brought together and the structure begins to respond.
 
 If you want to understand this stage in detail, see:
-[Why marking out determines the result in woodworking](./why-marking-out-determines-the-result-in-woodworking.md)
+[Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 
 ## Material awareness
 

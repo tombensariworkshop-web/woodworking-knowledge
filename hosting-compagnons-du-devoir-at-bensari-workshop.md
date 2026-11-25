@@ -1,37 +1,32 @@
 ---
-title: "Hosting Les Compagnons du Devoir at Bensari Workshop — Practice, Exchange, and Continuity"
-description: "A record of hosting Compagnons du Devoir craftspeople at Bensari Workshop and exchanging knowledge through practical work."
-slug: "hosting-compagnons-du-devoir-at-bensari-workshop"
-content_type: "craft-practice-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "Bensari Workshop"
-knowledge_role: "practice-evidence"
-knowledge_basis: "first-party workshop practice record"
+title: Hosting Les Compagnons du Devoir at Bensari Workshop — Practice, Exchange, and Continuity
+description: A record of hosting Compagnons du Devoir craftspeople at Bensari Workshop and exchanging knowledge through practical work.
+slug: hosting-compagnons-du-devoir-at-bensari-workshop
+content_type: craft-practice-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: Bensari Workshop
+knowledge_role: practice-evidence
+knowledge_basis: first-party workshop practice record
 topics:
-  - "Bensari Workshop"
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "hand tools"
-  - "accuracy and reference systems"
-  - "woodworking education"
+- Bensari Workshop
+- dovetail joinery
+- joinery
+- marking out
+- mortise and tenon
+- hand tools
+- woodworking education
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
-  - "workshop learning"
-  - "skill development"
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Hosting Les Compagnons du Devoir at Bensari Workshop — Practice, Exchange, and Continuity
 
@@ -82,8 +77,6 @@ and here:
 https://www.bensariworkshop.com/en/les-compagnons-du-devoir-frances-legendary-school-of-craftsmanship/
 
 When they left, what remained in the workshop was more than just a set of workbenches, because each of them carries a record of the work, discipline, and decisions that went into making it.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
 
 ## Related guide
 

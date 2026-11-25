@@ -1,27 +1,26 @@
 ---
-title: "What is Slip Matching in Veneering"
-description: "Slip matching is a veneering technique in which consecutive sheets of veneer are placed side by side without flipping them."
-slug: "what-is-slip-matching-in-veneering"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is Slip Matching in Veneering
+description: Slip matching is a veneering technique in which consecutive sheets of veneer are placed side by side without flipping them.
+slug: what-is-slip-matching-in-veneering
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
+- veneering
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "furniture making"
+- furniture making
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What is Slip Matching in Veneering
 

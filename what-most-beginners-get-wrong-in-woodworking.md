@@ -1,36 +1,32 @@
 ---
-title: "What Most Beginners Get Wrong in Woodworking"
-description: "Most beginners assume that woodworking is primarily about tools."
-slug: "what-most-beginners-get-wrong-in-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What Most Beginners Get Wrong in Woodworking
+description: Most beginners assume that woodworking is primarily about tools.
+slug: what-most-beginners-get-wrong-in-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "chisels"
-  - "saws"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "woodworking education"
+- woodworking education
+- hand planes
+- hand tools
+- chisels
+- saws
+- marking out
 related_topics:
-  - "wood grain direction"
-  - "surface preparation"
-  - "tool control"
-  - "traditional woodworking"
-  - "joinery"
-  - "workshop learning"
+- tool control
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What most beginners get wrong in woodworking
 

@@ -1,105 +1,42 @@
 ---
-title: "Why Do Furniture Makers Use Veneer"
-description: "Veneer is used because it allows control over stability, structure and surface."
-slug: "why-do-furniture-makers-use-veneer"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why Do Furniture Makers Use Veneer
+description: Veneer is used because it allows control over stability, structure and surface.
+slug: why-do-furniture-makers-use-veneer
+content_type: redirect
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: redirect
+knowledge_basis: consolidated article alias
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
-  - "furniture making"
-  - "woodworking education"
+- hammer veneering
+- veneering
+- hide glue
+- adhesives
+- wood as material
+- furniture making
+- traditional woodworking
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "moisture content"
+- veneer preparation
+- cabinetmaking
+- wood movement
+- reversible construction
+- furniture construction
+- moisture content
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+layout: redirect
+sitemap: false
+redirect_to: /veneering-in-woodworking.html
+consolidated_into: veneering-in-woodworking.md
+last_modified_at: '2026-11-25'
 ---
 # Why Do Furniture Makers Use Veneer
 
-Veneer is used because it allows control over stability, structure and surface.
-
-It makes it possible to manage wood movement, create continuous grain and construct balanced panels.
-
-## Veneer as a structural material
-
-Veneer is often misunderstood as a decorative layer.
-
-In practice, it is a structural element.
-
-When applied correctly, it allows the maker to:
-
-- control internal stresses  
-- stabilize panels  
-- define surface composition  
-
-More about veneering:
-[Veneering in woodworking](./veneering.md)
-
-## Balance and construction
-
-A veneered panel is not a single layer.
-
-It is a system that must remain balanced.
-
-Without a proper backing veneer, the panel will deform over time.
-
-More about this:
-[Why veneered panels need back veneers](./why-veneered-panels-need-back-veneers.md)
-
-## Veneer in furniture making
-
-Furniture makers use veneer because it allows them to:
-
-- work with stable substrates  
-- create large, consistent surfaces  
-- control the visual continuity of wood  
-
-This is especially important in contemporary furniture where precision and proportion are critical.
-
-## From my perspective
-
-In my work, veneer is not a compromise.
-
-It is a way of gaining control over the material.
-
-Solid wood does not always allow the level of precision and stability I need. Veneer makes it possible to shape both the structure and the surface in a deliberate way.
-
-This is why I use it.
-
-## Learning veneer in practice
-
-Veneering is not only a concept. It is a process that requires control over glue, pressure and material behavior.
-
-Course:
-https://www.bensariworkshop.com/en/hammer-veneering/
-
-Article:
-https://www.bensariworkshop.com/en/veneering-a-traditional-woodworking-and-restoration-technique/
-
-## Context and authorship
-
-Veneer has been central to cabinetmaking for centuries, particularly in the work of European ébénistes.
-
-More about this approach:
-https://www.bensariworkshop.com/en/from-french-ebenistes-to-contemporary-design-my-article-in-fine-woodworking/
-
-Author profile:
-https://www.finewoodworking.com/author/tom-bensari
+This article has been consolidated into [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md). The maintained article contains the explanation and related practical references.

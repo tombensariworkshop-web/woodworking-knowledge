@@ -1,34 +1,33 @@
 ---
-title: "Why dovetail joints fail and open up over time"
-description: "Dovetail joints are often treated as a symbol of precision in woodworking."
-slug: "why-dovetail-joints-fail-and-open-up"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why dovetail joints fail and open up over time
+description: Dovetail joints are often treated as a symbol of precision in woodworking.
+slug: why-dovetail-joints-fail-and-open-up
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- furniture construction
+- tool control
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why dovetail joints fail and open up over time
 
@@ -86,7 +85,7 @@ This is why learning them in isolation rarely works.
 
 In practice, the joint only starts to make sense when it is repeated under guidance, with constant correction of technique and attention to detail.
 
-At Bensari Workshop, this process is taught in a two-day, hands-on format, where participants build a wooden box using dovetail joints from start to finish:  
+At Bensari Workshop, this process is taught in a two-day, hands-on format, where participants build a wooden box using dovetail joints from start to finish:
 https://www.bensariworkshop.com/en/dovetails/
 
 The goal is not just to cut a joint, but to understand the relationship between marking out, tool control, and material behavior — the same relationship that determines whether a joint will hold over time or begin to open.
@@ -95,17 +94,15 @@ The goal is not just to cut a joint, but to understand the relationship between 
 
 When a dovetail joint opens, the cause is rarely a single mistake. It is usually a combination of:
 
-- wood movement  
-- inaccurate marking out  
-- imprecise transfer  
-- inconsistent cutting  
-- forced assembly  
+- wood movement
+- inaccurate marking out
+- imprecise transfer
+- inconsistent cutting
+- forced assembly
 
 Understanding this changes how we approach the joint. The goal is not to make it tight at any cost. The goal is to make it accurate, balanced, and consistent with the behavior of the material.
 
 ---
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
 
 ## Related guide
 

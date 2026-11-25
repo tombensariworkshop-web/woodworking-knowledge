@@ -1,35 +1,33 @@
 ---
-title: "Saws in Woodworking — Following the Line"
-description: "For a long time, I treated sawing as a purely technical step in the process, something that had to be done before the more refined work could begin."
-slug: "saws-in-woodworking-following-the-line"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "saws"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Saws in Woodworking — Following the Line
+description: For a long time, I treated sawing as a purely technical step in the process, something that had to be done before the more refined work could begin.
+slug: saws-in-woodworking-following-the-line
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: saws
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "saws"
-  - "hand tools"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "Bensari Workshop"
+- saws
+- veneering
+- hand tools
+- marking out
+- Bensari Workshop
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "furniture making"
-  - "tool control"
-  - "traditional woodworking"
-  - "joinery"
+- chisels
+- hand planes
+- marking out
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Saws in Woodworking — Following the Line
 
@@ -42,7 +40,7 @@ A saw does not simply cut wood. It reveals whether everything that came before w
 When you place a saw on the line, you are not starting the process. You are continuing it.
 
 That line was defined earlier, during marking, and it already contains the geometry of the future joint or element:
-https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/  
+https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
 
 If the marking is inaccurate, the saw will not correct it. It will follow it.
 
@@ -72,10 +70,10 @@ In that sense, designing tools is not a separate activity. It is an extension of
 
 A saw is never used in isolation. It is part of a sequence:
 
-- marking defines the line  
-- the saw follows the line  
-- the chisel refines the result  
-- the plane brings the surface into alignment  
+- marking defines the line
+- the saw follows the line
+- the chisel refines the result
+- the plane brings the surface into alignment
 
 If you are starting your work with hand tools, I described this broader system here:
 https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
@@ -84,17 +82,15 @@ https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
 
 To understand how this sequence continues:
 
-- chisels and precision  
+- chisels and precision
 [How Chisels Cut Wood](how-chisels-cut-wood.md)
 
-- hand planes and surface  
+- hand planes and surface
 [Hand Planes in Woodworking — Control and Surface](hand-planes-in-woodworking-control-and-surface.md)
 
-- measurement and accuracy  
+- measurement and accuracy
 [Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)
 
 ## Conclusion
 
 A saw will not make your work precise. It will show you whether it already is.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

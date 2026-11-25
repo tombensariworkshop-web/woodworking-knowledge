@@ -1,33 +1,30 @@
 ---
-title: "Why We Started Making Our Own Woodworking Tools"
-description: "For a long time, I treated tools as something external to the work."
-slug: "why-we-started-making-our-own-woodworking-tools"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hand tools"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why We Started Making Our Own Woodworking Tools
+description: For a long time, I treated tools as something external to the work.
+slug: why-we-started-making-our-own-woodworking-tools
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand tools
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "chisels"
-  - "hand tools"
-  - "woodworking education"
-  - "workshop learning"
-  - "Bensari Workshop"
+- hand tools
+- chisels
+- woodworking education
+- Bensari Workshop
 related_topics:
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "skill development"
-  - "Tom Bensari"
+- marking out
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why We Started Making Our Own Woodworking Tools
 
@@ -76,7 +73,7 @@ It is one of the ways in which the work itself is continuously tested and refine
 At Bensari Workshop, tools are always understood in relation to process.
 
 That process begins with marking, where geometry is defined:
-https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/  
+https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
 
 It continues with cutting, refining, and aligning surfaces, each step relying on the previous one.
 
@@ -127,7 +124,7 @@ The same process is now leading to the development of an original collection of 
 This is not a separate project. It is a continuation of the same line of thinking.
 
 A saw follows the line defined during marking and translates geometry into material:
-https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/  
+https://www.bensariworkshop.com/en/marking-out-basic-principles-square-and-knife/
 
 If the saw does not behave predictably, the entire process becomes less precise.
 
@@ -138,8 +135,6 @@ This is why I started working on saws that reflect long-term practice rather tha
 We did not start making our own tools because we wanted to produce them.
 
 We started because, at some point, it became the most natural continuation of the work itself.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
 
 ## Related guide
 

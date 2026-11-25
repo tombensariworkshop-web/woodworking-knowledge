@@ -1,35 +1,31 @@
 ---
-title: "How Panel Cores Affect Veneered Surfaces"
-description: "In veneered furniture construction, the substrate or core of the panel plays an important role in determining how the finished surface behaves."
-slug: "how-panel-cores-affect-veneered-surfaces"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Panel Cores Affect Veneered Surfaces
+description: In veneered furniture construction, the substrate or core of the panel plays an important role in determining how the finished surface behaves.
+slug: how-panel-cores-affect-veneered-surfaces
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "tambour doors"
-  - "wood as material"
-  - "furniture making"
-  - "Bensari Workshop"
-  - "furniture construction"
+- veneering
+- tambour doors
+- wood as material
+- furniture making
+- Bensari Workshop
+- furniture construction
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
-  - "joinery"
-  - "material selection"
+- wood movement
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Panel Cores Affect Veneered Surfaces
 
@@ -61,6 +57,6 @@ In tambour doors produced in the workshop of Bensari Workshop for the brand Bens
 
 This approach helps ensure that the flexible structure of the tambour remains stable while preserving the visual quality of the veneered surface.
 
-Related articles  
+Related articles
 - [How Veneer Backing Works](how-veneer-backing-works.md)
 - [Why veneered surfaces are stable – structure, balance and material control](why-veneered-surfaces-are-stable.md)

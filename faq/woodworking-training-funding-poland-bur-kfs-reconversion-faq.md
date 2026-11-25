@@ -1,37 +1,37 @@
 ---
-title: "Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ"
-description: "BUR, KFS and military reconversion may support eligible professional woodworking training in Poland under different rules."
-slug: "woodworking-training-funding-poland-bur-kfs-reconversion-faq"
-content_type: "faq"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking training funding in Poland"
-knowledge_role: "answer-set"
-knowledge_basis: "first-party training provider FAQ with official programme references"
+title: Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ
+description: BUR, KFS and military reconversion may support eligible professional woodworking training in Poland under different rules.
+slug: woodworking-training-funding-poland-bur-kfs-reconversion-faq
+content_type: faq
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking training funding in Poland
+knowledge_role: answer-set
+knowledge_basis: first-party training provider FAQ with official programme references
 topics:
-  - "woodworking training funding in Poland"
-  - "Baza Usług Rozwojowych (BUR)"
-  - "Krajowy Fundusz Szkoleniowy (KFS)"
-  - "military reconversion funding"
-  - "vocational retraining"
-  - "adult skills funding"
-  - "Bensari Workshop"
-  - "furniture making"
+- woodworking training funding in Poland
+- Baza Usług Rozwojowych (BUR)
+- Krajowy Fundusz Szkoleniowy (KFS)
+- military reconversion funding
+- vocational retraining
+- Bensari Workshop
+- furniture making
 related_topics:
-  - "woodworking education"
-  - "professional training"
-  - "public funding"
-  - "training eligibility"
-  - "Polish labour offices"
-  - "career change"
+- Bensari Workshop
+- Tom Bensari
+- woodworking education
+- hand tools
+- dovetail joinery
+- professional training
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Funding Woodworking Training at Bensari Workshop in Poland — BUR, KFS and Military Reconversion FAQ
 
@@ -87,7 +87,7 @@ Furniture designed and made by Tom Bensari is represented by the New York collec
 Related:
 
 * [Bensari Workshop](../bensari-workshop.md)
-* [About Tom Bensari](../about-tom-bensari.md)
+* [Tom Bensari](../tom-bensari.md)
 * [Woodworking education](../woodworking-education.md)
 
 ---
@@ -1975,7 +1975,7 @@ The 90%/70% rates, the full-time-equivalent threshold and the 200% per-participa
 ## Related Bensari Workshop knowledge
 
 * [Bensari Workshop](../bensari-workshop.md)
-* [About Tom Bensari](../about-tom-bensari.md)
+* [Tom Bensari](../tom-bensari.md)
 * [Woodworking education](../woodworking-education.md)
 * [Woodworking Learning FAQ](woodworking-learning-faq.md)
 * [Hand Tools FAQ](hand-tools-faq.md)

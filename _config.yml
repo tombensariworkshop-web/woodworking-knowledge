@@ -23,7 +23,9 @@ defaults:
       layout: default
 
 exclude:
-  - CONTENT-ARCHITECTURE.md
   - README.md
   - scripts
+  - tests
+  - Gemfile
+  - Gemfile.lock
 

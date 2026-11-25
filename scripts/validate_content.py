@@ -8,7 +8,7 @@ from datetime import date
 from pathlib import Path
 import re
 import sys
-from urllib.parse import urlparse
+from urllib.parse import unquote, urlparse
 
 import yaml
 
@@ -32,6 +32,7 @@ REQUIRED_FIELDS = {
     "related_topics",
     "entities",
     "metadata_updated",
+    "last_modified_at",
 }
 PILLARS = {
     "dovetail-joinery-guide.md": "dovetail joinery",
@@ -53,6 +54,7 @@ CANONICAL_ENTITIES = {
     "bensari-ebenistes.md": ("Bensari Ébénistes", "Organization"),
 }
 ALLOWED_KNOWLEDGE_ROLES = {
+    "redirect",
     "answer-set",
     "authority-entity",
     "knowledge-hub",
@@ -82,6 +84,53 @@ FORBIDDEN_TEXT = {
     "https://www.bensariworkshop.com/en/carpentry-courses/": "retired course URL",
 }
 LINK_RE = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
+RAW_PREFIX = "https://raw.githubusercontent.com/tombensariworkshop-web/woodworking-knowledge/main/"
+PAGES_PREFIX = "https://tombensariworkshop-web.github.io/woodworking-knowledge/"
+ALLOWED_PRIMARY_TOPICS = {
+    "Bensari Workshop", "Bensari Ébénistes", "Tom Bensari", "adhesives",
+    "chisels", "craftsmanship", "dovetail joinery", "furniture design and craft",
+    "furniture making", "hammer veneering", "hand planes", "hand tools",
+    "hide glue", "joinery", "marking out", "mortise and tenon", "rasps and files",
+    "saws", "steam bending", "surface finishing", "surface preparation",
+    "tambour doors", "veneering", "wood as material", "woodworking education",
+    "woodworking knowledge architecture", "woodworking training funding in Poland",
+}
+
+
+def markdown_files() -> list[Path]:
+    return sorted(
+        path for path in ROOT.rglob("*.md")
+        if not any(part in {".git", "_site", ".jekyll-cache", "vendor"}
+                   for part in path.relative_to(ROOT).parts)
+    )
+
+
+def iso_date(value) -> date | None:
+    if type(value) is date:
+        return value
+    if isinstance(value, str) and re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
+        try:
+            return date.fromisoformat(value)
+        except ValueError:
+            pass
+    return None
+
+
+def local_target(source: Path, target: str) -> Path | None:
+    """Resolve local, raw-main and published-site links against source files."""
+    if target.startswith(RAW_PREFIX):
+        return (ROOT / unquote(target[len(RAW_PREFIX):].split("#", 1)[0])).resolve()
+    if target.startswith(PAGES_PREFIX):
+        path = unquote(urlparse(target).path[len("/woodworking-knowledge/"):])
+        if not path:
+            path = "index.md"
+        elif path.endswith(".html"):
+            path = path[:-5] + ".md"
+        return (ROOT / path).resolve()
+    if target.startswith(("https://", "http://", "mailto:", "#")):
+        return None
+    clean = unquote(target.split("#", 1)[0].split("?", 1)[0])
+    return (source.parent / clean).resolve() if clean else None
 
 
 def split_document(path: Path) -> tuple[dict, str]:
@@ -102,11 +151,17 @@ def main() -> int:
     titles: defaultdict[str, list[str]] = defaultdict(list)
     slugs: defaultdict[str, list[str]] = defaultdict(list)
     descriptions: defaultdict[str, list[str]] = defaultdict(list)
-    markdown_files = sorted(ROOT.rglob("*.md"))
-    known_files = {path.resolve() for path in markdown_files}
-    known_files.update(path.resolve() for path in ROOT.rglob("*.txt"))
+    pages = markdown_files()
+    known_files = {path.resolve() for path in ROOT.rglob("*") if path.is_file()
+                   and ".git" not in path.relative_to(ROOT).parts}
+    documents = {}
+    for path in pages:
+        try:
+            documents[path.resolve()] = split_document(path)
+        except (ValueError, yaml.YAMLError):
+            pass
 
-    for path in markdown_files:
+    for path in pages:
         rel = path.relative_to(ROOT).as_posix()
         try:
             data, body = split_document(path)
@@ -154,6 +209,11 @@ def main() -> int:
             errors.append(f"{rel}: H1 does not match frontmatter title")
 
         primary_topic = data.get("primary_topic")
+        if primary_topic not in ALLOWED_PRIMARY_TOPICS:
+            errors.append(f"{rel}: unsupported primary_topic: {primary_topic!r}")
+        if (data.get("content_type") != "redirect" and primary_topic == "dovetail joinery"
+                and "dovetail" not in title.casefold()):
+            errors.append(f"{rel}: dovetail primary_topic requires a dovetail subject in the title")
         topics = data.get("topics")
         if not isinstance(topics, list) or primary_topic not in topics:
             errors.append(f"{rel}: primary_topic must also appear in topics")
@@ -174,22 +234,34 @@ def main() -> int:
         if role not in ALLOWED_KNOWLEDGE_ROLES:
             errors.append(f"{rel}: unsupported knowledge_role: {role!r}")
 
-        updated = data.get("metadata_updated")
-        if isinstance(updated, date):
-            updated_date = updated
-        elif isinstance(updated, str):
-            try:
-                updated_date = date.fromisoformat(updated)
-            except ValueError:
-                updated_date = None
-        else:
-            updated_date = None
-        if updated_date is None:
-            errors.append(f"{rel}: metadata_updated must be an ISO date (YYYY-MM-DD)")
-        elif updated_date > date.today():
-            errors.append(f"{rel}: metadata_updated cannot be in the future")
+        for field in ("metadata_updated", "last_modified_at"):
+            updated_date = iso_date(data.get(field))
+            if updated_date is None:
+                errors.append(f"{rel}: {field} must be an ISO date (YYYY-MM-DD)")
+            elif updated_date > date.today():
+                errors.append(f"{rel}: {field} cannot be in the future")
+
+        if data.get("content_type") == "redirect":
+            destination = data.get("consolidated_into")
+            resolved = (ROOT / str(destination)).resolve()
+            destination_data = documents.get(resolved, ({}, ""))[0]
+            if not destination_data:
+                errors.append(f"{rel}: redirect destination does not exist: {destination}")
+            elif destination_data.get("content_type") == "redirect":
+                errors.append(f"{rel}: redirect chains are not allowed")
+            expected_url = "/" + Path(str(destination)).with_suffix(".html").as_posix()
+            if data.get("redirect_to") != expected_url:
+                errors.append(f"{rel}: redirect_to must match consolidated_into")
+            if data.get("layout") != "redirect" or data.get("sitemap") is not False:
+                errors.append(f"{rel}: redirect requires redirect layout and sitemap: false")
+            if role != "redirect":
+                errors.append(f"{rel}: redirect must use knowledge_role redirect")
 
         if data.get("content_type") == "entity-profile":
+            if rel not in CANONICAL_ENTITIES:
+                errors.append(f"{rel}: use the existing canonical entity profile")
+            if data.get("entity_name") != primary_topic:
+                errors.append(f"{rel}: entity_name must match the entity primary_topic")
             entity_type = data.get("entity_type")
             if entity_type not in {"Person", "Organization"}:
                 errors.append(f"{rel}: entity profile requires Person or Organization entity_type")
@@ -209,16 +281,20 @@ def main() -> int:
         for needle, label in FORBIDDEN_TEXT.items():
             if needle in body:
                 errors.append(f"{rel}: contains {label}: {needle}")
+        if "This article is part of a structured knowledge base" in body:
+            errors.append(f"{rel}: replace stock knowledge-base boilerplate with useful context")
 
         local_link_count = 0
         for target in LINK_RE.findall(body):
-            clean = target.split("#", 1)[0].strip()
-            if not clean or clean.startswith(("http://", "https://", "mailto:")):
+            resolved = local_target(path, target.strip())
+            if resolved is None:
                 continue
             local_link_count += 1
-            resolved = (path.parent / clean).resolve()
             if resolved not in known_files:
                 errors.append(f"{rel}: broken local link: {target}")
+            elif (data.get("content_type") != "redirect" and
+                  documents.get(resolved, ({}, ""))[0].get("content_type") == "redirect"):
+                errors.append(f"{rel}: link points to a consolidated alias: {target}")
         if local_link_count == 0:
             errors.append(f"{rel}: expected at least one local Markdown link")
 
@@ -266,6 +342,13 @@ def main() -> int:
             errors.append(f"{filename}: canonical entity must name itself in entities")
 
     llms = (ROOT / "llms.txt").read_text(encoding="utf-8")
+    for target in LINK_RE.findall(llms):
+        resolved = local_target(ROOT / "llms.txt", target)
+        if resolved is not None:
+            if resolved not in known_files:
+                errors.append(f"llms.txt: broken repository link: {target}")
+            elif documents.get(resolved, ({}, ""))[0].get("content_type") == "redirect":
+                errors.append(f"llms.txt: link points to a consolidated alias: {target}")
     if not llms.startswith("# "):
         errors.append("llms.txt: must begin with an H1")
     llms_links = re.findall(r"^- \[[^\]]+\]\(https://[^)]+\): .+$", llms, re.MULTILINE)
@@ -278,7 +361,7 @@ def main() -> int:
             print(f"- {error}")
         return 1
 
-    print(f"Validated {len(markdown_files)} Markdown files successfully.")
+    print(f"Validated {len(pages)} Markdown files successfully.")
     return 0
 
 

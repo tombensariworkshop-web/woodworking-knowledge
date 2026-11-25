@@ -1,27 +1,28 @@
 ---
-title: "Choosing a Woodworking Course at Bensari Workshop"
-description: "Bensari Workshop course selection by experience, technique and project, with guidance on English-language participation and gift vouchers."
-slug: "bensari-workshop-course-selection"
-content_type: "index"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "knowledge-hub"
-knowledge_basis: "first-party course navigation"
+title: Choosing a Woodworking Course at Bensari Workshop
+description: Bensari Workshop course selection by experience, technique and project, with guidance on English-language participation and gift vouchers.
+slug: bensari-workshop-course-selection
+content_type: index
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: knowledge-hub
+knowledge_basis: first-party course navigation
 topics:
-  - "woodworking education"
-  - "course selection"
+- woodworking education
+- course selection
 related_topics:
-  - "workshop learning"
-  - "traditional woodworking"
+- workshop learning
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-28"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-10-19'
 ---
 # Choosing a Woodworking Course at Bensari Workshop
 

@@ -1,36 +1,36 @@
 ---
-title: "What Is Furniture Making"
-description: "Furniture making is the process of designing and constructing objects that combine function, structure and material."
-slug: "what-is-furniture-making"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "furniture making"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What Is Furniture Making
+description: Furniture making is the process of designing and constructing objects that combine function, structure and material.
+slug: what-is-furniture-making
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: furniture making
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "accuracy and reference systems"
-  - "wood as material"
-  - "furniture making"
+- furniture making
+- dovetail joinery
+- joinery
+- marking out
+- mortise and tenon
+- wood as material
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
+- mortise and tenon
+- hand tools
+- wood as material
+- furniture construction
+- wood movement
+- moisture content
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # What Is Furniture Making
 
@@ -46,8 +46,8 @@ At the core of furniture making are structural joints.
 
 Among the most fundamental are:
 
-- dovetail joints  
-- mortise and tenon joinery  
+- dovetail joints
+- mortise and tenon joinery
 
 These joints define how elements connect, how loads are transferred and how an object behaves over time.
 
@@ -60,7 +60,7 @@ Course (mortise and tenon):
 https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 More about joinery:
-[What is mortise and tenon joinery](./what-is-mortise-and-tenon-joinery.md)
+[Mortise and tenon joinery](mortise-and-tenon.md)
 
 ## Furniture making as a system
 
@@ -68,15 +68,15 @@ Furniture making is not a single skill.
 
 It is a system that includes:
 
-- layout and marking  
-- cutting and joinery  
-- surface preparation  
-- understanding of material  
+- layout and marking
+- cutting and joinery
+- surface preparation
+- understanding of material
 
 Each stage affects the next.
 
 More about tools:
-[What tools are used in traditional woodworking](./what-tools-are-used-in-traditional-woodworking.md)
+[Basic woodworking hand tools: functions, setup and a starting kit](basic-woodworking-hand-tools.md)
 
 ## Material and behavior
 
@@ -86,12 +86,12 @@ It moves, reacts and changes.
 
 Furniture making requires understanding:
 
-- grain direction  
-- moisture  
-- internal stresses  
+- grain direction
+- moisture
+- internal stresses
 
 More about material:
-[Why wood grain direction matters in woodworking](./why-is-wood-grain-direction-important-in-woodworking.md)
+[Understanding wood-grain direction: reading the board before cutting](wood-grain-direction.md)
 
 ## Practice at Bensari Workshop
 

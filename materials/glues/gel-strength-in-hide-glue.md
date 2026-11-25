@@ -1,33 +1,30 @@
 ---
-title: "Gel Strength in Hide Glue"
-description: "Gel strength is one of the most important characteristics used to classify hide glue."
-slug: "gel-strength-in-hide-glue"
-content_type: "material-reference"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hide glue"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
+title: Gel Strength in Hide Glue
+description: Gel strength is one of the most important characteristics used to classify hide glue.
+slug: gel-strength-in-hide-glue
+content_type: material-reference
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hide glue
+knowledge_role: reference
+knowledge_basis: workshop material reference
 topics:
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "woodworking materials"
+- hide glue
+- adhesives
+- furniture making
 related_topics:
-  - "veneering"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
-  - "material selection"
-  - "craftsmanship"
+- adhesives
+- furniture construction
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Gel Strength in Hide Glue
 

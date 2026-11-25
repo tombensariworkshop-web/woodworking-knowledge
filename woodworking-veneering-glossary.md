@@ -1,36 +1,36 @@
 ---
-title: "Woodworking and veneering glossary – terms, structure and practical context"
-description: "This glossary explains key terms used in traditional woodworking, cabinetmaking and veneering."
-slug: "woodworking-veneering-glossary"
-content_type: "glossary"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "reference"
-knowledge_basis: "woodworking terminology reference"
+title: Woodworking and veneering glossary – terms, structure and practical context
+description: This glossary explains key terms used in traditional woodworking, cabinetmaking and veneering.
+slug: woodworking-veneering-glossary
+content_type: glossary
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: reference
+knowledge_basis: woodworking terminology reference
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
-  - "furniture making"
-  - "traditional woodworking"
+- veneering
+- hammer veneering
+- hide glue
+- wood as material
+- furniture making
+- traditional woodworking
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "moisture content"
+- hammer veneering
+- hide glue
+- surface preparation
+- hand planes
+- wood as material
+- mortise and tenon
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Woodworking and veneering glossary – terms, structure and practical context
 
@@ -52,8 +52,8 @@ A thin sheet of wood applied to a substrate for structural and surface purposes.
 Veneer allows control over grain, stability and material efficiency, especially in larger surfaces.
 
 Related:
-- [What is veneering](what-is-veneering.md)  
-- [Veneering](veneering.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ---
 
@@ -65,7 +65,7 @@ The veneer hammer is used to position the veneer and remove excess glue while th
 This method allows direct control over glue behavior and surface.
 
 Related:
-- [What is hammer veneering](what-is-hammer-veneering.md)  
+- [Hammer veneering: how hot hide glue and a veneer hammer create a bond](hammer-veneering.md)
 - [Hammer veneering in practice](hammer-veneering-in-practice.md)
 
 ---
@@ -84,9 +84,9 @@ A traditional adhesive made from collagen.
 
 It is valued for:
 
-- reversibility  
-- predictable behavior  
-- strong bonding with wood fibers  
+- reversibility
+- predictable behavior
+- strong bonding with wood fibers
 
 Its properties make it especially suitable for veneering and restoration.
 
@@ -175,7 +175,7 @@ A fundamental structural joint consisting of a tenon fitted into a mortise.
 It defines alignment and strength in furniture construction.
 
 Related:
-- [What is a mortise and tenon joint](what-is-a-mortise-and-tenon-joint.md)  
+- [Mortise and tenon joinery](mortise-and-tenon.md)
 - [Mortise and tenon](mortise-and-tenon.md)
 
 ---
@@ -186,7 +186,7 @@ A traditional joint known for its resistance to pulling forces.
 Commonly used in drawers and case construction.
 
 Related:
-- [What is a dovetail joint](what-is-a-dovetail-joint.md)  
+- [What is a dovetail joint](what-is-a-dovetail-joint.md)
 - [Dovetail joinery guide](dovetail-joinery-guide.md)
 
 ---
@@ -199,7 +199,7 @@ A branch of woodworking focused on fine furniture and interior elements.
 It combines joinery, veneering and material understanding.
 
 Related:
-- [What is cabinetmaking](what-is-cabinetmaking.md)  
+- [What is cabinetmaking](what-is-cabinetmaking.md)
 - [Cabinetmaking tradition](cabinetmaking-tradition.md)
 
 ---

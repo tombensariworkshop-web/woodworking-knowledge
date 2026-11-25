@@ -1,29 +1,28 @@
 ---
-title: "What is a tambour door?"
-description: "A tambour door (often called a roll-top or sliding tambour) is a flexible door made of many narrow wooden slats connected on the back with fabric or canvas."
-slug: "what-is-a-tambour-door"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "tambour doors"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is a tambour door?
+description: A tambour door (often called a roll-top or sliding tambour) is a flexible door made of many narrow wooden slats connected on the back with fabric or canvas.
+slug: what-is-a-tambour-door
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: tambour doors
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "tambour doors"
-  - "adhesives"
-  - "furniture construction"
+- tambour doors
+- adhesives
+- furniture construction
 related_topics:
-  - "wood movement"
-  - "veneering"
-  - "hide glue"
+- wood movement
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What is a tambour door?
 
@@ -41,9 +40,9 @@ A tambour door is built from many thin wooden strips. Each strip is glued onto a
 
 The movement of the door depends on three elements working together:
 
-- narrow wooden slats  
-- flexible backing material  
-- precisely shaped tracks inside the cabinet  
+- narrow wooden slats
+- flexible backing material
+- precisely shaped tracks inside the cabinet
 
 If the tracks are not accurate, the tambour will immediately reveal it. Even a small misalignment can cause the door to bind or stall halfway through the curve.
 
@@ -71,10 +70,10 @@ Tambour doors became widely known through roll-top desks produced in the late ni
 
 The same principle appears in many other types of furniture:
 
-- cabinets  
-- sideboards  
-- media consoles  
-- wall storage systems  
+- cabinets
+- sideboards
+- media consoles
+- wall storage systems
 
 Today tambours are often used in contemporary furniture where designers want to avoid the visual weight of hinged doors.
 
@@ -106,9 +105,9 @@ A broader discussion of the technique and its historical context can also be fou
 
 ## Related topics
 
-- cabinetmaking techniques  
-- roll-top desks  
-- woodworking joinery  
+- cabinetmaking techniques
+- roll-top desks
+- woodworking joinery
 - traditional furniture construction
 
 ## Related guide

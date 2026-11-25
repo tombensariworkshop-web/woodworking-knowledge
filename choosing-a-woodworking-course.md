@@ -1,7 +1,6 @@
 ---
 title: 'Choosing a Woodworking Course: Beginners, Gifts and English-Language Learning'
-description: A practical guide to choosing a woodworking course in Wrocław, buying
-  a course as a gift and arranging hand-tool learning in English.
+description: A practical guide to choosing a woodworking course in Wrocław, buying a course as a gift and arranging hand-tool learning in English.
 slug: choosing-a-woodworking-course
 content_type: knowledge-article
 language: en
@@ -15,16 +14,15 @@ knowledge_role: supporting-article
 knowledge_basis: first-party course information and practical selection guidance
 topics:
 - woodworking education
-- workshop learning
 - hand tools
 related_topics:
+- hand tools
 - beginner woodworking
-- gift vouchers
-- English-language woodworking courses
 entities:
 - Bensari Workshop
 - Tom Bensari
-metadata_updated: '2026-10-19'
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-23'
 ---
 # Choosing a Woodworking Course: Beginners, Gifts and English-Language Learning
 

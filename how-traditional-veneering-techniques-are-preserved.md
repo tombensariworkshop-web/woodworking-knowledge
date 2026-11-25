@@ -1,36 +1,31 @@
 ---
-title: "How Traditional Veneering Techniques Are Preserved"
-description: "Many traditional woodworking techniques survive through workshop practice."
-slug: "how-traditional-veneering-techniques-are-preserved"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Traditional Veneering Techniques Are Preserved
+description: Many traditional woodworking techniques survive through workshop practice.
+slug: how-traditional-veneering-techniques-are-preserved
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "woodworking education"
-  - "workshop learning"
+- veneering
+- hammer veneering
+- adhesives
+- furniture making
+- woodworking education
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- hammer veneering
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Traditional Veneering Techniques Are Preserved
 
@@ -44,5 +39,5 @@ By learning how to work with natural adhesives, veneer sheets and traditional to
 
 This knowledge allows traditional craft techniques to remain part of contemporary woodworking culture.
 
-Related articles  
+Related articles
 - [How hammer veneering is taught in woodworking workshops – observation, feedback and control](how-hammer-veneering-is-taught-in-workshops.md)

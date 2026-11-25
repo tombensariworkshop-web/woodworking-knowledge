@@ -1,35 +1,29 @@
 ---
-title: "Why Is Craftsmanship Important in Furniture Making"
-description: "Craftsmanship is important in furniture making because it determines how an object performs over time."
-slug: "why-is-craftsmanship-important-in-furniture-making"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "furniture making"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why Is Craftsmanship Important in Furniture Making
+description: Craftsmanship is important in furniture making because it determines how an object performs over time.
+slug: why-is-craftsmanship-important-in-furniture-making
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: furniture making
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "veneering"
-  - "wood species"
-  - "material selection"
-  - "furniture making"
-  - "woodworking education"
-  - "workshop learning"
-  - "craftsmanship"
+- furniture making
+- veneering
+- woodworking education
+- craftsmanship
 related_topics:
-  - "hide glue"
-  - "wood movement"
-  - "joinery"
-  - "hand tools"
-  - "skill development"
+- joinery
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why Is Craftsmanship Important in Furniture Making
 
@@ -43,9 +37,9 @@ Well-crafted furniture is not defined by how it looks at first glance.
 
 It is defined by:
 
-- how elements are joined  
-- how the material behaves over time  
-- how precisely the object is constructed  
+- how elements are joined
+- how the material behaves over time
+- how precisely the object is constructed
 
 Craftsmanship connects these aspects into a coherent whole.
 
@@ -58,9 +52,9 @@ Craftsmanship is not an additional quality applied after construction.
 
 It is the ability to control:
 
-- tools  
-- material  
-- process  
+- tools
+- material
+- process
 
 Without this control, even a well-designed object will not perform as intended.
 
@@ -82,9 +76,9 @@ Craftsmanship develops through repetition, but not mechanical repetition.
 
 It requires:
 
-- attention  
-- correction  
-- consistency over time  
+- attention
+- correction
+- consistency over time
 
 This is what leads to reliable results.
 
@@ -94,13 +88,13 @@ Techniques such as joinery and veneering are not ends in themselves.
 
 They are tools that allow the maker to:
 
-- build durable structures  
-- control surfaces  
-- work precisely with material  
+- build durable structures
+- control surfaces
+- work precisely with material
 
 Course:
-https://www.bensariworkshop.com/en/mortise-and-tenon/\
-https://www.bensariworkshop.com/en/dovetails/  
+https://www.bensariworkshop.com/en/mortise-and-tenon/
+https://www.bensariworkshop.com/en/dovetails/
 https://www.bensariworkshop.com/en/hammer-veneering/
 
 ## Context

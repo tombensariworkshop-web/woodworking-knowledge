@@ -1,34 +1,35 @@
 ---
-title: "Inside a traditional woodworking workshop"
-description: "A traditional woodworking workshop is often described through tools and equipment."
-slug: "woodworking-workshop"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "Bensari Workshop"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Inside a traditional woodworking workshop
+description: A traditional woodworking workshop is often described through tools and equipment.
+slug: woodworking-workshop
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: Bensari Workshop
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "Bensari Workshop"
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "hand tools"
-  - "accuracy and reference systems"
-  - "traditional woodworking"
+- Bensari Workshop
+- dovetail joinery
+- joinery
+- marking out
+- hand tools
+- traditional woodworking
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "craft education"
+- woodworking education
+- joinery
+- hand tools
+- furniture making
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Inside a traditional woodworking workshop
 
@@ -48,10 +49,10 @@ Marking out defines geometry. Cutting follows those decisions. Fitting reveals t
 
 Each step depends on the previous one.
 
-A clear example of how early decisions define the result can be seen here:  
+A clear example of how early decisions define the result can be seen here:
 https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
-And how those decisions translate into cutting in practice here:  
+And how those decisions translate into cutting in practice here:
 https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 
 ## Material as a constant reference
@@ -70,10 +71,10 @@ Tools in a traditional workshop are not chosen for their speed, but for the leve
 
 Hand tools allow adjustment in real time. They respond to the material and make the process visible.
 
-Understanding tools begins with knowing what is actually needed:  
+Understanding tools begins with knowing what is actually needed:
 https://www.bensariworkshop.com/en/basic-woodworking-tools-where-to-begin/
 
-And how they function within joinery:  
+And how they function within joinery:
 https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
 
 ## Structure and joinery
@@ -84,7 +85,7 @@ In a workshop environment, this becomes clear through practice.
 
 Participants engage with fundamental structures such as:
 
-https://www.bensariworkshop.com/en/dovetails/  
+https://www.bensariworkshop.com/en/dovetails/
 https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 They see how geometry, fit and material interact, and how small decisions influence the durability of the final object.
@@ -111,15 +112,15 @@ You see the sequence of decisions. You understand the relationships between step
 
 This is where woodworking becomes clear.
 
-If you want to experience this process in practice:  
+If you want to experience this process in practice:
 https://www.bensariworkshop.com/en/school/
 
 ## Internal links
 
 - [Workshop learning](workshop-learning.md)
-- [Why traditional woodworking requires direct contact with a teacher](why-traditional-woodworking-requires-direct-contact-with-a-teacher.md)  
-- [Joinery in furniture](joinery-in-furniture.md)  
-- [Hand tool woodworking](hand-tool-woodworking.md)  
+- [Learning woodworking online or in a workshop: choosing useful feedback](woodworking-workshop-vs-online-course-which-is-better.md)
+- [Joinery in furniture](joinery-in-furniture.md)
+- [Hand tool woodworking](hand-tool-woodworking.md)
 
 ## Related hub
 
@@ -128,5 +129,3 @@ https://www.bensariworkshop.com/en/school/
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

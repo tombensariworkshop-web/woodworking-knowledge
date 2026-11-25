@@ -1,34 +1,35 @@
 ---
-title: "Dovetail Joinery in Furniture Making – Structure, Not Detail"
-description: "Dovetail joints mechanically lock two boards together and are used where furniture must resist pulling forces over time."
-slug: "dovetail-joint"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Dovetail Joinery in Furniture Making – Structure, Not Detail
+description: Dovetail joints mechanically lock two boards together and are used where furniture must resist pulling forces over time.
+slug: dovetail-joint
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "chisels"
-  - "hand tools"
-  - "saws"
-  - "accuracy and reference systems"
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- marking out
+- drawer construction
+- furniture construction
+- tool control
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Dovetail Joinery in Furniture Making – Structure, Not Detail
 
@@ -41,8 +42,6 @@ The dovetail joint is often recognized by its shape.
 In practice, its importance has very little to do with how it looks.
 
 It is one of the clearest examples of how structure, geometry and decision-making come together in woodworking.
-
-This article is part of a structured knowledge base on traditional woodworking, joinery and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Why Dovetails Are Used
 
@@ -188,9 +187,9 @@ It is defined before it begins.
 
 - [Dovetail marking out: practice and geometry](dovetail-marking-out-practice-and-geometry.md)
 - [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)
-- [Why marking out determines the result](why-marking-out-determines-the-result-in-woodworking.md)
+- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 - [Tools used for dovetails](tools-used-for-dovetails.md)
-- [Why dovetail accuracy is decided before assembly](why-dovetail-accuracy-is-decided-before-assembly.md)
+- [Why dovetails fail before assembly: diagnosing layout, cuts and fit](why-dovetails-fail-before-they-are-assembled.md)
 - [Why dovetails fail before assembly](why-dovetails-fail-before-they-are-assembled.md)
 - [How hand tools create accuracy in dovetail joinery](how-hand-tools-create-accuracy-in-dovetail-joinery.md)
 - [Dovetails are about control, not decoration](dovetails-are-about-control-not-decoration.md)
@@ -203,7 +202,3 @@ It is defined before it begins.
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
-
-Last reviewed: September 2026.

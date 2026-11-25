@@ -1,30 +1,27 @@
 ---
-title: "What is a Lap Joint"
-description: "A lap joint is a woodworking joint in which two pieces of wood overlap partially so that they can be joined flush with each other."
-slug: "what-is-a-lap-joint"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is a Lap Joint
+description: A lap joint is a woodworking joint in which two pieces of wood overlap partially so that they can be joined flush with each other.
+slug: what-is-a-lap-joint
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "adhesives"
-  - "joinery"
+- joinery
 related_topics:
-  - "hide glue"
-  - "veneering"
-  - "furniture construction"
-  - "hand tools"
-  - "accuracy and reference systems"
+- mortise and tenon
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What is a Lap Joint
 

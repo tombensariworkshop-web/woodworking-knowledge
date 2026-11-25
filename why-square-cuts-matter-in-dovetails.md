@@ -1,36 +1,30 @@
 ---
-title: "Why square cuts matter in dovetails"
-description: "In dovetail joinery, most attention is given to the angle of the tails."
-slug: "why-square-cuts-matter-in-dovetails"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why square cuts matter in dovetails
+description: In dovetail joinery, most attention is given to the angle of the tails.
+slug: why-square-cuts-matter-in-dovetails
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "saws"
-  - "hand tools"
-  - "accuracy and reference systems"
-  - "furniture making"
+- dovetail joinery
+- joinery
+- marking out
+- saws
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
-  - "material selection"
-  - "craftsmanship"
+- marking out
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why square cuts matter in dovetails
 
@@ -40,8 +34,6 @@ In practice, this is not where accuracy is determined.
 
 The most critical cut is the square cut on the end grain.
 
-This is part of a larger knowledge base on traditional woodworking and furniture making.
-
 ## Where accuracy is actually defined
 
 A dovetail joint is not created at the moment of cutting.
@@ -50,7 +42,7 @@ It is defined earlier, at the stage of marking out, where the geometry of the jo
 
 The saw only follows that decision.
 
-A detailed explanation of this process can be found here:  
+A detailed explanation of this process can be found here:
 https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
 ## The role of the square cut
@@ -61,14 +53,14 @@ When tails are marked onto the second piece, the accuracy of that transfer depen
 
 If the cut is not square:
 
-- the transferred sockets become too narrow or too wide  
-- the geometry of the joint shifts  
-- the fit becomes inconsistent  
-- the joint may split during assembly  
+- the transferred sockets become too narrow or too wide
+- the geometry of the joint shifts
+- the fit becomes inconsistent
+- the joint may split during assembly
 
 This is where most problems begin.
 
-You can see the consequences of this here:  
+You can see the consequences of this here:
 [Why dovetail joints fail and open up](why-dovetail-joints-fail-and-open-up.md)
 
 ## Why angle matters less than geometry
@@ -91,10 +83,10 @@ This is why sawing technique is not only about following a line.
 
 It is about maintaining the geometry defined during marking out.
 
-You can see how this is approached in practice here:  
+You can see how this is approached in practice here:
 https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-part-2/
 
-And how cutting relates to layout here:  
+And how cutting relates to layout here:
 [How to saw dovetail tails correctly](how-to-saw-dovetail-tails-correctly.md)
 
 ## Transfer and fit
@@ -105,7 +97,7 @@ This is the moment where accuracy is tested.
 
 If the initial cut is correct, the transfer works naturally. If not, the error is multiplied.
 
-More about this stage here:  
+More about this stage here:
 [Transferring dovetails – where accuracy is tested](transferring-dovetails-where-accuracy-is-tested.md)
 
 ## Key takeaway
@@ -118,10 +110,10 @@ Focusing on angles without understanding geometry leads to inconsistent results.
 
 ## Internal links
 
-- [Dovetail joint](dovetail-joint.md)  
-- [What is a dovetail joint](what-is-a-dovetail-joint.md)  
-- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)  
-- [Why marking out determines the result in woodworking](why-marking-out-determines-the-result-in-woodworking.md)  
+- [Dovetail joint](dovetail-joint.md)
+- [What is a dovetail joint](what-is-a-dovetail-joint.md)
+- [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)
+- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 
 ## Related hub
 
@@ -130,5 +122,3 @@ Focusing on angles without understanding geometry leads to inconsistent results.
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

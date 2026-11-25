@@ -1,36 +1,33 @@
 ---
-title: "Adhesives in woodworking – control, behavior and structural decisions"
-description: "Adhesives in woodworking are often treated as a secondary choice."
-slug: "adhesives-in-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "adhesives"
-knowledge_role: "pillar-guide"
-knowledge_basis: "practice-based pillar guide"
+title: Adhesives in woodworking – control, behavior and structural decisions
+description: Adhesives in woodworking are often treated as a secondary choice.
+slug: adhesives-in-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: adhesives
+knowledge_role: pillar-guide
+knowledge_basis: practice-based pillar guide
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- adhesives
+- hammer veneering
+- veneering
+- hide glue
+- Bensari Workshop
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- hide glue
+- hammer veneering
+- veneering
+- wood movement
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Adhesives in woodworking – control, behavior and structural decisions
 
@@ -40,8 +37,6 @@ In practice, they define how materials behave during the process and over time.
 
 The type of glue used affects not only how elements are joined, but how they move, how they age and how stable they remain.
 
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
-
 ## Adhesives as part of the structure
 
 Glue is not only a bonding agent.
@@ -50,9 +45,9 @@ It is part of the structure.
 
 It defines:
 
-- how forces are transferred  
-- how movement is controlled  
-- how the object behaves under stress  
+- how forces are transferred
+- how movement is controlled
+- how the object behaves under stress
 
 Choosing an adhesive is therefore not a technical detail.
 
@@ -70,9 +65,9 @@ PVA glues are widely used in woodworking.
 
 They are:
 
-- easy to apply  
-- predictable  
-- suitable for many general applications  
+- easy to apply
+- predictable
+- suitable for many general applications
 
 However, they remain slightly flexible after curing.
 
@@ -86,13 +81,13 @@ Hide glue behaves differently.
 
 It creates a rigid bond and allows:
 
-- adjustment during application  
-- reactivation with heat  
-- direct control in traditional techniques  
+- adjustment during application
+- reactivation with heat
+- direct control in traditional techniques
 
 It is closely connected to methods such as hammer veneering.
 
-- [What is hide glue](what-is-hide-glue.md)  
+- [What is hide glue](what-is-hide-glue.md)
 - [Hammer veneering in practice](hammer-veneering-in-practice.md)
 
 ### Urea formaldehyde
@@ -119,19 +114,19 @@ In veneering, adhesive behavior is critical.
 
 It affects:
 
-- how veneer is positioned  
-- how pressure is applied  
-- how stable the surface remains  
+- how veneer is positioned
+- how pressure is applied
+- how stable the surface remains
 
 Glue selection must be considered together with:
 
-- veneer thickness  
-- substrate type  
-- method of pressing  
+- veneer thickness
+- substrate type
+- method of pressing
 
 To understand this relationship:
 
-- [Veneering](veneering.md)  
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 - [How veneering controls wood movement](how-veneering-controls-wood-movement.md)
 
 ## No universal solution
@@ -140,9 +135,9 @@ There is no single adhesive that works in all situations.
 
 Each system involves trade-offs between:
 
-- flexibility and rigidity  
-- working time and control  
-- ease of use and long-term stability  
+- flexibility and rigidity
+- working time and control
+- ease of use and long-term stability
 
 Understanding these differences allows for better decisions.
 
@@ -160,11 +155,9 @@ Treating glue as part of the structure changes how woodworking is approached.
 
 ## Related topics:
 
-– veneering in woodworking: ./veneering-in-woodworking.md  
-– hand tool woodworking: ./hand-tool-woodworking.md  
+– veneering in woodworking: ./veneering-in-woodworking.md
+– hand tool woodworking: ./hand-tool-woodworking.md
 
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

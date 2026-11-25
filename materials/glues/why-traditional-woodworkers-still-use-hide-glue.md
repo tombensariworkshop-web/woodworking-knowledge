@@ -1,36 +1,35 @@
 ---
-title: "Why Traditional Woodworkers Still Use Hide Glue"
-description: "Hide glue has been used in woodworking and cabinetmaking for centuries."
-slug: "why-traditional-woodworkers-still-use-hide-glue"
-content_type: "material-reference"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hide glue"
-knowledge_role: "reference"
-knowledge_basis: "workshop material reference"
+title: Why Traditional Woodworkers Still Use Hide Glue
+description: Hide glue has been used in woodworking and cabinetmaking for centuries.
+slug: why-traditional-woodworkers-still-use-hide-glue
+content_type: material-reference
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hide glue
+knowledge_role: reference
+knowledge_basis: workshop material reference
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
-  - "furniture making"
-  - "traditional woodworking"
+- hide glue
+- hammer veneering
+- veneering
+- adhesives
+- wood as material
+- furniture making
+- traditional woodworking
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "moisture content"
+- adhesives
+- cabinetmaking
+- furniture construction
+- moisture content
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Why Traditional Woodworkers Still Use Hide Glue
 

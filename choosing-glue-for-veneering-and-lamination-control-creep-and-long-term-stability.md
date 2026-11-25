@@ -1,50 +1,46 @@
 ---
-title: "Choosing glue for veneering and lamination – control, creep and long-term stability"
-description: "Questions about glue selection appear regularly in woodworking discussions."
-slug: "choosing-glue-for-veneering-and-lamination-control-creep-and-long-term-stability"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "adhesives"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Choosing glue for veneering and lamination – control, creep and long-term stability
+description: Questions about glue selection appear regularly in woodworking discussions.
+slug: choosing-glue-for-veneering-and-lamination-control-creep-and-long-term-stability
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: adhesives
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- adhesives
+- hammer veneering
+- veneering
+- hide glue
+- Bensari Workshop
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- hide glue
+- hammer veneering
+- veneering
+- wood movement
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Choosing glue for veneering and lamination – control, creep and long-term stability
 
 Questions about glue selection appear regularly in woodworking discussions.
 
-Can hide glue be used without a hammer?  
-Is Titebond III stable enough?  
+Can hide glue be used without a hammer?
+Is Titebond III stable enough?
 What about cold creep?
 
 These are not only technical questions.
 
 They are decisions about how a material will behave over time.
-
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
 
 ## Hide glue – control during the process
 
@@ -56,9 +52,9 @@ However, this requires experience.
 
 The process depends on:
 
-- temperature of the glue  
-- speed of application  
-- even distribution of pressure  
+- temperature of the glue
+- speed of application
+- even distribution of pressure
 
 Unlike modern adhesives, hide glue gives you a limited working window.
 
@@ -68,7 +64,7 @@ This is why hammer veneering remains the most direct and controlled method when 
 
 Learn more:
 
-- [What is hide glue](what-is-hide-glue.md)  
+- [What is hide glue](what-is-hide-glue.md)
 - [Hammer veneering in practice](hammer-veneering-in-practice.md)
 
 ## Working time is not a fixed number
@@ -81,10 +77,10 @@ There is no single answer.
 
 Working time depends on:
 
-- glue temperature  
-- room temperature  
-- thickness of the veneer  
-- size of the surface  
+- glue temperature
+- room temperature
+- thickness of the veneer
+- size of the surface
 
 In practice, the working window is short.
 
@@ -104,9 +100,9 @@ Over time, under stress, the material can slowly shift.
 
 This may lead to:
 
-- surface undulations  
-- loss of flatness  
-- movement in laminated elements  
+- surface undulations
+- loss of flatness
+- movement in laminated elements
 
 This is not a defect of a specific product.
 
@@ -120,8 +116,8 @@ It creates a harder glue line than standard PVAs.
 
 Because of this, it is often used for:
 
-- veneering in vacuum bags  
-- cold laminations  
+- veneering in vacuum bags
+- cold laminations
 
 In my own practice, I use it with a clear limitation.
 
@@ -129,8 +125,8 @@ I apply it only in elements that are later structurally constrained.
 
 For example:
 
-- panels fixed within a frame  
-- elements locked into a larger construction  
+- panels fixed within a frame
+- elements locked into a larger construction
 
 In these cases, movement is restricted, and the risk of cold creep is significantly reduced.
 
@@ -138,9 +134,9 @@ In these cases, movement is restricted, and the risk of cold creep is significan
 
 For elements that are:
 
-- structural  
-- load-bearing  
-- exposed to long-term stress  
+- structural
+- load-bearing
+- exposed to long-term stress
 
 I use urea formaldehyde resin.
 
@@ -154,9 +150,9 @@ There is no single “best glue” for veneering or lamination.
 
 Each adhesive defines:
 
-- how the process behaves  
-- how much control you have  
-- how the material performs over time  
+- how the process behaves
+- how much control you have
+- how the material performs over time
 
 Choosing glue is not a secondary decision.
 
@@ -166,14 +162,14 @@ It is part of the design of the object.
 
 Glue selection cannot be separated from:
 
-- veneer thickness  
-- substrate type  
-- pressure method  
-- structural context  
+- veneer thickness
+- substrate type
+- pressure method
+- structural context
 
 To understand this more broadly:
 
-- [Veneering](veneering.md)  
+- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 - [How veneering controls wood movement](how-veneering-controls-wood-movement.md)
 
 ## Conclusion
@@ -187,5 +183,3 @@ Understanding the limitations of each adhesive allows you to control not only th
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

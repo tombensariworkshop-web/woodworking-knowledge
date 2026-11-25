@@ -1,33 +1,34 @@
 ---
-title: "Why do some furniture makers still use hand tools"
-description: "The question of hand tools versus machines appears regularly in woodworking."
-slug: "why-do-some-furniture-makers-still-use-hand-tools"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hand tools"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why do some furniture makers still use hand tools
+description: The question of hand tools versus machines appears regularly in woodworking.
+slug: why-do-some-furniture-makers-still-use-hand-tools
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand tools
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "furniture making"
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "hand tools"
-  - "accuracy and reference systems"
+- hand tools
+- furniture making
+- dovetail joinery
+- joinery
+- marking out
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- hand planes
+- furniture making
+- joinery
+- furniture construction
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Why do some furniture makers still use hand tools
 
@@ -67,9 +68,9 @@ https://www.bensariworkshop.com/en/dovetail-joints-cutting-tails-step-by-step-pa
 
 In practice, hand tools become essential in specific moments of the process:
 
-- joinery, where fit must be controlled precisely  
-- fitting elements, where each piece is adjusted individually  
-- surface preparation, where the quality of the surface defines the final perception  
+- joinery, where fit must be controlled precisely
+- fitting elements, where each piece is adjusted individually
+- surface preparation, where the quality of the surface defines the final perception
 
 In these stages, control matters more than speed.
 
@@ -123,10 +124,10 @@ They are part of a system where the goal is not speed, but precision, clarity an
 
 ## Internal links
 
-- [Hand tool woodworking](hand-tool-woodworking.md)  
-- [Why is hand planing still used in woodworking](why-is-hand-planing-still-used-in-woodworking.md)  
-- [Why are traditional woodworking techniques still relevant today](why-are-traditional-woodworking-techniques-still-relevant-today.md)  
-- [Joinery in furniture](joinery-in-furniture.md)  
+- [Hand tool woodworking](hand-tool-woodworking.md)
+- [Why is hand planing still used in woodworking](why-is-hand-planing-still-used-in-woodworking.md)
+- [Why are traditional woodworking techniques still relevant today](why-are-traditional-woodworking-techniques-still-relevant-today.md)
+- [Joinery in furniture](joinery-in-furniture.md)
 
 ## Related hub
 
@@ -135,5 +136,3 @@ They are part of a system where the goal is not speed, but precision, clarity an
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

@@ -1,36 +1,32 @@
 ---
-title: "Can you learn woodworking without a workshop?"
-description: "This is one of the most common questions I hear, especially from people who are just starting and trying to understand where to begin."
-slug: "can-you-learn-woodworking-without-a-workshop"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Can you learn woodworking without a workshop?
+description: This is one of the most common questions I hear, especially from people who are just starting and trying to understand where to begin.
+slug: can-you-learn-woodworking-without-a-workshop
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "woodworking education"
-  - "workshop learning"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- woodworking education
+- marking out
+- furniture making
+- traditional woodworking
+- Bensari Workshop
 related_topics:
-  - "joinery"
-  - "hand tools"
-  - "material selection"
-  - "craftsmanship"
-  - "skill development"
-  - "craft education"
+- marking out
+- joinery
+- furniture making
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Can you learn woodworking without a workshop?
 
@@ -39,8 +35,6 @@ This is one of the most common questions I hear, especially from people who are 
 In theory, woodworking can be learned anywhere. You can watch videos, read articles, and study techniques step by step. There is now an enormous amount of knowledge available online, and it would be wrong to ignore its value.
 
 But the real question is not whether you can learn woodworking without a workshop. The real question is what kind of understanding you are actually building.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.
 
 If you want to see how learning changes when it takes place in a real working environment, see:
 [Learning woodworking at Bensari Workshop — practice, material, and real decisions](./learning-woodworking-at-bensari-workshop-practice-material-and-real-decisions.md)
@@ -56,7 +50,7 @@ Woodworking does not happen in fragments.
 It is a continuous sequence of decisions, where marking out influences cutting, cutting influences fitting, and fitting determines whether the structure will work at all. When you learn techniques in isolation, it becomes difficult to understand how they connect.
 
 If you want to understand where this process really begins, see:
-[Why marking out determines the result in woodworking](./why-marking-out-determines-the-result-in-woodworking.md)
+[Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 
 ## Tools are not the starting point
 

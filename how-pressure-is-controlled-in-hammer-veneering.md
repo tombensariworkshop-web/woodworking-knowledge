@@ -1,36 +1,31 @@
 ---
-title: "How pressure is controlled in hammer veneering – direction, contact and process control"
-description: "It is a controlled movement that defines how glue and veneer interact."
-slug: "how-pressure-is-controlled-in-hammer-veneering"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hammer veneering"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How pressure is controlled in hammer veneering – direction, contact and process control
+description: It is a controlled movement that defines how glue and veneer interact.
+slug: how-pressure-is-controlled-in-hammer-veneering
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hammer veneering
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- hammer veneering
+- veneering
+- furniture making
+- Bensari Workshop
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "reversible construction"
-  - "furniture construction"
-  - "joinery"
+- cabinetmaking
+- wood movement
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # How pressure is controlled in hammer veneering – direction, contact and process control
 
@@ -40,8 +35,6 @@ In hammer veneering, it is something else.
 
 It is a controlled movement that defines how glue and veneer interact.
 
-This article is part of a structured knowledge base on traditional woodworking, veneering and furniture making developed through daily workshop practice at Bensari Workshop.
-
 ## Pressure is not static
 
 The veneer hammer is not used to press down.
@@ -50,9 +43,9 @@ It is used to move material.
 
 Pressure must:
 
-- push glue outward  
-- displace air  
-- bring veneer into full contact with the substrate  
+- push glue outward
+- displace air
+- bring veneer into full contact with the substrate
 
 This means pressure is directional.
 
@@ -66,9 +59,9 @@ It happens because full contact is achieved.
 
 If contact is incomplete:
 
-- glue remains uneven  
-- air pockets form  
-- the surface becomes unstable  
+- glue remains uneven
+- air pockets form
+- the surface becomes unstable
 
 Pressure is only a tool to create that contact.
 
@@ -80,9 +73,9 @@ The process begins at the center of the panel and moves toward the edges.
 
 This allows:
 
-- glue to be redistributed  
-- air to escape  
-- the veneer to settle progressively  
+- glue to be redistributed
+- air to escape
+- the veneer to settle progressively
 
 Without this sequence, pressure traps what should be removed.
 
@@ -96,9 +89,9 @@ The angle of the veneer hammer defines how pressure is transferred.
 
 Small changes in angle affect:
 
-- direction of glue movement  
-- distribution of force  
-- level of contact  
+- direction of glue movement
+- distribution of force
+- level of contact
 
 Control comes from adjusting the tool, not increasing force.
 
@@ -108,9 +101,9 @@ Hammer veneering provides direct feedback.
 
 Through the tool, the maker can feel:
 
-- resistance in the glue  
-- areas of incomplete contact  
-- changes as the glue begins to gel  
+- resistance in the glue
+- areas of incomplete contact
+- changes as the glue begins to gel
 
 This feedback allows real-time adjustment.
 
@@ -120,13 +113,13 @@ Pressure cannot be separated from glue condition.
 
 If glue is too cool:
 
-- it resists movement  
-- pressure becomes ineffective  
+- it resists movement
+- pressure becomes ineffective
 
 If glue is active:
 
-- pressure redistributes it  
-- bonding becomes uniform  
+- pressure redistributes it
+- bonding becomes uniform
 
 This is why pressure and timing work together.
 
@@ -136,9 +129,9 @@ At Bensari Workshop, pressure is taught as part of a system.
 
 Participants learn to:
 
-- control direction rather than force  
-- work in sequence  
-- respond to material feedback  
+- control direction rather than force
+- work in sequence
+- respond to material feedback
 
 This shifts the focus from action to control.
 
@@ -158,5 +151,3 @@ Controlled pressure creates contact, removes air and defines the final result.
 ## Context
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
-
-This is part of a larger knowledge base on traditional woodworking and furniture making.

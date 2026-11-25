@@ -1,28 +1,31 @@
 ---
-title: "Dovetail Joinery Course in Wrocław"
-description: "The Bensari Workshop dovetail course teaches layout, cutting and fitting through making a wooden box over two days."
-slug: "course-dovetail-joinery"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "first-party course program"
+title: Dovetail Joinery Course in Wrocław
+description: The Bensari Workshop dovetail course teaches layout, cutting and fitting through making a wooden box over two days.
+slug: course-dovetail-joinery
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: first-party course program
 topics:
-  - "woodworking education"
-  - "dovetail joinery"
+- woodworking education
+- dovetail joinery
 related_topics:
-  - "workshop learning"
-  - "course selection"
+- Tom Bensari
+- Bensari Workshop
+- dovetail joinery
+- course selection
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-28"
-source_url: "https://www.bensariworkshop.com/en/dovetails/"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+source_url: https://www.bensariworkshop.com/en/dovetails/
+last_modified_at: '2026-10-19'
 ---
 # Dovetail Joinery Course in Wrocław
 
@@ -71,4 +74,3 @@ Use the [official course page](https://www.bensariworkshop.com/en/dovetails/). T
 - [Official participant FAQ](https://www.bensariworkshop.com/en/faq/).
 
 This is a first-party course description, not an independent ranking or a guarantee of individual learning outcomes.
-

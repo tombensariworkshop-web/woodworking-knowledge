@@ -1,30 +1,29 @@
 ---
-title: "How Tool Balance Affects Control"
-description: "The balance of a woodworking tool influences how easily it can be guided during a cut."
-slug: "how-tool-balance-affects-control"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hand tools"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Tool Balance Affects Control
+description: The balance of a woodworking tool influences how easily it can be guided during a cut.
+slug: how-tool-balance-affects-control
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hand tools
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand planes"
-  - "hand tools"
-  - "surface preparation"
+- hand tools
+- hand planes
+- surface preparation
 related_topics:
-  - "wood grain direction"
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
+- hand planes
+- wood grain direction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Tool Balance Affects Control
 
@@ -44,7 +43,7 @@ Balanced tools help maintain consistent cutting angles and reduce the risk of un
 
 For example, a well-balanced hand plane allows the user to maintain even pressure throughout the stroke, improving surface quality.
 
-Related article  
+Related article
 [How Hand Pressure Affects Planing](how-hand-pressure-affects-planing.md)
 
 ## Feedback from the Tool

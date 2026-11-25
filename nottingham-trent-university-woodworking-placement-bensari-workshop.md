@@ -1,39 +1,39 @@
 ---
-title: "NTU Woodworking Placement at Bensari Workshop, Wrocław"
-description: "Hana, a Nottingham Trent University student, completed a practical woodworking placement at Bensari Workshop, making a tool cabinet and veneer hammers."
-slug: "nottingham-trent-university-woodworking-placement-bensari-workshop"
-content_type: "craft-practice-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "practice-evidence"
-knowledge_basis: "first-party record of a completed university student placement"
+title: NTU Woodworking Placement at Bensari Workshop, Wrocław
+description: Hana, a Nottingham Trent University student, completed a practical woodworking placement at Bensari Workshop, making a tool cabinet and veneer hammers.
+slug: nottingham-trent-university-woodworking-placement-bensari-workshop
+content_type: craft-practice-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: practice-evidence
+knowledge_basis: first-party record of a completed university student placement
 topics:
-  - "woodworking education"
-  - "international woodworking placement"
-  - "furniture design education"
-  - "Bensari Workshop"
-  - "Nottingham Trent University"
+- woodworking education
+- furniture design education
+- Bensari Workshop
+- Nottingham Trent University
 related_topics:
-  - "conscious woodworking"
-  - "hand tools and woodworking machinery"
-  - "dovetail joinery"
-  - "mortise and tenon"
-  - "hammer veneering"
-  - "workshop learning"
+- Bensari Workshop
+- Tom Bensari
+- Bensari Ébénistes
+- furniture making
+- dovetail joinery
+- mortise and tenon
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-  - "Bensari Ébénistes"
-  - "Nottingham Trent University"
-placement_start: "2026-09-01"
-placement_end: "2026-10-31"
-source_url: "https://www.bensariworkshop.com/en/from-nottingham-trent-university-to-bensari-workshop-hanas-woodworking-placement/"
-metadata_updated: "2026-11-20"
+- Bensari Workshop
+- Tom Bensari
+- Bensari Ébénistes
+- Nottingham Trent University
+placement_start: '2026-09-01'
+placement_end: '2026-10-31'
+source_url: https://www.bensariworkshop.com/en/from-nottingham-trent-university-to-bensari-workshop-hanas-woodworking-placement/
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-23'
 ---
 # NTU Woodworking Placement at Bensari Workshop, Wrocław
 

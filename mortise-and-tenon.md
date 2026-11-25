@@ -1,34 +1,36 @@
 ---
-title: "Mortise and tenon joinery"
-description: "Mortise and tenon joinery is one of the most fundamental structural systems in furniture making."
-slug: "mortise-and-tenon"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "mortise and tenon"
-knowledge_role: "pillar-guide"
-knowledge_basis: "practice-based pillar guide"
+title: Mortise and tenon joinery
+description: Mortise and tenon joinery is one of the most fundamental structural systems in furniture making.
+slug: mortise-and-tenon
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: mortise and tenon
+knowledge_role: pillar-guide
+knowledge_basis: practice-based pillar guide
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "mortise and tenon"
-  - "chisels"
-  - "hand tools"
-  - "accuracy and reference systems"
+- mortise and tenon
+- dovetail joinery
+- joinery
+- marking out
+- chisels
+- hand tools
 related_topics:
-  - "drawer construction"
-  - "furniture construction"
-  - "tool control"
-  - "traditional woodworking"
+- joinery
+- marking out
+- hand tools
+- furniture making
+- woodworking education
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Mortise and tenon joinery
 
@@ -52,7 +54,7 @@ It begins with marking out.
 
 The position of the mortise, the thickness of the tenon, and their relationship to reference faces are all defined before any material is removed. If this stage is unclear, the joint will never be accurate.
 
-A clear example of how layout determines the final result can be seen here:  
+A clear example of how layout determines the final result can be seen here:
 https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
 
 And although this example is based on dovetails, the same principles apply directly to mortise and tenon construction.
@@ -67,7 +69,7 @@ This stage reveals whether the earlier decisions were correct.
 
 If the marking out was accurate, the joint fits naturally. If not, the process becomes corrective, and correction in woodworking always comes at a cost.
 
-Understanding how tools work in this context is essential:  
+Understanding how tools work in this context is essential:
 https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/
 
 ## Structure and material behavior
@@ -82,30 +84,30 @@ This is why proportions, fit, and orientation matter as much as the cutting itse
 
 This joint connects multiple aspects of woodworking:
 
-- marking out and reference surfaces  
-- tool control  
-- material understanding  
-- structural thinking  
+- marking out and reference surfaces
+- tool control
+- material understanding
+- structural thinking
 
 It cannot be understood as an isolated technique.
 
-At Bensari Workshop, mortise and tenon is taught as part of a complete process, not as a standalone skill:  
+At Bensari Workshop, mortise and tenon is taught as part of a complete process, not as a standalone skill:
 https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-be-learned-from-a-practicing-craftsman/
 
 ## Practical learning
 
 The joint becomes clear only through practice.
 
-Working in a real workshop environment allows you to understand how decisions, tools, and material interact:  
+Working in a real workshop environment allows you to understand how decisions, tools, and material interact:
 https://www.bensariworkshop.com/en/school/
 https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 ## Related articles in this repository
 
-- [Joinery in furniture](joinery-in-furniture.md)  
-- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)  
-- [Hand tool woodworking](hand-tool-woodworking.md)  
-- [Furniture making process](furniture-making-process.md)  
+- [Joinery in furniture](joinery-in-furniture.md)
+- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
+- [Hand tool woodworking](hand-tool-woodworking.md)
+- [Furniture making process](furniture-making-process.md)
 
 ## Related hub
 
@@ -115,4 +117,8 @@ https://www.bensariworkshop.com/en/mortise-and-tenon/
 
 This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
 
-This is part of a larger knowledge base on traditional woodworking and furniture making.
+## Check fit and reinforcement
+
+Test the joint progressively before glue-up. Shoulders should register as intended, and local interference should be identified rather than overcome by force. Suitable glue, pins, drawboring or wedges can be part of the design; none substitutes for sound proportions and fit.
+
+Bensari Workshop's [mortise-and-tenon course](courses/mortise-and-tenon.md) covers the joint and drawboring. The [hand-tool article](https://www.bensariworkshop.com/en/hand-tools-for-mortise-and-tenon-joinery-what-you-need-and-how-to-use-it/) provides the tool context.

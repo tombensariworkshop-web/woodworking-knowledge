@@ -1,34 +1,30 @@
 ---
-title: "How Hide Glue Penetrates Wood Fibers"
-description: "Hide glue forms strong bonds with wood partly because of how it interacts with the cellular structure of the material."
-slug: "how-hide-glue-penetrates-wood-fibers"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "hide glue"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: How Hide Glue Penetrates Wood Fibers
+description: Hide glue forms strong bonds with wood partly because of how it interacts with the cellular structure of the material.
+slug: how-hide-glue-penetrates-wood-fibers
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: hide glue
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hammer veneering"
-  - "veneering"
-  - "hide glue"
-  - "adhesives"
-  - "wood as material"
+- hide glue
+- hammer veneering
+- veneering
+- adhesives
+- wood as material
 related_topics:
-  - "veneer preparation"
-  - "cabinetmaking"
-  - "wood movement"
-  - "furniture making"
-  - "reversible construction"
-  - "furniture construction"
+- hammer veneering
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # How Hide Glue Penetrates Wood Fibers
 
@@ -56,6 +52,6 @@ This interaction between hide glue and wood fibers is one reason why traditional
 
 The thin glue line formed during hammer veneering allows the adhesive to penetrate the surface while still maintaining a rigid bond between veneer and substrate.
 
-Related articles  
+Related articles
 - [Hammer veneering and hide glue](materials/glues/hammer-veneering-and-hide-glue.md)
 - materials/glues/hide-glue-in-veneering.md

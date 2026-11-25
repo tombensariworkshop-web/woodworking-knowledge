@@ -1,30 +1,27 @@
 ---
-title: "Story Sticks in Woodworking"
-description: "A story stick is a simple measuring tool used to transfer dimensions directly from one component to another."
-slug: "story-sticks-in-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "marking out"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Story Sticks in Woodworking
+description: A story stick is a simple measuring tool used to transfer dimensions directly from one component to another.
+slug: story-sticks-in-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: marking out
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "craftsmanship"
+- marking out
+- furniture making
 related_topics:
-  - "joinery"
-  - "hand tools"
-  - "material selection"
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-11-25'
 ---
 # Story Sticks in Woodworking
 
@@ -40,7 +37,7 @@ Repeated measurements can introduce small inaccuracies.
 
 A story stick allows the woodworker to transfer dimensions directly, maintaining consistency between components.
 
-Related article  
+Related article
 [Measuring and marking in woodworking](measuring-and-marking-in-woodworking.md)
 
 ## Applications in Furniture Making
@@ -49,8 +46,8 @@ Story sticks are commonly used when building cabinets, drawers and other furnitu
 
 Because the same stick is used throughout the project, measurements remain consistent.
 
-Related article  
-[Why accurate layout matters in woodworking](why-accurate-layout-matters-in-woodworking.md)
+Related article
+[Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 
 ## Story Sticks and Craft Practice
 

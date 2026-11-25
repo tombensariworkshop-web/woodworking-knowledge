@@ -1,32 +1,28 @@
 ---
-title: "What is Hardwood"
-description: "Hardwood refers to wood that comes from deciduous trees such as oak, walnut, maple or cherry."
-slug: "what-is-hardwood"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "wood as material"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: What is Hardwood
+description: Hardwood refers to wood that comes from deciduous trees such as oak, walnut, maple or cherry.
+slug: what-is-hardwood
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: wood as material
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "hand tools"
-  - "wood as material"
-  - "furniture making"
+- wood as material
+- hand tools
+- furniture making
 related_topics:
-  - "tool control"
-  - "marking out"
-  - "traditional woodworking"
-  - "wood movement"
-  - "moisture content"
-  - "grain direction"
+- traditional woodworking
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # What is Hardwood
 

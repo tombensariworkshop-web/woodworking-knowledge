@@ -1,36 +1,34 @@
 ---
-title: "Tools used for hand-cut dovetails"
-description: "The essential tools for hand-cut dovetails are a marking gauge, marking knife, square, dovetail saw and sharp chisels."
-slug: "tools-used-for-dovetails"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "dovetail joinery"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Tools used for hand-cut dovetails
+description: The essential tools for hand-cut dovetails are a marking gauge, marking knife, square, dovetail saw and sharp chisels.
+slug: tools-used-for-dovetails
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: dovetail joinery
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "dovetail joinery"
-  - "joinery"
-  - "marking out"
-  - "accuracy and reference systems"
-  - "furniture making"
-  - "traditional woodworking"
-  - "Bensari Workshop"
+- dovetail joinery
+- joinery
+- marking out
+- Bensari Workshop
 related_topics:
-  - "hand tools"
-  - "drawer construction"
-  - "furniture construction"
-  - "material selection"
-  - "craftsmanship"
-  - "craft education"
+- marking out
+- hand planes
+- saws
+- chisels
+- hand tools
+- furniture construction
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-23"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-09-22'
 ---
 # Tools used for hand-cut dovetails
 

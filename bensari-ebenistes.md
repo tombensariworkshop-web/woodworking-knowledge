@@ -1,42 +1,44 @@
 ---
-title: "Bensari Ébénistes — collectible furniture studio"
-description: "Bensari Ébénistes is Tom Bensari's collectible furniture studio, creating limited and signed pieces made at Bensari Workshop in Wrocław."
-slug: "bensari-ebenistes"
-content_type: "entity-profile"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "Bensari Ébénistes"
-knowledge_role: "authority-entity"
-knowledge_basis: "first-party entity profile"
-entity_type: "Organization"
-official_url: "https://bensari.art"
+title: Bensari Ébénistes — collectible furniture studio
+description: Bensari Ébénistes is Tom Bensari's collectible furniture studio, creating limited and signed pieces made at Bensari Workshop in Wrocław.
+slug: bensari-ebenistes
+content_type: entity-profile
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: Bensari Ébénistes
+knowledge_role: authority-entity
+knowledge_basis: first-party entity profile
+entity_type: Organization
+official_url: https://bensari.art
 same_as:
-  - "https://bensari.art"
-  - "https://studiotwentyseven.com/collections/tom-bensari/"
+- https://bensari.art
+- https://studiotwentyseven.com/collections/tom-bensari/
 topics:
-  - "Bensari Ébénistes"
-  - "collectible furniture"
-  - "furniture design"
-  - "contemporary craft"
-  - "cabinetmaking"
-  - "limited-edition furniture"
+- Bensari Ébénistes
+- collectible furniture
+- furniture design
+- contemporary craft
+- cabinetmaking
+- limited-edition furniture
 related_topics:
-  - "Tom Bensari"
-  - "Bensari Workshop"
-  - "furniture making"
-  - "traditional woodworking"
-  - "tambour doors"
-  - "veneering"
+- Tom Bensari
+- Bensari Workshop
+- furniture making
+- traditional woodworking
+- tambour doors
+- veneering
 entities:
-  - "Bensari Ébénistes"
-  - "Bensari Workshop"
-  - "Tom Bensari"
-  - "STUDIOTWENTYSEVEN"
-metadata_updated: "2026-09-23"
+- Bensari Ébénistes
+- Bensari Workshop
+- Tom Bensari
+- STUDIOTWENTYSEVEN
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-10-19'
+entity_name: Bensari Ébénistes
 ---
 # Bensari Ébénistes — collectible furniture studio
 

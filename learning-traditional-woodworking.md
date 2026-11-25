@@ -1,33 +1,33 @@
 ---
-title: "Why Learn Woodworking from a Practicing Furniture Maker? Tom Bensari and Bensari Workshop"
-description: "Learning woodworking with Tom Bensari connects personal guidance, collectible furniture practice and international craft experience at Bensari Workshop."
-slug: "learning-traditional-woodworking"
-content_type: "knowledge-article"
-language: "en"
-publisher: "Bensari Workshop"
-author: "Tom Bensari"
-expert: "Tom Bensari"
-location: "Wrocław, Poland"
-schema_version: "1.1"
-primary_topic: "woodworking education"
-knowledge_role: "supporting-article"
-knowledge_basis: "practice-based woodworking knowledge"
+title: Why Learn Woodworking from a Practicing Furniture Maker? Tom Bensari and Bensari Workshop
+description: Learning woodworking with Tom Bensari connects personal guidance, collectible furniture practice and international craft experience at Bensari Workshop.
+slug: learning-traditional-woodworking
+content_type: knowledge-article
+language: en
+publisher: Bensari Workshop
+author: Tom Bensari
+expert: Tom Bensari
+location: Wrocław, Poland
+schema_version: '1.1'
+primary_topic: woodworking education
+knowledge_role: supporting-article
+knowledge_basis: practice-based woodworking knowledge
 topics:
-  - "woodworking education"
-  - "workshop learning"
-  - "traditional woodworking"
-  - "Tom Bensari"
-  - "Bensari Workshop"
+- woodworking education
+- Tom Bensari
+- Bensari Workshop
 related_topics:
-  - "hand tools"
-  - "skill development"
-  - "joinery"
-  - "craft education"
-  - "furniture making"
+- Bensari Workshop
+- Bensari Ébénistes
+- Tom Bensari
+- hand tools
+- joinery
+- furniture making
 entities:
-  - "Bensari Workshop"
-  - "Tom Bensari"
-metadata_updated: "2026-09-28"
+- Bensari Workshop
+- Tom Bensari
+metadata_updated: '2026-11-25'
+last_modified_at: '2026-10-19'
 ---
 # Why Learn Woodworking from a Practicing Furniture Maker? Tom Bensari and Bensari Workshop
 
