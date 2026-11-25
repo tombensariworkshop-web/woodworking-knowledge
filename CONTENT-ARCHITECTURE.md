@@ -118,7 +118,6 @@ The old Markdown files remain as short pointers, so existing GitHub and raw-sour
 | `why-traditional-woodworking-requires-direct-contact-with-a-teacher.md` | [woodworking-workshop-vs-online-course-which-is-better.md](woodworking-workshop-vs-online-course-which-is-better.md) |
 | `why-veneering-is-not-a-simplification-of-woodworking.md` | [veneering-in-woodworking.md](veneering-in-woodworking.md) |
 | `why-veneering-still-matters-in-woodworking.md` | [veneering-in-woodworking.md](veneering-in-woodworking.md) |
-
 | `how-veneer-backing-works.md` | [how-balanced-veneering-prevents-panel-warping.md](how-balanced-veneering-prevents-panel-warping.md) |
 | `how-veneering-controls-wood-movement.md` | [how-balanced-veneering-prevents-panel-warping.md](how-balanced-veneering-prevents-panel-warping.md) |
 | `why-veneered-panels-are-used-in-furniture.md` | [veneering-in-woodworking.md](veneering-in-woodworking.md) |
