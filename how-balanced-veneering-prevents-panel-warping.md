@@ -41,8 +41,6 @@ A balancing veneer need not have the decorative grade of the face, but its physi
 
 Wood veneer is a common option in cabinetmaking. Some engineered panel systems use other compatible backers. For example, [FormWood documents resin-impregnated stabilizing backers](https://www.formwood.com/stabilizing-veneer-backers/) for suitable composite panels. The correct specification belongs to the complete system, not a universal rule that every panel must have the same two veneers.
 
-Columbia Forest Products' [panel specification](https://www.columbiaforestproducts.com/app/uploads/2021/04/656-PureBond-FSC-3-PART-Spec-Sheet-Rev-4-21.pdf) describes same-species faces and backs as typical while allowing compatible species combinations subject to technical review. A backer's suitability should be established for the intended construction.
-
 ## The core still matters
 
 A sound layup cannot correct an unsuitable or distorted substrate. Plywood, MDF, particleboard and solid-timber cores have different properties. Select the core for the component's load, dimensions, intended environment and detailing.
