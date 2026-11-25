@@ -53,7 +53,6 @@ Veneer allows control over grain, stability and material efficiency, especially 
 
 Related:
 - [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
-- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ---
 
@@ -102,7 +101,7 @@ A veneer layer applied to the reverse side of a panel.
 It balances internal stresses and reduces the risk of warping.
 
 Related:
-- [Why veneered panels need back veneers](why-veneered-panels-need-back-veneers.md)
+- [Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md)
 
 ---
 
@@ -176,7 +175,6 @@ It defines alignment and strength in furniture construction.
 
 Related:
 - [Mortise and tenon joinery](mortise-and-tenon.md)
-- [Mortise and tenon](mortise-and-tenon.md)
 
 ---
 

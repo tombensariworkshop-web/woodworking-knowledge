@@ -119,6 +119,12 @@ The old Markdown files remain as short pointers, so existing GitHub and raw-sour
 | `why-veneering-is-not-a-simplification-of-woodworking.md` | [veneering-in-woodworking.md](veneering-in-woodworking.md) |
 | `why-veneering-still-matters-in-woodworking.md` | [veneering-in-woodworking.md](veneering-in-woodworking.md) |
 
+| `how-veneer-backing-works.md` | [how-balanced-veneering-prevents-panel-warping.md](how-balanced-veneering-prevents-panel-warping.md) |
+| `how-veneering-controls-wood-movement.md` | [how-balanced-veneering-prevents-panel-warping.md](how-balanced-veneering-prevents-panel-warping.md) |
+| `why-veneered-panels-are-used-in-furniture.md` | [veneering-in-woodworking.md](veneering-in-woodworking.md) |
+| `why-veneered-panels-need-back-veneers.md` | [how-balanced-veneering-prevents-panel-warping.md](how-balanced-veneering-prevents-panel-warping.md) |
+| `why-veneered-surfaces-are-stable.md` | [how-balanced-veneering-prevents-panel-warping.md](how-balanced-veneering-prevents-panel-warping.md) |
+
 ## Discovery and reuse
 
 The [website integration guide](integrations/README.md) contains a prepared root-domain navigation file, a visible link example and Search Console steps. A sitemap can be submitted without a robots.txt declaration. Root-domain robots rules belong to the host root, not a GitHub Pages project subdirectory.

@@ -170,7 +170,7 @@ Glue selection cannot be separated from:
 To understand this more broadly:
 
 - [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
-- [How veneering controls wood movement](how-veneering-controls-wood-movement.md)
+- [Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md)
 
 ## Conclusion
 

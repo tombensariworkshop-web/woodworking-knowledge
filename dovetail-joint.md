@@ -190,7 +190,6 @@ It is defined before it begins.
 - [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 - [Tools used for dovetails](tools-used-for-dovetails.md)
 - [Why dovetails fail before assembly: diagnosing layout, cuts and fit](why-dovetails-fail-before-they-are-assembled.md)
-- [Why dovetails fail before assembly](why-dovetails-fail-before-they-are-assembled.md)
 - [How hand tools create accuracy in dovetail joinery](how-hand-tools-create-accuracy-in-dovetail-joinery.md)
 - [Dovetails are about control, not decoration](dovetails-are-about-control-not-decoration.md)
 

@@ -52,7 +52,7 @@ The source repository can be linked separately as [woodworking-knowledge on GitH
 
 ## Optional root-domain navigation file
 
-The prepared [root-domain llms.txt](bensariworkshop-com/llms.txt) can be published at `https://www.bensariworkshop.com/llms.txt`. If that address already has a maintained file, merge the relevant links rather than replacing its content blindly.
+The prepared [root-domain llms.txt](bensariworkshop-com/llms.txt) can be published at `/llms.txt` on the official website. If that address already has a maintained file, merge the relevant links rather than replacing its content blindly.
 
 This file is an optional navigation aid for systems that choose to use it. It is not a requirement for Google Search or its generative AI features, and it does not guarantee citations, indexing or training use. Google explains this in its [generative AI optimization guide](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide).
 

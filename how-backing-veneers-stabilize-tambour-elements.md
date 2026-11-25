@@ -82,8 +82,7 @@ This reduces internal stress and stabilizes the element.
 
 Learn more:
 
-- [What is a backing veneer](how-veneer-backing-works.md)
-- [How veneer backing works](how-veneer-backing-works.md)
+- [Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md)
 
 ## Thin elements, amplified effects
 
@@ -134,7 +133,7 @@ It is a method of controlling material behavior, especially in elements where pr
 
 To understand this more broadly:
 
-- [Why veneered surfaces are stable](why-veneered-surfaces-are-stable.md)
+- [Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md)
 - [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Conclusion

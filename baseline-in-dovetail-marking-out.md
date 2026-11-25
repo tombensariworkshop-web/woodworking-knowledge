@@ -114,7 +114,6 @@ https://www.bensariworkshop.com/en/learning-traditional-woodworking-why-it-must-
 
 - [Dovetail marking out practice and geometry](dovetail-marking-out-practice-and-geometry.md)
 - [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
-- [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
 
 ## Related hub
 

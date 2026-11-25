@@ -51,7 +51,6 @@ Supporting pages:
 - [Dovetail joint](dovetail-joint.md)
 - [Dovetail knowledge map](dovetail-knowledge-map.md)
 - [Dovetail marking out – practice, geometry and control](dovetail-marking-out-practice-and-geometry.md)
-- [Dovetail marking out: practice and geometry](dovetail-marking-out-practice-and-geometry.md)
 - [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)
 - [How to mark dovetail tails step by step](how-to-mark-dovetail-tails-step-by-step-hand-tools.md)
 - [How to saw dovetail tails correctly](how-to-saw-dovetail-tails-correctly.md)
@@ -124,7 +123,6 @@ Supporting pages:
 - [Choosing glue for veneering and lamination](choosing-glue-for-veneering-and-lamination-control-creep-and-long-term-stability.md)
 - [Why PVA glues behave differently than hide glue](why-pva-glues-behave-differently-than-hide-glue.md)
 - [How balanced veneering prevents panel warping](how-balanced-veneering-prevents-panel-warping.md)
-- [Why veneered surfaces are stable](why-veneered-surfaces-are-stable.md)
 - [Woodworking veneering glossary](woodworking-veneering-glossary.md)
 
 ## 7. Tambour doors

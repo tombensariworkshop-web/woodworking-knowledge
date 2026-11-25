@@ -66,7 +66,7 @@ These grooves help hide glue adhere more effectively and reduce the risk of vene
 Preparing the surface with a toothing plane is a common step in traditional cabinetmaking when using hot hide glue.
 
 Related articles
-- [How Veneering Controls Wood Movement](how-veneering-controls-wood-movement.md)
+- [Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md)
 
 ## Glue Pot
 

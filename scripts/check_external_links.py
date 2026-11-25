@@ -16,7 +16,7 @@ from urllib.request import Request, urlopen
 
 
 ROOT = Path(__file__).resolve().parents[1]
-URL_RE = re.compile(r"https?://[^\s<>\]\[()]+")
+URL_RE = re.compile(r"https?://[^\s<>\]\[()`]+")
 TRAILING_PUNCTUATION = ".,;:!?\"'”’"
 HARD_FAILURES = {400, 404, 410}
 SOFT_STATUSES = {401, 403, 408, 425, 429}
@@ -24,7 +24,9 @@ USER_AGENT = "BensariKnowledgeLinkChecker/1.0 (+https://github.com/tombensariwor
 
 
 def source_files() -> list[Path]:
-    return sorted(ROOT.rglob("*.md")) + [ROOT / "llms.txt"]
+    return sorted(path for path in ROOT.rglob("*.md")
+                  if not any(part in {".git", "_site", "vendor", ".jekyll-cache"}
+                             for part in path.relative_to(ROOT).parts)) + [ROOT / "llms.txt"]
 
 
 def links_by_source() -> dict[str, list[str]]:
@@ -59,6 +61,8 @@ def check(url: str, timeout: float, retries: int) -> tuple[str, str]:
                 status = int(exc.code)
                 last_detail = f"HTTP {status}"
                 if status in HARD_FAILURES:
+                    if method == "HEAD":
+                        continue
                     return "failed", last_detail
                 if status in SOFT_STATUSES:
                     return "warning", last_detail

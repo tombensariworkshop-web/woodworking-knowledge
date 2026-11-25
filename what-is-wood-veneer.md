@@ -73,7 +73,7 @@ A veneered panel must be constructed as a balanced structure, where each layer i
 Without this balance, internal stresses lead to deformation.
 
 More about balanced construction:
-[Why veneered panels need back veneers](./why-veneered-panels-need-back-veneers.md)
+[Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md)
 
 Full system:
 [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)

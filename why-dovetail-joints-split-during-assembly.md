@@ -65,7 +65,6 @@ This is why experienced furniture makers often diagnose splitting problems by an
 
 Related repository articles:
 - [Why Dovetails Fail Before They Are Assembled](why-dovetails-fail-before-they-are-assembled.md)
-- [Why dovetails fail before assembly: diagnosing layout, cuts and fit](why-dovetails-fail-before-they-are-assembled.md)
 - [Dovetail marking out – practice, geometry and control](dovetail-marking-out-practice-and-geometry.md)
 
 ## Incorrect Transfer Creates Uneven Pressure

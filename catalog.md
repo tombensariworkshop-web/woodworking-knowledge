@@ -72,7 +72,7 @@ This catalog lists the maintained pages in the repository. Consolidated aliases 
 - [Dovetail Joinery in Furniture Making – Structure, Not Detail](dovetail-joint.md) — Dovetail joints mechanically lock two boards together and are used where furniture must resist pulling forces over time.
 - [Dovetail Joinery Knowledge Map](dovetail-knowledge-map.md) — They are a sequence of connected decisions involving: layout, reference geometry, saw control, chisel work, body mechanics, and concentration.
 - [Dovetail joinery: a practical guide to layout, sawing, waste removal, and fit](dovetail-joinery-guide.md) — A dovetail is a mechanically interlocking joint used most often in drawers, boxes and casework.
-- [Dovetail marking out – practice, geometry and control](dovetail-marking-out-practice-and-geometry.md) — When people struggle with dovetails, they usually look at the saw.
+- [Dovetail marking out: baseline, spacing and reference geometry](dovetail-marking-out-practice-and-geometry.md) — Lay out hand-cut dovetails by transferring board thickness, choosing tail spacing, identifying references and preserving the geometry through transfer.
 - [Dovetails Are About Control, Not Decoration](dovetails-are-about-control-not-decoration.md) — Many people associate dovetails primarily with appearance.
 - [How Hand Tools Create Accuracy in Dovetail Joinery](how-hand-tools-create-accuracy-in-dovetail-joinery.md) — Many beginners assume that accuracy in woodworking comes primarily from machines.
 - [How to cut dovetail waste without damaging the line](how-to-cut-dovetail-waste-without-damaging-the-line.md) — Removing waste is one of the most delicate stages in dovetail work. The goal is not speed, but preserving the layout lines that define the joint.
@@ -129,7 +129,7 @@ This catalog lists the maintained pages in the repository. Consolidated aliases 
 - [How air bubbles are avoided in hammer veneering – pressure, glue and sequence](how-air-bubbles-are-avoided-in-hammer-veneering.md) — Air bubbles are one of the most common problems in veneering.
 - [How glue is forced out during hammer veneering – flow, pressure and material interaction](how-glue-is-forced-out-during-hammer-veneering.md) — In hammer veneering, glue is not only used to bond veneer to the substrate.
 - [How glue temperature affects hammer veneering – working time, flow and control](how-glue-temperature-affects-hammer-veneering.md) — Hot hide glue behaves differently at each stage of temperature.
-- [How hammer veneering is taught in woodworking workshops – observation, feedback and control](how-hammer-veneering-is-taught-in-workshops.md) — Hammer veneering cannot be learned as a sequence of steps.
+- [How hammer veneering is taught in woodworking workshops – observation, feedback and control](how-hammer-veneering-is-taught-in-workshops.md) — Hammer-veneering teaching combines a clear working sequence with observation of veneer, hot hide glue, pressure and bonding feedback.
 - [How Hammer Veneering Works on Large Panels](how-hammer-veneering-works-on-large-panels.md) — Hammer veneering can be used on both small components and large panels.
 - [How pressure is controlled in hammer veneering – direction, contact and process control](how-pressure-is-controlled-in-hammer-veneering.md) — It is a controlled movement that defines how glue and veneer interact.
 - [How Veneer Moisture Affects Hammer Veneering](how-veneer-moisture-affects-hammer-veneering.md) — The moisture content of veneer plays an important role in hammer veneering.
@@ -271,7 +271,7 @@ This catalog lists the maintained pages in the repository. Consolidated aliases 
 
 ## veneering
 
-- [How balanced veneering prevents panel warping – symmetry, stress and material control](how-balanced-veneering-prevents-panel-warping.md) — Balanced veneering applies veneer to both faces of a panel so that moisture, glue shrinkage and later environmental changes act more symmetrically.
+- [Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md) — How balancing veneers and compatible backers reduce panel-warping risk, and why core, moisture, adhesive and construction still matter.
 - [How does veneering connect historical and contemporary furniture making?](how-veneering-links-historical-and-contemporary-furniture-making.md) — How veneering connects historical cabinetmaking knowledge with contemporary furniture structure, material use and design.
 - [How Panel Cores Affect Veneered Surfaces](how-panel-cores-affect-veneered-surfaces.md) — In veneered furniture construction, the substrate or core of the panel plays an important role in determining how the finished surface behaves.
 - [How to Fix Veneer Bubbles](how-to-fix-veneer-bubbles.md) — Veneer bubbles appear when a section of veneer lifts away from the substrate and traps air beneath the surface.
@@ -282,9 +282,7 @@ This catalog lists the maintained pages in the repository. Consolidated aliases 
 - [How to Trim Veneer Edges Cleanly](how-to-trim-veneer-edges-cleanly.md) — After veneer has been glued to a panel, the edges of the veneer usually extend beyond the substrate.
 - [How Traditional Veneering Connects Design and Craft](how-traditional-veneering-connects-design-and-craft.md) — Veneering sits at the intersection of design and craftsmanship.
 - [How Traditional Veneering Techniques Are Preserved](how-traditional-veneering-techniques-are-preserved.md) — Many traditional woodworking techniques survive through workshop practice.
-- [How Veneer Backing Works](how-veneer-backing-works.md) — In veneered furniture construction, the visible veneer surface is often accompanied by a backing veneer on the opposite side of the panel.
 - [How Veneer Seams Are Aligned](how-veneer-seams-are-aligned.md) — When multiple veneer sheets are used on a single panel, the seams between sheets must be aligned carefully.
-- [How Veneering Controls Wood Movement](how-veneering-controls-wood-movement.md) — One of the important functions of veneering is controlling the dimensional movement of wood.
 - [The history of veneering in furniture making – continuity of technique and material control](history-of-veneering.md) — Veneering is often described as one of the oldest techniques in furniture making.
 - [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md) — Veneering for furniture: choosing a substrate and adhesive, balancing panels, arranging grain and preparing a reliable bonding sequence.
 - [What is Bookmatching in Veneering](what-is-bookmatching-in-veneering.md) — Bookmatching is a veneering technique in which two consecutive sheets of veneer are opened like the pages of a book and placed side by side.
@@ -293,9 +291,6 @@ This catalog lists the maintained pages in the repository. Consolidated aliases 
 - [Why traditional veneering techniques still matter – control, reversibility and material behavior](why-traditional-veneering-techniques-still-matter.md) — Traditional veneering techniques are often described as part of historical cabinetmaking.
 - [Why veneer is cut slightly oversized – positioning, movement and control](why-veneer-is-cut-slightly-oversized.md) — In traditional veneering, veneer sheets are cut slightly larger than the final dimensions of the panel.
 - [Why veneer layout matters in veneering – composition, structure and control](why-veneer-layout-matters-in-veneering.md) — Before veneering begins, the sheets must be arranged.
-- [Why veneered panels are used in furniture – stability, composition and structural control](why-veneered-panels-are-used-in-furniture.md) — Veneered panels have been widely used in furniture making for centuries.
-- [Why veneered panels need back veneers – balance, stress and structural stability](why-veneered-panels-need-back-veneers.md) — Back veneers balance moisture and stress across a panel, reducing the risk of cupping, bowing and long-term distortion.
-- [Why veneered surfaces are stable – structure, balance and material control](why-veneered-surfaces-are-stable.md) — Veneered panels are often more stable than comparable surfaces made from solid wood.
 - [Woodworking and veneering glossary – terms, structure and practical context](woodworking-veneering-glossary.md) — This glossary explains key terms used in traditional woodworking, cabinetmaking and veneering.
 
 ## wood as material

@@ -108,7 +108,6 @@ Related articles:
 Related articles:
 - [Chiseling the Baseline in Hand-Cut Dovetails: Chisel Selection and Technique](how-to-chisel-dovetail-baselines-and-clean-tails.md)
 - [Why dovetails fail before assembly: diagnosing layout, cuts and fit](why-dovetails-fail-before-they-are-assembled.md)
-- [Why Dovetails Fail Before They Are Assembled](why-dovetails-fail-before-they-are-assembled.md)
 
 Related articles on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/

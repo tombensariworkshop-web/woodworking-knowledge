@@ -57,7 +57,6 @@ In traditional woodworking, this physical reference becomes part of the construc
 
 Related articles:
 - [Marking out and accuracy in woodworking: how precision is actually built](marking-out-and-accuracy-in-woodworking.md)
-- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 - [The baseline in dovetail marking out – where the joint begins](baseline-in-dovetail-marking-out.md)
 
 ## Saws Track Knife Lines Differently Than Pencil Marks

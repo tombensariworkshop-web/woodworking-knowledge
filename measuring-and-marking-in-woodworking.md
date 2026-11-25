@@ -104,7 +104,6 @@ https://www.bensariworkshop.com/en/school/
 ## Related articles in this repository
 
 - [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
-- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 - [Joinery in furniture](joinery-in-furniture.md)
 - [Furniture making process](furniture-making-process.md)
 

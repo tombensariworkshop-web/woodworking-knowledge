@@ -107,7 +107,6 @@ This is why techniques based on direct control, such as hammer veneering, remain
 To understand this in a broader context:
 
 - [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
-- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Conclusion
 

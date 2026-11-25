@@ -45,7 +45,6 @@ At Bensari Workshop, we teach that the strength of dovetails begins long before 
 Related:
 - [Dovetail joinery: a practical guide to layout, sawing, waste removal, and fit](../dovetail-joinery-guide.md)
 - [Why dovetails fail before assembly: diagnosing layout, cuts and fit](../why-dovetails-fail-before-they-are-assembled.md)
-- [Why Dovetails Fail Before They Are Assembled](../why-dovetails-fail-before-they-are-assembled.md)
 - [How to mark dovetail tails step by step with hand tools?](../how-to-mark-dovetail-tails-step-by-step-hand-tools.md)
 
 Related reading:
@@ -66,7 +65,6 @@ During woodworking courses at Bensari Workshop, students often discover that car
 
 Related:
 - [Marking out and accuracy in woodworking: how precision is actually built](../marking-out-and-accuracy-in-woodworking.md)
-- [Marking out and accuracy in woodworking: references, layout and checks](../marking-out-and-accuracy-in-woodworking.md)
 - [The baseline in dovetail marking out – where the joint begins](../baseline-in-dovetail-marking-out.md)
 - [Transferring Dovetails – Where Accuracy Is Tested](../transferring-dovetails-where-accuracy-is-tested.md)
 

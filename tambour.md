@@ -83,7 +83,7 @@ The role of veneering and balanced construction is essential in this context:
 [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 The importance of balancing layers is explained in more detail here:
-[Why veneered panels need back veneers](./why-veneered-panels-need-back-veneers.md)
+[Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md)
 
 In tambour-specific applications:
 [How backing veneers stabilize tambour elements](./how-backing-veneers-stabilize-tambour-elements.md)

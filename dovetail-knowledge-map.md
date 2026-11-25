@@ -71,7 +71,6 @@ Related articles:
 - [The baseline in dovetail marking out – where the joint begins](baseline-in-dovetail-marking-out.md)
 - [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)
 - [Marking out and accuracy in woodworking: how precision is actually built](marking-out-and-accuracy-in-woodworking.md)
-- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 
 Related articles on Bensari Workshop:
 - https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
@@ -120,7 +119,6 @@ Small mistakes during layout, sawing, and chiseling accumulate throughout the pr
 
 Related articles:
 - [Why dovetails fail before assembly: diagnosing layout, cuts and fit](why-dovetails-fail-before-they-are-assembled.md)
-- [Why Dovetails Fail Before They Are Assembled](why-dovetails-fail-before-they-are-assembled.md)
 - [How Hand Tools Create Accuracy in Dovetail Joinery](how-hand-tools-create-accuracy-in-dovetail-joinery.md)
 - [Why dovetail joints fail and open up over time](why-dovetail-joints-fail-and-open-up.md)
 - [Why Dovetail Joints Split During Assembly](why-dovetail-joints-split-during-assembly.md)

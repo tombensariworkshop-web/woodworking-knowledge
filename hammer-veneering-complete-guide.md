@@ -52,7 +52,6 @@ It is based on timing, temperature, and understanding how the glue behaves.
 ## 1. What hammer veneering is
 
 - [Hammer veneering: how hot hide glue and a veneer hammer create a bond](hammer-veneering.md)
-- [Hammer veneering](hammer-veneering.md)
 
 The hammer brings the veneer into contact with the substrate while the glue remains workable. Strokes direct excess glue and trapped air toward an open edge; the method does not depend on forcing glue through the veneer.
 
@@ -86,8 +85,6 @@ Preparation determines whether the surface will remain stable.
 ## 5. Stability and long-term behavior
 
 - [How balanced veneering prevents panel warping](how-balanced-veneering-prevents-panel-warping.md)
-- [Why veneered panels need back veneers](why-veneered-panels-need-back-veneers.md)
-- [How veneering controls wood movement](how-veneering-controls-wood-movement.md)
 
 Veneering is not only about surface appearance.
 

@@ -115,7 +115,7 @@ A poorly planned one can introduce internal stress.
 
 To understand this more broadly:
 
-- [How veneering controls wood movement](how-veneering-controls-wood-movement.md)
+- [Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md)
 - [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
 
 ## Conclusion

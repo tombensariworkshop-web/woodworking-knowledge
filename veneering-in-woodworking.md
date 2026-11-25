@@ -71,7 +71,7 @@ Veneering brings several variables together in one operation. Thin material can 
 - [Preparing veneer](how-veneers-are-prepared-before-hammer-veneering.md)
 - [Aligning seams](how-veneer-seams-are-aligned.md)
 - [Why veneer is cut oversized](why-veneer-is-cut-slightly-oversized.md)
-- [Back veneers](why-veneered-panels-need-back-veneers.md)
+- [Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md)
 
 ## Repairability and limits
 

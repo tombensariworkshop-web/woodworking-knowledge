@@ -86,7 +86,6 @@ Conscious woodworking connects multiple aspects of the craft:
 
 ### Marking out and accuracy
 - [Marking out and accuracy in woodworking](marking-out-and-accuracy-in-woodworking.md)
-- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
 
 ### Tools and control
 - [Hand tool woodworking](hand-tool-woodworking.md)

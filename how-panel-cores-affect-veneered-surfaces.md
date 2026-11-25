@@ -25,7 +25,7 @@ entities:
 - Bensari Workshop
 - Tom Bensari
 metadata_updated: '2026-11-25'
-last_modified_at: '2026-09-22'
+last_modified_at: '2026-11-25'
 ---
 # How Panel Cores Affect Veneered Surfaces
 
@@ -58,5 +58,4 @@ In tambour doors produced in the workshop of Bensari Workshop for the brand Bens
 This approach helps ensure that the flexible structure of the tambour remains stable while preserving the visual quality of the veneered surface.
 
 Related articles
-- [How Veneer Backing Works](how-veneer-backing-works.md)
-- [Why veneered surfaces are stable – structure, balance and material control](why-veneered-surfaces-are-stable.md)
+- [Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md)

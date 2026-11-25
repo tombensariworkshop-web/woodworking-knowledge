@@ -2,7 +2,7 @@
 title: Why veneered panels are used in furniture – stability, composition and structural control
 description: Veneered panels have been widely used in furniture making for centuries.
 slug: why-veneered-panels-are-used-in-furniture
-content_type: knowledge-article
+content_type: redirect
 language: en
 publisher: Bensari Workshop
 author: Tom Bensari
@@ -10,136 +10,33 @@ expert: Tom Bensari
 location: Wrocław, Poland
 schema_version: '1.1'
 primary_topic: veneering
-knowledge_role: supporting-article
-knowledge_basis: practice-based woodworking knowledge
+knowledge_role: redirect
+knowledge_basis: consolidated article alias
 topics:
 - veneering
-- marking out
+- hammer veneering
+- hide glue
+- adhesives
 - wood as material
 - furniture making
-- Bensari Workshop
+- traditional woodworking
 related_topics:
-- wood movement
+- tambour doors
+- hammer veneering
+- adhesives
+- furniture making
+- woodworking education
+- cabinetmaking
 entities:
 - Bensari Workshop
 - Tom Bensari
 metadata_updated: '2026-11-25'
 last_modified_at: '2026-11-25'
+layout: redirect
+sitemap: false
+redirect_to: /veneering-in-woodworking.html
+consolidated_into: veneering-in-woodworking.md
 ---
 # Why veneered panels are used in furniture – stability, composition and structural control
 
-Veneered panels have been widely used in furniture making for centuries.
-
-At first glance, the reason seems simple.
-
-They allow decorative wood to be applied to large surfaces.
-
-In practice, the reason is structural.
-
-## Beyond appearance
-
-Veneer is often associated with visual effect.
-
-It allows:
-
-- complex grain patterns
-- symmetrical compositions
-- continuity across large surfaces
-
-But this is only one part of the equation.
-
-Veneered panels are used not only for appearance, but for control.
-
-## Stability through structure
-
-Solid wood moves.
-
-Wide boards expand and contract across the grain, which makes them difficult to use in large, flat surfaces.
-
-Veneered panels solve this problem.
-
-They combine:
-
-- a stable substrate
-- a thin decorative layer
-
-The substrate controls movement.
-
-The veneer defines the surface.
-
-Together, they create a system that is more stable than solid wood in many applications.
-
-Learn more:
-
-- [How veneering controls wood movement](how-veneering-controls-wood-movement.md)
-- [Why veneered surfaces are stable](why-veneered-surfaces-are-stable.md)
-
-## Control of composition
-
-Veneer allows the maker to design the surface in a way that is not possible with solid wood.
-
-Sheets can be:
-
-- mirrored
-- repeated
-- aligned
-- combined across elements
-
-This makes it possible to treat the surface as a composition, not only as a material.
-
-Explore:
-
-- [Why veneer layout matters in veneering](why-veneer-layout-matters-in-veneering.md)
-- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
-
-## Efficiency and material use
-
-Veneering also allows more efficient use of material.
-
-Highly figured wood can be used across large surfaces without requiring thick boards of the same quality.
-
-This is not only an economic consideration.
-
-It is also a way of working with material more deliberately.
-
-## Historical continuity
-
-The use of veneered panels is not a modern solution.
-
-It has been a standard practice in cabinetmaking for centuries.
-
-Large table tops, cabinet doors and architectural panels were veneered because this was the most reliable way to combine:
-
-- stability
-- visual richness
-- structural control
-
-This logic remains unchanged.
-
-## Veneering as a design decision
-
-Choosing veneered panels is not a compromise.
-
-It is a decision about how the object will behave.
-
-It defines:
-
-- how the surface is composed
-- how the structure reacts to changes
-- how stable the object remains over time
-
-To understand this more broadly:
-
-- [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md)
-
-## Conclusion
-
-Veneered panels are used not because they are easier.
-
-They are used because they allow control.
-
-They combine structure and surface into a single system that makes furniture more stable, more predictable and more deliberate.
-
-## Context
-
-This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
+This article has been consolidated into [Veneering in woodworking: substrates, balance and surface design](veneering-in-woodworking.md). The maintained article contains the explanation and related practical references.

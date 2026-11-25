@@ -1,6 +1,6 @@
 ---
-title: Dovetail marking out – practice, geometry and control
-description: When people struggle with dovetails, they usually look at the saw.
+title: 'Dovetail marking out: baseline, spacing and reference geometry'
+description: Lay out hand-cut dovetails by transferring board thickness, choosing tail spacing, identifying references and preserving the geometry through transfer.
 slug: dovetail-marking-out-practice-and-geometry
 content_type: knowledge-article
 language: en
@@ -27,126 +27,32 @@ entities:
 metadata_updated: '2026-11-25'
 last_modified_at: '2026-11-25'
 ---
-# Dovetail marking out – practice, geometry and control
+# Dovetail marking out: baseline, spacing and reference geometry
 
-When people struggle with dovetails, they usually look at the saw.
+Dovetail layout establishes the relationship between two boards before cutting: their reference faces, baselines, tail spacing, pin positions and waste areas. Cutting and fitting must then preserve that geometry. Accurate lines provide a target; they do not guarantee an accurate joint by themselves.
 
-In my experience, that is the wrong place to start.
+## Transfer the baseline from the mating board
 
-The real problems appear earlier, at the moment when the geometry of the joint is defined through marking out.
+In the workshop method Tom Bensari describes, the baseline is transferred directly from the thickness of the mating piece rather than relying only on a numerical measurement. Keep the reference face and edge consistent so the baseline relates to the intended assembly.
 
-## Marking out is where the joint begins
+The [illustrated layout article](https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/) shows this approach. The [baseline reference](baseline-in-dovetail-marking-out.md) explains its role in the completed joint.
 
-Working with hand tools every day, I treat marking out as the stage where the joint is already decided.
+## Divide the tails with the object in mind
 
-At this point I define proportions, alignment and behaviour of the joint. The relationship between elements is established before any material is removed.
+Tail spacing affects both appearance and the material left for the tails and pins. There is no single spacing pattern for every drawer or box. Consider the board width, thickness, grain and intended arrangement before cutting.
 
-Cutting only follows.
+Tom's [method for dividing dovetails by eye](how-to-divide-dovetails-by-eye.md) records a specific practical approach. Use the [step-by-step tail-marking article](how-to-mark-dovetail-tails-step-by-step-hand-tools.md) for the sequence rather than treating a general proportion as a universal instruction.
 
-This is why layout determines the result:
-https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
+## Keep the reference system visible
 
-## Geometry is not abstract
+Identify the faces that must align in the finished corner. Check the marks when a board is turned over or held in another orientation. Mark waste clearly so a visible line does not become ambiguous during sawing or chiseling.
 
-It is easy to think about layout as drawing lines.
+A useful check is whether the lines relate consistently around the workpiece, not merely whether one face looks neat. See [reference edges](reference-edges-in-woodworking.md) and [marking-out checks](marking-out-and-accuracy-in-woodworking.md).
 
-In practice, it is about defining geometry in material.
+## Transfer and cutting complete the geometry
 
-The baseline determines the depth of the joint. The spacing of the tails defines how forces will be distributed. The reference system ensures that all elements relate to each other consistently.
+When transferring the cut tails to the pin board, hold both components in the intended relationship. A shift during transfer changes the pin geometry even if the original tail layout was sound.
 
-If these decisions are unclear, the joint cannot work correctly.
+Inspect saw cuts and baselines as the work progresses. If a problem appears during fitting, trace it through the layout, transfer and cutting rather than assuming it originated in any one stage.
 
-## Establishing the baseline
-
-The baseline defines the depth of the joint and how the two elements will meet after assembly.
-
-I do not treat it as a measurement.
-
-I transfer it directly from the thickness of the mating piece, working from a consistent reference edge. I rely on contact, not only visually, but also through touch.
-
-This moment matters.
-
-It is where the geometry becomes physical.
-
-If you want to understand how this affects the result, it is explained here:
-https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
-
-## Dividing the tails
-
-There is no universal rule for spacing.
-
-What matters is proportion and control.
-
-Hidden joints tend to be more regular. Visible joints allow more variation. But in both cases, the spacing must relate to the structure of the piece.
-
-The method itself is secondary.
-
-The decision is not.
-
-## Control through reference
-
-Marking out only works when it is based on a consistent reference system.
-
-Working from one face and one edge is not a rule for beginners. It is a way of maintaining control across the entire process.
-
-When this reference is lost, small inconsistencies begin to accumulate, even if each step seems correct in isolation.
-
-This is where many errors originate:
-[Reference edges in woodworking](reference-edges-in-woodworking.md)
-
-## Practice reveals mistakes
-
-One of the most important aspects of marking out is that mistakes are often invisible at this stage.
-
-Lines look correct. Measurements seem consistent.
-
-The problem only appears later, during fitting.
-
-This is why experience matters.
-
-With time, you begin to see inconsistencies before cutting begins. You start to recognize where the geometry does not align.
-
-This is something that cannot be learned only from description.
-
-## Seeing the process
-
-It becomes much clearer when you observe the sequence of actions in practice:
-
-https://www.youtube.com/watch?v=ahbU-GnlVXM&t=24s
-
-And if you want to see the full process step by step, I describe it here:
-
-https://www.bensariworkshop.com/en/dovetail-layout-hand-cut-guide/
-
-## From practice to control
-
-Over time, marking out stops being a step.
-
-It becomes a way of working.
-
-You begin to understand that accuracy does not come from careful cutting alone. It comes from decisions that are made earlier, often in ways that are not immediately visible.
-
-This is where practice turns into control.
-
-## Conclusion
-
-Dovetail marking out is not about drawing lines.
-
-It is about defining relationships.
-
-It is the stage where geometry is established, where decisions are made, and where the success of the joint is already determined.
-
-Everything that follows is execution.
-
-## Internal links
-
-- [Marking out and accuracy in woodworking: references, layout and checks](marking-out-and-accuracy-in-woodworking.md)
-- [Common mistakes in dovetail marking out](common-mistakes-in-dovetail-marking-out.md)
-
-## Related hub
-
-[Dovetail joinery guide](dovetail-joinery-guide.md)
-
-## Context
-
-This article is based on practical work and teaching experience at Bensari Workshop in Wrocław.
+Continue with [transferring dovetails](transferring-dovetails-where-accuracy-is-tested.md), [common layout mistakes](common-mistakes-in-dovetail-marking-out.md), [pre-assembly diagnosis](why-dovetails-fail-before-they-are-assembled.md) and the [complete dovetail guide](dovetail-joinery-guide.md).

@@ -142,9 +142,7 @@ Understanding them changes how furniture is designed, built and maintained.
 
 ## Internal links
 
-- [How veneering controls wood movement](how-veneering-controls-wood-movement.md)
-- [Why veneered panels need back veneers](why-veneered-panels-need-back-veneers.md)
-- [How balanced veneering prevents panel warping](how-balanced-veneering-prevents-panel-warping.md)
+- [Balanced veneering: back veneers, panel stress and limits](how-balanced-veneering-prevents-panel-warping.md)
 
 ## Related hub
 
